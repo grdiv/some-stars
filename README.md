@@ -65,8 +65,6 @@
 
 *   [Yaepiii/SLAM\_Paper](https://github.com/Yaepiii/SLAM_Paper) - SLAM Paper that I have read and commented
 
-*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
-
 *   [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
 
 *   [KangchengLiu/deep-learning-localization-mapping](https://github.com/KangchengLiu/deep-learning-localization-mapping) - A collection of deep learning based localization models
@@ -1335,6 +1333,8 @@
 
 *   [AgoraIO/Basic-Video-Call](https://github.com/AgoraIO/Basic-Video-Call) - Sample app to join/leave a channel, mute/unmute, enable/disable the video, and switch between front/rear cameras.
 
+*   [tencentyun/TRTCSDK](https://github.com/tencentyun/TRTCSDK) - 腾讯云TRTC音视频服务，国内下载镜像：
+
 ## Python
 
 *   [weiningwei/arxiv-daily](https://github.com/weiningwei/arxiv-daily) -
@@ -1531,7 +1531,7 @@
 
 *   [PRBonn/dynamic-point-removal](https://github.com/PRBonn/dynamic-point-removal) - Static Map Generation from 3D LiDAR Point Clouds Exploiting Ground Segmentation
 
-*   [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
+*   [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - \[ECCV 2024] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
 
 *   [Tramac/awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch) - Semantic Segmentation on PyTorch (include FCN, PSPNet, Deeplabv3, Deeplabv3+, DANet, DenseASPP, BiSeNet, EncNet, DUNet, ICNet, ENet, OCNet, CCNet, PSANet, CGNet, ESPNet, LEDNet, DFANet)
 
