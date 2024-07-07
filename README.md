@@ -30,6 +30,7 @@
 *   [SCSS](#scss)
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
+*   [Vim Script](#vim-script)
 
 ## miscellaneous
 
@@ -348,8 +349,6 @@
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 *   [qxiaofan/awesome\_3d\_slam\_resources](https://github.com/qxiaofan/awesome_3d_slam_resources) - 记录3D视觉、VSLAM、计算机视觉的干货资料。
-
-*   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 
 *   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 
@@ -2492,3 +2491,7 @@
 *   [gene9831/AliyunDrivePotPlayer](https://github.com/gene9831/AliyunDrivePotPlayer) - PotPlayer 在线播放阿里云盘视频外链
 
 *   [fjqingyou/PotPlayer\_Subtitle\_Translate\_Baidu](https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu) - PotPlayer 字幕在线翻译插件 - 百度平台
+
+## Vim Script
+
+*   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
