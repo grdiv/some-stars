@@ -1,10 +1,9 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
-*   [HTML](#html)
-*   [JavaScript](#javascript)
 *   [C++](#c)
+*   [miscellaneous](#miscellaneous)
+*   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [TypeScript](#typescript)
 *   [CMake](#cmake)
@@ -17,6 +16,7 @@
 *   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
+*   [HTML](#html)
 *   [Shell](#shell)
 *   [C](#c-2)
 *   [AutoIt](#autoit)
@@ -33,6 +33,12 @@
 *   [Vim Script](#vim-script)
 
 ## Python
+
+*   [WHU-USI3DV/SGHR](https://github.com/WHU-USI3DV/SGHR) - \[CVPR 2023] Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting
+
+*   [umautobots/LONER](https://github.com/umautobots/LONER) - \[RA-L 2023 Best Paper] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
+
+*   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - Bag process and evalutaion tools for  SLAM research
 
 *   [X-LANCE/SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) - Speech, Language, Audio, Music Processing with Large Language Model
 
@@ -654,409 +660,15 @@
 
 *   [you359/Keras-FasterRCNN](https://github.com/you359/Keras-FasterRCNN) - keras implementation of Faster R-CNN
 
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-## miscellaneous
-
-*   [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
-
-*   [Grandzxw/awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system) - Recent multi-robot projects and papers: Including SLAM, place recognition, Large Language Models navigation. (continually updated)
-
-*   [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) - A curated list of neural network pruning resources.
-
-*   [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX
-
-*   [52CV/ECCV-2024-Papers](https://github.com/52CV/ECCV-2024-Papers) -
-
-*   [Es1erda/MFCalib](https://github.com/Es1erda/MFCalib) - Automatic Extrinsic Calibration for LiDAR and Camera in Targetless Environments Based on Multi-Feature Edge in One-shot
-
-*   [XuRobotics/slide-slam](https://github.com/XuRobotics/slide-slam) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Heterogeneous Robots
-
-*   [dhchung/nv\_lio](https://github.com/dhchung/nv_lio) - LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments
-
-*   [yuancaimaiyi/semantic-gaussians](https://github.com/yuancaimaiyi/semantic-gaussians) - Official implemetation of the paper "Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting".
-
-*   [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
-
-*   [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
-
-*   [LiZhengXiao99/Navigation-Dataset](https://github.com/LiZhengXiao99/Navigation-Dataset) - 整理导航定位建图相关开源数据，侧重于 GNSS/INS 和 GNSS/SLAM，不是很全面，GIthub 上刷到了就在这做个记录，需要啥数据了找起来方便。
-
-*   [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) -
-
-*   [52CV/ICCV-2023-Papers](https://github.com/52CV/ICCV-2023-Papers) -
-
-*   [weaiken/ebook](https://github.com/weaiken/ebook) - classic books of computer science!
-
-*   [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
-
-*   [MaybeQHL/my\_danmu\_pub](https://github.com/MaybeQHL/my_danmu_pub) - 免费、公开的弹幕系统API。
-
-*   [mwwzbinf/mwwz-shape-match](https://github.com/mwwzbinf/mwwz-shape-match) - Shape-based template matching algorithm
-
-*   [SeRM-dataset/dataset](https://github.com/SeRM-dataset/dataset) -
-
-*   [stu9113611/RLMD](https://github.com/stu9113611/RLMD) - RLMD: A Dataset for Road Line and Marking Segmentation (ICCE-TW 2023)
-
-*   [samirangode/awesome-SLAM-papers](https://github.com/samirangode/awesome-SLAM-papers) - List of SLAM papers I found useful.
-
-*   [Yaepiii/SLAM\_Paper](https://github.com/Yaepiii/SLAM_Paper) - SLAM Paper that I have read and commented
-
-*   [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
-
-*   [KangchengLiu/deep-learning-localization-mapping](https://github.com/KangchengLiu/deep-learning-localization-mapping) - A collection of deep learning based localization models
-
-*   [i2Nav-WHU/awesome-gins-datasets](https://github.com/i2Nav-WHU/awesome-gins-datasets) - An awesome vehicle dataset for GNSS/INS integration applications
-
-*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
-
-*   [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
-
-*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms
-
-*   [yuancaimaiyi/pybind11\_pixelmatch](https://github.com/yuancaimaiyi/pybind11_pixelmatch) - A C++17 port of the JavaScript pixelmatch library (with python binding), providing a small pixel-level image comparison library.
-
-*   [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
-
-*   [wsunid/awesome-point-clouds-registration](https://github.com/wsunid/awesome-point-clouds-registration) - A list of papers about point clouds registration
-
-*   [MIXIAOXIN/LaneMapping](https://github.com/MIXIAOXIN/LaneMapping) - Large-scale lane mapping using MLS point clouds.
-
-*   [SleepEarlyLiveLong/WHUVID](https://github.com/SleepEarlyLiveLong/WHUVID) - Wuhan Urban Visual-inertial Dataset
-
-*   [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc) - 主流VIO论文推导及代码解析
-
-*   [Nathan-UW/VPNet-CRF](https://github.com/Nathan-UW/VPNet-CRF) - Semantic Labeling of ALS Point Cloud via Learning Voxel and Pixel Representations
-
-*   [JunjH/Semantic-Graph-based--global-Localization](https://github.com/JunjH/Semantic-Graph-based--global-Localization) - Semantic graph based global localization for multi-robot map fusion.
-
-*   [Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything) - A collection of project, papers, and source code for Meta AI's Segment Anything Model (SAM) and related studies.
-
-*   [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
-
-*   [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
-
-*   [XuyangBai/awesome-point-cloud-registration](https://github.com/XuyangBai/awesome-point-cloud-registration) - A curated list of point cloud registration.
-
-*   [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
-
-*   [kuzen/Awesome-Self-Driving](https://github.com/kuzen/Awesome-Self-Driving) - an awesome list of self-driving algorithms, software, tools
-
-*   [mfkiwl/slam\_and\_leetcode](https://github.com/mfkiwl/slam_and_leetcode) - 一个SLAM算法方向学生的痛苦之旅，包括leetcode刷题、c++面经和SLAM相关知识点。欢迎协作！
-
-*   [liuqian62/notebook](https://github.com/liuqian62/notebook) - 记笔记，包括c++学习，slam学习，面经八股文
-
-*   [DWCTOD/interview](https://github.com/DWCTOD/interview) - 2021秋招 计算机视觉算法岗面经整理——包含实习和校招等 内推整理
-
-*   [nebula-beta/SLAM-Jobs](https://github.com/nebula-beta/SLAM-Jobs) - 这个一份SLAM/SFM求职指南，旨在帮助视觉SLAM/SFM的小伙伴们能够找到更好的工作。
-
-*   [amusi/CV-Company-List](https://github.com/amusi/CV-Company-List) - 中国提供计算机视觉(CV)算法岗位的公司名单，欢迎大家提交issues进行补充
-
-*   [jarvishou829/SUPS](https://github.com/jarvishou829/SUPS) - Official paper link and data access of the SUPS dataset.
-
-*   [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) - ACG2vec (Anime Comics Games to vector) are committed to creating a playground that combines ACG and Deep learning.（文本语义检索、以图搜图、语义搜图、图片超分辨率、推荐系统）
-
-*   [chichengcn/gici-open-dataset](https://github.com/chichengcn/gici-open-dataset) - Land vehicle GNSS/INS/Camera dataset
-
-*   [CatOneTwo/Collaborative-Perception-in-Autonomous-Driving](https://github.com/CatOneTwo/Collaborative-Perception-in-Autonomous-Driving) - (2023 ITSM) Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges
-
-*   [youngyangyang04/kamacoder-solutions](https://github.com/youngyangyang04/kamacoder-solutions) - 卡码网题解全集
-
-*   [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity - Chinese version）
-
-*   [amusi/awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) - A paper list of lane detection.
-
-*   [Yochengliu/awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) - A list of papers and datasets about point cloud analysis (processing)
-
-*   [manfreddiaz/awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) - Curated List of Self-Driving Cars and Autonomous Vehicles Resources
-
-*   [tzutalin/awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) - :books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers
-
-*   [walsvid/Awesome-MVS](https://github.com/walsvid/Awesome-MVS) - Awesome list of multi-view stereo papers
-
-*   [widemeadows/SCLiDAR](https://github.com/widemeadows/SCLiDAR) - Safety constrained LiDAR positioning
-
-*   [ripaojiedian/freenode](https://github.com/ripaojiedian/freenode) - 永久免费订阅/白嫖/节点/vpn/白嫖/订阅/机场/翻墙/加速器/科学上网/教程/破解/软件/资源/网站/ss/ssr/vmess/vless/v2ray/trojan/clash
-
-*   [JokerJohn/RoadMarkingExtraction](https://github.com/JokerJohn/RoadMarkingExtraction) - A C++ Program for automatically extraction of road markings from MLS or ALS point cloud
-
-*   [JokerJohn/G-LIO](https://github.com/JokerJohn/G-LIO) -
-
-*   [gwang-cv/Point-Set-Matching-Registration-Material](https://github.com/gwang-cv/Point-Set-Matching-Registration-Material) - A list of point set matching/registration resources collected by Gang Wang
-
-*   [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具、极光、魔法上网
-
-*   [qxiaofan/awsome-3dcv-resources](https://github.com/qxiaofan/awsome-3dcv-resources) - 总结3D视觉所涉及到的边边角角知识点，包括VSLAM、点云后处理、相机标定、深度学习等。
-
-*   [Yusra-alkendi/Vision-based-localization-resources](https://github.com/Yusra-alkendi/Vision-based-localization-resources) -
-
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-*   [leofansq/Repository\_Intelligent\_Vehicle](https://github.com/leofansq/Repository_Intelligent_Vehicle) - This is a repository for the basic version of intelligent vehicles, which is on the basis of the trajectory tracking. It is mainly used to organize my open-sourced projects, and contains several related projects, researches, and tools of mine.
-
-*   [xiaoweiChen/CMake-Cookbook](https://github.com/xiaoweiChen/CMake-Cookbook) - :book: 作为对《CMake Cookbook》的中文翻译。
-
-*   [Deephome/Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration) - A Collection of LiDAR-Camera-Calibration Papers, Toolboxes and Notes
-
-*   [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
-
-*   [Vincentqyw/Recent-Stars-2024](https://github.com/Vincentqyw/Recent-Stars-2024) - 🔥SLAM, VIsual localization, keypoint detection, Image matching, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc. related papers and code
-
-*   [52CV/CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers) -
-
-*   [siyandong/awesome-visual-localization](https://github.com/siyandong/awesome-visual-localization) - A curated list of awesome visual localization research works.
-
-*   [TheBurnsy/Vehicle-OSINT-Collection](https://github.com/TheBurnsy/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle.
-
-*   [NAOSI-DLUT/Campus2024](https://github.com/NAOSI-DLUT/Campus2024) - 2024届互联网校招信息汇总
-
-*   [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
-
-*   [NUAAXQ/awesome-point-cloud-analysis-2023](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023) - A list of papers and datasets about point cloud analysis (processing) since 2017. Update every day!
-
-*   [oleg-Shipitko/awesome-ros-tools](https://github.com/oleg-Shipitko/awesome-ros-tools) - The list of tools and packages for Robot Operating System development!
-
-*   [linjohnss/Camera-Localization-in-LiDAR-Maps-Paper](https://github.com/linjohnss/Camera-Localization-in-LiDAR-Maps-Paper) - Recent Camera Localization in LiDAR Maps Paper
-
-*   [SwapnilSaha59/Image-Learning-Algorithms-](https://github.com/SwapnilSaha59/Image-Learning-Algorithms-) -
-
-*   [Sophia-11/Autonomous-driving](https://github.com/Sophia-11/Autonomous-driving) - 无人驾驶资源收集
-
-*   [insyncim64/sensor\_fusion\_hdmap](https://github.com/insyncim64/sensor_fusion_hdmap) -
-
-*   [marknabil/SFM-Visual-SLAM](https://github.com/marknabil/SFM-Visual-SLAM) -
-
-*   [XidianLemon/SLAMPaperReading](https://github.com/XidianLemon/SLAMPaperReading) - 线下SLAM论文分享资料
-
-*   [XidianLemon/-100T-](https://github.com/XidianLemon/-100T-) -
-
-*   [google-research/tuning\_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
-
-*   [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
-
-*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-
-*   [saveweb/rss-list](https://github.com/saveweb/rss-list) - 独立博客&播客全订阅计划！
-
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
-*   [suryagutta/Autonomous-Vehicles-Datasets](https://github.com/suryagutta/Autonomous-Vehicles-Datasets) - Comprehensive list of Autonomous Vehicles Datasets (papers and dataset download) involving Visual Camera, Thermal, LiDAR, Radar etc.
-
-*   [lhyfst/awesome-autonomous-driving-datasets](https://github.com/lhyfst/awesome-autonomous-driving-datasets) - an awesome list of autonomous driving datasets
-
-*   [daohu527/awesome-self-driving-car](https://github.com/daohu527/awesome-self-driving-car) - An awesome list of self-driving cars
-
-*   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
-
-*   [namemzy/Semantic-Segmentation-Guide](https://github.com/namemzy/Semantic-Segmentation-Guide) - A Theory and Practical Guide to Deep Learning Semantic Segmentation
-
-*   [namemzy/awesome-image-alignment-and-stitching](https://github.com/namemzy/awesome-image-alignment-and-stitching) - A curated list of awesome resources for image alignment and stitching ...
-
-*   [DaveLogs/awesome-road-environment-segmentation](https://github.com/DaveLogs/awesome-road-environment-segmentation) - Awesome lists about segmentation in road environment 😁
-
-*   [baidut/OpenVehicleVision](https://github.com/baidut/OpenVehicleVision) - An opensource lib. for vehicle vision applications (written by MATLAB), lane marking detection, road segmentation
-
-*   [HKUST-Aerial-Robotics/Pinhole-Fisheye-Mapping](https://github.com/HKUST-Aerial-Robotics/Pinhole-Fisheye-Mapping) -
-
-*   [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
-
-*   [alaskasquirrel/Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱 📧 newsletter RSS 荟萃 News
-
-*   [codeXing8/bevlshaper](https://github.com/codeXing8/bevlshaper) - Algorithm for bird's-eye-view L-shape fitting in 3D LIDAR point clouds from traffic scenarios
-
-*   [TurtleZhong/avp-bev-open](https://github.com/TurtleZhong/avp-bev-open) - A pkg stiching around view images(4-6cameras) to generate bird's eye view.
-
-*   [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
-
-*   [MaxChanger/awesome-point-cloud-scene-flow](https://github.com/MaxChanger/awesome-point-cloud-scene-flow) - A list of point cloud scene flow papers, codes and datasets.
-
-*   [hehefan/Awesome-Dynamic-Point-Cloud-Analysis](https://github.com/hehefan/Awesome-Dynamic-Point-Cloud-Analysis) -
-
-*   [zju3dv/DeFlowSLAM](https://github.com/zju3dv/DeFlowSLAM) - code for "DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM"
-
-*   [Taeyoung96/ICRA-2022-SLAM-paper-list](https://github.com/Taeyoung96/ICRA-2022-SLAM-paper-list) - Unofficial ICRA 2022 SLAM paper list
-
-*   [zhuhu00/SLAM\_Research\_notes](https://github.com/zhuhu00/SLAM_Research_notes) - 每月SLAM论文追踪
-
-*   [4DVLab/Vision-Centric-BEV-Perception](https://github.com/4DVLab/Vision-Centric-BEV-Perception) - Vision-Centric BEV Perception: A Survey
-
-*   [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容。公众号：gotonote，邮箱： 931531133@qq.com
-
-*   [Tompson11/SLAM\_comparison](https://github.com/Tompson11/SLAM_comparison) -
-
-*   [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
-
-*   [Kyungpyo-Kim/Awesome-Autonomous-Driving-Company-Research](https://github.com/Kyungpyo-Kim/Awesome-Autonomous-Driving-Company-Research) - Awesome Autonomous Driving Company Research
-
-*   [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
-
-*   [kxhit/awesome-point-cloud-place-recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition) - A list of papers about point cloud based place recognition, also known as loop closure detection in SLAM (processing)
-
-*   [crankler/fast\_gicp](https://github.com/crankler/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
-
-*   [Hardy-Uint/awesome-pointcloud-processing](https://github.com/Hardy-Uint/awesome-pointcloud-processing) - awesome PointCloud processing algorithm
-
-*   [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
-
-*   [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
-
-*   [crankler/awesome-lidar-curb-detection](https://github.com/crankler/awesome-lidar-curb-detection) - A list of open source code about point cloud curb detection (processing)
-
-*   [AbangLZU/localization\_in\_auto\_driving](https://github.com/AbangLZU/localization_in_auto_driving) -
-
-*   [AbangLZU/hdl\_localization](https://github.com/AbangLZU/hdl_localization) - Real-time 3D localization using a (velodyne) 3D LIDAR
-
-*   [michiganrobotics/rob501](https://github.com/michiganrobotics/rob501) - Mathematics for Robotics
-
-*   [zhuhu00/Awesome\_Dynamic\_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM) - Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc.)
-
-*   [edvinvp/ufomap](https://github.com/edvinvp/ufomap) - UFOMap: An Efficient Probabilistic 3D Mapping Framework That Embraces the Unknown
-
-*   [Gatsby23/Semantic-LIO-Paper](https://github.com/Gatsby23/Semantic-LIO-Paper) - The code of ICRA 2023
-
-*   [GunterMueller/Books-3](https://github.com/GunterMueller/Books-3) -
-
-*   [Jinqiang/demo\_lidar](https://github.com/Jinqiang/demo_lidar) - Depth Enhanced Monocular Odometry (camera and lidar version)
-
-*   [csust7zhangjm/CCTSDB](https://github.com/csust7zhangjm/CCTSDB) - CSUST Chinese Traffic Sign Detection Benchmark
-
-*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
-
-*   [sanduan168/lifelong-SLAM-dataset](https://github.com/sanduan168/lifelong-SLAM-dataset) -
-
-*   [autonomousdrivingkr/Awesome-Autonomous-Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving) -
-
-*   [TixiaoShan/Stevens-VLP16-Dataset](https://github.com/TixiaoShan/Stevens-VLP16-Dataset) - This dataset is captured using a Velodyne VLP-16, which is mounted on an UGV - Clearpath Jackal, on Stevens Institute of Technology campus
-
-*   [PeterJaq/Awesome-Autonomous-Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving) -
-
-*   [changhao-chen/deep-learning-localization-mapping](https://github.com/changhao-chen/deep-learning-localization-mapping) - A collection of deep learning based localization models
-
-*   [ithuangqing/Chrome-take-off](https://github.com/ithuangqing/Chrome-take-off) - Chrome从入门到精通，各种Chrome的玩法技巧，推荐一些好用的chrome插件，一起武装自己的Chrome成为自己强有力的学习工具，来，一起让chrome飞起来！
-
-*   [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
-
-*   [HuangCongQing/awesome-data-labeling-tools](https://github.com/HuangCongQing/awesome-data-labeling-tools) - 图像images/点云point clouds标注工具汇总
-
-*   [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
-
-*   [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
-
-*   [WeikaiTan/Toronto-3D](https://github.com/WeikaiTan/Toronto-3D) - A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways
-
-*   [hanhan119/Monocular-Localization-with-Vector-HD-map](https://github.com/hanhan119/Monocular-Localization-with-Vector-HD-map) - Monocular Localization with Vector HD map
-
-*   [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
-
-*   [MIT-SPARK/Kimera](https://github.com/MIT-SPARK/Kimera) - Index repo for Kimera code
-
-*   [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) - A list of open-source, affordable, less-known, or visionary robotics projects.
-
-*   [guyuehome/ros\_21\_tutorials](https://github.com/guyuehome/ros_21_tutorials) - 《古月 · ROS入门21讲》课件&源码
-
-*   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
-
-*   [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) - A curated list of SLAM resources
-
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [cpejlgc/li\_hang](https://github.com/cpejlgc/li_hang) - 李航统计学习方法 PPT
-
-*   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-
-*   [wuxiaolang/Visual\_SLAM\_Related\_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) - 视觉(语义) SLAM 相关研究跟踪
-
-*   [DroidAITech/ROS-Academy-for-Beginners-Book-Melodic](https://github.com/DroidAITech/ROS-Academy-for-Beginners-Book-Melodic) - 中国大学MOOC---《机器人操作系统入门》讲义，升级版本
-
-*   [wanghuayou1028/ICRA2021-SLAM-paper-list](https://github.com/wanghuayou1028/ICRA2021-SLAM-paper-list) -
-
-*   [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [qxiaofan/awesome\_3d\_slam\_resources](https://github.com/qxiaofan/awesome_3d_slam_resources) - 记录3D视觉、VSLAM、计算机视觉的干货资料。
-
-*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
-
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar\_board: Path to a free self-taught education in Computer Science!
-
-*   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
-
-## HTML
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
-
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-*   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-
-*   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-
-*   [joway/hugo-theme-yinyang](https://github.com/joway/hugo-theme-yinyang) - A black-white theme for Hugo.
-
-*   [HuberTRoy/myown](https://github.com/HuberTRoy/myown) - Blog 分享一些前端的知识，流行库的源码阅读，前端可做的性能优化，SVG动画小知识。
-
-*   [osrf/gazebo\_models](https://github.com/osrf/gazebo_models) - Gazebo database of SDF models. This is a predecessor to https://app.gazebosim.org
-
-*   [michille78/program\_xyz](https://github.com/michille78/program_xyz) - program of 2015
-
-*   [fengdu78/deeplearning\_ai\_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
-
-*   [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
-
-## JavaScript
-
-*   [gotohiroki/ha-labo-2d](https://github.com/gotohiroki/ha-labo-2d) -
-
-*   [keesiemeijer/maze-generator](https://github.com/keesiemeijer/maze-generator) - Create mazes using the recursive backtracking algorithm.
-
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
-
-*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
-
-*   [luchenqun/my-bookmark](https://github.com/luchenqun/my-bookmark) - 在线书签管理工具
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
-*   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
-
-*   [kevtan/lane-labeling](https://github.com/kevtan/lane-labeling) - A semi-automatic lane marking labeling tool to increase the speed and efficiency of training data annotation at PlusAI.
-
-*   [eatenupme/cnblogs-theme-blogure](https://github.com/eatenupme/cnblogs-theme-blogure) - blogure - 又一个博客园的主题
-
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-
-*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
-*   [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labeling tool for bitmap images and point clouds
-
-*   [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
-
-*   [TooAngel/screeps](https://github.com/TooAngel/screeps) - TooAngel NPC / bot / source code for screeps
-
-*   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
-
-*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-
-*   [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
-
-*   [jobtalle/Koi](https://github.com/jobtalle/Koi) - Koi Farm, a koi breeding game
-
-*   [poloclub/cnn-explainer](https://github.com/poloclub/cnn-explainer) - Learning Convolutional Neural Networks with Interactive Visualization.
-
-*   [ipython-contrib/jupyter\_contrib\_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
 ## C++
+
+*   [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
+
+*   [HKUSTGZ-IADC/cobra](https://github.com/HKUSTGZ-IADC/cobra) -
+
+*   [JokerJohn/LIO\_SAM\_6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS) - LIO\_SAM for 6-axis IMU and  GNSS.
+
+*   [unmannedlab/imu\_lidar\_calibration](https://github.com/unmannedlab/imu_lidar_calibration) - Target-free Extrinsic Calibration of a 3D Lidar and an IMU
 
 *   [koide3/direct\_visual\_lidar\_calibration](https://github.com/koide3/direct_visual_lidar_calibration) - A toolbox for target-less LiDAR-camera calibration \[ROS1/ROS2]
 
@@ -2030,7 +1642,379 @@
 
 *   [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
 
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+## miscellaneous
+
+*   [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
+
+*   [Grandzxw/awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system) - Recent multi-robot projects and papers: Including SLAM, place recognition, Large Language Models navigation. (continually updated)
+
+*   [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning) - A curated list of neural network pruning resources.
+
+*   [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX
+
+*   [52CV/ECCV-2024-Papers](https://github.com/52CV/ECCV-2024-Papers) -
+
+*   [Es1erda/MFCalib](https://github.com/Es1erda/MFCalib) - Automatic Extrinsic Calibration for LiDAR and Camera in Targetless Environments Based on Multi-Feature Edge in One-shot
+
+*   [XuRobotics/slide-slam](https://github.com/XuRobotics/slide-slam) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Heterogeneous Robots
+
+*   [dhchung/nv\_lio](https://github.com/dhchung/nv_lio) - LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments
+
+*   [yuancaimaiyi/semantic-gaussians](https://github.com/yuancaimaiyi/semantic-gaussians) - Official implemetation of the paper "Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting".
+
+*   [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+
+*   [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
+
+*   [LiZhengXiao99/Navigation-Dataset](https://github.com/LiZhengXiao99/Navigation-Dataset) - 整理导航定位建图相关开源数据，侧重于 GNSS/INS 和 GNSS/SLAM，不是很全面，GIthub 上刷到了就在这做个记录，需要啥数据了找起来方便。
+
+*   [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) -
+
+*   [52CV/ICCV-2023-Papers](https://github.com/52CV/ICCV-2023-Papers) -
+
+*   [weaiken/ebook](https://github.com/weaiken/ebook) - classic books of computer science!
+
+*   [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
+
+*   [MaybeQHL/my\_danmu\_pub](https://github.com/MaybeQHL/my_danmu_pub) - 免费、公开的弹幕系统API。
+
+*   [mwwzbinf/mwwz-shape-match](https://github.com/mwwzbinf/mwwz-shape-match) - Shape-based template matching algorithm
+
+*   [SeRM-dataset/dataset](https://github.com/SeRM-dataset/dataset) -
+
+*   [stu9113611/RLMD](https://github.com/stu9113611/RLMD) - RLMD: A Dataset for Road Line and Marking Segmentation (ICCE-TW 2023)
+
+*   [samirangode/awesome-SLAM-papers](https://github.com/samirangode/awesome-SLAM-papers) - List of SLAM papers I found useful.
+
+*   [Yaepiii/SLAM\_Paper](https://github.com/Yaepiii/SLAM_Paper) - SLAM Paper that I have read and commented
+
+*   [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
+
+*   [KangchengLiu/deep-learning-localization-mapping](https://github.com/KangchengLiu/deep-learning-localization-mapping) - A collection of deep learning based localization models
+
+*   [i2Nav-WHU/awesome-gins-datasets](https://github.com/i2Nav-WHU/awesome-gins-datasets) - An awesome vehicle dataset for GNSS/INS integration applications
+
+*   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
+
+*   [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
+
+*   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms
+
+*   [yuancaimaiyi/pybind11\_pixelmatch](https://github.com/yuancaimaiyi/pybind11_pixelmatch) - A C++17 port of the JavaScript pixelmatch library (with python binding), providing a small pixel-level image comparison library.
+
+*   [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
+
+*   [wsunid/awesome-point-clouds-registration](https://github.com/wsunid/awesome-point-clouds-registration) - A list of papers about point clouds registration
+
+*   [MIXIAOXIN/LaneMapping](https://github.com/MIXIAOXIN/LaneMapping) - Large-scale lane mapping using MLS point clouds.
+
+*   [SleepEarlyLiveLong/WHUVID](https://github.com/SleepEarlyLiveLong/WHUVID) - Wuhan Urban Visual-inertial Dataset
+
+*   [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc) - 主流VIO论文推导及代码解析
+
+*   [Nathan-UW/VPNet-CRF](https://github.com/Nathan-UW/VPNet-CRF) - Semantic Labeling of ALS Point Cloud via Learning Voxel and Pixel Representations
+
+*   [JunjH/Semantic-Graph-based--global-Localization](https://github.com/JunjH/Semantic-Graph-based--global-Localization) - Semantic graph based global localization for multi-robot map fusion.
+
+*   [Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything) - A collection of project, papers, and source code for Meta AI's Segment Anything Model (SAM) and related studies.
+
+*   [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
+
+*   [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+
+*   [XuyangBai/awesome-point-cloud-registration](https://github.com/XuyangBai/awesome-point-cloud-registration) - A curated list of point cloud registration.
+
+*   [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
+
+*   [kuzen/Awesome-Self-Driving](https://github.com/kuzen/Awesome-Self-Driving) - an awesome list of self-driving algorithms, software, tools
+
+*   [mfkiwl/slam\_and\_leetcode](https://github.com/mfkiwl/slam_and_leetcode) - 一个SLAM算法方向学生的痛苦之旅，包括leetcode刷题、c++面经和SLAM相关知识点。欢迎协作！
+
+*   [liuqian62/notebook](https://github.com/liuqian62/notebook) - 记笔记，包括c++学习，slam学习，面经八股文
+
+*   [DWCTOD/interview](https://github.com/DWCTOD/interview) - 2021秋招 计算机视觉算法岗面经整理——包含实习和校招等 内推整理
+
+*   [nebula-beta/SLAM-Jobs](https://github.com/nebula-beta/SLAM-Jobs) - 这个一份SLAM/SFM求职指南，旨在帮助视觉SLAM/SFM的小伙伴们能够找到更好的工作。
+
+*   [amusi/CV-Company-List](https://github.com/amusi/CV-Company-List) - 中国提供计算机视觉(CV)算法岗位的公司名单，欢迎大家提交issues进行补充
+
+*   [jarvishou829/SUPS](https://github.com/jarvishou829/SUPS) - Official paper link and data access of the SUPS dataset.
+
+*   [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) - ACG2vec (Anime Comics Games to vector) are committed to creating a playground that combines ACG and Deep learning.（文本语义检索、以图搜图、语义搜图、图片超分辨率、推荐系统）
+
+*   [chichengcn/gici-open-dataset](https://github.com/chichengcn/gici-open-dataset) - Land vehicle GNSS/INS/Camera dataset
+
+*   [CatOneTwo/Collaborative-Perception-in-Autonomous-Driving](https://github.com/CatOneTwo/Collaborative-Perception-in-Autonomous-Driving) - (2023 ITSM) Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges
+
+*   [youngyangyang04/kamacoder-solutions](https://github.com/youngyangyang04/kamacoder-solutions) - 卡码网题解全集
+
+*   [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity - Chinese version）
+
+*   [amusi/awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) - A paper list of lane detection.
+
+*   [Yochengliu/awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) - A list of papers and datasets about point cloud analysis (processing)
+
+*   [manfreddiaz/awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles) - Curated List of Self-Driving Cars and Autonomous Vehicles Resources
+
+*   [tzutalin/awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) - :books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers
+
+*   [walsvid/Awesome-MVS](https://github.com/walsvid/Awesome-MVS) - Awesome list of multi-view stereo papers
+
+*   [widemeadows/SCLiDAR](https://github.com/widemeadows/SCLiDAR) - Safety constrained LiDAR positioning
+
+*   [ripaojiedian/freenode](https://github.com/ripaojiedian/freenode) - 永久免费订阅/白嫖/节点/vpn/白嫖/订阅/机场/翻墙/加速器/科学上网/教程/破解/软件/资源/网站/ss/ssr/vmess/vless/v2ray/trojan/clash
+
+*   [JokerJohn/RoadMarkingExtraction](https://github.com/JokerJohn/RoadMarkingExtraction) - A C++ Program for automatically extraction of road markings from MLS or ALS point cloud
+
+*   [JokerJohn/G-LIO](https://github.com/JokerJohn/G-LIO) -
+
+*   [gwang-cv/Point-Set-Matching-Registration-Material](https://github.com/gwang-cv/Point-Set-Matching-Registration-Material) - A list of point set matching/registration resources collected by Gang Wang
+
+*   [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具、极光、魔法上网
+
+*   [qxiaofan/awsome-3dcv-resources](https://github.com/qxiaofan/awsome-3dcv-resources) - 总结3D视觉所涉及到的边边角角知识点，包括VSLAM、点云后处理、相机标定、深度学习等。
+
+*   [Yusra-alkendi/Vision-based-localization-resources](https://github.com/Yusra-alkendi/Vision-based-localization-resources) -
+
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+*   [leofansq/Repository\_Intelligent\_Vehicle](https://github.com/leofansq/Repository_Intelligent_Vehicle) - This is a repository for the basic version of intelligent vehicles, which is on the basis of the trajectory tracking. It is mainly used to organize my open-sourced projects, and contains several related projects, researches, and tools of mine.
+
+*   [xiaoweiChen/CMake-Cookbook](https://github.com/xiaoweiChen/CMake-Cookbook) - :book: 作为对《CMake Cookbook》的中文翻译。
+
+*   [Deephome/Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration) - A Collection of LiDAR-Camera-Calibration Papers, Toolboxes and Notes
+
+*   [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
+
+*   [Vincentqyw/Recent-Stars-2024](https://github.com/Vincentqyw/Recent-Stars-2024) - 🔥SLAM, VIsual localization, keypoint detection, Image matching, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc. related papers and code
+
+*   [52CV/CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers) -
+
+*   [siyandong/awesome-visual-localization](https://github.com/siyandong/awesome-visual-localization) - A curated list of awesome visual localization research works.
+
+*   [TheBurnsy/Vehicle-OSINT-Collection](https://github.com/TheBurnsy/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle.
+
+*   [NAOSI-DLUT/Campus2024](https://github.com/NAOSI-DLUT/Campus2024) - 2024届互联网校招信息汇总
+
+*   [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
+
+*   [NUAAXQ/awesome-point-cloud-analysis-2023](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023) - A list of papers and datasets about point cloud analysis (processing) since 2017. Update every day!
+
+*   [oleg-Shipitko/awesome-ros-tools](https://github.com/oleg-Shipitko/awesome-ros-tools) - The list of tools and packages for Robot Operating System development!
+
+*   [linjohnss/Camera-Localization-in-LiDAR-Maps-Paper](https://github.com/linjohnss/Camera-Localization-in-LiDAR-Maps-Paper) - Recent Camera Localization in LiDAR Maps Paper
+
+*   [SwapnilSaha59/Image-Learning-Algorithms-](https://github.com/SwapnilSaha59/Image-Learning-Algorithms-) -
+
+*   [Sophia-11/Autonomous-driving](https://github.com/Sophia-11/Autonomous-driving) - 无人驾驶资源收集
+
+*   [insyncim64/sensor\_fusion\_hdmap](https://github.com/insyncim64/sensor_fusion_hdmap) -
+
+*   [marknabil/SFM-Visual-SLAM](https://github.com/marknabil/SFM-Visual-SLAM) -
+
+*   [XidianLemon/SLAMPaperReading](https://github.com/XidianLemon/SLAMPaperReading) - 线下SLAM论文分享资料
+
+*   [XidianLemon/-100T-](https://github.com/XidianLemon/-100T-) -
+
+*   [google-research/tuning\_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
+
+*   [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
+
+*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+*   [saveweb/rss-list](https://github.com/saveweb/rss-list) - 独立博客&播客全订阅计划！
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+
+*   [suryagutta/Autonomous-Vehicles-Datasets](https://github.com/suryagutta/Autonomous-Vehicles-Datasets) - Comprehensive list of Autonomous Vehicles Datasets (papers and dataset download) involving Visual Camera, Thermal, LiDAR, Radar etc.
+
+*   [lhyfst/awesome-autonomous-driving-datasets](https://github.com/lhyfst/awesome-autonomous-driving-datasets) - an awesome list of autonomous driving datasets
+
+*   [daohu527/awesome-self-driving-car](https://github.com/daohu527/awesome-self-driving-car) - An awesome list of self-driving cars
+
+*   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
+
+*   [namemzy/Semantic-Segmentation-Guide](https://github.com/namemzy/Semantic-Segmentation-Guide) - A Theory and Practical Guide to Deep Learning Semantic Segmentation
+
+*   [namemzy/awesome-image-alignment-and-stitching](https://github.com/namemzy/awesome-image-alignment-and-stitching) - A curated list of awesome resources for image alignment and stitching ...
+
+*   [DaveLogs/awesome-road-environment-segmentation](https://github.com/DaveLogs/awesome-road-environment-segmentation) - Awesome lists about segmentation in road environment 😁
+
+*   [baidut/OpenVehicleVision](https://github.com/baidut/OpenVehicleVision) - An opensource lib. for vehicle vision applications (written by MATLAB), lane marking detection, road segmentation
+
+*   [HKUST-Aerial-Robotics/Pinhole-Fisheye-Mapping](https://github.com/HKUST-Aerial-Robotics/Pinhole-Fisheye-Mapping) -
+
+*   [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
+
+*   [alaskasquirrel/Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱 📧 newsletter RSS 荟萃 News
+
+*   [codeXing8/bevlshaper](https://github.com/codeXing8/bevlshaper) - Algorithm for bird's-eye-view L-shape fitting in 3D LIDAR point clouds from traffic scenarios
+
+*   [TurtleZhong/avp-bev-open](https://github.com/TurtleZhong/avp-bev-open) - A pkg stiching around view images(4-6cameras) to generate bird's eye view.
+
+*   [chaytonmin/Awesome-BEV-Perception-Multi-Cameras](https://github.com/chaytonmin/Awesome-BEV-Perception-Multi-Cameras) - Awesome papers about Multi-Camera 3D Object Detection and Segmentation in Bird's-Eye-View, such as DETR3D, BEVDet, BEVFormer, BEVDepth, UniAD
+
+*   [MaxChanger/awesome-point-cloud-scene-flow](https://github.com/MaxChanger/awesome-point-cloud-scene-flow) - A list of point cloud scene flow papers, codes and datasets.
+
+*   [hehefan/Awesome-Dynamic-Point-Cloud-Analysis](https://github.com/hehefan/Awesome-Dynamic-Point-Cloud-Analysis) -
+
+*   [zju3dv/DeFlowSLAM](https://github.com/zju3dv/DeFlowSLAM) - code for "DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM"
+
+*   [Taeyoung96/ICRA-2022-SLAM-paper-list](https://github.com/Taeyoung96/ICRA-2022-SLAM-paper-list) - Unofficial ICRA 2022 SLAM paper list
+
+*   [zhuhu00/SLAM\_Research\_notes](https://github.com/zhuhu00/SLAM_Research_notes) - 每月SLAM论文追踪
+
+*   [4DVLab/Vision-Centric-BEV-Perception](https://github.com/4DVLab/Vision-Centric-BEV-Perception) - Vision-Centric BEV Perception: A Survey
+
+*   [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容。公众号：gotonote，邮箱： 931531133@qq.com
+
+*   [Tompson11/SLAM\_comparison](https://github.com/Tompson11/SLAM_comparison) -
+
+*   [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+
+*   [Kyungpyo-Kim/Awesome-Autonomous-Driving-Company-Research](https://github.com/Kyungpyo-Kim/Awesome-Autonomous-Driving-Company-Research) - Awesome Autonomous Driving Company Research
+
+*   [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
+
+*   [kxhit/awesome-point-cloud-place-recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition) - A list of papers about point cloud based place recognition, also known as loop closure detection in SLAM (processing)
+
+*   [crankler/fast\_gicp](https://github.com/crankler/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
+
+*   [Hardy-Uint/awesome-pointcloud-processing](https://github.com/Hardy-Uint/awesome-pointcloud-processing) - awesome PointCloud processing algorithm
+
+*   [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
+
+*   [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
+
+*   [crankler/awesome-lidar-curb-detection](https://github.com/crankler/awesome-lidar-curb-detection) - A list of open source code about point cloud curb detection (processing)
+
+*   [AbangLZU/localization\_in\_auto\_driving](https://github.com/AbangLZU/localization_in_auto_driving) -
+
+*   [AbangLZU/hdl\_localization](https://github.com/AbangLZU/hdl_localization) - Real-time 3D localization using a (velodyne) 3D LIDAR
+
+*   [michiganrobotics/rob501](https://github.com/michiganrobotics/rob501) - Mathematics for Robotics
+
+*   [zhuhu00/Awesome\_Dynamic\_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM) - Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc.)
+
+*   [edvinvp/ufomap](https://github.com/edvinvp/ufomap) - UFOMap: An Efficient Probabilistic 3D Mapping Framework That Embraces the Unknown
+
+*   [Gatsby23/Semantic-LIO-Paper](https://github.com/Gatsby23/Semantic-LIO-Paper) - The code of ICRA 2023
+
+*   [GunterMueller/Books-3](https://github.com/GunterMueller/Books-3) -
+
+*   [Jinqiang/demo\_lidar](https://github.com/Jinqiang/demo_lidar) - Depth Enhanced Monocular Odometry (camera and lidar version)
+
+*   [csust7zhangjm/CCTSDB](https://github.com/csust7zhangjm/CCTSDB) - CSUST Chinese Traffic Sign Detection Benchmark
+
+*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
+
+*   [sanduan168/lifelong-SLAM-dataset](https://github.com/sanduan168/lifelong-SLAM-dataset) -
+
+*   [autonomousdrivingkr/Awesome-Autonomous-Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving) -
+
+*   [TixiaoShan/Stevens-VLP16-Dataset](https://github.com/TixiaoShan/Stevens-VLP16-Dataset) - This dataset is captured using a Velodyne VLP-16, which is mounted on an UGV - Clearpath Jackal, on Stevens Institute of Technology campus
+
+*   [PeterJaq/Awesome-Autonomous-Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving) -
+
+*   [changhao-chen/deep-learning-localization-mapping](https://github.com/changhao-chen/deep-learning-localization-mapping) - A collection of deep learning based localization models
+
+*   [ithuangqing/Chrome-take-off](https://github.com/ithuangqing/Chrome-take-off) - Chrome从入门到精通，各种Chrome的玩法技巧，推荐一些好用的chrome插件，一起武装自己的Chrome成为自己强有力的学习工具，来，一起让chrome飞起来！
+
+*   [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类
+
+*   [HuangCongQing/awesome-data-labeling-tools](https://github.com/HuangCongQing/awesome-data-labeling-tools) - 图像images/点云point clouds标注工具汇总
+
+*   [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
+
+*   [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
+
+*   [WeikaiTan/Toronto-3D](https://github.com/WeikaiTan/Toronto-3D) - A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways
+
+*   [hanhan119/Monocular-Localization-with-Vector-HD-map](https://github.com/hanhan119/Monocular-Localization-with-Vector-HD-map) - Monocular Localization with Vector HD map
+
+*   [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
+
+*   [MIT-SPARK/Kimera](https://github.com/MIT-SPARK/Kimera) - Index repo for Kimera code
+
+*   [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) - A list of open-source, affordable, less-known, or visionary robotics projects.
+
+*   [guyuehome/ros\_21\_tutorials](https://github.com/guyuehome/ros_21_tutorials) - 《古月 · ROS入门21讲》课件&源码
+
+*   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
+
+*   [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) - A curated list of SLAM resources
+
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+
+*   [cpejlgc/li\_hang](https://github.com/cpejlgc/li_hang) - 李航统计学习方法 PPT
+
+*   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+
+*   [wuxiaolang/Visual\_SLAM\_Related\_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) - 视觉(语义) SLAM 相关研究跟踪
+
+*   [DroidAITech/ROS-Academy-for-Beginners-Book-Melodic](https://github.com/DroidAITech/ROS-Academy-for-Beginners-Book-Melodic) - 中国大学MOOC---《机器人操作系统入门》讲义，升级版本
+
+*   [wanghuayou1028/ICRA2021-SLAM-paper-list](https://github.com/wanghuayou1028/ICRA2021-SLAM-paper-list) -
+
+*   [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [qxiaofan/awesome\_3d\_slam\_resources](https://github.com/qxiaofan/awesome_3d_slam_resources) - 记录3D视觉、VSLAM、计算机视觉的干货资料。
+
+*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
+
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar\_board: Path to a free self-taught education in Computer Science!
+
+*   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
+
+## JavaScript
+
+*   [gotohiroki/ha-labo-2d](https://github.com/gotohiroki/ha-labo-2d) -
+
+*   [keesiemeijer/maze-generator](https://github.com/keesiemeijer/maze-generator) - Create mazes using the recursive backtracking algorithm.
+
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+
+*   [luchenqun/my-bookmark](https://github.com/luchenqun/my-bookmark) - 在线书签管理工具
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
+*   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
+
+*   [kevtan/lane-labeling](https://github.com/kevtan/lane-labeling) - A semi-automatic lane marking labeling tool to increase the speed and efficiency of training data annotation at PlusAI.
+
+*   [eatenupme/cnblogs-theme-blogure](https://github.com/eatenupme/cnblogs-theme-blogure) - blogure - 又一个博客园的主题
+
+*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+
+*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+*   [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labeling tool for bitmap images and point clouds
+
+*   [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
+
+*   [TooAngel/screeps](https://github.com/TooAngel/screeps) - TooAngel NPC / bot / source code for screeps
+
+*   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
+
+*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+
+*   [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
+
+*   [jobtalle/Koi](https://github.com/jobtalle/Koi) - Koi Farm, a koi breeding game
+
+*   [poloclub/cnn-explainer](https://github.com/poloclub/cnn-explainer) - Learning Convolutional Neural Networks with Interactive Visualization.
+
+*   [ipython-contrib/jupyter\_contrib\_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
 
 ## Dart
 
@@ -2340,8 +2324,6 @@
 
 *   [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
 
-*   [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
-
 ## Makefile
 
 *   [jpl917/GeometricSLAM](https://github.com/jpl917/GeometricSLAM) - geometric based rgbd slam for low texture environment
@@ -2367,6 +2349,26 @@
 *   [alirezakazemipour/Geo-Localization](https://github.com/alirezakazemipour/Geo-Localization) - Localization without using GPS based on a previously provided map
 
 *   [yepeichu123/slam\_module](https://github.com/yepeichu123/slam_module) -
+
+## HTML
+
+*   [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
+
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+*   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+
+*   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+
+*   [joway/hugo-theme-yinyang](https://github.com/joway/hugo-theme-yinyang) - A black-white theme for Hugo.
+
+*   [HuberTRoy/myown](https://github.com/HuberTRoy/myown) - Blog 分享一些前端的知识，流行库的源码阅读，前端可做的性能优化，SVG动画小知识。
+
+*   [osrf/gazebo\_models](https://github.com/osrf/gazebo_models) - Gazebo database of SDF models. This is a predecessor to https://app.gazebosim.org
+
+*   [michille78/program\_xyz](https://github.com/michille78/program_xyz) - program of 2015
+
+*   [fengdu78/deeplearning\_ai\_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 
 ## Shell
 
@@ -2489,8 +2491,6 @@
 ## AngelScript
 
 *   [gene9831/AliyunDrivePotPlayer](https://github.com/gene9831/AliyunDrivePotPlayer) - PotPlayer 在线播放阿里云盘视频外链
-
-*   [fjqingyou/PotPlayer\_Subtitle\_Translate\_Baidu](https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu) - PotPlayer 字幕在线翻译插件 - 百度平台
 
 ## Vim Script
 
