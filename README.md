@@ -1,7 +1,7 @@
 ## Table of Contents
 
-*   [Python](#python)
 *   [C++](#c)
+*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
@@ -32,7 +32,997 @@
 *   [AngelScript](#angelscript)
 *   [Vim Script](#vim-script)
 
+## C++
+
+*   [w111liang222/lidar-slam-detection](https://github.com/w111liang222/lidar-slam-detection) - LSD (LiDAR SLAM & Detection) is an open source perception architecture for autonomous vehicle/robotic
+
+*   [yan99033/CNN-SVO](https://github.com/yan99033/CNN-SVO) - Real-time motion from structure
+
+*   [OpenCalib/LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS) -
+
+*   [JinXiangLai/BA-and-pose-graph-problem](https://github.com/JinXiangLai/BA-and-pose-graph-problem) -
+
+*   [rsasaki0109/lidar\_undistortion](https://github.com/rsasaki0109/lidar_undistortion) - A header-only program of 3d rotary lidar undistortion using 9-axis imu
+
+*   [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
+
+*   [HKUSTGZ-IADC/cobra](https://github.com/HKUSTGZ-IADC/cobra) -
+
+*   [JokerJohn/LIO\_SAM\_6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS) - LIO\_SAM for 6-axis IMU and  GNSS.
+
+*   [unmannedlab/imu\_lidar\_calibration](https://github.com/unmannedlab/imu_lidar_calibration) - Target-free Extrinsic Calibration of a 3D Lidar and an IMU
+
+*   [koide3/direct\_visual\_lidar\_calibration](https://github.com/koide3/direct_visual_lidar_calibration) - A toolbox for target-less LiDAR-camera calibration \[ROS1/ROS2]
+
+*   [lian-yue0515/MM-LINS](https://github.com/lian-yue0515/MM-LINS) - a Multi-Map LiDAR-Inertial System for Over-Degraded Environments
+
+*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+
+*   [AISLAB-sustech/Calibration\_of\_Multi\_Mic\_Arrays](https://github.com/AISLAB-sustech/Calibration_of_Multi_Mic_Arrays) - Multiple microphone arrays calibration
+
+*   [STAR-Center/Reflection\_detection](https://github.com/STAR-Center/Reflection_detection) -
+
+*   [Mq-b/Loser-HomeWork](https://github.com/Mq-b/Loser-HomeWork) - 卢瑟们的作业展示，答案讲解，以及一些C++知识
+
+*   [ethz-asl/dynablox](https://github.com/ethz-asl/dynablox) - Real-time detection of diverse dynamic objects in complex environments.
+
+*   [4ku/Place-recognition-evaluation](https://github.com/4ku/Place-recognition-evaluation) - Benchmarking and evaluation framework for place recognition methods, featuring SuperPoint+SuperGlue, LoGG3D-Net, Scan Context, DBoW2, MixVPR, STD
+
+*   [davidskdds/DMSA\_LiDAR\_SLAM](https://github.com/davidskdds/DMSA_LiDAR_SLAM) - LiDAR Inertial Mapping Package
+
+*   [tiev-tongji/LOG-LIO2](https://github.com/tiev-tongji/LOG-LIO2) - A LiDAR-Inertial Odometry with Efficient Uncertainty Analysis.
+
+*   [mtrebi/thread-pool](https://github.com/mtrebi/thread-pool) - Thread pool implementation using c++11 threads
+
+*   [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - \[RA-L 2024] GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
+
+*   [SkyD666/SmartScreenSnapper](https://github.com/SkyD666/SmartScreenSnapper) - 一个小巧的截图工具，Qt6 编写，支持全屏截图、活动窗口截图、截取光标、热键截图、自由框选截图、徒手截图、录制GIF、自动保存图片，支持多显示屏
+
+*   [HKUST-Aerial-Robotics/gnss\_comm](https://github.com/HKUST-Aerial-Robotics/gnss_comm) - Basic definitions and utility functions for GNSS raw measurement processing
+
+*   [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : ) 。**VideoPipe下一版本正在开发中，在保证跨平台、易上手的前提下，预计性能直逼deepstream等各硬件平台官方框架**。
+
+*   [Aaronswei/ad\_sensor\_fusion](https://github.com/Aaronswei/ad_sensor_fusion) -
+
+*   [fracgawd/kitti\_motion\_compensation](https://github.com/fracgawd/kitti_motion_compensation) -
+
+*   [alexandrx/lidar\_cloud\_to\_image](https://github.com/alexandrx/lidar_cloud_to_image) - Conversion from 3D LiDAR pointcloud to images
+
+*   [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
+
+*   [ZikangYuan/sr\_livo](https://github.com/ZikangYuan/sr_livo) - \[RA-L 2024] A LiDAR-inertial-visual odometry and mapping system based on the sweep reconstruction method
+
+*   [artzha/LASt-BKI](https://github.com/artzha/LASt-BKI) - Learning Aided Semantic Bayesian Kernel Inference for 3D Semantic Global Mapping
+
+*   [ZikangYuan/SDV-LOAM](https://github.com/ZikangYuan/SDV-LOAM) - \[TPAMI 2023] A cascaded vision-LiDAR odometry and mapping system
+
+*   [huashu996/camera\_lidar\_semantic\_slam](https://github.com/huashu996/camera_lidar_semantic_slam) - We propose a semantic segmentation odometry and mapping method based on LIDAR and camera data vision fusion for real-time motion states estimation and high-level understanding of the surrounding environment.
+
+*   [BEAMRobotics/beam\_slam](https://github.com/BEAMRobotics/beam_slam) - Tightly coupled lidar-visual-inertial slam using the fuse framework
+
+*   [tglenn28/SLO](https://github.com/tglenn28/SLO) - Semantic Lidar Odometry
+
+*   [johannes-graeter/limo](https://github.com/johannes-graeter/limo) - Lidar-Monocular Visual Odometry
+
+*   [zhujun3753/i-octree](https://github.com/zhujun3753/i-octree) - \[ICRA2024] Implementation of A Fast, Lightweight, and Dynamic Octree for Proximity Search
+
+*   [Livox-SDK/livox\_cloud\_undistortion](https://github.com/Livox-SDK/livox_cloud_undistortion) - This project is used for lidar point cloud undistortion.
+
+*   [RuanJY/SLAMesh](https://github.com/RuanJY/SLAMesh) - ICRA2023, A real-time LiDAR simultaneous localization and meshing method.
+
+*   [Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial) - 现代C++模板教程
+
+*   [guyupan/image\_laser\_lidar\_fusion](https://github.com/guyupan/image_laser_lidar_fusion) - image data and laser lidar data fusion
+
+*   [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
+
+*   [mayerui/sudoku](https://github.com/mayerui/sudoku) - C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
+
+*   [XMuli/ChineseChess](https://github.com/XMuli/ChineseChess) - Cross-platform and online battle platform game based on Qt: Chinese Chess. Also known as:『Xiangqi』『中国象棋』
+
+*   [rpng/ov\_plane](https://github.com/rpng/ov_plane) - A monocular plane-aided visual-inertial odometry
+
+*   [heiwang1997/DenseCRF](https://github.com/heiwang1997/DenseCRF) - C++/CUDA Dense Conditional Random Field using Meanfield inference
+
+*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
+
+*   [DiantaoTu/Camera\_LiDAR\_calibration](https://github.com/DiantaoTu/Camera_LiDAR_calibration) - An implementation of paper "Automatic Online Calibration of Cameras and Lasers"
+
+*   [ZFFramework/ZFFramework](https://github.com/ZFFramework/ZFFramework) - cross-platform C++ application framework, fully dynamic reflection/serialization, automatic lua binding by reflection
+
+*   [xmba15/automatic\_lidar\_camera\_calibration](https://github.com/xmba15/automatic_lidar_camera_calibration) - auto-calibration of lidar and camera based on maximization of intensity mutual information
+
+*   [OpenCalib/CalibAnything](https://github.com/OpenCalib/CalibAnything) -
+
+*   [HarborC/PL-SLAM](https://github.com/HarborC/PL-SLAM) - PL-SLAM: The method is implemented in《PL-SLAM:Real-time Monocular Visual SLAM with Points and Lines》
+
+*   [leggedrobotics/open3d\_slam](https://github.com/leggedrobotics/open3d_slam) - Pointcloud-based graph SLAM written in C++ using open3D library.
+
+*   [meiqua/shape\_based\_matching](https://github.com/meiqua/shape_based_matching) - try to implement halcon shape based matching, refer to machine vision algorithms and applications, page 317 3.11.5, written by halcon engineers
+
+*   [EPVelasco/pc\_on\_image](https://github.com/EPVelasco/pc_on_image) - The code implemented in ROS projects a point cloud obtained by a Velodyne VLP16 3D-Lidar sensor on an image from an RGB camera.
+
+*   [versatran01/cloud2range](https://github.com/versatran01/cloud2range) - convert ros pointcloud2 to range image to save space
+
+*   [AndrewAndHelen/RangeImagePlanar](https://github.com/AndrewAndHelen/RangeImagePlanar) - a tool to convert point cloud to range image
+
+*   [robotics-upo/plane\_detector](https://github.com/robotics-upo/plane_detector) - Implementation of the fast plane detector as described in the paper "Fast  Plane  Detection  and  Polygonalization  in  noisy  3D  Range  Images", of Poppinga et al. (IROS 2008)
+
+*   [wangx1996/Range-Image-based-segementation](https://github.com/wangx1996/Range-Image-based-segementation) - An implementation on "I. Bogoslavskyi and C. Stachniss, "Fast range image-based segmentation of sparse 3D laser scans for online operation," 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Daejeon, 2016, pp. 163-169, doi: 10.1109/IROS.2016.7759050."
+
+*   [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
+
+*   [EPVelasco/lidar-camera-fusion](https://github.com/EPVelasco/lidar-camera-fusion) - The code implemented in ROS projects a point cloud obtained by a Velodyne VLP16 3D-Lidar sensor on an image from an RGB camera.
+
+*   [shaoxuan92/OpenCV-2Dto3D](https://github.com/shaoxuan92/OpenCV-2Dto3D) - OpenCV Camera Coordinates to World Coordinates transform with Z=0
+
+*   [lukasvst/dm-vio](https://github.com/lukasvst/dm-vio) - Source code for the paper DM-VIO: Delayed Marginalization Visual-Inertial Odometry
+
+*   [engcang/FAST-LIO-Localization-QN](https://github.com/engcang/FAST-LIO-Localization-QN) - A Map-based localization implementation combining FAST-LIO2 as an odometry with Quatro + Nano-GICP as a map matching method
+
+*   [url-kaist/Quatro](https://github.com/url-kaist/Quatro) - Fast and robust global registration for terrestrial robots @ ICRA2022
+
+*   [NeSC-IV/sage-icp](https://github.com/NeSC-IV/sage-icp) - Semantic Information-Assisted ICP
+
+*   [rlit/LatentRANSAC](https://github.com/rlit/LatentRANSAC) - Latent RANSAC implementation, based on USAC
+
+*   [benchun123/object-based-loop-closure](https://github.com/benchun123/object-based-loop-closure) -
+
+*   [ITVRoC/ekf\_loam](https://github.com/ITVRoC/ekf_loam) -
+
+*   [LiHeUA/IGICP](https://github.com/LiHeUA/IGICP) - Source codes for IGICP: Intensity and Geometry Enhanced LiDAR Odometry
+
+*   [APRIL-ZJU/Coco-LIC](https://github.com/APRIL-ZJU/Coco-LIC) - \[RA-L 2023] Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline
+
+*   [yangjiaolong/Go-ICP](https://github.com/yangjiaolong/Go-ICP) - Implementation of the Go-ICP algorithm for globally optimal 3D pointset registration
+
+*   [iKrishneel/octomap\_server2](https://github.com/iKrishneel/octomap_server2) - ROS2 stack for mapping with OctoMap, contains octomap\_server package
+
+*   [ucla-vision/xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
+
+*   [hku-mars/mlcc](https://github.com/hku-mars/mlcc) - Fast and Accurate Extrinsic Calibration for Multiple LiDARs and Cameras
+
+*   [CCNYRoboticsLab/scan\_tools](https://github.com/CCNYRoboticsLab/scan_tools) -  ROS Laser scan tools
+
+*   [linyicheng1/laser\_localization](https://github.com/linyicheng1/laser_localization) - laser localization base global map for robotics
+
+*   [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - \[TRO 2022] Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
+
+*   [hku-mars/FAST-LIVO](https://github.com/hku-mars/FAST-LIVO) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
+
+*   [xiangli0608/Learning\_localization\_from\_scratch\_ws](https://github.com/xiangli0608/Learning_localization_from_scratch_ws) -
+
+*   [minwoo0611/MA-LIO](https://github.com/minwoo0611/MA-LIO) - Asynchronous Multiple LiDAR-Inertial Odometry using Point-wise Inter-LiDAR Uncertainty Propagation
+
+*   [peterWon/GLoc3D](https://github.com/peterWon/GLoc3D) -
+
+*   [peterWon/Ct-LVI](https://github.com/peterWon/Ct-LVI) -
+
+*   [peterWon/LVI-ExC](https://github.com/peterWon/LVI-ExC) - Implementation of "LVI-ExC: A Target-free LiDAR-Visual-Inertial Extrinsic Calibration Framework", ACM MM 2022.
+
+*   [ethz-asl/odom\_predictor](https://github.com/ethz-asl/odom_predictor) - Integrates an IMU to predict future odometry readings
+
+*   [zdzhaoyong/GSLAM](https://github.com/zdzhaoyong/GSLAM) - A General Simultaneous Localization and Mapping Framework which supports feature based or direct method and different sensors including monocular camera, RGB-D sensors or any other input types can be handled.
+
+*   [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB
+
+*   [rwth-irt/gnssFGO](https://github.com/rwth-irt/gnssFGO) - This is the official repo of the project gnssFGO.
+
+*   [ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) - GPS points will be predefined in ROS based robots to navigate to the destination avoiding obstacles.
+
+*   [AIRLab-POLIMI/C-SLAM](https://github.com/AIRLab-POLIMI/C-SLAM) - C-SLAM
+
+*   [ivipsourcecode/dxslam](https://github.com/ivipsourcecode/dxslam) -
+
+*   [berndpfrommer/tagslam](https://github.com/berndpfrommer/tagslam) - SLAM with apriltags
+
+*   [rpng/MINS](https://github.com/rpng/MINS) - An efficient and robust multisensor-aided inertial navigation system with online calibration that is capable of fusing IMU, camera, LiDAR, GPS/GNSS, and wheel sensors. Use cases: VINS/VIO, GPS-INS, LINS/LIO, multi-sensor fusion for localization and mapping (SLAM). This repository also provides multi-sensor simulation and data.
+
+*   [shichaoy/cube\_slam](https://github.com/shichaoy/cube_slam) - CubeSLAM: Monocular 3D Object Detection and SLAM
+
+*   [yanmin-wu/EAO-SLAM](https://github.com/yanmin-wu/EAO-SLAM) - \[IROS 2020] EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association
+
+*   [PRBonn/vpr\_relocalization](https://github.com/PRBonn/vpr_relocalization) - The framework for visual place recognition in changing enviroments. Matches two sequence of images of arbitrary trajectory overlap.
+
+*   [PRBonn/online\_place\_recognition](https://github.com/PRBonn/online_place_recognition) - Graph-based image sequences matching for the visual place recognition in changing environments.
+
+*   [silencht/SG-SLAM](https://github.com/silencht/SG-SLAM) - SG-SLAM: A Real-Time RGB-D Visual SLAM toward Dynamic Scenes with Semantic and Geometric Information
+
+*   [paul0noah/sm-comb](https://github.com/paul0noah/sm-comb) -
+
+*   [gaoxiang12/ORB-YGZ-SLAM](https://github.com/gaoxiang12/ORB-YGZ-SLAM) -
+
+*   [ethz-asl/plotty](https://github.com/ethz-asl/plotty) - matplotlib-cpp with Eigen interfaces.
+
+*   [0voice/introduce\_c-cpp\_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
+
+*   [ut-amrl/pom\_localization](https://github.com/ut-amrl/pom_localization) -
+
+*   [hku-mars/joint-lidar-camera-calib](https://github.com/hku-mars/joint-lidar-camera-calib) - Joint intrinsic and extrinsic LiDAR-camera calibration.
+
+*   [ruixiang440/Dual\_Iterative\_Refinement\_Method](https://github.com/ruixiang440/Dual_Iterative_Refinement_Method) - This is the code for A Dual Iterative Refinement Method for Non-rigid Shape Matching, https://arxiv.org/abs/2007.13049
+
+*   [stella-cv/stella\_vslam](https://github.com/stella-cv/stella_vslam) - This is a unofficial fork of OpenVSLAM (https://github.com/xdspacelab/openvslam)
+
+*   [nadiawangberg/imu\_to\_odom](https://github.com/nadiawangberg/imu_to_odom) - ROS imu to odometry message converter. To be used as a part of a larger sensor fusion system, should not be used to estimate pose by itself.
+
+*   [karanchawla/GPS\_IMU\_Kalman\_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) - Fusing GPS, IMU and Encoder sensors for accurate state estimation.
+
+*   [vkopli/gtsam\_vio](https://github.com/vkopli/gtsam_vio) - Visual Inertial Odometry (VIO) / Simultaneous Localization & Mapping (SLAM) using iSAM2 framework from the GTSAM library.
+
+*   [hku-mars/D-Map](https://github.com/hku-mars/D-Map) - D-Map provides an efficient occupancy mapping approach for high-resolution LiDAR sensors.
+
+*   [rsasaki0109/lidar\_localization\_ros2](https://github.com/rsasaki0109/lidar_localization_ros2) - 3D LIDAR Localization using NDT/GICP and pointcloud map in ROS 2 (Not SLAM)
+
+*   [Pamphlett/Outram](https://github.com/Pamphlett/Outram) - \[ICRA 2024] Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning
+
+*   [jmaye/curb-detection](https://github.com/jmaye/curb-detection) - A C++ based library for curb detection
+
+*   [tiev-tongji/VoxelGridOMP](https://github.com/tiev-tongji/VoxelGridOMP) - voxel grid in parallel, using the OpenMP standard, based on PCL.
+
+*   [tiev-tongji/LOG-LIO](https://github.com/tiev-tongji/LOG-LIO) - A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation
+
+*   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
+
+*   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
+
+*   [engcang/vins-application](https://github.com/engcang/vins-application) - VINS-Fusion, VINS-Fisheye, OpenVINS, EnVIO, ROVIO, S-MSCKF, ORB-SLAM2, NVIDIA Elbrus application of different sets of cameras and imu on different board including desktop and Jetson boards
+
+*   [ereator/Dense-CRF](https://github.com/ereator/Dense-CRF) - A Revision of the Dense Conditional Random Field, downloaded from [Stanford University](http://graphics.stanford.edu/projects/densecrf). The revision supports OpenCV and DGM libraries.
+
+*   [lucasb-eyer/pydensecrf](https://github.com/lucasb-eyer/pydensecrf) - Python wrapper to Philipp Krähenbühl's dense (fully connected) CRFs with gaussian edge potentials.
+
+*   [url-kaist/patchwork-plusplus-ros](https://github.com/url-kaist/patchwork-plusplus-ros) - ROS & ROS2 Implementation of Patchwork++
+
+*   [deepmedic/dense3dCrf](https://github.com/deepmedic/dense3dCrf) - Fully-connected (dense) 3D CRF for processing biomedical scans
+
+*   [RobustFieldAutonomyLab/la3dm](https://github.com/RobustFieldAutonomyLab/la3dm) - Learning-aided 3D mapping
+
+*   [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
+
+*   [SubMishMar/cam\_lidar\_calib](https://github.com/SubMishMar/cam_lidar_calib) - 3D-Lidar Camera Calibration using planar Point to to camera Plane Constraint
+
+*   [rubengooj/pl-slam](https://github.com/rubengooj/pl-slam) - This code contains an algorithm to compute stereo visual SLAM by using both point and line segment features.
+
+*   [AutoLidarPerception/segmenters\_lib](https://github.com/AutoLidarPerception/segmenters_lib) - The LiDAR segmenters library, for segmentation-based detection.
+
+*   [uestc-icsp/VoxelMapPlus\_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
+
+*   [downdemo/Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed) - C++11/14/17/20 templates and generic programming, the most complex and difficult technical details of C++, indispensable in building infrastructure libraries.
+
+*   [lokicui/loki](https://github.com/lokicui/loki) - Loki是由Andrei编写的一个与《Modern C++ Design》（C++设计新思维）一书配套发行的C++代码库。 它不仅把C++模板的功能发挥到了极致，而且把类似设计模式这样思想层面的东西通过库来提供。
+
+*   [tomwillow/tomsolver](https://github.com/tomwillow/tomsolver) - Simplest, Well-tested, Non-linear equations solver library by C++14.
+
+*   [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - C++11/14/17/20 multithreading, involving operating system principles and concurrent programming technology.
+
+*   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
+
+*   [2013fangwentao/Multi\_Sensor\_Fusion](https://github.com/2013fangwentao/Multi_Sensor_Fusion) - Multi-Sensor Fusion (GNSS, IMU, Camera) 多源多传感器融合定位 GPS/INS组合导航  PPP/INS紧组合
+
+*   [mrtkp9993/Cpp-Examples](https://github.com/mrtkp9993/Cpp-Examples) - Numerical C++ examples.
+
+*   [BrenYi/Light-LOAM](https://github.com/BrenYi/Light-LOAM) - (Beta Version)Code for paper "Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching"
+
+*   [yuyuaqwq/packer](https://github.com/yuyuaqwq/packer) - 现代C++的对象序列化魔法
+
+*   [ShujiaHuang/Cpp-Primer-Plus-6th](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th) -  《C++ Primer Plus 第6版（中文版）》原书代码、习题答案和个人笔记，仅供学习和交流。
+
+*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
+
+*   [PRBonn/hsmcl](https://github.com/PRBonn/hsmcl) -
+
+*   [skanti/Scan2CAD](https://github.com/skanti/Scan2CAD) - \[CVPR'19] Dataset and code used in the research project Scan2CAD: Learning CAD Model Alignment in RGB-D Scans
+
+*   [HViktorTsoi/ACSC](https://github.com/HViktorTsoi/ACSC) - Automatic Calibration for Non-repetitive Scanning Solid-State LiDAR and Camera Systems
+
+*   [idealvin/coost](https://github.com/idealvin/coost) - A tiny boost library in C++11.
+
+*   [StevenL2017/LeetCode](https://github.com/StevenL2017/LeetCode) -
+
+*   [eecrazy/Data-Structure-Code-in-HIT](https://github.com/eecrazy/Data-Structure-Code-in-HIT) - 哈工大数据结构课程写的一些代码
+
+*   [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
+
+*   [Guo-ziwei/fusion](https://github.com/Guo-ziwei/fusion) - fuse IMU data and Odometry
+
+*   [JokerJohn/opensource\_slam\_noted](https://github.com/JokerJohn/opensource_slam_noted) - open source slam system  notes
+
+*   [baaixw/VINS-Fusion-for-UrbanNavDataset-Evaluation](https://github.com/baaixw/VINS-Fusion-for-UrbanNavDataset-Evaluation) - this is very basic version for our dataset validation, only change the path, and align the frame of vio and Groundtruth
+
+*   [jypjypjypjyp/stereo\_ext\_opt](https://github.com/jypjypjypjyp/stereo_ext_opt) - Optimize the Rotation of the stereo camera's extrinsic
+
+*   [vkee/slam\_backend](https://github.com/vkee/slam_backend) - iSAM2-based backend interface for 2D Pose Graph SLAM
+
+*   [stillbreeze/Online-Stereo-Calibration](https://github.com/stillbreeze/Online-Stereo-Calibration) - Factor graph based batch optimization for online stereo calibration
+
+*   [abner-math/PlaneDetection](https://github.com/abner-math/PlaneDetection) - Implementation of my article "A Robust Statistics Approach for Plane Detection in Unorganized Point Clouds"
+
+*   [godloveliang/SFND\_2D\_Feature\_Tracking](https://github.com/godloveliang/SFND_2D_Feature_Tracking) - Keypoints Detector(HARRIS, FAST, BRISK, ORB, AKAZE, and SIFT),   Patch Descriptor(BRIEF, ORB, FREAK, AKAZE and SIFT)，and Matching(BFmatching, FLANN matching)).
+
+*   [HyHuang1995/gmmloc](https://github.com/HyHuang1995/gmmloc) - Implementation for IROS2020: "GMMLoc: Structure Consistent Visual Localization with Gaussian Mixture Model"
+
+*   [felixchenfy/Monocular-Visual-Odometry](https://github.com/felixchenfy/Monocular-Visual-Odometry) - A simple monocular visual odometry (part of vSLAM) by ORB keypoints with initialization, tracking, local map and bundle adjustment. (WARNING: Hi, I'm sorry that this project is tuned for course demo, not for real world applications !!!)
+
+*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
+
+*   [ShiPC-AI/LiDAR-Localization-100FPS](https://github.com/ShiPC-AI/LiDAR-Localization-100FPS) - LiDAR localization at 100FPS: A map-aided and template descriptor-based global method
+
+*   [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+
+*   [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
+
+*   [ZikangYuan/semi\_elastic\_lio](https://github.com/ZikangYuan/semi_elastic_lio) - A LiDAR-inertial odometry utilizing semi-elastic LiDAR-inertial state estimation method
+
+*   [dan11003/CFEAR\_Radarodometry\_code\_public](https://github.com/dan11003/CFEAR_Radarodometry_code_public) - Efficient and accurate spinning FMCW 2D radar odometry in C++ / ROS.
+
+*   [hku-mars/HBA](https://github.com/hku-mars/HBA) - \[RAL 2023] A globally consistent LiDAR map optimization module
+
+*   [WhereIsHeroFrom/Code\_Templates](https://github.com/WhereIsHeroFrom/Code_Templates) -
+
+*   [ZJU-Robotics-Lab/GEM](https://github.com/ZJU-Robotics-Lab/GEM) - GEM: Online Globally consistent dense elevation mapping for unstructured terrain.
+
+*   [Huguet57/LIMO-Velo](https://github.com/Huguet57/LIMO-Velo) - A real-time, direct and tightly-coupled LiDAR-Inertial SLAM for high velocities with spinning LiDARs
+
+*   [leavesnight/VIEO\_SLAM](https://github.com/leavesnight/VIEO_SLAM) - Simultaneous localizing and mapping through visual, inertial measurement unit, encoders and maybe other odometers.
+
+*   [APRIL-ZJU/lidar\_IMU\_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - \[IROS 2020] Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
+
+*   [HViktorTsoi/PV-LIO](https://github.com/HViktorTsoi/PV-LIO) - A probabilistic voxelmap-based LiDAR-Inertial Odometry.
+
+*   [gaowenliang/wheel\_odom](https://github.com/gaowenliang/wheel_odom) -
+
+*   [mmc-maodun/Data-Structure-And-Algorithm](https://github.com/mmc-maodun/Data-Structure-And-Algorithm) - Data Structure And Algorithm（常用数据结构与算法C/C++实现）
+
+*   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
+
+*   [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry) - A project of Visual Inertial Odometry for Autonomous Vehicle
+
+*   [UMich-BipedLab/LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - This is a package for LiDARTag, described in paper: LiDARTag: A Real-Time Fiducial Tag System for Point Clouds
+
+*   [anxixu0101/ros\_code](https://github.com/anxixu0101/ros_code) - 一些关于ros/C++从入门，进阶，到修仙的代码
+
+*   [BingqiShen/EMV-LIO](https://github.com/BingqiShen/EMV-LIO) - EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry
+
+*   [ZikangYuan/liw\_oam](https://github.com/ZikangYuan/liw_oam) - \[IROS 2023] A LiDAR-inertial-wheel odometry and mapping system based on BA framework.
+
+*   [xiaoqiuslam/xiaoqiuslam](https://github.com/xiaoqiuslam/xiaoqiuslam) - 零基础从零开始学习SLAM
+
+*   [vyanev1/3D-point-cloud-mapping](https://github.com/vyanev1/3D-point-cloud-mapping) - Uses an artificially created calibration object to estimate the transformation matrix (translation & rotation) and construct a 3D Point Cloud map from a limited number of views captured from a Xbox Kinect V1 LiDAR camera
+
+*   [hku-mars/LiDAR\_IMU\_Init](https://github.com/hku-mars/LiDAR_IMU_Init) - \[IROS2022] Robust Real-time LiDAR-inertial Initialization Method.
+
+*   [droneslab/edgeslam](https://github.com/droneslab/edgeslam) - Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping
+
+*   [RobustFieldAutonomyLab/waypoint\_navigation](https://github.com/RobustFieldAutonomyLab/waypoint_navigation) -
+
+*   [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) -
+
+*   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
+
+*   [zhazhaog/qqmsuic](https://github.com/zhazhaog/qqmsuic) -
+
+*   [OpenCalib/SurroundCameraCalib](https://github.com/OpenCalib/SurroundCameraCalib) -
+
+*   [8bit-nyk/hslam\_ros\_docker](https://github.com/8bit-nyk/hslam_ros_docker) -
+
+*   [hovren/minimal\_ceres\_sophus](https://github.com/hovren/minimal_ceres_sophus) - Minimal example showing problem with Ceres and Sophus
+
+*   [JokerJohn/Cloud\_Map\_Evaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation) - Point cloud map evaluation library  for the FusionPortable dataset.  Metrics include Mean Map Entropy (MME), RMSE, Accuracy(mean error), Precision(standard deviation), completeness(overlap ratio), chamfer distance and F1-score at all levels of 1/2/5/10/20cm.
+
+*   [MIT-SPARK/Hydra](https://github.com/MIT-SPARK/Hydra) -
+
+*   [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
+
+*   [tier4/YabLoc](https://github.com/tier4/YabLoc) - Open source visual localization for self-driving vehicles
+
+*   [zhangxy0517/3D-Registration-with-Maximal-Cliques](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques) - Source code of CVPR 2023 paper
+
+*   [rzou15/Object-detection-in-Point-Cloud-road-boundary](https://github.com/rzou15/Object-detection-in-Point-Cloud-road-boundary) - Object detection in Point Cloud is popular in HD Map and sensor-based autonomous driving. There  basically four types of object you can obtain in daily scenario: road surface - contains painted lane  marking and pavement area, support facility - contains road boundary (guardrail and curb), road  sign, light pole, etc., uncorrelated object - for example, sidewalk, building, etc., and moving object -  such like pedestrian, vehicle, bicycle, etc.  In this project, please search references, design and prototype your road  boundary (guardrail) detection algorithm.
+
+*   [MiRoboticsLab/cyberdog\_miloc](https://github.com/MiRoboticsLab/cyberdog_miloc) -
+
+*   [OpenCalib/JointCalib](https://github.com/OpenCalib/JointCalib) -
+
+*   [NKU-MobFly-Robotics/laser\_scan\_matcher](https://github.com/NKU-MobFly-Robotics/laser_scan_matcher) - An incremental laser scan matcher, using PLICP (point-to-line iterative closest point) scan matching algorithm.
+
+*   [yinwu33/multi\_lidar\_calibration](https://github.com/yinwu33/multi_lidar_calibration) - Calibrate extrinsic parameters of multi-lidars, based on ICP or NDT, etc.
+
+*   [carlosmccosta/dynamic\_robot\_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - Point cloud registration pipeline for robot localization and 3D perception
+
+*   [kungfrank/pw\_ndt\_automotive\_radar\_scan\_matching](https://github.com/kungfrank/pw_ndt_automotive_radar_scan_matching) -
+
+*   [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (2023 RAL Best Paper Award)
+
+*   [ethz-asl/robust\_point\_cloud\_registration](https://github.com/ethz-asl/robust_point_cloud_registration) - Robust Point Cloud Registration Using Iterative Probabilistic Data Associations ("Robust ICP")
+
+*   [qpc001/Feature\_Base\_Pointcloud\_Registration](https://github.com/qpc001/Feature_Base_Pointcloud_Registration) - Pointcloud\_Registration from loam
+
+*   [XiaotaoGuo/lio-sam-w-comments](https://github.com/XiaotaoGuo/lio-sam-w-comments) - :book: LIO-SAM 代码注释+逻辑梳理
+
+*   [hridaybavle/semantic\_slam](https://github.com/hridaybavle/semantic_slam) - This package is for running the semantic SLAM algorithm using extracted planar surfaces from the received detection
+
+*   [SlamMate/CDS-SLAM-Semantic-mapping-in-dynamic-environment](https://github.com/SlamMate/CDS-SLAM-Semantic-mapping-in-dynamic-environment) - This project is the result of my undergraduate dissertation. The localization in dynamic environment is to deploy TensorRT optimized YOLOX in the front end of ORB-SLAM3 for object detection, and then eliminate all points belonging to the human bounding box. At the same time, the semantic information is sent to the mapping module to dye the 3D point cloud. The disadvantage of this project is that in the localization  module, only the points belonging to people are processed, because people are dynamic most of the time. In the mapping module, we did not segment semantic objects accurately, resulting in wrong coloring of point clouds of other objects.
+
+*   [haeyeoni/global-LeGO-LOAM](https://github.com/haeyeoni/global-LeGO-LOAM) - global localization algorithm in point cloud map generated with loam
+
+*   [robotics-upo/dll](https://github.com/robotics-upo/dll) - DLL: Direct Lidar Localization
+
+*   [vectr-ucla/direct\_lidar\_odometry](https://github.com/vectr-ucla/direct_lidar_odometry) - \[IEEE RA-L & ICRA'22] A lightweight and computationally-efficient frontend LiDAR odometry solution with consistent and accurate localization.
+
+*   [zhh2005757/kaist\_complex\_urban\_dataset\_tool](https://github.com/zhh2005757/kaist_complex_urban_dataset_tool) - Modified kasit\_tool for wheel odometer velocity calculation and velodyne timestamp recovery
+
+*   [url-kaist/AlterGround-LeGO-LOAM](https://github.com/url-kaist/AlterGround-LeGO-LOAM) - The page for PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry
+
+*   [wh200720041/SRLCD](https://github.com/wh200720041/SRLCD) - fast loop closure detection (online visual place recognition) via saliency re-identification IROS 2020
+
+*   [XiaoBaiiiiii/colmap-pcd](https://github.com/XiaoBaiiiiii/colmap-pcd) - Image-to-point cloud Registration Tool
+
+*   [zlwang7/S-FAST\_LIO](https://github.com/zlwang7/S-FAST_LIO) - A simplified implementation of FAST\_LIO (with Chinese note)
+
+*   [pezy/LeetCode](https://github.com/pezy/LeetCode) - :pencil2: LeetCode solutions in C++ 11 and Python3
+
+*   [kahowang/sensor-fusion-for-localization-and-mapping](https://github.com/kahowang/sensor-fusion-for-localization-and-mapping) - 深蓝学院 多传感器定位融合第四期 学习笔记
+
+*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
+
+*   [cxxsucks/SearchEverywhere](https://github.com/cxxsucks/SearchEverywhere) - CLI/GUI file searcher combining find, locate and Everything, plus content searching. Works on Linux, Windows and macOS.This repo is for Qt-based GUI.
+
+*   [botaojia/simplex](https://github.com/botaojia/simplex) - DownHill simplex algorithm implementation and demos
+
+*   [ethz-asl/minkindr](https://github.com/ethz-asl/minkindr) - A minimal library for transformations, following the kindr interface. Uses active quaternions of rotation in Hamilton notation.
+
+*   [MegviiRobot/OdomLaserCalibraTool](https://github.com/MegviiRobot/OdomLaserCalibraTool) - Extrinsic Calibration of a Odom and 2d Laser
+
+*   [zqxbit/lcr-smm](https://github.com/zqxbit/lcr-smm) - LCR-SMM: Large Convergence Region Semantic Map Matching  Algorithm
+
+*   [ccslykx/Starry](https://github.com/ccslykx/Starry) - 以划词弹窗的形式调用其他软件的命令行指令。
+
+*   [bigbigpark/imu\_gps\_fusion](https://github.com/bigbigpark/imu_gps_fusion) - IMU + GPS fusion scratch using ROS
+
+*   [Mitchell-Lee-93/kitti-lego-loam](https://github.com/Mitchell-Lee-93/kitti-lego-loam) - Easy description to run and evaluate Lego-LOAM with KITTI-data
+
+*   [ethz-asl/lidar\_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
+
+*   [ethz-asl/geodetic\_utils](https://github.com/ethz-asl/geodetic_utils) - Simple library for converting coordinates to/from several geodetic frames (lat/lon, ECEF, ENU, NED, etc.)
+
+*   [ethz-asl/time\_autosync](https://github.com/ethz-asl/time_autosync) - Automatically syncs a camera to a rigidly attached IMUs time frame
+
+*   [zhuqingzhang/MSOC-S-IKF](https://github.com/zhuqingzhang/MSOC-S-IKF) -
+
+*   [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving
+
+*   [ut-amrl/vision\_slam\_frontend](https://github.com/ut-amrl/vision_slam_frontend) - SLAM frontend for a ground robot using vision and odometry
+
+*   [ankitdhall/lidar\_camera\_calibration](https://github.com/ankitdhall/lidar_camera_calibration) - ROS package to find a rigid-body transformation between a LiDAR and a camera for "LiDAR-Camera Calibration using 3D-3D Point correspondences"
+
+*   [gaowenliang/code\_utils](https://github.com/gaowenliang/code_utils) - my code utils
+
+*   [ros-perception/imu\_pipeline](https://github.com/ros-perception/imu_pipeline) - Transforms sensor\_msgs/Imu messages into new coordinate frames using tf
+
+*   [chengwei0427/Lidar\_IMU\_Localization](https://github.com/chengwei0427/Lidar_IMU_Localization) - Lidar-IMU Localization System with Prior Map Constraint and Lio Constraint
+
+*   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
+
+*   [leggedrobotics/graph\_msf](https://github.com/leggedrobotics/graph_msf) - A graph-based multi-sensor fusion framework. It can be used to fuse various relative or absolute measurments with IMU readings in real-time.
+
+*   [rising-turtle/graph\_slam](https://github.com/rising-turtle/graph_slam) - Graph SLAM: VO, IMU Preintegration, Plane
+
+*   [linyicheng1/A-ORB-SLAM2](https://github.com/linyicheng1/A-ORB-SLAM2) - Advanced  ORB-SLAM2
+
+*   [HeYijia/VINS-Course](https://github.com/HeYijia/VINS-Course) - VINS-Mono code without Ceres or ROS
+
+*   [wykxwyc/LeGO-LOAM\_NOTED](https://github.com/wykxwyc/LeGO-LOAM_NOTED) - LeGO-LOAM代码注释与学习
+
+*   [prime-slam/line-detection-association-dockers](https://github.com/prime-slam/line-detection-association-dockers) - A collection of dockers for line detection and association algorithms
+
+*   [DreamWaterFound/Prerequisites-of-On-line-Semantic-VSLAM](https://github.com/DreamWaterFound/Prerequisites-of-On-line-Semantic-VSLAM) - 在线语义视觉SLAM基础：C++语言程序中调用Python实现的图像分割网络、获取分割结果
+
+*   [HeadReaper-hc/PL-SLAM-plucker](https://github.com/HeadReaper-hc/PL-SLAM-plucker) - PL-SLAM with Plucker and Orthogonal representation Line feature
+
+*   [1robertslattery/GeometricTestLibrary](https://github.com/1robertslattery/GeometricTestLibrary) - Solves 2D and 3D math problems, including, closest point, intersection, line of sight, and reflection vector:
+
+*   [lefticus/cpp\_weekly](https://github.com/lefticus/cpp_weekly) - The official C++ Weekly Repository. Code samples and notes of future / past episodes will land here at various times. PR's will be accepted in some cases.
+
+*   [cleinc/slslam](https://github.com/cleinc/slslam) - Building a 3D Line-based Map Using a Stereo SLAM
+
+*   [boxuLibrary/Structural-and-Non-structural-line](https://github.com/boxuLibrary/Structural-and-Non-structural-line) - comparison of plucker parameter representation and the parameter representation proposed by ours
+
+*   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features.
+
+*   [bexcite/apolloscape-sfm](https://github.com/bexcite/apolloscape-sfm) - C++ Structure from Motion (SfM) pipeline with OpenGL visualization for Apolloscape Dataset
+
+*   [rulllars/SequentialVisualLocalization](https://github.com/rulllars/SequentialVisualLocalization) -
+
+*   [navganti/SIVO](https://github.com/navganti/SIVO) - SIVO - Semantically Informed Visual Odometry and Mapping. Integrated Bayesian semantic segmentation with ORBSLAM\_2 to select better features for Visual SLAM.
+
+*   [tony1098/Stereo-Localization-in-LiDAR-Maps](https://github.com/tony1098/Stereo-Localization-in-LiDAR-Maps) - Visual localization method in LiDAR maps. Only a stereo camera is need during localization since the LiDAR map can be built offline.
+
+*   [alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration) - This repo contains source code of our paper presented in IROS2021 "Single-Shot is Enough: Panoramic Infrastructure Based Calibration of Multiple Cameras and 3D LiDARs"
+
+*   [weihsinc/robot\_localization](https://github.com/weihsinc/robot_localization) - A ROS package for real-time nonlinear state estimation for robots moving in 3D space. It contains two state estimation nodes which use Kalman filters (EKF/UKF) for real-time sensor fusion.
+
+*   [sansuiso/LBDReconstruction](https://github.com/sansuiso/LBDReconstruction) -
+
+*   [shidahe/semidense-lines](https://github.com/shidahe/semidense-lines) - Incremental 3D Line Segment Extraction for Surface Reconstruction from Semi-dense SLAM
+
+*   [JingwenWang95/DSP-SLAM](https://github.com/JingwenWang95/DSP-SLAM) - \[3DV 2021] DSP-SLAM: Object Oriented SLAM with Deep Shape Priors
+
+*   [wangx1996/Lidar-Segementation](https://github.com/wangx1996/Lidar-Segementation) - An implementation on "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance" from IROS 2019
+
+*   [OpenDriveLab/OpenLane](https://github.com/OpenDriveLab/OpenLane) - \[ECCV 2022 Oral] OpenLane: Large-scale Realistic 3D Lane Dataset
+
+*   [yukitsuji/mono\_3d\_localizer](https://github.com/yukitsuji/mono_3d_localizer) -
+
+*   [hyye/dsl](https://github.com/hyye/dsl) - Implementation of Monocular Direct Sparse Localization in a Prior 3D Surfel Map (DSL)
+
+*   [SMRT-AIST/interactive\_slam](https://github.com/SMRT-AIST/interactive_slam) - Interactive Map Correction for 3D Graph SLAM
+
+*   [kaifishr/CppMultilayerPerceptron](https://github.com/kaifishr/CppMultilayerPerceptron) - A simple class for fully connected neural networks.
+
+*   [fabianschenk/REVO](https://github.com/fabianschenk/REVO) - Robust Edge-based Visual Odometry (REVO)
+
+*   [82473468/map-making](https://github.com/82473468/map-making) - making-map
+
+*   [82473468/wenchi-map](https://github.com/82473468/wenchi-map) -
+
+*   [82473468/wenchi-poles](https://github.com/82473468/wenchi-poles) - poles and icp slam
+
+*   [StephLin/LIO-SEGMOT](https://github.com/StephLin/LIO-SEGMOT) - LiDAR-Inertial Odometry via Simultaneous Ego-motion Estimation and Multiple Object Tracking (ICRA 2023)
+
+*   [keithMaybe/code](https://github.com/keithMaybe/code) -
+
+*   [HuaGouFdog/FdogSerialize](https://github.com/HuaGouFdog/FdogSerialize) - C++ 序列化库（FdogSerialize is a library for serializing between C++ objects (structs, STL containers, etc.) and json strings. FStruct是一个用于C++对象(结构体，STL容器等)和json字符串之间进行序列化的库。）
+
+*   [zhuqingzhang/C-MIMB-VIO](https://github.com/zhuqingzhang/C-MIMB-VIO) -
+
+*   [lucasjinreal/DCNv2\_latest](https://github.com/lucasjinreal/DCNv2_latest) - DCNv2 supports decent pytorch such as torch 1.5+ (now 1.8+)
+
+*   [jianhengLiu/SV-SLAM](https://github.com/jianhengLiu/SV-SLAM) -
+
+*   [zouyajing/multi\_sensor\_loclization\_and\_mapping](https://github.com/zouyajing/multi_sensor_loclization_and_mapping) - localization and mapping based on multiple sensor fusion
+
+*   [YJZLuckyBoy/liorf\_localization](https://github.com/YJZLuckyBoy/liorf_localization) - A simple location system based on a priori map, which is based on the lio-sam framework
+
+*   [fdayoub/ros-semantic-mapper](https://github.com/fdayoub/ros-semantic-mapper) - Place Categorization and Semantic Mapping on a Mobile Robot
+
+*   [peterWon/D-LIOM](https://github.com/peterWon/D-LIOM) - Tightly-coupled Direct LiDAR-Inertial Odometry and Mapping Based on Cartographer3D.
+
+*   [ChoiSeongHo-h/open\_vins\_mot](https://github.com/ChoiSeongHo-h/open_vins_mot) - OpenVINS with Moving Object Tracking
+
+*   [bzdfzfer/litamin2](https://github.com/bzdfzfer/litamin2) -
+
+*   [HeYijia/PL-VIO](https://github.com/HeYijia/PL-VIO) - monocular visual inertial system with point and line features
+
+*   [url-kaist/UV-SLAM](https://github.com/url-kaist/UV-SLAM) - UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping
+
+*   [bxh1/VIDO-SLAM](https://github.com/bxh1/VIDO-SLAM) - VIDO-SLAM is a  Visual Inertial SLAM system for dynamic environments, and it can  also estimate dynamic objects motion and track objects.
+
+*   [yanyan-li/Structure-SLAM-PointLine](https://github.com/yanyan-li/Structure-SLAM-PointLine) - This is a basic point-line SLAM system based on ORBSLAM2.
+
+*   [yuhanghe01/arrow\_road\_marking\_detection](https://github.com/yuhanghe01/arrow_road_marking_detection) -
+
+*   [iisys-hof/map-matching-2](https://github.com/iisys-hof/map-matching-2) - High Performance Map Matching with Markov Decision Processes (MDPs) and Hidden Markov Models (HMMs).
+
+*   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
+
+*   [xiaoxiaotao/ceres\_lm\_pl\_icp](https://github.com/xiaoxiaotao/ceres_lm_pl_icp) - point to line icp by Ceres
+
+*   [xingyuuchen/LIO-PPF](https://github.com/xingyuuchen/LIO-PPF) - \[IROS 2023] Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking
+
+*   [alexanderkoumis/lsd\_slam\_to\_pcl](https://github.com/alexanderkoumis/lsd_slam_to_pcl) - LSD-SLAM to PCL
+
+*   [hafeezhusain/stereo\_depth\_correction](https://github.com/hafeezhusain/stereo_depth_correction) - ROS package to improve depth map of stereo camera using LIDAR point cloud
+
+*   [primetang/pylsd](https://github.com/primetang/pylsd) - python bindings for LSD - Line Segment Detector.
+
+*   [manhofer/Line3Dpp](https://github.com/manhofer/Line3Dpp) - Line3D++ - Multi-View Stereo using Line Segments
+
+*   [abignoli/EdgeGraph3D](https://github.com/abignoli/EdgeGraph3D) - Multi-view Stereo 3D Edge Reconstruction
+
+*   [GhiXu/ACMMP](https://github.com/GhiXu/ACMMP) - Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo (TPAMI 2022)
+
+*   [tussedrotten/sensor-fusion-example](https://github.com/tussedrotten/sensor-fusion-example) -
+
+*   [koide3/hdl\_graph\_slam](https://github.com/koide3/hdl_graph_slam) - 3D LIDAR-based Graph SLAM
+
+*   [jaejunlee0538/manual\_pos\_graph\_slam](https://github.com/jaejunlee0538/manual_pos_graph_slam) - GUI for performing pose graph SLAM manually when given 3D scan data and vehicle's odometry.
+
+*   [Ellon/pgslam](https://github.com/Ellon/pgslam) - Implementation of ICP-based Pose Graph SLAM
+
+*   [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
+
+*   [url-kaist/patchwork-plusplus](https://github.com/url-kaist/patchwork-plusplus) - Patchwork++: Fast and robust ground segmentation method for 3D LiDAR scans. @ IROS'22
+
+*   [libing64/monocular\_vo](https://github.com/libing64/monocular_vo) -
+
+*   [libing64/pose\_ekf](https://github.com/libing64/pose_ekf) - Extented Kalman Filter for 6D pose estimation using gps, imu, magnetometer and sonar sensor.
+
+*   [libing64/stereo\_vo](https://github.com/libing64/stereo_vo) - keyframe-based stereo visual odometry
+
+*   [Frozenheart1998/SemanticPointCloud](https://github.com/Frozenheart1998/SemanticPointCloud) -
+
+*   [cmpute/seddom](https://github.com/cmpute/seddom) - Fast semantic dense occupancy mapping based on random free space sampling and spherical rtree
+
+*   [reem90/semantic\_occupancy\_mapping](https://github.com/reem90/semantic_occupancy_mapping) -
+
+*   [shichaoy/semantic\_3d\_mapping](https://github.com/shichaoy/semantic_3d_mapping) - Semantic 3D Occupancy Mapping through Efficient High Order CRFs
+
+*   [alphadadajuju/graph\_semantic](https://github.com/alphadadajuju/graph_semantic) -
+
+*   [gaoxiang12/slam\_in\_autonomous\_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
+
+*   [ayushmankumar7/Stereo-Image-to-PointCloud](https://github.com/ayushmankumar7/Stereo-Image-to-PointCloud) - My First C++ Repo
+
+*   [phillip-h/todo](https://github.com/phillip-h/todo) - CLI to-do lists, written in C++ with ncurses
+
+*   [PRBonn/depth\_clustering](https://github.com/PRBonn/depth_clustering) - :taxi: Fast and robust clustering of point clouds generated with a Velodyne sensor.
+
+*   [KangchengLiu/slam\_resources](https://github.com/KangchengLiu/slam_resources) - :fire: :muscle: My summary of LiDAR-Inertial and Visual SLAM: Including Frond-end, Back-end, State Estimation, Motion Estimation, Monocular/Stereo/RGB-D Mapping, and Loop Closure Detection
+
+*   [jyakaranda/ndt\_map](https://github.com/jyakaranda/ndt_map) - SLAM package using NDT registration library of Autoware with loop-closure detection (odometry based) referenced from lego\_loam.
+
+*   [Earthwings/annotate](https://github.com/Earthwings/annotate) - Create 3D labelled bounding boxes in RViz
+
+*   [ros-box/a2d2\_to\_ros](https://github.com/ros-box/a2d2_to_ros) - https://gitlab.com/MaplessAI/external/a2d2\_to\_ros
+
+*   [xiaoDongSky/lane-marking-detection](https://github.com/xiaoDongSky/lane-marking-detection) - lane detection in multi-lane scenarios
+
+*   [YuePanEdward/RoadMarkingExtraction](https://github.com/YuePanEdward/RoadMarkingExtraction) - 🛣️ automatic extraction of road markings from MLS or ALS point cloud \[ISPRS-A' 19]
+
+*   [Cc19245/LVI-SAM-Easyused](https://github.com/Cc19245/LVI-SAM-Easyused) - LVI-SAM for easier using (更简单的使用LVI-SAM的方法)
+
+*   [VincentCheungM/Run\_based\_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
+
+*   [koide3/ndt\_omp](https://github.com/koide3/ndt_omp) - Multi-threaded and SSE friendly NDT algorithm
+
+*   [YJZLuckyBoy/liorf](https://github.com/YJZLuckyBoy/liorf) - This repo is modified based on LIO\_SAM, which remove the feature extraction module and makes it easier to adapt your sensor.
+
+*   [adin-pro/avp\_mapping](https://github.com/adin-pro/avp_mapping) - avp mapping algorithm using multi-camera system
+
+*   [sujiwo/vector-map-localization](https://github.com/sujiwo/vector-map-localization) - Vector Map
+
+*   [appinho/SASensorProcessing](https://github.com/appinho/SASensorProcessing) - ROS node to create pointcloud out of stereo images from the KITTI Vision Benchmark Suite
+
+*   [rob530-w22-team25/AVP-SLAM-PLUS](https://github.com/rob530-w22-team25/AVP-SLAM-PLUS) - An implementation of AVP-SLAM and some new contributions
+
+*   [xiaohulugo/3DLineDetection](https://github.com/xiaohulugo/3DLineDetection) - A simple and efficient 3D line detection algorithm for large scale unorganized point cloud
+
+*   [Robotics-BUT/Robotic-Template-Library](https://github.com/Robotics-BUT/Robotic-Template-Library) - C++ template library for use in robotics.
+
+*   [UditSinghParihar/ros\_utils](https://github.com/UditSinghParihar/ros_utils) - ROS messages utilities, cpp problems and linux commands
+
+*   [MaybeShewill-CV/Easy-Ipm-Client](https://github.com/MaybeShewill-CV/Easy-Ipm-Client) - An easy, interface friendly cross-platform client to generate bird's view images using inverse perspective mapping methods proposed in paper "Adaptive Inverse Perspective Mapping for Lane Map Generation with SLAM"
+
+*   [luoveh/bev\_localization\_simulation](https://github.com/luoveh/bev_localization_simulation) -
+
+*   [siuoly/Cpp\_debug\_Tool](https://github.com/siuoly/Cpp_debug_Tool) - 直接cout 各種容器,vector,map,set,tuple,list,chrono....等等的lib
+
+*   [udacity/SFND\_Lidar\_Obstacle\_Detection](https://github.com/udacity/SFND_Lidar_Obstacle_Detection) -
+
+*   [baidut/ITS](https://github.com/baidut/ITS) - experiments about automobile vision, now focusing on lane marking/boundary detection & tracking. see more https://github.com/baidut/OpenVehicleVision
+
+*   [XProger/xedit](https://github.com/XProger/xedit) - simple code editor
+
+*   [zwang0725/bird-s-eye-view-for-car-parking](https://github.com/zwang0725/bird-s-eye-view-for-car-parking) -
+
+*   [wangx1996/Lidar-pcd-2-jpg-of-bird-eye-view-](https://github.com/wangx1996/Lidar-pcd-2-jpg-of-bird-eye-view-) - Take bird-eye-view Jpg file from pcd file.
+
+*   [parkerFrisk/Bird-s-eye-view](https://github.com/parkerFrisk/Bird-s-eye-view) - Master thesis Bird´s-eye view with human detection
+
+*   [LittleAprilFool/camera-calibration](https://github.com/LittleAprilFool/camera-calibration) - Camera calibration\&Bird's-eye view transformation
+
+*   [Nowely/birds-eye-view-transform](https://github.com/Nowely/birds-eye-view-transform) - Education projects
+
+*   [zjuluolun/BVMatch](https://github.com/zjuluolun/BVMatch) - Lidar-based Place Recognition Using Bird's-eye View Images
+
+*   [beltransen/lidar\_bev](https://github.com/beltransen/lidar_bev) - A ROS package for LiDAR's Bird's Eye View projection.
+
+*   [troiwill/build-lidar-2d-bev-data](https://github.com/troiwill/build-lidar-2d-bev-data) - Generates 2D bird's eye view (BEV) images of individual LiDAR scans and aggregates individual scans to produce BEV maps.
+
+*   [placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster](https://github.com/placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster) - A hybrid SOTA solution of LiDAR panoptic segmentation with C++ implementations of point cloud clustering algorithms. ICCV21, Workshop on Traditional Computer Vision in the Age of Deep Learning
+
+*   [GDUT-Kyle/gicp\_slam](https://github.com/GDUT-Kyle/gicp_slam) - GICP点云配准算法复现
+
+*   [lorenwel/linefit\_ground\_segmentation](https://github.com/lorenwel/linefit_ground_segmentation) - Ground Segmentation from Lidar Point Clouds
+
+*   [HaisenbergPeng/ROLL](https://github.com/HaisenbergPeng/ROLL) - A real-time, robust LiDAR-inertial localization system
+
+*   [enginBozkurt/LidarObstacleDetection](https://github.com/enginBozkurt/LidarObstacleDetection) - Lidar Obstacle Detection
+
+*   [arpg/dyna\_infini](https://github.com/arpg/dyna_infini) -
+
+*   [Abin1258/imu\_gps\_fuse](https://github.com/Abin1258/imu_gps_fuse) - imu gps fuse use eskf
+
+*   [yanboishere/OI-diary-of-Yanbo](https://github.com/yanboishere/OI-diary-of-Yanbo) - Personal OJ Question Warehouse / 个人的OJ刷题仓库
+
+*   [ANYbotics/grid\_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
+
+*   [LitoNeo/SmartCar-pcd-map-Tools](https://github.com/LitoNeo/SmartCar-pcd-map-Tools) - Tools for self-driving car
+
+*   [cggos/slamkit](https://github.com/cggos/slamkit) - SLAM Kit
+
+*   [shenfalong/SegModel](https://github.com/shenfalong/SegModel) - A light-weight deep learning library based on Caffe
+
+*   [StilesGao/slam\_Basic\_exercise](https://github.com/StilesGao/slam_Basic_exercise) -
+
+*   [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) - This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope.
+
+*   [zeroAska/BGKOctoMap-CRF](https://github.com/zeroAska/BGKOctoMap-CRF) - Learning-aided 3D mapping
+
+*   [csiro-robotics/ohm](https://github.com/csiro-robotics/ohm) - An efficient, extensible occupancy map supporting probabilistic occupancy, normal distribution transforms in CPU and GPU.
+
+*   [AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials) - This is a code repository for pytorch c++ (or libtorch) tutorial.
+
+*   [ganlumomo/BKISemanticMapping](https://github.com/ganlumomo/BKISemanticMapping) - Bayesian Spatial Kernel Smoothing for Scalable Dense Semantic Mapping
+
+*   [UMich-BipedLab/SegmentationMapping](https://github.com/UMich-BipedLab/SegmentationMapping) -
+
+*   [schizzz8/srrg\_semantic\_mapper](https://github.com/schizzz8/srrg_semantic_mapper) -
+
+*   [muryakami/Dark\_History\_01](https://github.com/muryakami/Dark_History_01) - First Commit!!
+
+*   [HMX2013/FSPC-ROS](https://github.com/HMX2013/FSPC-ROS) - A ROS implementation of range image base dbscan clustering for 3D LiDAR point clouds
+
+*   [wangx1996/LIDAR-Segmentation-Based-on-Range-Image](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image) - This is a lidar segmentation method based on range image.
+
+*   [RichExplor/MultiSensor\_fusion](https://github.com/RichExplor/MultiSensor_fusion) - Multi sensor lidat-visual-imu fusion odometry
+
+*   [SS47816/lidar\_obstacle\_detector](https://github.com/SS47816/lidar_obstacle_detector) - 3D LiDAR Object Detection & Tracking using Euclidean Clustering, RANSAC, & Hungarian Algorithm
+
+*   [yzrobot/online\_learning](https://github.com/yzrobot/online_learning) - \[ROS package] Online Learning for Human Detection in 3D Point Clouds
+
+*   [FabianB98/RosHololens2CatkinWs](https://github.com/FabianB98/RosHololens2CatkinWs) - Contains all ROS related stuff (point cloud reconstruction from depth images, MOD and MOT algorithms) implemented for my Master's thesis.
+
+*   [squirrel-project/squirrel\_nav](https://github.com/squirrel-project/squirrel_nav) - Repository for navigation related SQUIRREL packages.
+
+*   [leggedrobotics/icp\_localization](https://github.com/leggedrobotics/icp_localization) - This package provides localization in a pre-built map using ICP and odometry (or the IMU measurements).
+
+*   [Parkyunhwan/Lane\_Extractor](https://github.com/Parkyunhwan/Lane_Extractor) - A Project to detect a lane from the pointcloud map, for make vector map (extarct lane)
+
+*   [Saki-Chen/W-LOAM](https://github.com/Saki-Chen/W-LOAM) - A ros package for robust odometry and mapping using LiDAR with aid of different sensors
+
+*   [ZhuangYanDLUT/lidar\_gnss\_mapping](https://github.com/ZhuangYanDLUT/lidar_gnss_mapping) -
+
+*   [EdwardLiuyc/StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
+
+*   [bigbigpark/LiDAR-CURB-DETECTION](https://github.com/bigbigpark/LiDAR-CURB-DETECTION) - Simple algorithm to detect the curb of road environment using 3D LiDAR
+
+*   [Jimmyjean1108/Localization-of-Self-Driving-Car-using-EKF-Sensor-Fusion](https://github.com/Jimmyjean1108/Localization-of-Self-Driving-Car-using-EKF-Sensor-Fusion) -
+
+*   [kungfrank/icp\_gtsam\_localization](https://github.com/kungfrank/icp_gtsam_localization) -
+
+*   [biomotion/bnn-localization](https://github.com/biomotion/bnn-localization) - Localizing using icp with map preprocessing
+
+*   [xiaohulugo/PointCloudSegmentation](https://github.com/xiaohulugo/PointCloudSegmentation) - A point cloud segmentation algorithm based on clustering analysis
+
+*   [bigbigpark/LiDAR-LANE-DETECTION](https://github.com/bigbigpark/LiDAR-LANE-DETECTION) - Simple algorithm to detect the lane of road environment using 3D LiDAR
+
+*   [azurity/lidar-hist](https://github.com/azurity/lidar-hist) - An implementation of "Lidar-histogram for fast road and obstacle detection"
+
+*   [linyliny/curb\_detection](https://github.com/linyliny/curb_detection) - based on the paper A real-time curb detection and tracking method for UGVs by using a 3D-LIDAR sensor
+
+*   [kwh950724/lidar\_lane\_detector](https://github.com/kwh950724/lidar_lane_detector) -
+
+*   [LiaoWeiHsiang/ICP-Localization](https://github.com/LiaoWeiHsiang/ICP-Localization) -
+
+*   [AndyYuan96/PointCloudDynamicVoxel](https://github.com/AndyYuan96/PointCloudDynamicVoxel) -
+
+*   [AbangLZU/vector-map-localization](https://github.com/AbangLZU/vector-map-localization) - Vector Map
+
+*   [Livox-SDK/LIO-Livox](https://github.com/Livox-SDK/LIO-Livox) - A Robust LiDAR-Inertial Odometry for Livox LiDAR
+
+*   [XiaotaoGuo/modular\_mapping\_and\_localization\_framework](https://github.com/XiaotaoGuo/modular_mapping_and_localization_framework) - :keyboard: A modular framework for comparing different algorithms used in mapping and localization.
+
+*   [Little-Potato-1990/localization\_in\_auto\_driving](https://github.com/Little-Potato-1990/localization_in_auto_driving) -
+
+*   [at-wat/mcl\_3dl](https://github.com/at-wat/mcl_3dl) - A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s). It implements pointcloud based Monte Carlo localization that uses a reference pointcloud as a map.
+
+*   [koide3/hdl\_localization](https://github.com/koide3/hdl_localization) - Real-time 3D localization using a (velodyne) 3D LIDAR
+
+*   [wh200720041/iscloam](https://github.com/wh200720041/iscloam) - Intensity Scan Context based full SLAM implementation for autonomous driving. ICRA 2020
+
+*   [geographiclib/geographiclib](https://github.com/geographiclib/geographiclib) - Main repository for GeographicLib
+
+*   [hyxhope/map\_evaluation\_tools](https://github.com/hyxhope/map_evaluation_tools) - This tool computes the *Mean Map Entropy* and the *Mean Plane Variance* of a point cloud.
+
+*   [hku-mars/BALM](https://github.com/hku-mars/BALM) - An efficient and consistent bundle adjustment for lidar mapping
+
+*   [Gaochao-hit/LIO-SAM\_based\_relocalization](https://github.com/Gaochao-hit/LIO-SAM_based_relocalization) - A simple system that can relocalize a robot on a built map is developed in this system. The system is based on LIO-SAM.
+
+*   [PeterFWS/Structure-PLP-SLAM](https://github.com/PeterFWS/Structure-PLP-SLAM) - \[ICRA'23] The official Implementation of "Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras"
+
+*   [jedeschaud/ct\_icp](https://github.com/jedeschaud/ct_icp) - CT-ICP: Continuous-Time LiDAR Odometry
+
+*   [zhouyong1234/SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One) - SLAM汇总，包括多传感器融合建图、定位、VIO系列、常用工具包、开源代码注释和公式推导、文章综述
+
+*   [acfr/cam\_lidar\_calibration](https://github.com/acfr/cam_lidar_calibration) - (ITSC 2021) Optimising the selection of samples for robust lidar camera calibration. This package estimates the calibration parameters from camera to lidar frame.
+
+*   [QingzhiWang/LIS-SLAM](https://github.com/QingzhiWang/LIS-SLAM) - Laser SLAM; Semantic-assisted point cloud matching; LiDAR/IMU fusion pose estimation; Loop closure detection; SubMap
+
+*   [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
+
+*   [KumarRobotics/sloam](https://github.com/KumarRobotics/sloam) - Semantic LIDAR odometry and mapping for cylinderical objects (e.g. trees in forests)
+
+*   [kkkkkaiai/gicp\_localizer](https://github.com/kkkkkaiai/gicp_localizer) - 3D LIDAR-based Localization using fast\_gicp and Point Cloud Map
+
+*   [SMRT-AIST/fast\_gicp](https://github.com/SMRT-AIST/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
+
+*   [Kitware/VeloView](https://github.com/Kitware/VeloView) - VeloView performs real-time visualization and easy processing of live captured 3D LiDAR data from Velodyne sensors (Alpha Prime™, Puck™, Ultra Puck™, Puck Hi-Res™, Alpha Puck™, Puck LITE™, HDL-32, HDL-64E). Runs on Windows, Linux and MacOS. This repository is a mirror of https://gitlab.kitware.com/LidarView/VeloView-Velodyne.
+
+*   [MIT-SPARK/TEASER-plusplus](https://github.com/MIT-SPARK/TEASER-plusplus) - A fast and robust point cloud registration library
+
+*   [anthonypan08/568\_final\_project](https://github.com/anthonypan08/568_final_project) -
+
+*   [RozDavid/LOL](https://github.com/RozDavid/LOL) - LOL: Lidar-only Odometry and Localization in 3D point cloud maps
+
+*   [yanyan-li/PlanarSLAM](https://github.com/yanyan-li/PlanarSLAM) - A RGB-D SLAM system for structural scenes, which makes use of point-line-plane features and the Manhattan World assumption.
+
+*   [Hhanx/FileSocket](https://github.com/Hhanx/FileSocket) - 有啥建议b站留言供我学习
+
+*   [YuePanEdward/GH-ICP](https://github.com/YuePanEdward/GH-ICP) - GH-ICP: Iterative Closest Point algorithm with global optimal matching and hybrid metric \[3DV' 18]
+
+*   [wavelab/offline\_mapper](https://github.com/wavelab/offline_mapper) - Batch offline graph SLAM with HDL32
+
+*   [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
+
+*   [LeisureLei/KITTI\_FUSION](https://github.com/LeisureLei/KITTI_FUSION) - laser point clouds project to image plane
+
+*   [SeunghwanByun/KITTI\_PROJECTION](https://github.com/SeunghwanByun/KITTI_PROJECTION) - Projection from 3D LiDAR point cloud to 2D Image. KITTI dataset provided by http://www.cvlibs.net/datasets/kitti/eval\_road.php
+
+*   [DLonng/RSPMP](https://github.com/DLonng/RSPMP) - RSPMP: real-time semantic perception and motion planning for autonomous navigation of unmanned ground vehicle in off-road environments
+
+*   [wysaid/xege](https://github.com/wysaid/xege) - Easy Graphics Engine
+
+*   [HuangCongQing/pcl-learning](https://github.com/HuangCongQing/pcl-learning) - 🔥PCL（Point Cloud Library）点云库学习记录
+
+*   [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
+
+*   [PoseLib/PoseLib](https://github.com/PoseLib/PoseLib) - Minimal solvers for calibrated camera pose estimation
+
+*   [donglinb/pnpl](https://github.com/donglinb/pnpl) - Computing 3D pose with 3D-2D point and line correspondances.
+
+*   [chenhanzhun/STL](https://github.com/chenhanzhun/STL) - The Annotated SGI STL Sources
+
+*   [icboredman/camera\_node](https://github.com/icboredman/camera_node) - ROS node that processes data received from a stereo camera module
+
+*   [MOLAorg/mola](https://github.com/MOLAorg/mola) - A Modular Optimization framework for Localization and mApping (MOLA)
+
+*   [hyungjinkim0508/gpicp](https://github.com/hyungjinkim0508/gpicp) -
+
+*   [cggos/imu\_x\_fusion](https://github.com/cggos/imu_x_fusion) - IMU + X(GNSS, 6DoF Odom) Loosely-Coupled Fusion Localization based on ESKF, IEKF, UKF(UKF/SPKF, JUKF, SVD-UKF) and MAP
+
+*   [ydsf16/particle\_filter\_localization](https://github.com/ydsf16/particle_filter_localization) - Particle filter-based localization in an occupancy grid map.
+
+*   [TouchDeeper/VIW-Fusion](https://github.com/TouchDeeper/VIW-Fusion) - Visual-inertial-wheel fusion odometry, better performance in scenes with drastic changes in light
+
+*   [i2Nav-WHU/Wheel-INS](https://github.com/i2Nav-WHU/Wheel-INS) - A wheel-mounted MEMS IMU-based dead reckoning system.
+
+*   [thesidjway/oxford-robotcar-to-rosbag](https://github.com/thesidjway/oxford-robotcar-to-rosbag) - Script to convert the Robot Car Camera + GPS data to a rosbag
+
+*   [rock-slam/slam-pose\_ekf](https://github.com/rock-slam/slam-pose_ekf) - This library provides a basic, EKF based, implementation for a pose
+    estimator that is able to fuse IMU, odometry and global positioning
+    information (GPS)
+
+*   [zhanghanduo/gps\_pose\_to\_local](https://github.com/zhanghanduo/gps_pose_to_local) - GPS and imu position and orientation convert to local camera frame
+
+*   [KIT-ISAS/lili-om](https://github.com/KIT-ISAS/lili-om) - LiLi-OM is a tightly-coupled, keyframe-based LiDAR-inertial odometry and mapping system for both solid-state-LiDAR and conventional LiDARs.
+
+*   [APRIL-ZJU/clins](https://github.com/APRIL-ZJU/clins) - \[IROS 2021] CLINS: Continuous-Time Trajectory Estimation for LiDAR-Inertial System
+
+*   [ethz-asl/maplab](https://github.com/ethz-asl/maplab) - A Modular and Multi-Modal Mapping Framework
+
+*   [hku-mars/VoxelMap](https://github.com/hku-mars/VoxelMap) - \[RA-L 2022] An efficient and probabilistic adaptive voxel mapping method for LiDAR odometry
+
+*   [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
+
+*   [melhousni/ndt\_mapping\_localization](https://github.com/melhousni/ndt_mapping_localization) - C++ Implementation of the NDT mapping and localization algorithm for ADV on ROS.
+
+*   [Mitchell-Lee-93/kitti-A-LOAM](https://github.com/Mitchell-Lee-93/kitti-A-LOAM) - Easy description to run and evaluate A-LOAM with KITTI-data
+
+*   [beltransen/velo2cam\_calibration](https://github.com/beltransen/velo2cam_calibration) - Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups. ROS Package.
+
+*   [floatlazer/semantic\_slam](https://github.com/floatlazer/semantic_slam) - Real time semantic slam in ROS with a hand held RGB-D camera
+
+*   [gisbi-kim/lt-mapper](https://github.com/gisbi-kim/lt-mapper) - A Modular Framework for LiDAR-based Lifelong Mapping
+
+*   [EpsAvlc/cam\_lidar\_fusion](https://github.com/EpsAvlc/cam_lidar_fusion) - project lidar's point cloud on camera's image
+
+*   [ethz-asl/segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments
+
+*   [UMich-CURLY/unified\_cvo](https://github.com/UMich-CURLY/unified_cvo) - Data-correspondence-free Point Cloud Registration on GPU
+
+*   [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
+
+*   [HorizonAD/stereo\_dso](https://github.com/HorizonAD/stereo_dso) -
+
+*   [zhouzhibo0117/scancontext\_ros](https://github.com/zhouzhibo0117/scancontext_ros) - A ROS application of Scan Context Image (SCI) for place recognition and global initialization.
+
+*   [GuYufeng93/Pointcloud-to-Images](https://github.com/GuYufeng93/Pointcloud-to-Images) - An algorithm for projecting three-dimensional laser point cloud data into serialized two-dimensional images.
+
+*   [wh200720041/intensity\_slam](https://github.com/wh200720041/intensity_slam) - Intensity-SLAM: Intensity Assisted Localization and Mapping for Large Scale Environment RA-L 2021
+
+*   [1989Ryan/Semantic\_SLAM](https://github.com/1989Ryan/Semantic_SLAM) - Semantic SLAM using ROS, ORB SLAM, PSPNet101
+
+*   [ISEE-Technology/CamVox](https://github.com/ISEE-Technology/CamVox) - \[ICRA2021] A low-cost SLAM system based on camera and Livox lidar.
+
+*   [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping   for indoor/outdoor localization IROS 2021
+
+*   [wh200720041/ssl\_slam](https://github.com/wh200720041/ssl_slam) - SSL\_SLAM: Lightweight 3-D Localization and Mapping for Solid-State LiDAR  IEEE RA-L 2021
+
+*   [daohu527/OpenHDMap](https://github.com/daohu527/OpenHDMap) - An open HD map production process for autonomous car simulation
+
+*   [wheelos/OpenHDMap](https://github.com/wheelos/OpenHDMap) - An open HD map production process for autonomous car simulation
+
+*   [fzi-forschungszentrum-informatik/Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
+
+*   [HITSZ-NRSL/long-term-localization](https://github.com/HITSZ-NRSL/long-term-localization) - \[ROBIO 2021] Pole-like Objects Mapping and Long-Term Robot Localization in Dynamic Urban Scenarios
+
+*   [PatrykMazurek/SLAM-OR](https://github.com/PatrykMazurek/SLAM-OR) -
+
+*   [VIS4ROB-lab/multi\_robot\_coordination](https://github.com/VIS4ROB-lab/multi_robot_coordination) - "Multi-robot Coordination with Agent-Server Architecture for Autonomous Navigation in Partially Unknown Environments", IROS 2020
+
+*   [PJLab-ADG/Livox-Mapping](https://github.com/PJLab-ADG/Livox-Mapping) - An all-in-one and ready-to-use LiDAR-inertial odometry system for Livox LiDAR
+
+*   [alexandrx/lidar\_hd\_ground\_mapping](https://github.com/alexandrx/lidar_hd_ground_mapping) - HD ground mapping by accumulation of scan data
+
+*   [seaun163/semanticfusion](https://github.com/seaun163/semanticfusion) -
+
+*   [hku-mars/loam\_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
+
+*   [gxytcrc/semantic-histogram-based-global-localization](https://github.com/gxytcrc/semantic-histogram-based-global-localization) - Semantic graph based global localization for multi-robot map fusion.
+
+*   [GSORF/Visual-GPS-SLAM](https://github.com/GSORF/Visual-GPS-SLAM) - This is a repo for my master thesis research about the Fusion of Visual SLAM and GPS. It contains the research paper, code and other interesting data.
+
+*   [martinruenz/maskfusion](https://github.com/martinruenz/maskfusion) - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects
+
+*   [Zhuagenborn/Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) - 🧟 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.
+
+*   [shichaoy/pop\_up\_image](https://github.com/shichaoy/pop_up_image) - Real-time 3D Scene Layout from a Single Image Using Convolutional Neural Networks
+
+*   [yuxng/DA-RNN](https://github.com/yuxng/DA-RNN) - Semantic Mapping with Data Associated Recurrent Neural Networks
+
+*   [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain
+
+*   [laboshinl/loam\_velodyne](https://github.com/laboshinl/loam_velodyne) - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
+
+*   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+
+*   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
+
+*   [ndrwk/detection](https://github.com/ndrwk/detection) - Motion analysis and object tracking
+
+*   [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL) - 剖析 STL 是一种享受的过程！
+
+*   [karlkurzer/path\_planner](https://github.com/karlkurzer/path_planner) - Hybrid A\* Path Planner for the KTH Research Concept Vehicle
+
+*   [electech6/ORB\_SLAM3\_detailed\_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) - Detailed comments for ORB-SLAM3
+
+*   [electech6/ORB\_SLAM2\_detailed\_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
+
+*   [raulmur/ORB\_SLAM](https://github.com/raulmur/ORB_SLAM) - A Versatile and Accurate Monocular SLAM
+
+*   [UZ-SLAMLab/ORB\_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
+
+*   [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
+
+*   [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook) -
+
+*   [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
+
+*   [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+
 ## Python
+
+*   [lucidrains/rectified-flow-pytorch](https://github.com/lucidrains/rectified-flow-pytorch) - Implementation of rectified flow and some of its followup research / improvements in Pytorch
+
+*   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
+
+*   [songquanpeng/pytorch-deployment](https://github.com/songquanpeng/pytorch-deployment) - A template for rapid deployment of PyTorch models.
+
+*   [songquanpeng/pytorch-template](https://github.com/songquanpeng/pytorch-template) - To be the world's best PyTorch project template.
+
+*   [Vincentqyw/image-matching-webui](https://github.com/Vincentqyw/image-matching-webui) - 🤗 image matching toolbox webui
 
 *   [WHU-USI3DV/SGHR](https://github.com/WHU-USI3DV/SGHR) - \[CVPR 2023] Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting
 
@@ -658,991 +1648,9 @@
 
 *   [zhpmatrix/VisDrone2018](https://github.com/zhpmatrix/VisDrone2018) - ECCV2018(Challenge-Object Detection in Images)
 
-*   [you359/Keras-FasterRCNN](https://github.com/you359/Keras-FasterRCNN) - keras implementation of Faster R-CNN
-
-## C++
-
-*   [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
-
-*   [HKUSTGZ-IADC/cobra](https://github.com/HKUSTGZ-IADC/cobra) -
-
-*   [JokerJohn/LIO\_SAM\_6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS) - LIO\_SAM for 6-axis IMU and  GNSS.
-
-*   [unmannedlab/imu\_lidar\_calibration](https://github.com/unmannedlab/imu_lidar_calibration) - Target-free Extrinsic Calibration of a 3D Lidar and an IMU
-
-*   [koide3/direct\_visual\_lidar\_calibration](https://github.com/koide3/direct_visual_lidar_calibration) - A toolbox for target-less LiDAR-camera calibration \[ROS1/ROS2]
-
-*   [lian-yue0515/MM-LINS](https://github.com/lian-yue0515/MM-LINS) - a Multi-Map LiDAR-Inertial System for Over-Degraded Environments
-
-*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-
-*   [AISLAB-sustech/Calibration\_of\_Multi\_Mic\_Arrays](https://github.com/AISLAB-sustech/Calibration_of_Multi_Mic_Arrays) - Multiple microphone arrays calibration
-
-*   [STAR-Center/Reflection\_detection](https://github.com/STAR-Center/Reflection_detection) -
-
-*   [Mq-b/Loser-HomeWork](https://github.com/Mq-b/Loser-HomeWork) - 卢瑟们的作业展示，答案讲解，以及一些C++知识
-
-*   [ethz-asl/dynablox](https://github.com/ethz-asl/dynablox) - Real-time detection of diverse dynamic objects in complex environments.
-
-*   [4ku/Place-recognition-evaluation](https://github.com/4ku/Place-recognition-evaluation) - Benchmarking and evaluation framework for place recognition methods, featuring SuperPoint+SuperGlue, LoGG3D-Net, Scan Context, DBoW2, MixVPR, STD
-
-*   [davidskdds/DMSA\_LiDAR\_SLAM](https://github.com/davidskdds/DMSA_LiDAR_SLAM) - LiDAR Inertial Mapping Package
-
-*   [tiev-tongji/LOG-LIO2](https://github.com/tiev-tongji/LOG-LIO2) - A LiDAR-Inertial Odometry with Efficient Uncertainty Analysis.
-
-*   [mtrebi/thread-pool](https://github.com/mtrebi/thread-pool) - Thread pool implementation using c++11 threads
-
-*   [Taeyoung96/GRIL-Calib](https://github.com/Taeyoung96/GRIL-Calib) - \[RA-L 2024] GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints
-
-*   [SkyD666/SmartScreenSnapper](https://github.com/SkyD666/SmartScreenSnapper) - 一个小巧的截图工具，Qt6 编写，支持全屏截图、活动窗口截图、截取光标、热键截图、自由框选截图、徒手截图、录制GIF、自动保存图片，支持多显示屏
-
-*   [HKUST-Aerial-Robotics/gnss\_comm](https://github.com/HKUST-Aerial-Robotics/gnss_comm) - Basic definitions and utility functions for GNSS raw measurement processing
-
-*   [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : ) 。**VideoPipe下一版本正在开发中，在保证跨平台、易上手的前提下，预计性能直逼deepstream等各硬件平台官方框架**。
-
-*   [Aaronswei/ad\_sensor\_fusion](https://github.com/Aaronswei/ad_sensor_fusion) -
-
-*   [fracgawd/kitti\_motion\_compensation](https://github.com/fracgawd/kitti_motion_compensation) -
-
-*   [alexandrx/lidar\_cloud\_to\_image](https://github.com/alexandrx/lidar_cloud_to_image) - Conversion from 3D LiDAR pointcloud to images
-
-*   [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
-
-*   [ZikangYuan/sr\_livo](https://github.com/ZikangYuan/sr_livo) - \[RA-L 2024] A LiDAR-inertial-visual odometry and mapping system based on the sweep reconstruction method
-
-*   [artzha/LASt-BKI](https://github.com/artzha/LASt-BKI) - Learning Aided Semantic Bayesian Kernel Inference for 3D Semantic Global Mapping
-
-*   [ZikangYuan/SDV-LOAM](https://github.com/ZikangYuan/SDV-LOAM) - \[TPAMI 2023] A cascaded vision-LiDAR odometry and mapping system
-
-*   [huashu996/camera\_lidar\_semantic\_slam](https://github.com/huashu996/camera_lidar_semantic_slam) - We propose a semantic segmentation odometry and mapping method based on LIDAR and camera data vision fusion for real-time motion states estimation and high-level understanding of the surrounding environment.
-
-*   [BEAMRobotics/beam\_slam](https://github.com/BEAMRobotics/beam_slam) - Tightly coupled lidar-visual-inertial slam using the fuse framework
-
-*   [tglenn28/SLO](https://github.com/tglenn28/SLO) - Semantic Lidar Odometry
-
-*   [johannes-graeter/limo](https://github.com/johannes-graeter/limo) - Lidar-Monocular Visual Odometry
-
-*   [zhujun3753/i-octree](https://github.com/zhujun3753/i-octree) - \[ICRA2024] Implementation of A Fast, Lightweight, and Dynamic Octree for Proximity Search
-
-*   [Livox-SDK/livox\_cloud\_undistortion](https://github.com/Livox-SDK/livox_cloud_undistortion) - This project is used for lidar point cloud undistortion.
-
-*   [RuanJY/SLAMesh](https://github.com/RuanJY/SLAMesh) - ICRA2023, A real-time LiDAR simultaneous localization and meshing method.
-
-*   [Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial) - 现代C++模板教程
-
-*   [guyupan/image\_laser\_lidar\_fusion](https://github.com/guyupan/image_laser_lidar_fusion) - image data and laser lidar data fusion
-
-*   [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
-
-*   [mayerui/sudoku](https://github.com/mayerui/sudoku) - C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
-
-*   [XMuli/ChineseChess](https://github.com/XMuli/ChineseChess) - Cross-platform and online battle platform game based on Qt: Chinese Chess. Also known as:『Xiangqi』『中国象棋』
-
-*   [rpng/ov\_plane](https://github.com/rpng/ov_plane) - A monocular plane-aided visual-inertial odometry
-
-*   [heiwang1997/DenseCRF](https://github.com/heiwang1997/DenseCRF) - C++/CUDA Dense Conditional Random Field using Meanfield inference
-
-*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
-
-*   [DiantaoTu/Camera\_LiDAR\_calibration](https://github.com/DiantaoTu/Camera_LiDAR_calibration) - An implementation of paper "Automatic Online Calibration of Cameras and Lasers"
-
-*   [ZFFramework/ZFFramework](https://github.com/ZFFramework/ZFFramework) - cross-platform C++ application framework, fully dynamic reflection/serialization, automatic lua binding by reflection
-
-*   [xmba15/automatic\_lidar\_camera\_calibration](https://github.com/xmba15/automatic_lidar_camera_calibration) - auto-calibration of lidar and camera based on maximization of intensity mutual information
-
-*   [OpenCalib/CalibAnything](https://github.com/OpenCalib/CalibAnything) -
-
-*   [HarborC/PL-SLAM](https://github.com/HarborC/PL-SLAM) - PL-SLAM: The method is implemented in《PL-SLAM:Real-time Monocular Visual SLAM with Points and Lines》
-
-*   [leggedrobotics/open3d\_slam](https://github.com/leggedrobotics/open3d_slam) - Pointcloud-based graph SLAM written in C++ using open3D library.
-
-*   [meiqua/shape\_based\_matching](https://github.com/meiqua/shape_based_matching) - try to implement halcon shape based matching, refer to machine vision algorithms and applications, page 317 3.11.5, written by halcon engineers
-
-*   [EPVelasco/pc\_on\_image](https://github.com/EPVelasco/pc_on_image) - The code implemented in ROS projects a point cloud obtained by a Velodyne VLP16 3D-Lidar sensor on an image from an RGB camera.
-
-*   [versatran01/cloud2range](https://github.com/versatran01/cloud2range) - convert ros pointcloud2 to range image to save space
-
-*   [AndrewAndHelen/RangeImagePlanar](https://github.com/AndrewAndHelen/RangeImagePlanar) - a tool to convert point cloud to range image
-
-*   [robotics-upo/plane\_detector](https://github.com/robotics-upo/plane_detector) - Implementation of the fast plane detector as described in the paper "Fast  Plane  Detection  and  Polygonalization  in  noisy  3D  Range  Images", of Poppinga et al. (IROS 2008)
-
-*   [wangx1996/Range-Image-based-segementation](https://github.com/wangx1996/Range-Image-based-segementation) - An implementation on "I. Bogoslavskyi and C. Stachniss, "Fast range image-based segmentation of sparse 3D laser scans for online operation," 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Daejeon, 2016, pp. 163-169, doi: 10.1109/IROS.2016.7759050."
-
-*   [ericniebler/range-v3](https://github.com/ericniebler/range-v3) - Range library for C++14/17/20, basis for C++20's std::ranges
-
-*   [EPVelasco/lidar-camera-fusion](https://github.com/EPVelasco/lidar-camera-fusion) - The code implemented in ROS projects a point cloud obtained by a Velodyne VLP16 3D-Lidar sensor on an image from an RGB camera.
-
-*   [shaoxuan92/OpenCV-2Dto3D](https://github.com/shaoxuan92/OpenCV-2Dto3D) - OpenCV Camera Coordinates to World Coordinates transform with Z=0
-
-*   [lukasvst/dm-vio](https://github.com/lukasvst/dm-vio) - Source code for the paper DM-VIO: Delayed Marginalization Visual-Inertial Odometry
-
-*   [engcang/FAST-LIO-Localization-QN](https://github.com/engcang/FAST-LIO-Localization-QN) - A Map-based localization implementation combining FAST-LIO2 as an odometry with Quatro + Nano-GICP as a map matching method
-
-*   [url-kaist/Quatro](https://github.com/url-kaist/Quatro) - Fast and robust global registration for terrestrial robots @ ICRA2022
-
-*   [NeSC-IV/sage-icp](https://github.com/NeSC-IV/sage-icp) - Semantic Information-Assisted ICP
-
-*   [rlit/LatentRANSAC](https://github.com/rlit/LatentRANSAC) - Latent RANSAC implementation, based on USAC
-
-*   [benchun123/object-based-loop-closure](https://github.com/benchun123/object-based-loop-closure) -
-
-*   [ITVRoC/ekf\_loam](https://github.com/ITVRoC/ekf_loam) -
-
-*   [LiHeUA/IGICP](https://github.com/LiHeUA/IGICP) - Source codes for IGICP: Intensity and Geometry Enhanced LiDAR Odometry
-
-*   [APRIL-ZJU/Coco-LIC](https://github.com/APRIL-ZJU/Coco-LIC) - \[RA-L 2023] Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline
-
-*   [yangjiaolong/Go-ICP](https://github.com/yangjiaolong/Go-ICP) - Implementation of the Go-ICP algorithm for globally optimal 3D pointset registration
-
-*   [vectr-ucla/direct\_lidar\_inertial\_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - \[IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
-
-*   [iKrishneel/octomap\_server2](https://github.com/iKrishneel/octomap_server2) - ROS2 stack for mapping with OctoMap, contains octomap\_server package
-
-*   [ucla-vision/xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
-
-*   [hku-mars/mlcc](https://github.com/hku-mars/mlcc) - Fast and Accurate Extrinsic Calibration for Multiple LiDARs and Cameras
-
-*   [CCNYRoboticsLab/scan\_tools](https://github.com/CCNYRoboticsLab/scan_tools) -  ROS Laser scan tools
-
-*   [linyicheng1/laser\_localization](https://github.com/linyicheng1/laser_localization) - laser localization base global map for robotics
-
-*   [APRIL-ZJU/OA-LICalib](https://github.com/APRIL-ZJU/OA-LICalib) - Observability-Aware Intrinsic and Extrinsic Calibration of LiDAR-IMU Systems
-
-*   [hku-mars/FAST-LIVO](https://github.com/hku-mars/FAST-LIVO) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
-
-*   [xiangli0608/Learning\_localization\_from\_scratch\_ws](https://github.com/xiangli0608/Learning_localization_from_scratch_ws) -
-
-*   [minwoo0611/MA-LIO](https://github.com/minwoo0611/MA-LIO) - Asynchronous Multiple LiDAR-Inertial Odometry using Point-wise Inter-LiDAR Uncertainty Propagation
-
-*   [peterWon/GLoc3D](https://github.com/peterWon/GLoc3D) -
-
-*   [peterWon/Ct-LVI](https://github.com/peterWon/Ct-LVI) -
-
-*   [peterWon/LVI-ExC](https://github.com/peterWon/LVI-ExC) - Implementation of "LVI-ExC: A Target-free LiDAR-Visual-Inertial Extrinsic Calibration Framework", ACM MM 2022.
-
-*   [ethz-asl/odom\_predictor](https://github.com/ethz-asl/odom_predictor) - Integrates an IMU to predict future odometry readings
-
-*   [zdzhaoyong/GSLAM](https://github.com/zdzhaoyong/GSLAM) - A General Simultaneous Localization and Mapping Framework which supports feature based or direct method and different sensors including monocular camera, RGB-D sensors or any other input types can be handled.
-
-*   [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB
-
-*   [rwth-irt/gnssFGO](https://github.com/rwth-irt/gnssFGO) - This is the official repo of the project gnssFGO.
-
-*   [ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) - GPS points will be predefined in ROS based robots to navigate to the destination avoiding obstacles.
-
-*   [AIRLab-POLIMI/C-SLAM](https://github.com/AIRLab-POLIMI/C-SLAM) - C-SLAM
-
-*   [ivipsourcecode/dxslam](https://github.com/ivipsourcecode/dxslam) -
-
-*   [berndpfrommer/tagslam](https://github.com/berndpfrommer/tagslam) - SLAM with apriltags
-
-*   [rpng/MINS](https://github.com/rpng/MINS) - An efficient and robust multisensor-aided inertial navigation system with online calibration that is capable of fusing IMU, camera, LiDAR, GPS/GNSS, and wheel sensors. Use cases: VINS/VIO, GPS-INS, LINS/LIO, multi-sensor fusion for localization and mapping (SLAM). This repository also provides multi-sensor simulation and data.
-
-*   [shichaoy/cube\_slam](https://github.com/shichaoy/cube_slam) - CubeSLAM: Monocular 3D Object Detection and SLAM
-
-*   [yanmin-wu/EAO-SLAM](https://github.com/yanmin-wu/EAO-SLAM) - \[IROS 2020] EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association
-
-*   [PRBonn/vpr\_relocalization](https://github.com/PRBonn/vpr_relocalization) - The framework for visual place recognition in changing enviroments. Matches two sequence of images of arbitrary trajectory overlap.
-
-*   [PRBonn/online\_place\_recognition](https://github.com/PRBonn/online_place_recognition) - Graph-based image sequences matching for the visual place recognition in changing environments.
-
-*   [silencht/SG-SLAM](https://github.com/silencht/SG-SLAM) - SG-SLAM: A Real-Time RGB-D Visual SLAM toward Dynamic Scenes with Semantic and Geometric Information
-
-*   [paul0noah/sm-comb](https://github.com/paul0noah/sm-comb) -
-
-*   [gaoxiang12/ORB-YGZ-SLAM](https://github.com/gaoxiang12/ORB-YGZ-SLAM) -
-
-*   [ethz-asl/plotty](https://github.com/ethz-asl/plotty) - matplotlib-cpp with Eigen interfaces.
-
-*   [0voice/introduce\_c-cpp\_manual](https://github.com/0voice/introduce_c-cpp_manual) - 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。
-
-*   [ut-amrl/pom\_localization](https://github.com/ut-amrl/pom_localization) -
-
-*   [hku-mars/joint-lidar-camera-calib](https://github.com/hku-mars/joint-lidar-camera-calib) - Joint intrinsic and extrinsic LiDAR-camera calibration.
-
-*   [ruixiang440/Dual\_Iterative\_Refinement\_Method](https://github.com/ruixiang440/Dual_Iterative_Refinement_Method) - This is the code for A Dual Iterative Refinement Method for Non-rigid Shape Matching, https://arxiv.org/abs/2007.13049
-
-*   [stella-cv/stella\_vslam](https://github.com/stella-cv/stella_vslam) - This is a unofficial fork of OpenVSLAM (https://github.com/xdspacelab/openvslam)
-
-*   [nadiawangberg/imu\_to\_odom](https://github.com/nadiawangberg/imu_to_odom) - ROS imu to odometry message converter. To be used as a part of a larger sensor fusion system, should not be used to estimate pose by itself.
-
-*   [karanchawla/GPS\_IMU\_Kalman\_Filter](https://github.com/karanchawla/GPS_IMU_Kalman_Filter) - Fusing GPS, IMU and Encoder sensors for accurate state estimation.
-
-*   [vkopli/gtsam\_vio](https://github.com/vkopli/gtsam_vio) - Visual Inertial Odometry (VIO) / Simultaneous Localization & Mapping (SLAM) using iSAM2 framework from the GTSAM library.
-
-*   [hku-mars/D-Map](https://github.com/hku-mars/D-Map) - D-Map provides an efficient occupancy mapping approach for high-resolution LiDAR sensors.
-
-*   [rsasaki0109/lidar\_localization\_ros2](https://github.com/rsasaki0109/lidar_localization_ros2) - 3D LIDAR Localization using NDT/GICP and pointcloud map in ROS 2 (Not SLAM)
-
-*   [Pamphlett/Outram](https://github.com/Pamphlett/Outram) - \[ICRA 2024] Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning
-
-*   [jmaye/curb-detection](https://github.com/jmaye/curb-detection) - A C++ based library for curb detection
-
-*   [tiev-tongji/VoxelGridOMP](https://github.com/tiev-tongji/VoxelGridOMP) - voxel grid in parallel, using the OpenMP standard, based on PCL.
-
-*   [tiev-tongji/LOG-LIO](https://github.com/tiev-tongji/LOG-LIO) - A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation
-
-*   [ivipsourcecode/DS-SLAM](https://github.com/ivipsourcecode/DS-SLAM) -
-
-*   [rpng/open\_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
-
-*   [engcang/vins-application](https://github.com/engcang/vins-application) - VINS-Fusion, VINS-Fisheye, OpenVINS, EnVIO, ROVIO, S-MSCKF, ORB-SLAM2, NVIDIA Elbrus application of different sets of cameras and imu on different board including desktop and Jetson boards
-
-*   [ereator/Dense-CRF](https://github.com/ereator/Dense-CRF) - A Revision of the Dense Conditional Random Field, downloaded from [Stanford University](http://graphics.stanford.edu/projects/densecrf). The revision supports OpenCV and DGM libraries.
-
-*   [lucasb-eyer/pydensecrf](https://github.com/lucasb-eyer/pydensecrf) - Python wrapper to Philipp Krähenbühl's dense (fully connected) CRFs with gaussian edge potentials.
-
-*   [url-kaist/patchwork-plusplus-ros](https://github.com/url-kaist/patchwork-plusplus-ros) - ROS & ROS2 Implementation of Patchwork++
-
-*   [deepmedic/dense3dCrf](https://github.com/deepmedic/dense3dCrf) - Fully-connected (dense) 3D CRF for processing biomedical scans
-
-*   [RobustFieldAutonomyLab/la3dm](https://github.com/RobustFieldAutonomyLab/la3dm) - Learning-aided 3D mapping
-
-*   [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
-
-*   [SubMishMar/cam\_lidar\_calib](https://github.com/SubMishMar/cam_lidar_calib) - 3D-Lidar Camera Calibration using planar Point to to camera Plane Constraint
-
-*   [rubengooj/pl-slam](https://github.com/rubengooj/pl-slam) - This code contains an algorithm to compute stereo visual SLAM by using both point and line segment features.
-
-*   [AutoLidarPerception/segmenters\_lib](https://github.com/AutoLidarPerception/segmenters_lib) - The LiDAR segmenters library, for segmentation-based detection.
-
-*   [uestc-icsp/VoxelMapPlus\_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
-
-*   [downdemo/Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed) - C++11/14/17/20 templates and generic programming, the most complex and difficult technical details of C++, indispensable in building infrastructure libraries.
-
-*   [lokicui/loki](https://github.com/lokicui/loki) - Loki是由Andrei编写的一个与《Modern C++ Design》（C++设计新思维）一书配套发行的C++代码库。 它不仅把C++模板的功能发挥到了极致，而且把类似设计模式这样思想层面的东西通过库来提供。
-
-*   [tomwillow/tomsolver](https://github.com/tomwillow/tomsolver) - Simplest, Well-tested, Non-linear equations solver library by C++14.
-
-*   [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - C++11/14/17/20 multithreading, involving operating system principles and concurrent programming technology.
-
-*   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
-
-*   [2013fangwentao/Multi\_Sensor\_Fusion](https://github.com/2013fangwentao/Multi_Sensor_Fusion) - Multi-Sensor Fusion (GNSS, IMU, Camera) 多源多传感器融合定位 GPS/INS组合导航  PPP/INS紧组合
-
-*   [mrtkp9993/Cpp-Examples](https://github.com/mrtkp9993/Cpp-Examples) - Numerical C++ examples.
-
-*   [BrenYi/Light-LOAM](https://github.com/BrenYi/Light-LOAM) - (Beta Version)Code for paper "Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching"
-
-*   [yuyuaqwq/packer](https://github.com/yuyuaqwq/packer) - 现代C++的对象序列化魔法
-
-*   [ShujiaHuang/Cpp-Primer-Plus-6th](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th) -  《C++ Primer Plus 第6版（中文版）》原书代码、习题答案和个人笔记，仅供学习和交流。
-
-*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
-
-*   [PRBonn/hsmcl](https://github.com/PRBonn/hsmcl) -
-
-*   [skanti/Scan2CAD](https://github.com/skanti/Scan2CAD) - \[CVPR'19] Dataset and code used in the research project Scan2CAD: Learning CAD Model Alignment in RGB-D Scans
-
-*   [HViktorTsoi/ACSC](https://github.com/HViktorTsoi/ACSC) - Automatic Calibration for Non-repetitive Scanning Solid-State LiDAR and Camera Systems
-
-*   [idealvin/coost](https://github.com/idealvin/coost) - A tiny boost library in C++11.
-
-*   [StevenL2017/LeetCode](https://github.com/StevenL2017/LeetCode) -
-
-*   [eecrazy/Data-Structure-Code-in-HIT](https://github.com/eecrazy/Data-Structure-Code-in-HIT) - 哈工大数据结构课程写的一些代码
-
-*   [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
-
-*   [Guo-ziwei/fusion](https://github.com/Guo-ziwei/fusion) - fuse IMU data and Odometry
-
-*   [JokerJohn/opensource\_slam\_noted](https://github.com/JokerJohn/opensource_slam_noted) - open source slam system  notes
-
-*   [baaixw/VINS-Fusion-for-UrbanNavDataset-Evaluation](https://github.com/baaixw/VINS-Fusion-for-UrbanNavDataset-Evaluation) - this is very basic version for our dataset validation, only change the path, and align the frame of vio and Groundtruth
-
-*   [jypjypjypjyp/stereo\_ext\_opt](https://github.com/jypjypjypjyp/stereo_ext_opt) - Optimize the Rotation of the stereo camera's extrinsic
-
-*   [vkee/slam\_backend](https://github.com/vkee/slam_backend) - iSAM2-based backend interface for 2D Pose Graph SLAM
-
-*   [stillbreeze/Online-Stereo-Calibration](https://github.com/stillbreeze/Online-Stereo-Calibration) - Factor graph based batch optimization for online stereo calibration
-
-*   [abner-math/PlaneDetection](https://github.com/abner-math/PlaneDetection) - Implementation of my article "A Robust Statistics Approach for Plane Detection in Unorganized Point Clouds"
-
-*   [godloveliang/SFND\_2D\_Feature\_Tracking](https://github.com/godloveliang/SFND_2D_Feature_Tracking) - Keypoints Detector(HARRIS, FAST, BRISK, ORB, AKAZE, and SIFT),   Patch Descriptor(BRIEF, ORB, FREAK, AKAZE and SIFT)，and Matching(BFmatching, FLANN matching)).
-
-*   [HyHuang1995/gmmloc](https://github.com/HyHuang1995/gmmloc) - Implementation for IROS2020: "GMMLoc: Structure Consistent Visual Localization with Gaussian Mixture Model"
-
-*   [felixchenfy/Monocular-Visual-Odometry](https://github.com/felixchenfy/Monocular-Visual-Odometry) - A simple monocular visual odometry (part of vSLAM) by ORB keypoints with initialization, tracking, local map and bundle adjustment. (WARNING: Hi, I'm sorry that this project is tuned for course demo, not for real world applications !!!)
-
-*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
-
-*   [ShiPC-AI/LiDAR-Localization-100FPS](https://github.com/ShiPC-AI/LiDAR-Localization-100FPS) - LiDAR localization at 100FPS: A map-aided and template descriptor-based global method
-
-*   [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
-
-*   [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
-
-*   [ZikangYuan/semi\_elastic\_lio](https://github.com/ZikangYuan/semi_elastic_lio) - A LiDAR-inertial odometry utilizing semi-elastic LiDAR-inertial state estimation method
-
-*   [dan11003/CFEAR\_Radarodometry\_code\_public](https://github.com/dan11003/CFEAR_Radarodometry_code_public) - Efficient and accurate spinning FMCW 2D radar odometry in C++ / ROS.
-
-*   [hku-mars/HBA](https://github.com/hku-mars/HBA) - \[RAL 2023] A globally consistent LiDAR map optimization module
-
-*   [WhereIsHeroFrom/Code\_Templates](https://github.com/WhereIsHeroFrom/Code_Templates) -
-
-*   [ZJU-Robotics-Lab/GEM](https://github.com/ZJU-Robotics-Lab/GEM) - GEM: Online Globally consistent dense elevation mapping for unstructured terrain.
-
-*   [Huguet57/LIMO-Velo](https://github.com/Huguet57/LIMO-Velo) - A real-time, direct and tightly-coupled LiDAR-Inertial SLAM for high velocities with spinning LiDARs
-
-*   [leavesnight/VIEO\_SLAM](https://github.com/leavesnight/VIEO_SLAM) - Simultaneous localizing and mapping through visual, inertial measurement unit, encoders and maybe other odometers.
-
-*   [APRIL-ZJU/lidar\_IMU\_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
-
-*   [HViktorTsoi/PV-LIO](https://github.com/HViktorTsoi/PV-LIO) - A probabilistic voxelmap-based LiDAR-Inertial Odometry.
-
-*   [gaowenliang/wheel\_odom](https://github.com/gaowenliang/wheel_odom) -
-
-*   [mmc-maodun/Data-Structure-And-Algorithm](https://github.com/mmc-maodun/Data-Structure-And-Algorithm) - Data Structure And Algorithm（常用数据结构与算法C/C++实现）
-
-*   [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
-
-*   [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry) - A project of Visual Inertial Odometry for Autonomous Vehicle
-
-*   [UMich-BipedLab/LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - This is a package for LiDARTag, described in paper: LiDARTag: A Real-Time Fiducial Tag System for Point Clouds
-
-*   [anxixu0101/ros\_code](https://github.com/anxixu0101/ros_code) - 一些关于ros/C++从入门，进阶，到修仙的代码
-
-*   [BingqiShen/EMV-LIO](https://github.com/BingqiShen/EMV-LIO) - EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry
-
-*   [ZikangYuan/liw\_oam](https://github.com/ZikangYuan/liw_oam) - \[IROS 2023] A LiDAR-inertial-wheel odometry and mapping system based on BA framework.
-
-*   [xiaoqiuslam/xiaoqiuslam](https://github.com/xiaoqiuslam/xiaoqiuslam) - 零基础从零开始学习SLAM
-
-*   [vyanev1/3D-point-cloud-mapping](https://github.com/vyanev1/3D-point-cloud-mapping) - Uses an artificially created calibration object to estimate the transformation matrix (translation & rotation) and construct a 3D Point Cloud map from a limited number of views captured from a Xbox Kinect V1 LiDAR camera
-
-*   [hku-mars/LiDAR\_IMU\_Init](https://github.com/hku-mars/LiDAR_IMU_Init) - \[IROS2022] Robust Real-time LiDAR-inertial Initialization Method.
-
-*   [droneslab/edgeslam](https://github.com/droneslab/edgeslam) - Edge-SLAM: Edge-Assisted Visual Simultaneous Localization and Mapping
-
-*   [RobustFieldAutonomyLab/waypoint\_navigation](https://github.com/RobustFieldAutonomyLab/waypoint_navigation) -
-
-*   [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) -
-
-*   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
-
-*   [zhazhaog/qqmsuic](https://github.com/zhazhaog/qqmsuic) -
-
-*   [OpenCalib/SurroundCameraCalib](https://github.com/OpenCalib/SurroundCameraCalib) -
-
-*   [8bit-nyk/hslam\_ros\_docker](https://github.com/8bit-nyk/hslam_ros_docker) -
-
-*   [hovren/minimal\_ceres\_sophus](https://github.com/hovren/minimal_ceres_sophus) - Minimal example showing problem with Ceres and Sophus
-
-*   [JokerJohn/Cloud\_Map\_Evaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation) - Point cloud map evaluation library  for the FusionPortable dataset.  Metrics include Mean Map Entropy (MME), RMSE, Accuracy(mean error), Precision(standard deviation), completeness(overlap ratio), chamfer distance and F1-score at all levels of 1/2/5/10/20cm.
-
-*   [MIT-SPARK/Hydra](https://github.com/MIT-SPARK/Hydra) -
-
-*   [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
-
-*   [tier4/YabLoc](https://github.com/tier4/YabLoc) - Open source visual localization for self-driving vehicles
-
-*   [zhangxy0517/3D-Registration-with-Maximal-Cliques](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques) - Source code of CVPR 2023 paper
-
-*   [rzou15/Object-detection-in-Point-Cloud-road-boundary](https://github.com/rzou15/Object-detection-in-Point-Cloud-road-boundary) - Object detection in Point Cloud is popular in HD Map and sensor-based autonomous driving. There  basically four types of object you can obtain in daily scenario: road surface - contains painted lane  marking and pavement area, support facility - contains road boundary (guardrail and curb), road  sign, light pole, etc., uncorrelated object - for example, sidewalk, building, etc., and moving object -  such like pedestrian, vehicle, bicycle, etc.  In this project, please search references, design and prototype your road  boundary (guardrail) detection algorithm.
-
-*   [MiRoboticsLab/cyberdog\_miloc](https://github.com/MiRoboticsLab/cyberdog_miloc) -
-
-*   [OpenCalib/JointCalib](https://github.com/OpenCalib/JointCalib) -
-
-*   [NKU-MobFly-Robotics/laser\_scan\_matcher](https://github.com/NKU-MobFly-Robotics/laser_scan_matcher) - An incremental laser scan matcher, using PLICP (point-to-line iterative closest point) scan matching algorithm.
-
-*   [yinwu33/multi\_lidar\_calibration](https://github.com/yinwu33/multi_lidar_calibration) - Calibrate extrinsic parameters of multi-lidars, based on ICP or NDT, etc.
-
-*   [carlosmccosta/dynamic\_robot\_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - Point cloud registration pipeline for robot localization and 3D perception
-
-*   [kungfrank/pw\_ndt\_automotive\_radar\_scan\_matching](https://github.com/kungfrank/pw_ndt_automotive_radar_scan_matching) -
-
-*   [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (2023 RAL Best Paper Award)
-
-*   [ethz-asl/robust\_point\_cloud\_registration](https://github.com/ethz-asl/robust_point_cloud_registration) - Robust Point Cloud Registration Using Iterative Probabilistic Data Associations ("Robust ICP")
-
-*   [qpc001/Feature\_Base\_Pointcloud\_Registration](https://github.com/qpc001/Feature_Base_Pointcloud_Registration) - Pointcloud\_Registration from loam
-
-*   [XiaotaoGuo/lio-sam-w-comments](https://github.com/XiaotaoGuo/lio-sam-w-comments) - :book: LIO-SAM 代码注释+逻辑梳理
-
-*   [hridaybavle/semantic\_slam](https://github.com/hridaybavle/semantic_slam) - This package is for running the semantic SLAM algorithm using extracted planar surfaces from the received detection
-
-*   [SlamMate/CDS-SLAM-Semantic-mapping-in-dynamic-environment](https://github.com/SlamMate/CDS-SLAM-Semantic-mapping-in-dynamic-environment) - This project is the result of my undergraduate dissertation. The localization in dynamic environment is to deploy TensorRT optimized YOLOX in the front end of ORB-SLAM3 for object detection, and then eliminate all points belonging to the human bounding box. At the same time, the semantic information is sent to the mapping module to dye the 3D point cloud. The disadvantage of this project is that in the localization  module, only the points belonging to people are processed, because people are dynamic most of the time. In the mapping module, we did not segment semantic objects accurately, resulting in wrong coloring of point clouds of other objects.
-
-*   [haeyeoni/global-LeGO-LOAM](https://github.com/haeyeoni/global-LeGO-LOAM) - global localization algorithm in point cloud map generated with loam
-
-*   [robotics-upo/dll](https://github.com/robotics-upo/dll) - DLL: Direct Lidar Localization
-
-*   [vectr-ucla/direct\_lidar\_odometry](https://github.com/vectr-ucla/direct_lidar_odometry) - \[IEEE RA-L & ICRA'22] A lightweight and computationally-efficient frontend LiDAR odometry solution with consistent and accurate localization.
-
-*   [zhh2005757/kaist\_complex\_urban\_dataset\_tool](https://github.com/zhh2005757/kaist_complex_urban_dataset_tool) - Modified kasit\_tool for wheel odometer velocity calculation and velodyne timestamp recovery
-
-*   [url-kaist/AlterGround-LeGO-LOAM](https://github.com/url-kaist/AlterGround-LeGO-LOAM) - The page for PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry
-
-*   [wh200720041/SRLCD](https://github.com/wh200720041/SRLCD) - fast loop closure detection (online visual place recognition) via saliency re-identification IROS 2020
-
-*   [XiaoBaiiiiii/colmap-pcd](https://github.com/XiaoBaiiiiii/colmap-pcd) - Image-to-point cloud Registration Tool
-
-*   [zlwang7/S-FAST\_LIO](https://github.com/zlwang7/S-FAST_LIO) - A simplified implementation of FAST\_LIO (with Chinese note)
-
-*   [pezy/LeetCode](https://github.com/pezy/LeetCode) - :pencil2: LeetCode solutions in C++ 11 and Python3
-
-*   [kahowang/sensor-fusion-for-localization-and-mapping](https://github.com/kahowang/sensor-fusion-for-localization-and-mapping) - 深蓝学院 多传感器定位融合第四期 学习笔记
-
-*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
-
-*   [cxxsucks/SearchEverywhere](https://github.com/cxxsucks/SearchEverywhere) - CLI/GUI file searcher combining find, locate and Everything, plus content searching. Works on Linux, Windows and macOS.This repo is for Qt-based GUI.
-
-*   [botaojia/simplex](https://github.com/botaojia/simplex) - DownHill simplex algorithm implementation and demos
-
-*   [ethz-asl/minkindr](https://github.com/ethz-asl/minkindr) - A minimal library for transformations, following the kindr interface. Uses active quaternions of rotation in Hamilton notation.
-
-*   [MegviiRobot/OdomLaserCalibraTool](https://github.com/MegviiRobot/OdomLaserCalibraTool) - Extrinsic Calibration of a Odom and 2d Laser
-
-*   [zqxbit/lcr-smm](https://github.com/zqxbit/lcr-smm) - LCR-SMM: Large Convergence Region Semantic Map Matching  Algorithm
-
-*   [ccslykx/Starry](https://github.com/ccslykx/Starry) - 以划词弹窗的形式调用其他软件的命令行指令。
-
-*   [bigbigpark/imu\_gps\_fusion](https://github.com/bigbigpark/imu_gps_fusion) - IMU + GPS fusion scratch using ROS
-
-*   [Mitchell-Lee-93/kitti-lego-loam](https://github.com/Mitchell-Lee-93/kitti-lego-loam) - Easy description to run and evaluate Lego-LOAM with KITTI-data
-
-*   [ethz-asl/lidar\_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
-
-*   [ethz-asl/geodetic\_utils](https://github.com/ethz-asl/geodetic_utils) - Simple library for converting coordinates to/from several geodetic frames (lat/lon, ECEF, ENU, NED, etc.)
-
-*   [ethz-asl/time\_autosync](https://github.com/ethz-asl/time_autosync) - Automatically syncs a camera to a rigidly attached IMUs time frame
-
-*   [zhuqingzhang/MSOC-S-IKF](https://github.com/zhuqingzhang/MSOC-S-IKF) -
-
-*   [PJLab-ADG/SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) - OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving
-
-*   [ut-amrl/vision\_slam\_frontend](https://github.com/ut-amrl/vision_slam_frontend) - SLAM frontend for a ground robot using vision and odometry
-
-*   [ankitdhall/lidar\_camera\_calibration](https://github.com/ankitdhall/lidar_camera_calibration) - ROS package to find a rigid-body transformation between a LiDAR and a camera for "LiDAR-Camera Calibration using 3D-3D Point correspondences"
-
-*   [gaowenliang/code\_utils](https://github.com/gaowenliang/code_utils) - my code utils
-
-*   [ros-perception/imu\_pipeline](https://github.com/ros-perception/imu_pipeline) - Transforms sensor\_msgs/Imu messages into new coordinate frames using tf
-
-*   [chengwei0427/Lidar\_IMU\_Localization](https://github.com/chengwei0427/Lidar_IMU_Localization) - Lidar-IMU Localization System with Prior Map Constraint and Lio Constraint
-
-*   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
-
-*   [leggedrobotics/graph\_msf](https://github.com/leggedrobotics/graph_msf) - A graph-based multi-sensor fusion framework. It can be used to fuse various relative or absolute measurments with IMU readings in real-time.
-
-*   [rising-turtle/graph\_slam](https://github.com/rising-turtle/graph_slam) - Graph SLAM: VO, IMU Preintegration, Plane
-
-*   [linyicheng1/A-ORB-SLAM2](https://github.com/linyicheng1/A-ORB-SLAM2) - Advanced  ORB-SLAM2
-
-*   [HeYijia/VINS-Course](https://github.com/HeYijia/VINS-Course) - VINS-Mono code without Ceres or ROS
-
-*   [wykxwyc/LeGO-LOAM\_NOTED](https://github.com/wykxwyc/LeGO-LOAM_NOTED) - LeGO-LOAM代码注释与学习
-
-*   [prime-slam/line-detection-association-dockers](https://github.com/prime-slam/line-detection-association-dockers) - A collection of dockers for line detection and association algorithms
-
-*   [DreamWaterFound/Prerequisites-of-On-line-Semantic-VSLAM](https://github.com/DreamWaterFound/Prerequisites-of-On-line-Semantic-VSLAM) - 在线语义视觉SLAM基础：C++语言程序中调用Python实现的图像分割网络、获取分割结果
-
-*   [HeadReaper-hc/PL-SLAM-plucker](https://github.com/HeadReaper-hc/PL-SLAM-plucker) - PL-SLAM with Plucker and Orthogonal representation Line feature
-
-*   [1robertslattery/GeometricTestLibrary](https://github.com/1robertslattery/GeometricTestLibrary) - Solves 2D and 3D math problems, including, closest point, intersection, line of sight, and reflection vector:
-
-*   [lefticus/cpp\_weekly](https://github.com/lefticus/cpp_weekly) - The official C++ Weekly Repository. Code samples and notes of future / past episodes will land here at various times. PR's will be accepted in some cases.
-
-*   [cleinc/slslam](https://github.com/cleinc/slslam) - Building a 3D Line-based Map Using a Stereo SLAM
-
-*   [boxuLibrary/Structural-and-Non-structural-line](https://github.com/boxuLibrary/Structural-and-Non-structural-line) - comparison of plucker parameter representation and the parameter representation proposed by ours
-
-*   [cvg/limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features.
-
-*   [bexcite/apolloscape-sfm](https://github.com/bexcite/apolloscape-sfm) - C++ Structure from Motion (SfM) pipeline with OpenGL visualization for Apolloscape Dataset
-
-*   [rulllars/SequentialVisualLocalization](https://github.com/rulllars/SequentialVisualLocalization) -
-
-*   [navganti/SIVO](https://github.com/navganti/SIVO) - SIVO - Semantically Informed Visual Odometry and Mapping. Integrated Bayesian semantic segmentation with ORBSLAM\_2 to select better features for Visual SLAM.
-
-*   [tony1098/Stereo-Localization-in-LiDAR-Maps](https://github.com/tony1098/Stereo-Localization-in-LiDAR-Maps) - Visual localization method in LiDAR maps. Only a stereo camera is need during localization since the LiDAR map can be built offline.
-
-*   [alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration) - This repo contains source code of our paper presented in IROS2021 "Single-Shot is Enough: Panoramic Infrastructure Based Calibration of Multiple Cameras and 3D LiDARs"
-
-*   [weihsinc/robot\_localization](https://github.com/weihsinc/robot_localization) - A ROS package for real-time nonlinear state estimation for robots moving in 3D space. It contains two state estimation nodes which use Kalman filters (EKF/UKF) for real-time sensor fusion.
-
-*   [sansuiso/LBDReconstruction](https://github.com/sansuiso/LBDReconstruction) -
-
-*   [shidahe/semidense-lines](https://github.com/shidahe/semidense-lines) - Incremental 3D Line Segment Extraction for Surface Reconstruction from Semi-dense SLAM
-
-*   [JingwenWang95/DSP-SLAM](https://github.com/JingwenWang95/DSP-SLAM) - \[3DV 2021] DSP-SLAM: Object Oriented SLAM with Deep Shape Priors
-
-*   [wangx1996/Lidar-Segementation](https://github.com/wangx1996/Lidar-Segementation) - An implementation on "Curved-Voxel Clustering for Accurate Segmentation of 3D LiDAR Point Clouds with Real-Time Performance" from IROS 2019
-
-*   [OpenDriveLab/OpenLane](https://github.com/OpenDriveLab/OpenLane) - \[ECCV 2022 Oral] OpenLane: Large-scale Realistic 3D Lane Dataset
-
-*   [yukitsuji/mono\_3d\_localizer](https://github.com/yukitsuji/mono_3d_localizer) -
-
-*   [hyye/dsl](https://github.com/hyye/dsl) - Implementation of Monocular Direct Sparse Localization in a Prior 3D Surfel Map (DSL)
-
-*   [SMRT-AIST/interactive\_slam](https://github.com/SMRT-AIST/interactive_slam) - Interactive Map Correction for 3D Graph SLAM
-
-*   [kaifishr/CppMultilayerPerceptron](https://github.com/kaifishr/CppMultilayerPerceptron) - A simple class for fully connected neural networks.
-
-*   [fabianschenk/REVO](https://github.com/fabianschenk/REVO) - Robust Edge-based Visual Odometry (REVO)
-
-*   [82473468/map-making](https://github.com/82473468/map-making) - making-map
-
-*   [82473468/wenchi-map](https://github.com/82473468/wenchi-map) -
-
-*   [82473468/wenchi-poles](https://github.com/82473468/wenchi-poles) - poles and icp slam
-
-*   [StephLin/LIO-SEGMOT](https://github.com/StephLin/LIO-SEGMOT) - LiDAR-Inertial Odometry via Simultaneous Ego-motion Estimation and Multiple Object Tracking (ICRA 2023)
-
-*   [keithMaybe/code](https://github.com/keithMaybe/code) -
-
-*   [HuaGouFdog/FdogSerialize](https://github.com/HuaGouFdog/FdogSerialize) - C++ 序列化库（FdogSerialize is a library for serializing between C++ objects (structs, STL containers, etc.) and json strings. FStruct是一个用于C++对象(结构体，STL容器等)和json字符串之间进行序列化的库。）
-
-*   [zhuqingzhang/C-MIMB-VIO](https://github.com/zhuqingzhang/C-MIMB-VIO) -
-
-*   [lucasjinreal/DCNv2\_latest](https://github.com/lucasjinreal/DCNv2_latest) - DCNv2 supports decent pytorch such as torch 1.5+ (now 1.8+)
-
-*   [jianhengLiu/SV-SLAM](https://github.com/jianhengLiu/SV-SLAM) -
-
-*   [zouyajing/multi\_sensor\_loclization\_and\_mapping](https://github.com/zouyajing/multi_sensor_loclization_and_mapping) - localization and mapping based on multiple sensor fusion
-
-*   [YJZLuckyBoy/liorf\_localization](https://github.com/YJZLuckyBoy/liorf_localization) - A simple location system based on a priori map, which is based on the lio-sam framework
-
-*   [fdayoub/ros-semantic-mapper](https://github.com/fdayoub/ros-semantic-mapper) - Place Categorization and Semantic Mapping on a Mobile Robot
-
-*   [peterWon/D-LIOM](https://github.com/peterWon/D-LIOM) - Tightly-coupled Direct LiDAR-Inertial Odometry and Mapping Based on Cartographer3D.
-
-*   [ChoiSeongHo-h/open\_vins\_mot](https://github.com/ChoiSeongHo-h/open_vins_mot) - OpenVINS with Moving Object Tracking
-
-*   [bzdfzfer/litamin2](https://github.com/bzdfzfer/litamin2) -
-
-*   [HeYijia/PL-VIO](https://github.com/HeYijia/PL-VIO) - monocular visual inertial system with point and line features
-
-*   [url-kaist/UV-SLAM](https://github.com/url-kaist/UV-SLAM) - UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping
-
-*   [bxh1/VIDO-SLAM](https://github.com/bxh1/VIDO-SLAM) - VIDO-SLAM is a  Visual Inertial SLAM system for dynamic environments, and it can  also estimate dynamic objects motion and track objects.
-
-*   [yanyan-li/Structure-SLAM-PointLine](https://github.com/yanyan-li/Structure-SLAM-PointLine) - This is a basic point-line SLAM system based on ORBSLAM2.
-
-*   [yuhanghe01/arrow\_road\_marking\_detection](https://github.com/yuhanghe01/arrow_road_marking_detection) -
-
-*   [iisys-hof/map-matching-2](https://github.com/iisys-hof/map-matching-2) - High Performance Map Matching with Markov Decision Processes (MDPs) and Hidden Markov Models (HMMs).
-
-*   [cnqiangfu/PL-VINS](https://github.com/cnqiangfu/PL-VINS) - PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features
-
-*   [xiaoxiaotao/ceres\_lm\_pl\_icp](https://github.com/xiaoxiaotao/ceres_lm_pl_icp) - point to line icp by Ceres
-
-*   [xingyuuchen/LIO-PPF](https://github.com/xingyuuchen/LIO-PPF) - \[IROS 2023] Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking
-
-*   [alexanderkoumis/lsd\_slam\_to\_pcl](https://github.com/alexanderkoumis/lsd_slam_to_pcl) - LSD-SLAM to PCL
-
-*   [hafeezhusain/stereo\_depth\_correction](https://github.com/hafeezhusain/stereo_depth_correction) - ROS package to improve depth map of stereo camera using LIDAR point cloud
-
-*   [primetang/pylsd](https://github.com/primetang/pylsd) - python bindings for LSD - Line Segment Detector.
-
-*   [manhofer/Line3Dpp](https://github.com/manhofer/Line3Dpp) - Line3D++ - Multi-View Stereo using Line Segments
-
-*   [abignoli/EdgeGraph3D](https://github.com/abignoli/EdgeGraph3D) - Multi-view Stereo 3D Edge Reconstruction
-
-*   [GhiXu/ACMMP](https://github.com/GhiXu/ACMMP) - Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo (TPAMI 2022)
-
-*   [tussedrotten/sensor-fusion-example](https://github.com/tussedrotten/sensor-fusion-example) -
-
-*   [koide3/hdl\_graph\_slam](https://github.com/koide3/hdl_graph_slam) - 3D LIDAR-based Graph SLAM
-
-*   [jaejunlee0538/manual\_pos\_graph\_slam](https://github.com/jaejunlee0538/manual_pos_graph_slam) - GUI for performing pose graph SLAM manually when given 3D scan data and vehicle's odometry.
-
-*   [Ellon/pgslam](https://github.com/Ellon/pgslam) - Implementation of ICP-based Pose Graph SLAM
-
-*   [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
-
-*   [url-kaist/patchwork-plusplus](https://github.com/url-kaist/patchwork-plusplus) - Patchwork++: Fast and robust ground segmentation method for 3D LiDAR scans. @ IROS'22
-
-*   [libing64/monocular\_vo](https://github.com/libing64/monocular_vo) -
-
-*   [libing64/pose\_ekf](https://github.com/libing64/pose_ekf) - Extented Kalman Filter for 6D pose estimation using gps, imu, magnetometer and sonar sensor.
-
-*   [libing64/stereo\_vo](https://github.com/libing64/stereo_vo) - keyframe-based stereo visual odometry
-
-*   [Frozenheart1998/SemanticPointCloud](https://github.com/Frozenheart1998/SemanticPointCloud) -
-
-*   [cmpute/seddom](https://github.com/cmpute/seddom) - Fast semantic dense occupancy mapping based on random free space sampling and spherical rtree
-
-*   [reem90/semantic\_occupancy\_mapping](https://github.com/reem90/semantic_occupancy_mapping) -
-
-*   [shichaoy/semantic\_3d\_mapping](https://github.com/shichaoy/semantic_3d_mapping) - Semantic 3D Occupancy Mapping through Efficient High Order CRFs
-
-*   [alphadadajuju/graph\_semantic](https://github.com/alphadadajuju/graph_semantic) -
-
-*   [gaoxiang12/slam\_in\_autonomous\_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
-
-*   [ayushmankumar7/Stereo-Image-to-PointCloud](https://github.com/ayushmankumar7/Stereo-Image-to-PointCloud) - My First C++ Repo
-
-*   [phillip-h/todo](https://github.com/phillip-h/todo) - CLI to-do lists, written in C++ with ncurses
-
-*   [PRBonn/depth\_clustering](https://github.com/PRBonn/depth_clustering) - :taxi: Fast and robust clustering of point clouds generated with a Velodyne sensor.
-
-*   [KangchengLiu/slam\_resources](https://github.com/KangchengLiu/slam_resources) - :fire: :muscle: My summary of LiDAR-Inertial and Visual SLAM: Including Frond-end, Back-end, State Estimation, Motion Estimation, Monocular/Stereo/RGB-D Mapping, and Loop Closure Detection
-
-*   [jyakaranda/ndt\_map](https://github.com/jyakaranda/ndt_map) - SLAM package using NDT registration library of Autoware with loop-closure detection (odometry based) referenced from lego\_loam.
-
-*   [Earthwings/annotate](https://github.com/Earthwings/annotate) - Create 3D labelled bounding boxes in RViz
-
-*   [ros-box/a2d2\_to\_ros](https://github.com/ros-box/a2d2_to_ros) - https://gitlab.com/MaplessAI/external/a2d2\_to\_ros
-
-*   [xiaoDongSky/lane-marking-detection](https://github.com/xiaoDongSky/lane-marking-detection) - lane detection in multi-lane scenarios
-
-*   [YuePanEdward/RoadMarkingExtraction](https://github.com/YuePanEdward/RoadMarkingExtraction) - 🛣️ automatic extraction of road markings from MLS or ALS point cloud \[ISPRS-A' 19]
-
-*   [Cc19245/LVI-SAM-Easyused](https://github.com/Cc19245/LVI-SAM-Easyused) - LVI-SAM for easier using (更简单的使用LVI-SAM的方法)
-
-*   [VincentCheungM/Run\_based\_segmentation](https://github.com/VincentCheungM/Run_based_segmentation) - An ongoing implementation ros node on `fast segmentation of 3d point clouds: a paradigm`...
-
-*   [koide3/ndt\_omp](https://github.com/koide3/ndt_omp) - Multi-threaded and SSE friendly NDT algorithm
-
-*   [YJZLuckyBoy/liorf](https://github.com/YJZLuckyBoy/liorf) - This repo is modified based on LIO\_SAM, which remove the feature extraction module and makes it easier to adapt your sensor.
-
-*   [adin-pro/avp\_mapping](https://github.com/adin-pro/avp_mapping) - avp mapping algorithm using multi-camera system
-
-*   [sujiwo/vector-map-localization](https://github.com/sujiwo/vector-map-localization) - Vector Map
-
-*   [appinho/SASensorProcessing](https://github.com/appinho/SASensorProcessing) - ROS node to create pointcloud out of stereo images from the KITTI Vision Benchmark Suite
-
-*   [rob530-w22-team25/AVP-SLAM-PLUS](https://github.com/rob530-w22-team25/AVP-SLAM-PLUS) - An implementation of AVP-SLAM and some new contributions
-
-*   [xiaohulugo/3DLineDetection](https://github.com/xiaohulugo/3DLineDetection) - A simple and efficient 3D line detection algorithm for large scale unorganized point cloud
-
-*   [Robotics-BUT/Robotic-Template-Library](https://github.com/Robotics-BUT/Robotic-Template-Library) - C++ template library for use in robotics.
-
-*   [UditSinghParihar/ros\_utils](https://github.com/UditSinghParihar/ros_utils) - ROS messages utilities, cpp problems and linux commands
-
-*   [MaybeShewill-CV/Easy-Ipm-Client](https://github.com/MaybeShewill-CV/Easy-Ipm-Client) - An easy, interface friendly cross-platform client to generate bird's view images using inverse perspective mapping methods proposed in paper "Adaptive Inverse Perspective Mapping for Lane Map Generation with SLAM"
-
-*   [luoveh/bev\_localization\_simulation](https://github.com/luoveh/bev_localization_simulation) -
-
-*   [siuoly/Cpp\_debug\_Tool](https://github.com/siuoly/Cpp_debug_Tool) - 直接cout 各種容器,vector,map,set,tuple,list,chrono....等等的lib
-
-*   [udacity/SFND\_Lidar\_Obstacle\_Detection](https://github.com/udacity/SFND_Lidar_Obstacle_Detection) -
-
-*   [baidut/ITS](https://github.com/baidut/ITS) - experiments about automobile vision, now focusing on lane marking/boundary detection & tracking. see more https://github.com/baidut/OpenVehicleVision
-
-*   [XProger/xedit](https://github.com/XProger/xedit) - simple code editor
-
-*   [zwang0725/bird-s-eye-view-for-car-parking](https://github.com/zwang0725/bird-s-eye-view-for-car-parking) -
-
-*   [wangx1996/Lidar-pcd-2-jpg-of-bird-eye-view-](https://github.com/wangx1996/Lidar-pcd-2-jpg-of-bird-eye-view-) - Take bird-eye-view Jpg file from pcd file.
-
-*   [parkerFrisk/Bird-s-eye-view](https://github.com/parkerFrisk/Bird-s-eye-view) - Master thesis Bird´s-eye view with human detection
-
-*   [LittleAprilFool/camera-calibration](https://github.com/LittleAprilFool/camera-calibration) - Camera calibration\&Bird's-eye view transformation
-
-*   [Nowely/birds-eye-view-transform](https://github.com/Nowely/birds-eye-view-transform) - Education projects
-
-*   [zjuluolun/BVMatch](https://github.com/zjuluolun/BVMatch) - Lidar-based Place Recognition Using Bird's-eye View Images
-
-*   [beltransen/lidar\_bev](https://github.com/beltransen/lidar_bev) - A ROS package for LiDAR's Bird's Eye View projection.
-
-*   [troiwill/build-lidar-2d-bev-data](https://github.com/troiwill/build-lidar-2d-bev-data) - Generates 2D bird's eye view (BEV) images of individual LiDAR scans and aggregates individual scans to produce BEV maps.
-
-*   [placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster](https://github.com/placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster) - A hybrid SOTA solution of LiDAR panoptic segmentation with C++ implementations of point cloud clustering algorithms. ICCV21, Workshop on Traditional Computer Vision in the Age of Deep Learning
-
-*   [GDUT-Kyle/gicp\_slam](https://github.com/GDUT-Kyle/gicp_slam) - GICP点云配准算法复现
-
-*   [lorenwel/linefit\_ground\_segmentation](https://github.com/lorenwel/linefit_ground_segmentation) - Ground Segmentation from Lidar Point Clouds
-
-*   [HaisenbergPeng/ROLL](https://github.com/HaisenbergPeng/ROLL) - A real-time, robust LiDAR-inertial localization system
-
-*   [enginBozkurt/LidarObstacleDetection](https://github.com/enginBozkurt/LidarObstacleDetection) - Lidar Obstacle Detection
-
-*   [arpg/dyna\_infini](https://github.com/arpg/dyna_infini) -
-
-*   [Abin1258/imu\_gps\_fuse](https://github.com/Abin1258/imu_gps_fuse) - imu gps fuse use eskf
-
-*   [yanboishere/OI-diary-of-Yanbo](https://github.com/yanboishere/OI-diary-of-Yanbo) - Personal OJ Question Warehouse / 个人的OJ刷题仓库
-
-*   [ANYbotics/grid\_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
-
-*   [LitoNeo/SmartCar-pcd-map-Tools](https://github.com/LitoNeo/SmartCar-pcd-map-Tools) - Tools for self-driving car
-
-*   [cggos/slamkit](https://github.com/cggos/slamkit) - SLAM Kit
-
-*   [shenfalong/SegModel](https://github.com/shenfalong/SegModel) - A light-weight deep learning library based on Caffe
-
-*   [StilesGao/slam\_Basic\_exercise](https://github.com/StilesGao/slam_Basic_exercise) -
-
-*   [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) - This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope.
-
-*   [zeroAska/BGKOctoMap-CRF](https://github.com/zeroAska/BGKOctoMap-CRF) - Learning-aided 3D mapping
-
-*   [csiro-robotics/ohm](https://github.com/csiro-robotics/ohm) - An efficient, extensible occupancy map supporting probabilistic occupancy, normal distribution transforms in CPU and GPU.
-
-*   [AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials) - This is a code repository for pytorch c++ (or libtorch) tutorial.
-
-*   [ganlumomo/BKISemanticMapping](https://github.com/ganlumomo/BKISemanticMapping) - Bayesian Spatial Kernel Smoothing for Scalable Dense Semantic Mapping
-
-*   [UMich-BipedLab/SegmentationMapping](https://github.com/UMich-BipedLab/SegmentationMapping) -
-
-*   [schizzz8/srrg\_semantic\_mapper](https://github.com/schizzz8/srrg_semantic_mapper) -
-
-*   [muryakami/Dark\_History\_01](https://github.com/muryakami/Dark_History_01) - First Commit!!
-
-*   [HMX2013/FSPC-ROS](https://github.com/HMX2013/FSPC-ROS) - A ROS implementation of range image base dbscan clustering for 3D LiDAR point clouds
-
-*   [wangx1996/LIDAR-Segmentation-Based-on-Range-Image](https://github.com/wangx1996/LIDAR-Segmentation-Based-on-Range-Image) - This is a lidar segmentation method based on range image.
-
-*   [RichExplor/MultiSensor\_fusion](https://github.com/RichExplor/MultiSensor_fusion) - Multi sensor lidat-visual-imu fusion odometry
-
-*   [SS47816/lidar\_obstacle\_detector](https://github.com/SS47816/lidar_obstacle_detector) - 3D LiDAR Object Detection & Tracking using Euclidean Clustering, RANSAC, & Hungarian Algorithm
-
-*   [yzrobot/online\_learning](https://github.com/yzrobot/online_learning) - \[ROS package] Online Learning for Human Detection in 3D Point Clouds
-
-*   [FabianB98/RosHololens2CatkinWs](https://github.com/FabianB98/RosHololens2CatkinWs) - Contains all ROS related stuff (point cloud reconstruction from depth images, MOD and MOT algorithms) implemented for my Master's thesis.
-
-*   [squirrel-project/squirrel\_nav](https://github.com/squirrel-project/squirrel_nav) - Repository for navigation related SQUIRREL packages.
-
-*   [leggedrobotics/icp\_localization](https://github.com/leggedrobotics/icp_localization) - This package provides localization in a pre-built map using ICP and odometry (or the IMU measurements).
-
-*   [Parkyunhwan/Lane\_Extractor](https://github.com/Parkyunhwan/Lane_Extractor) - A Project to detect a lane from the pointcloud map, for make vector map (extarct lane)
-
-*   [Saki-Chen/W-LOAM](https://github.com/Saki-Chen/W-LOAM) - A ros package for robust odometry and mapping using LiDAR with aid of different sensors
-
-*   [ZhuangYanDLUT/lidar\_gnss\_mapping](https://github.com/ZhuangYanDLUT/lidar_gnss_mapping) -
-
-*   [EdwardLiuyc/StaticMapping](https://github.com/EdwardLiuyc/StaticMapping) - Use LiDAR to map the static world
-
-*   [bigbigpark/LiDAR-CURB-DETECTION](https://github.com/bigbigpark/LiDAR-CURB-DETECTION) - Simple algorithm to detect the curb of road environment using 3D LiDAR
-
-*   [Jimmyjean1108/Localization-of-Self-Driving-Car-using-EKF-Sensor-Fusion](https://github.com/Jimmyjean1108/Localization-of-Self-Driving-Car-using-EKF-Sensor-Fusion) -
-
-*   [kungfrank/icp\_gtsam\_localization](https://github.com/kungfrank/icp_gtsam_localization) -
-
-*   [biomotion/bnn-localization](https://github.com/biomotion/bnn-localization) - Localizing using icp with map preprocessing
-
-*   [xiaohulugo/PointCloudSegmentation](https://github.com/xiaohulugo/PointCloudSegmentation) - A point cloud segmentation algorithm based on clustering analysis
-
-*   [bigbigpark/LiDAR-LANE-DETECTION](https://github.com/bigbigpark/LiDAR-LANE-DETECTION) - Simple algorithm to detect the lane of road environment using 3D LiDAR
-
-*   [azurity/lidar-hist](https://github.com/azurity/lidar-hist) - An implementation of "Lidar-histogram for fast road and obstacle detection"
-
-*   [linyliny/curb\_detection](https://github.com/linyliny/curb_detection) - based on the paper A real-time curb detection and tracking method for UGVs by using a 3D-LIDAR sensor
-
-*   [kwh950724/lidar\_lane\_detector](https://github.com/kwh950724/lidar_lane_detector) -
-
-*   [LiaoWeiHsiang/ICP-Localization](https://github.com/LiaoWeiHsiang/ICP-Localization) -
-
-*   [AndyYuan96/PointCloudDynamicVoxel](https://github.com/AndyYuan96/PointCloudDynamicVoxel) -
-
-*   [AbangLZU/vector-map-localization](https://github.com/AbangLZU/vector-map-localization) - Vector Map
-
-*   [Livox-SDK/LIO-Livox](https://github.com/Livox-SDK/LIO-Livox) - A Robust LiDAR-Inertial Odometry for Livox LiDAR
-
-*   [XiaotaoGuo/modular\_mapping\_and\_localization\_framework](https://github.com/XiaotaoGuo/modular_mapping_and_localization_framework) - :keyboard: A modular framework for comparing different algorithms used in mapping and localization.
-
-*   [Little-Potato-1990/localization\_in\_auto\_driving](https://github.com/Little-Potato-1990/localization_in_auto_driving) -
-
-*   [at-wat/mcl\_3dl](https://github.com/at-wat/mcl_3dl) - A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s). It implements pointcloud based Monte Carlo localization that uses a reference pointcloud as a map.
-
-*   [koide3/hdl\_localization](https://github.com/koide3/hdl_localization) - Real-time 3D localization using a (velodyne) 3D LIDAR
-
-*   [wh200720041/iscloam](https://github.com/wh200720041/iscloam) - Intensity Scan Context based full SLAM implementation for autonomous driving. ICRA 2020
-
-*   [geographiclib/geographiclib](https://github.com/geographiclib/geographiclib) - Main repository for GeographicLib
-
-*   [hyxhope/map\_evaluation\_tools](https://github.com/hyxhope/map_evaluation_tools) - This tool computes the *Mean Map Entropy* and the *Mean Plane Variance* of a point cloud.
-
-*   [hku-mars/BALM](https://github.com/hku-mars/BALM) - An efficient and consistent bundle adjustment for lidar mapping
-
-*   [Gaochao-hit/LIO-SAM\_based\_relocalization](https://github.com/Gaochao-hit/LIO-SAM_based_relocalization) - A simple system that can relocalize a robot on a built map is developed in this system. The system is based on LIO-SAM.
-
-*   [PeterFWS/Structure-PLP-SLAM](https://github.com/PeterFWS/Structure-PLP-SLAM) - \[ICRA'23] The official Implementation of "Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras"
-
-*   [jedeschaud/ct\_icp](https://github.com/jedeschaud/ct_icp) - CT-ICP: Continuous-Time LiDAR Odometry
-
-*   [zhouyong1234/SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One) - SLAM汇总，包括多传感器融合建图、定位、VIO系列、常用工具包、开源代码注释和公式推导、文章综述
-
-*   [acfr/cam\_lidar\_calibration](https://github.com/acfr/cam_lidar_calibration) - (ITSC 2021) Optimising the selection of samples for robust lidar camera calibration. This package estimates the calibration parameters from camera to lidar frame.
-
-*   [QingzhiWang/LIS-SLAM](https://github.com/QingzhiWang/LIS-SLAM) - Laser SLAM; Semantic-assisted point cloud matching; LiDAR/IMU fusion pose estimation; Loop closure detection; SubMap
-
-*   [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
-
-*   [KumarRobotics/sloam](https://github.com/KumarRobotics/sloam) - Semantic LIDAR odometry and mapping for cylinderical objects (e.g. trees in forests)
-
-*   [kkkkkaiai/gicp\_localizer](https://github.com/kkkkkaiai/gicp_localizer) - 3D LIDAR-based Localization using fast\_gicp and Point Cloud Map
-
-*   [SMRT-AIST/fast\_gicp](https://github.com/SMRT-AIST/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
-
-*   [Kitware/VeloView](https://github.com/Kitware/VeloView) - VeloView performs real-time visualization and easy processing of live captured 3D LiDAR data from Velodyne sensors (Alpha Prime™, Puck™, Ultra Puck™, Puck Hi-Res™, Alpha Puck™, Puck LITE™, HDL-32, HDL-64E). Runs on Windows, Linux and MacOS. This repository is a mirror of https://gitlab.kitware.com/LidarView/VeloView-Velodyne.
-
-*   [MIT-SPARK/TEASER-plusplus](https://github.com/MIT-SPARK/TEASER-plusplus) - A fast and robust point cloud registration library
-
-*   [anthonypan08/568\_final\_project](https://github.com/anthonypan08/568_final_project) -
-
-*   [RozDavid/LOL](https://github.com/RozDavid/LOL) - LOL: Lidar-only Odometry and Localization in 3D point cloud maps
-
-*   [yanyan-li/PlanarSLAM](https://github.com/yanyan-li/PlanarSLAM) - A RGB-D SLAM system for structural scenes, which makes use of point-line-plane features and the Manhattan World assumption.
-
-*   [Hhanx/FileSocket](https://github.com/Hhanx/FileSocket) - 有啥建议b站留言供我学习
-
-*   [YuePanEdward/GH-ICP](https://github.com/YuePanEdward/GH-ICP) - GH-ICP: Iterative Closest Point algorithm with global optimal matching and hybrid metric \[3DV' 18]
-
-*   [wavelab/offline\_mapper](https://github.com/wavelab/offline_mapper) - Batch offline graph SLAM with HDL32
-
-*   [Dovyski/cvui](https://github.com/Dovyski/cvui) - A (very) simple UI lib built on top of OpenCV drawing primitives
-
-*   [LeisureLei/KITTI\_FUSION](https://github.com/LeisureLei/KITTI_FUSION) - laser point clouds project to image plane
-
-*   [SeunghwanByun/KITTI\_PROJECTION](https://github.com/SeunghwanByun/KITTI_PROJECTION) - Projection from 3D LiDAR point cloud to 2D Image. KITTI dataset provided by http://www.cvlibs.net/datasets/kitti/eval\_road.php
-
-*   [DLonng/RSPMP](https://github.com/DLonng/RSPMP) - RSPMP: real-time semantic perception and motion planning for autonomous navigation of unmanned ground vehicle in off-road environments
-
-*   [wysaid/xege](https://github.com/wysaid/xege) - Easy Graphics Engine
-
-*   [HuangCongQing/pcl-learning](https://github.com/HuangCongQing/pcl-learning) - 🔥PCL（Point Cloud Library）点云库学习记录
-
-*   [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
-
-*   [PoseLib/PoseLib](https://github.com/PoseLib/PoseLib) - Minimal solvers for calibrated camera pose estimation
-
-*   [donglinb/pnpl](https://github.com/donglinb/pnpl) - Computing 3D pose with 3D-2D point and line correspondances.
-
-*   [chenhanzhun/STL](https://github.com/chenhanzhun/STL) - The Annotated SGI STL Sources
-
-*   [icboredman/camera\_node](https://github.com/icboredman/camera_node) - ROS node that processes data received from a stereo camera module
-
-*   [MOLAorg/mola](https://github.com/MOLAorg/mola) - A Modular Optimization framework for Localization and mApping (MOLA)
-
-*   [hyungjinkim0508/gpicp](https://github.com/hyungjinkim0508/gpicp) -
-
-*   [cggos/imu\_x\_fusion](https://github.com/cggos/imu_x_fusion) - IMU + X(GNSS, 6DoF Odom) Loosely-Coupled Fusion Localization based on ESKF, IEKF, UKF(UKF/SPKF, JUKF, SVD-UKF) and MAP
-
-*   [ydsf16/particle\_filter\_localization](https://github.com/ydsf16/particle_filter_localization) - Particle filter-based localization in an occupancy grid map.
-
-*   [TouchDeeper/VIW-Fusion](https://github.com/TouchDeeper/VIW-Fusion) - Visual-inertial-wheel fusion odometry, better performance in scenes with drastic changes in light
-
-*   [i2Nav-WHU/Wheel-INS](https://github.com/i2Nav-WHU/Wheel-INS) - A wheel-mounted MEMS IMU-based dead reckoning system.
-
-*   [thesidjway/oxford-robotcar-to-rosbag](https://github.com/thesidjway/oxford-robotcar-to-rosbag) - Script to convert the Robot Car Camera + GPS data to a rosbag
-
-*   [rock-slam/slam-pose\_ekf](https://github.com/rock-slam/slam-pose_ekf) - This library provides a basic, EKF based, implementation for a pose
-    estimator that is able to fuse IMU, odometry and global positioning
-    information (GPS)
-
-*   [zhanghanduo/gps\_pose\_to\_local](https://github.com/zhanghanduo/gps_pose_to_local) - GPS and imu position and orientation convert to local camera frame
-
-*   [KIT-ISAS/lili-om](https://github.com/KIT-ISAS/lili-om) - LiLi-OM is a tightly-coupled, keyframe-based LiDAR-inertial odometry and mapping system for both solid-state-LiDAR and conventional LiDARs.
-
-*   [APRIL-ZJU/clins](https://github.com/APRIL-ZJU/clins) - CLINS: Continuous-Time Trajectory Estimation for LiDAR-Inertial System
-
-*   [ethz-asl/maplab](https://github.com/ethz-asl/maplab) - A Modular and Multi-Modal Mapping Framework
-
-*   [hku-mars/VoxelMap](https://github.com/hku-mars/VoxelMap) - \[RA-L 2022] An efficient and probabilistic adaptive voxel mapping method for LiDAR odometry
-
-*   [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - Advanced implementation of LOAM
-
-*   [melhousni/ndt\_mapping\_localization](https://github.com/melhousni/ndt_mapping_localization) - C++ Implementation of the NDT mapping and localization algorithm for ADV on ROS.
-
-*   [Mitchell-Lee-93/kitti-A-LOAM](https://github.com/Mitchell-Lee-93/kitti-A-LOAM) - Easy description to run and evaluate A-LOAM with KITTI-data
-
-*   [beltransen/velo2cam\_calibration](https://github.com/beltransen/velo2cam_calibration) - Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups. ROS Package.
-
-*   [floatlazer/semantic\_slam](https://github.com/floatlazer/semantic_slam) - Real time semantic slam in ROS with a hand held RGB-D camera
-
-*   [gisbi-kim/lt-mapper](https://github.com/gisbi-kim/lt-mapper) - A Modular Framework for LiDAR-based Lifelong Mapping
-
-*   [EpsAvlc/cam\_lidar\_fusion](https://github.com/EpsAvlc/cam_lidar_fusion) - project lidar's point cloud on camera's image
-
-*   [ethz-asl/segmap](https://github.com/ethz-asl/segmap) - A map representation based on 3D segments
-
-*   [UMich-CURLY/unified\_cvo](https://github.com/UMich-CURLY/unified_cvo) - Data-correspondence-free Point Cloud Registration on GPU
-
-*   [introlab/rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
-
-*   [HorizonAD/stereo\_dso](https://github.com/HorizonAD/stereo_dso) -
-
-*   [zhouzhibo0117/scancontext\_ros](https://github.com/zhouzhibo0117/scancontext_ros) - A ROS application of Scan Context Image (SCI) for place recognition and global initialization.
-
-*   [GuYufeng93/Pointcloud-to-Images](https://github.com/GuYufeng93/Pointcloud-to-Images) - An algorithm for projecting three-dimensional laser point cloud data into serialized two-dimensional images.
-
-*   [wh200720041/intensity\_slam](https://github.com/wh200720041/intensity_slam) - Intensity-SLAM: Intensity Assisted Localization and Mapping for Large Scale Environment RA-L 2021
-
-*   [1989Ryan/Semantic\_SLAM](https://github.com/1989Ryan/Semantic_SLAM) - Semantic SLAM using ROS, ORB SLAM, PSPNet101
-
-*   [ISEE-Technology/CamVox](https://github.com/ISEE-Technology/CamVox) - \[ICRA2021] A low-cost SLAM system based on camera and Livox lidar.
-
-*   [wh200720041/floam](https://github.com/wh200720041/floam) - Fast LOAM: Fast and Optimized Lidar Odometry And Mapping   for indoor/outdoor localization IROS 2021
-
-*   [wh200720041/ssl\_slam](https://github.com/wh200720041/ssl_slam) - SSL\_SLAM: Lightweight 3-D Localization and Mapping for Solid-State LiDAR  IEEE RA-L 2021
-
-*   [daohu527/OpenHDMap](https://github.com/daohu527/OpenHDMap) - An open HD map production process for autonomous car simulation
-
-*   [wheelos/OpenHDMap](https://github.com/wheelos/OpenHDMap) - An open HD map production process for autonomous car simulation
-
-*   [fzi-forschungszentrum-informatik/Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
-
-*   [HITSZ-NRSL/long-term-localization](https://github.com/HITSZ-NRSL/long-term-localization) - \[ROBIO 2021] Pole-like Objects Mapping and Long-Term Robot Localization in Dynamic Urban Scenarios
-
-*   [PatrykMazurek/SLAM-OR](https://github.com/PatrykMazurek/SLAM-OR) -
-
-*   [VIS4ROB-lab/multi\_robot\_coordination](https://github.com/VIS4ROB-lab/multi_robot_coordination) - "Multi-robot Coordination with Agent-Server Architecture for Autonomous Navigation in Partially Unknown Environments", IROS 2020
-
-*   [PJLab-ADG/Livox-Mapping](https://github.com/PJLab-ADG/Livox-Mapping) - An all-in-one and ready-to-use LiDAR-inertial odometry system for Livox LiDAR
-
-*   [alexandrx/lidar\_hd\_ground\_mapping](https://github.com/alexandrx/lidar_hd_ground_mapping) - HD ground mapping by accumulation of scan data
-
-*   [seaun163/semanticfusion](https://github.com/seaun163/semanticfusion) -
-
-*   [hku-mars/loam\_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
-
-*   [gxytcrc/semantic-histogram-based-global-localization](https://github.com/gxytcrc/semantic-histogram-based-global-localization) - Semantic graph based global localization for multi-robot map fusion.
-
-*   [GSORF/Visual-GPS-SLAM](https://github.com/GSORF/Visual-GPS-SLAM) - This is a repo for my master thesis research about the Fusion of Visual SLAM and GPS. It contains the research paper, code and other interesting data.
-
-*   [martinruenz/maskfusion](https://github.com/martinruenz/maskfusion) - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects
-
-*   [Zhuagenborn/Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) - 🧟 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.
-
-*   [shichaoy/pop\_up\_image](https://github.com/shichaoy/pop_up_image) - Real-time 3D Scene Layout from a Single Image Using Convolutional Neural Networks
-
-*   [yuxng/DA-RNN](https://github.com/yuxng/DA-RNN) - Semantic Mapping with Data Associated Recurrent Neural Networks
-
-*   [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain
-
-*   [laboshinl/loam\_velodyne](https://github.com/laboshinl/loam_velodyne) - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
-
-*   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
-
-*   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
-
-*   [HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
-
-*   [ndrwk/detection](https://github.com/ndrwk/detection) - Motion analysis and object tracking
-
-*   [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL) - 剖析 STL 是一种享受的过程！
-
-*   [karlkurzer/path\_planner](https://github.com/karlkurzer/path_planner) - Hybrid A\* Path Planner for the KTH Research Concept Vehicle
-
-*   [electech6/ORB\_SLAM3\_detailed\_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) - Detailed comments for ORB-SLAM3
-
-*   [electech6/ORB\_SLAM2\_detailed\_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
-
-*   [raulmur/ORB\_SLAM](https://github.com/raulmur/ORB_SLAM) - A Versatile and Accurate Monocular SLAM
-
-*   [UZ-SLAMLab/ORB\_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
-
-*   [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
-
-*   [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook) -
-
-*   [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
-
-*   [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-
-*   [upwon/OpticalFlow](https://github.com/upwon/OpticalFlow) - 利用光流法进行运动目标检测
-
-*   [oreillymedia/Learning-OpenCV-3\_examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples) -
-
-*   [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
-
-*   [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
-
 ## miscellaneous
+
+*   [sjtuyinjie/awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam) - A curated list of resources relevant to wheel-based SLAM
 
 *   [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 
@@ -1972,8 +1980,6 @@
 
 *   [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar\_board: Path to a free self-taught education in Computer Science!
 
-*   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
-
 ## JavaScript
 
 *   [gotohiroki/ha-labo-2d](https://github.com/gotohiroki/ha-labo-2d) -
@@ -2174,7 +2180,7 @@
 
 ## Rust
 
-*   [lbl8603/vnt](https://github.com/lbl8603/vnt) - A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
+*   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
 
 *   [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 
@@ -2320,10 +2326,6 @@
 
 *   [enggen/Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera) - Deep Learning Specialization by Andrew Ng, deeplearning.ai.
 
-*   [PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt
-
-*   [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
-
 ## Makefile
 
 *   [jpl917/GeometricSLAM](https://github.com/jpl917/GeometricSLAM) - geometric based rgbd slam for low texture environment
@@ -2431,8 +2433,6 @@
 *   [tikroeger/OF\_DIS](https://github.com/tikroeger/OF_DIS) - Fast Optical Flow using Dense Inverse Search (DIS)
 
 *   [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
-
-*   [yh1094632455/Cgames](https://github.com/yh1094632455/Cgames) - c语言经典200多个有趣的程序和游戏
 
 ## AutoIt
 
