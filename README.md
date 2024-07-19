@@ -1,6 +1,7 @@
 ## Table of Contents
 
 *   [C++](#c)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -14,7 +15,6 @@
 *   [Rust](#rust)
 *   [C#](#c-1)
 *   [Go](#go)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Makefile](#makefile)
 *   [HTML](#html)
 *   [Shell](#shell)
@@ -33,6 +33,18 @@
 *   [Vim Script](#vim-script)
 
 ## C++
+
+*   [koide3/gtsam\_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for range-based SLAM
+
+*   [YibinWu/LIO-EKF](https://github.com/YibinWu/LIO-EKF) - Maybe the simplest LiDAR-inertial odometry that one can have.
+
+*   [NEU-REAL/LIVW-Localization](https://github.com/NEU-REAL/LIVW-Localization) - LIVW-Localization: A Multi-modal Information Fused Vehicle Localization Method for Complex, Large-Scale and GNSS-Denied Environments.
+
+*   [NEU-REAL/OTD](https://github.com/NEU-REAL/OTD) - \[ICRA'24]Observation Time Difference: an Online Dynamic Objects Removal Method for Ground Vehicles
+
+*   [Wilhelm-Marais/orbvins\_fusion](https://github.com/Wilhelm-Marais/orbvins_fusion) - vins fusion using orb mono+stereo feature matching
+
+*   [RichExplor/CNN\_VINS](https://github.com/RichExplor/CNN_VINS) - using SuperPoint as visual front to VINS-Mono
 
 *   [w111liang222/lidar-slam-detection](https://github.com/w111liang222/lidar-slam-detection) - LSD (LiDAR SLAM & Detection) is an open source perception architecture for autonomous vehicle/robotic
 
@@ -343,8 +355,6 @@
 *   [HyHuang1995/gmmloc](https://github.com/HyHuang1995/gmmloc) - Implementation for IROS2020: "GMMLoc: Structure Consistent Visual Localization with Gaussian Mixture Model"
 
 *   [felixchenfy/Monocular-Visual-Odometry](https://github.com/felixchenfy/Monocular-Visual-Odometry) - A simple monocular visual odometry (part of vSLAM) by ORB keypoints with initialization, tracking, local map and bundle adjustment. (WARNING: Hi, I'm sorry that this project is tuned for course demo, not for real world applications !!!)
-
-*   [ydsf16/imu\_gps\_localization](https://github.com/ydsf16/imu_gps_localization) - Using error-state Kalman filter to fuse the IMU and GPS data for localization.
 
 *   [ShiPC-AI/LiDAR-Localization-100FPS](https://github.com/ShiPC-AI/LiDAR-Localization-100FPS) - LiDAR localization at 100FPS: A map-aided and template descriptor-based global method
 
@@ -1010,7 +1020,127 @@
 
 *   [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 
-*   [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
+## Jupyter Notebook
+
+*   [motokimura/kalman\_filter\_with\_kitti](https://github.com/motokimura/kalman_filter_with_kitti) - Applying extended Kalman filter to KITTI GPS/IMU data for vehicle localization
+
+*   [UditSinghParihar/mvg\_estimation](https://github.com/UditSinghParihar/mvg_estimation) - Implementation of Zhang method, homography decompostion, N-View Triangulation and Bundle adjustment from scratch
+
+*   [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+
+*   [Harsharma2308/camTracking\_GTSAM](https://github.com/Harsharma2308/camTracking_GTSAM) - Tracking only using cameras with a lidar map
+
+*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
+
+*   [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
+
+*   [afiliot/Balanced-Graph-Matching](https://github.com/afiliot/Balanced-Graph-Matching) - Compressed Sensing project - ENSAE ParisTech
+
+*   [laugh12321/RoadLaneFitting](https://github.com/laugh12321/RoadLaneFitting) - Lane Line Fitting Based on Perspective Transformation | 基于透视变换的车道线拟合
+
+*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
+
+*   [HuichuanLI/play-with-graph-algorithme](https://github.com/HuichuanLI/play-with-graph-algorithme) - python实现的初级图论算法库:环检测问题,桥和割点,最小生成树,最短路径,欧拉路径,哈密尔顿路径,拓扑排序，最大流问题，匹配问题(匈牙利算法)
+
+*   [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
+
+*   [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook) - LaTeX论文写作教程 (清华大学出版社)
+
+*   [Al-khwarizmi-780/OpenKF](https://github.com/Al-khwarizmi-780/OpenKF) - This is an open source Kalman filter C++ library based on Eigen3 library for matrix operations.  The library has generic template based classes for most of Kalman filter variants including:  (1) Kalman Filter, (2) Extended Kalman Filter, (3) Unscented Kalman Filter, and (4) Square-root UKF..
+
+*   [autonomousvision/factor-fields](https://github.com/autonomousvision/factor-fields) - \[SIGGRAPH 2023] We provide a unified formula for neural fields (Factor Fields) and a novel dictionary factorization (Dictionary Fields)
+
+*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
+
+*   [HOKOTATE-pzw/maysics](https://github.com/HOKOTATE-pzw/maysics) - This project is used for scientific calculating and fast modeling.
+
+*   [DefangChen/SemCKD](https://github.com/DefangChen/SemCKD) - \[AAAI-2021, TKDE-2023] Official implementation for "Cross-Layer Distillation with Semantic Calibration".
+
+*   [kymikim0401/Ego-Lane-fitting-Pointclouds](https://github.com/kymikim0401/Ego-Lane-fitting-Pointclouds) - This is the short, personal project. The goal of this project is to detect the ego lane markings and conduct polynomial fitting with small LiDAR point cloud. Due to lack of data, implementing Deep learning techniques is inappropriate; therefore, I wrote the source codes that cover from point cloud pre-processing to lane extraction algorithms using DBSCAN clustering & RANSAC algorithms.
+
+*   [cggos/state\_estimation](https://github.com/cggos/state_estimation) - State Estimation for SLAM: Filter(EKF, Particle Filter), MAP(GN, LM), Solver(Ceres-Solver, G2O, GTSAM), Bundle Adjustment
+
+*   [unmannedlab/RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) - RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics
+
+*   [stschubert/VPR\_Tutorial](https://github.com/stschubert/VPR_Tutorial) -
+
+*   [JunHyeok96/Road-Segmentation](https://github.com/JunHyeok96/Road-Segmentation) - :rice\_scene: 인도 보행 구역 segmentation 모델
+
+*   [alexmelekhin/HPointLoc](https://github.com/alexmelekhin/HPointLoc) - HPointLoc: open dataset and framework for indoor visual localization based on synthetic RGB-D images
+
+*   [UsamaI000/CamVid-Segmentation-Pytorch](https://github.com/UsamaI000/CamVid-Segmentation-Pytorch) - This is the DL repository for Semantic Segmentation using U-Net model in pytorch library.
+
+*   [scaleapi/pandaset-devkit](https://github.com/scaleapi/pandaset-devkit) -
+
+*   [niudd/kaggle-cloud](https://github.com/niudd/kaggle-cloud) -
+
+*   [PrabhuSM16/VPGNet-Pytorch](https://github.com/PrabhuSM16/VPGNet-Pytorch) - A Pytorch implementation of VPGNet
+
+*   [SeokjuLee/VPGNet](https://github.com/SeokjuLee/VPGNet) - VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition (ICCV 2017)
+
+*   [Lukas-Justen/Lane-Marking-Detection](https://github.com/Lukas-Justen/Lane-Marking-Detection) - This is the final project for the Geospatial Vision and Visualization class at Northwestern University. The goal of the project is detecting the lane marking for a small LIDAR point cloud. Therefore, we cannot use a Deep Learning algorithm that learns to identify the lane markings by looking at a vast amount of data. Instead we will need to build a system that is able to identify the marking just by looking at the intensity value within the point cloud.
+
+*   [anupjsebastian/Self\_Driving\_Car\_Semantic\_Segmentation](https://github.com/anupjsebastian/Self_Driving_Car_Semantic_Segmentation) - Semantic Segmentation for Self-Driving Cars using the Mapillary Dataset
+
+*   [Michelle-NYX/DreamNet](https://github.com/Michelle-NYX/DreamNet) - CS230 Project: In this project, we investigate and evaluate the performance of the state-of-the-art model for instance segmentation, Mask R-CNN, on the newly-released Mapillary dataset, whose images focus specifically on driving scenes. We transfer the learning results from the pre-trained weights, fine tune the final layers for Mapillary Datasets. The result shows a significant improvement in precision measurements from the baseline, and achieves at a surpassing performance than benchmarks.
+
+*   [patrick-llgc/Learning-Deep-Learning](https://github.com/patrick-llgc/Learning-Deep-Learning) - Paper reading notes on Deep Learning and Machine Learning
+
+*   [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
+
+*   [duyongquan/LTSLAM](https://github.com/duyongquan/LTSLAM) - You can learn slam step by step，there are lot of tutorials
+
+*   [MankaranSingh/Auto-Birds-Eye](https://github.com/MankaranSingh/Auto-Birds-Eye) - Bird's eye/Top Down view generation and mapping with deep learning.
+
+*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+
+*   [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
+
+*   [andreaconti/lidar-confidence](https://github.com/andreaconti/lidar-confidence) - Effective unsupervised framework aimed at explicitly addressing confidence estimation of LiDAR sparse depth maps
+
+*   [advaitsave/Multiclass-Semantic-Segmentation-CamVid](https://github.com/advaitsave/Multiclass-Semantic-Segmentation-CamVid) - Tensorflow 2 implementation of complete pipeline for multiclass image semantic segmentation using UNet, SegNet and FCN32 architectures on Cambridge-driving Labeled Video Database (CamVid) dataset.
+
+*   [HadXu/ML-From-Scratch](https://github.com/HadXu/ML-From-Scratch) - 机器学习算法 基于西瓜书以及《统计学习方法》，当然包括DL。
+
+*   [anch3or/Notes-on-Statistical-Learning-Methods](https://github.com/anch3or/Notes-on-Statistical-Learning-Methods) - 李航《统计学习方法》中机器学习模型的LaTeX公式笔记
+
+*   [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
+
+*   [parachutel/deeplabv3plus\_on\_Mapillary\_Vistas](https://github.com/parachutel/deeplabv3plus_on_Mapillary_Vistas) - Semantic Segmentation on the Mapillary Vistas Dataset
+
+*   [srihari-humbarwadi/Keras-Unet](https://github.com/srihari-humbarwadi/Keras-Unet) - Keras Unet model trained on Mapillary Vistas
+
+*   [victorycar/UNetModels](https://github.com/victorycar/UNetModels) - Testing how U-Net Image segmentation can be used for lane and derivable area detection.
+
+*   [mjDelta/CV-in-ADAS-pytorch](https://github.com/mjDelta/CV-in-ADAS-pytorch) - This repo includes Unet, Spatial CNN (S-CNN) and VPNet for  lane segmentation, and YOLO, Faster-RCNN, Stereo-RCNN for vehicle detection.
+
+*   [haopo2005/Semantic\_Segmentation\_Study](https://github.com/haopo2005/Semantic_Segmentation_Study) - My Semantic\_Segmentation\_Study Based on cityspace
+
+*   [akshaykulkarni07/pl-sem-seg](https://github.com/akshaykulkarni07/pl-sem-seg) - PyTorch Lightning based training of Semantic Segmentation models
+
+*   [4nonymou5/satelite\_road\_geometry](https://github.com/4nonymou5/satelite_road_geometry) - Generating semantic maps of road geometry through satellite view
+
+*   [lian999111/carla-semantic-localization](https://github.com/lian999111/carla-semantic-localization) - This repository stores the codes of my master's thesis "Semantic Landmark-based Localization in HD-Maps using Object-level Detections." The publication to ITSC 2021 based on this work is in progress.
+
+*   [Liang-ZX/VectorNet](https://github.com/Liang-ZX/VectorNet) - Pytorch implementation of CVPR2020 paper “VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation”
+
+*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+
+*   [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
+
+*   [yiakwy/SEMANTIC\_VISUAL\_SUPPORTED\_ODEMETRY](https://github.com/yiakwy/SEMANTIC_VISUAL_SUPPORTED_ODEMETRY) - semantic visual slam for monocular and stereo camera devices
+
+*   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
+
+*   [glouppe/info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning) - Lectures for INFO8010 Deep Learning, ULiège
+
+*   [google-research/google-research](https://github.com/google-research/google-research) - Google Research
+
+*   [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
+
+*   [enggen/Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera) - Deep Learning Specialization by Andrew Ng, deeplearning.ai.
 
 ## Python
 
@@ -1474,8 +1604,6 @@
 
 *   [Cadene/pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch) - Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.
 
-*   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-
 *   [fregu856/deeplabv3](https://github.com/fregu856/deeplabv3) - PyTorch implementation of DeepLabV3, trained on the Cityscapes dataset.
 
 *   [gisbi-kim/PyICP-SLAM](https://github.com/gisbi-kim/PyICP-SLAM) - Full-python LiDAR SLAM using ICP and Scan Context
@@ -1643,10 +1771,6 @@
 *   [Cartucho/mAP](https://github.com/Cartucho/mAP) - mean Average Precision - This code evaluates the performance of your neural net for object recognition.
 
 *   [geniki/neural-processes](https://github.com/geniki/neural-processes) - PyTorch implementation of Neural Processes
-
-*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-
-*   [zhpmatrix/VisDrone2018](https://github.com/zhpmatrix/VisDrone2018) - ECCV2018(Challenge-Object Detection in Images)
 
 ## miscellaneous
 
@@ -1976,10 +2100,6 @@
 
 *   [qxiaofan/awesome\_3d\_slam\_resources](https://github.com/qxiaofan/awesome_3d_slam_resources) - 记录3D视觉、VSLAM、计算机视觉的干货资料。
 
-*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
-
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar\_board: Path to a free self-taught education in Computer Science!
-
 ## JavaScript
 
 *   [gotohiroki/ha-labo-2d](https://github.com/gotohiroki/ha-labo-2d) -
@@ -2158,7 +2278,7 @@
 
 *   [Chesire/Nekome](https://github.com/Chesire/Nekome) - Nekome is an Android application to manage tracked Anime and Manga lists.
 
-*   [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
+*   [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
 
 *   [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 
@@ -2205,126 +2325,6 @@
 *   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
 
 *   [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-
-## Jupyter Notebook
-
-*   [UditSinghParihar/mvg\_estimation](https://github.com/UditSinghParihar/mvg_estimation) - Implementation of Zhang method, homography decompostion, N-View Triangulation and Bundle adjustment from scratch
-
-*   [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
-
-*   [Harsharma2308/camTracking\_GTSAM](https://github.com/Harsharma2308/camTracking_GTSAM) - Tracking only using cameras with a lidar map
-
-*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
-
-*   [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
-
-*   [afiliot/Balanced-Graph-Matching](https://github.com/afiliot/Balanced-Graph-Matching) - Compressed Sensing project - ENSAE ParisTech
-
-*   [laugh12321/RoadLaneFitting](https://github.com/laugh12321/RoadLaneFitting) - Lane Line Fitting Based on Perspective Transformation | 基于透视变换的车道线拟合
-
-*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
-
-*   [HuichuanLI/play-with-graph-algorithme](https://github.com/HuichuanLI/play-with-graph-algorithme) - python实现的初级图论算法库:环检测问题,桥和割点,最小生成树,最短路径,欧拉路径,哈密尔顿路径,拓扑排序，最大流问题，匹配问题(匈牙利算法)
-
-*   [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
-
-*   [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook) - LaTeX论文写作教程 (清华大学出版社)
-
-*   [Al-khwarizmi-780/OpenKF](https://github.com/Al-khwarizmi-780/OpenKF) - This is an open source Kalman filter C++ library based on Eigen3 library for matrix operations.  The library has generic template based classes for most of Kalman filter variants including:  (1) Kalman Filter, (2) Extended Kalman Filter, (3) Unscented Kalman Filter, and (4) Square-root UKF..
-
-*   [autonomousvision/factor-fields](https://github.com/autonomousvision/factor-fields) - \[SIGGRAPH 2023] We provide a unified formula for neural fields (Factor Fields) and a novel dictionary factorization (Dictionary Fields)
-
-*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
-
-*   [HOKOTATE-pzw/maysics](https://github.com/HOKOTATE-pzw/maysics) - This project is used for scientific calculating and fast modeling.
-
-*   [DefangChen/SemCKD](https://github.com/DefangChen/SemCKD) - \[AAAI-2021, TKDE-2023] Official implementation for "Cross-Layer Distillation with Semantic Calibration".
-
-*   [kymikim0401/Ego-Lane-fitting-Pointclouds](https://github.com/kymikim0401/Ego-Lane-fitting-Pointclouds) - This is the short, personal project. The goal of this project is to detect the ego lane markings and conduct polynomial fitting with small LiDAR point cloud. Due to lack of data, implementing Deep learning techniques is inappropriate; therefore, I wrote the source codes that cover from point cloud pre-processing to lane extraction algorithms using DBSCAN clustering & RANSAC algorithms.
-
-*   [cggos/state\_estimation](https://github.com/cggos/state_estimation) - State Estimation for SLAM: Filter(EKF, Particle Filter), MAP(GN, LM), Solver(Ceres-Solver, G2O, GTSAM), Bundle Adjustment
-
-*   [unmannedlab/RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) - RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics
-
-*   [stschubert/VPR\_Tutorial](https://github.com/stschubert/VPR_Tutorial) -
-
-*   [JunHyeok96/Road-Segmentation](https://github.com/JunHyeok96/Road-Segmentation) - :rice\_scene: 인도 보행 구역 segmentation 모델
-
-*   [alexmelekhin/HPointLoc](https://github.com/alexmelekhin/HPointLoc) - HPointLoc: open dataset and framework for indoor visual localization based on synthetic RGB-D images
-
-*   [UsamaI000/CamVid-Segmentation-Pytorch](https://github.com/UsamaI000/CamVid-Segmentation-Pytorch) - This is the DL repository for Semantic Segmentation using U-Net model in pytorch library.
-
-*   [scaleapi/pandaset-devkit](https://github.com/scaleapi/pandaset-devkit) -
-
-*   [niudd/kaggle-cloud](https://github.com/niudd/kaggle-cloud) -
-
-*   [PrabhuSM16/VPGNet-Pytorch](https://github.com/PrabhuSM16/VPGNet-Pytorch) - A Pytorch implementation of VPGNet
-
-*   [SeokjuLee/VPGNet](https://github.com/SeokjuLee/VPGNet) - VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition (ICCV 2017)
-
-*   [Lukas-Justen/Lane-Marking-Detection](https://github.com/Lukas-Justen/Lane-Marking-Detection) - This is the final project for the Geospatial Vision and Visualization class at Northwestern University. The goal of the project is detecting the lane marking for a small LIDAR point cloud. Therefore, we cannot use a Deep Learning algorithm that learns to identify the lane markings by looking at a vast amount of data. Instead we will need to build a system that is able to identify the marking just by looking at the intensity value within the point cloud.
-
-*   [anupjsebastian/Self\_Driving\_Car\_Semantic\_Segmentation](https://github.com/anupjsebastian/Self_Driving_Car_Semantic_Segmentation) - Semantic Segmentation for Self-Driving Cars using the Mapillary Dataset
-
-*   [Michelle-NYX/DreamNet](https://github.com/Michelle-NYX/DreamNet) - CS230 Project: In this project, we investigate and evaluate the performance of the state-of-the-art model for instance segmentation, Mask R-CNN, on the newly-released Mapillary dataset, whose images focus specifically on driving scenes. We transfer the learning results from the pre-trained weights, fine tune the final layers for Mapillary Datasets. The result shows a significant improvement in precision measurements from the baseline, and achieves at a surpassing performance than benchmarks.
-
-*   [patrick-llgc/Learning-Deep-Learning](https://github.com/patrick-llgc/Learning-Deep-Learning) - Paper reading notes on Deep Learning and Machine Learning
-
-*   [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
-
-*   [duyongquan/LTSLAM](https://github.com/duyongquan/LTSLAM) - You can learn slam step by step，there are lot of tutorials
-
-*   [MankaranSingh/Auto-Birds-Eye](https://github.com/MankaranSingh/Auto-Birds-Eye) - Bird's eye/Top Down view generation and mapping with deep learning.
-
-*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-
-*   [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
-
-*   [andreaconti/lidar-confidence](https://github.com/andreaconti/lidar-confidence) - Effective unsupervised framework aimed at explicitly addressing confidence estimation of LiDAR sparse depth maps
-
-*   [advaitsave/Multiclass-Semantic-Segmentation-CamVid](https://github.com/advaitsave/Multiclass-Semantic-Segmentation-CamVid) - Tensorflow 2 implementation of complete pipeline for multiclass image semantic segmentation using UNet, SegNet and FCN32 architectures on Cambridge-driving Labeled Video Database (CamVid) dataset.
-
-*   [HadXu/ML-From-Scratch](https://github.com/HadXu/ML-From-Scratch) - 机器学习算法 基于西瓜书以及《统计学习方法》，当然包括DL。
-
-*   [anch3or/Notes-on-Statistical-Learning-Methods](https://github.com/anch3or/Notes-on-Statistical-Learning-Methods) - 李航《统计学习方法》中机器学习模型的LaTeX公式笔记
-
-*   [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
-
-*   [parachutel/deeplabv3plus\_on\_Mapillary\_Vistas](https://github.com/parachutel/deeplabv3plus_on_Mapillary_Vistas) - Semantic Segmentation on the Mapillary Vistas Dataset
-
-*   [srihari-humbarwadi/Keras-Unet](https://github.com/srihari-humbarwadi/Keras-Unet) - Keras Unet model trained on Mapillary Vistas
-
-*   [victorycar/UNetModels](https://github.com/victorycar/UNetModels) - Testing how U-Net Image segmentation can be used for lane and derivable area detection.
-
-*   [mjDelta/CV-in-ADAS-pytorch](https://github.com/mjDelta/CV-in-ADAS-pytorch) - This repo includes Unet, Spatial CNN (S-CNN) and VPNet for  lane segmentation, and YOLO, Faster-RCNN, Stereo-RCNN for vehicle detection.
-
-*   [haopo2005/Semantic\_Segmentation\_Study](https://github.com/haopo2005/Semantic_Segmentation_Study) - My Semantic\_Segmentation\_Study Based on cityspace
-
-*   [akshaykulkarni07/pl-sem-seg](https://github.com/akshaykulkarni07/pl-sem-seg) - PyTorch Lightning based training of Semantic Segmentation models
-
-*   [4nonymou5/satelite\_road\_geometry](https://github.com/4nonymou5/satelite_road_geometry) - Generating semantic maps of road geometry through satellite view
-
-*   [lian999111/carla-semantic-localization](https://github.com/lian999111/carla-semantic-localization) - This repository stores the codes of my master's thesis "Semantic Landmark-based Localization in HD-Maps using Object-level Detections." The publication to ITSC 2021 based on this work is in progress.
-
-*   [Liang-ZX/VectorNet](https://github.com/Liang-ZX/VectorNet) - Pytorch implementation of CVPR2020 paper “VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation”
-
-*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
-
-*   [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
-
-*   [yiakwy/SEMANTIC\_VISUAL\_SUPPORTED\_ODEMETRY](https://github.com/yiakwy/SEMANTIC_VISUAL_SUPPORTED_ODEMETRY) - semantic visual slam for monocular and stereo camera devices
-
-*   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
-
-*   [glouppe/info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning) - Lectures for INFO8010 Deep Learning, ULiège
-
-*   [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-
-*   [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
-
-*   [enggen/Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera) - Deep Learning Specialization by Andrew Ng, deeplearning.ai.
 
 ## Makefile
 
