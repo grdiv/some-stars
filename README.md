@@ -374,7 +374,7 @@
 
 *   [Huguet57/LIMO-Velo](https://github.com/Huguet57/LIMO-Velo) - A real-time, direct and tightly-coupled LiDAR-Inertial SLAM for high velocities with spinning LiDARs
 
-*   [leavesnight/VIEO\_SLAM](https://github.com/leavesnight/VIEO_SLAM) - Simultaneous localizing and mapping through visual, inertial measurement unit, encoders and maybe other odometers.
+*   [leavesnight/VIEO\_SLAM](https://github.com/leavesnight/VIEO_SLAM) - Simultaneous localizing and mapping through multiple visual, inertial measurement unit, encoders and maybe other odometers.
 
 *   [APRIL-ZJU/lidar\_IMU\_calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) - \[IROS 2020] Targetless Calibration of LiDAR-IMU System Based on Continuous-time Batch Estimation
 
