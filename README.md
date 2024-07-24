@@ -1788,7 +1788,7 @@
 
 *   [Es1erda/MFCalib](https://github.com/Es1erda/MFCalib) - Automatic Extrinsic Calibration for LiDAR and Camera in Targetless Environments Based on Multi-Feature Edge in One-shot
 
-*   [XuRobotics/slide-slam](https://github.com/XuRobotics/slide-slam) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Heterogeneous Robots
+*   [XuRobotics/slide-slam](https://github.com/XuRobotics/slide-slam) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation
 
 *   [dhchung/nv\_lio](https://github.com/dhchung/nv_lio) - LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments
 
