@@ -1,5 +1,6 @@
 ## Table of Contents
 
+*   [TeX](#tex)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
@@ -21,7 +22,6 @@
 *   [C](#c-2)
 *   [AutoIt](#autoit)
 *   [CSS](#css)
-*   [TeX](#tex)
 *   [Roff](#roff)
 *   [PostScript](#postscript)
 *   [Dockerfile](#dockerfile)
@@ -31,6 +31,20 @@
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
 *   [Vim Script](#vim-script)
+
+## TeX
+
+*   [xiaoweiChen/Professional-cpp-6ed](https://github.com/xiaoweiChen/Professional-cpp-6ed) - 《Professional C++ - 6th Edition》的非专业个人翻译
+
+*   [WangWeixin442/thesis-WW](https://github.com/WangWeixin442/thesis-WW) -
+
+*   [alankarkotwal/stereo-vo](https://github.com/alankarkotwal/stereo-vo) - Visual Odometry using Stereo and Pointcloud Alignment
+
+*   [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
+
+*   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
+
+*   [SLAM-future/slam-future](https://github.com/SLAM-future/slam-future) -
 
 ## Python
 
@@ -663,8 +677,6 @@
 *   [Pose-Group/DCPose](https://github.com/Pose-Group/DCPose) - This is an official implementation of our CVPR 2021 paper "Deep Dual Consecutive Network for Human Pose Estimation" (https://openaccess.thecvf.com/content/CVPR2021/papers/Liu\_Deep\_Dual\_Consecutive\_Network\_for\_Human\_Pose\_Estimation\_CVPR\_2021\_paper.pdf)
 
 *   [Cartucho/mAP](https://github.com/Cartucho/mAP) - mean Average Precision - This code evaluates the performance of your neural net for object recognition.
-
-*   [geniki/neural-processes](https://github.com/geniki/neural-processes) - PyTorch implementation of Neural Processes
 
 ## miscellaneous
 
@@ -2445,18 +2457,6 @@
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
 *   [wanghaisheng/arxiv-paper-daily-page-template](https://github.com/wanghaisheng/arxiv-paper-daily-page-template) -
-
-## TeX
-
-*   [WangWeixin442/thesis-WW](https://github.com/WangWeixin442/thesis-WW) -
-
-*   [alankarkotwal/stereo-vo](https://github.com/alankarkotwal/stereo-vo) - Visual Odometry using Stereo and Pointcloud Alignment
-
-*   [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
-
-*   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
-
-*   [SLAM-future/slam-future](https://github.com/SLAM-future/slam-future) -
 
 ## Roff
 
