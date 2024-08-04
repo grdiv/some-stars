@@ -884,8 +884,6 @@
 
 *   [HKUST-Aerial-Robotics/Pinhole-Fisheye-Mapping](https://github.com/HKUST-Aerial-Robotics/Pinhole-Fisheye-Mapping) -
 
-*   [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
-
 *   [alaskasquirrel/Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱 📧 newsletter RSS 荟萃 News
 
 *   [codeXing8/bevlshaper](https://github.com/codeXing8/bevlshaper) - Algorithm for bird's-eye-view L-shape fitting in 3D LIDAR point clouds from traffic scenarios
@@ -2063,6 +2061,8 @@
 *   [Michelle-NYX/DreamNet](https://github.com/Michelle-NYX/DreamNet) - CS230 Project: In this project, we investigate and evaluate the performance of the state-of-the-art model for instance segmentation, Mask R-CNN, on the newly-released Mapillary dataset, whose images focus specifically on driving scenes. We transfer the learning results from the pre-trained weights, fine tune the final layers for Mapillary Datasets. The result shows a significant improvement in precision measurements from the baseline, and achieves at a surpassing performance than benchmarks.
 
 *   [patrick-llgc/Learning-Deep-Learning](https://github.com/patrick-llgc/Learning-Deep-Learning) - Paper reading notes on Deep Learning and Machine Learning
+
+*   [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 
 *   [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
 
