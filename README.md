@@ -1540,7 +1540,7 @@
 
 *   [hyye/dsl](https://github.com/hyye/dsl) - Implementation of Monocular Direct Sparse Localization in a Prior 3D Surfel Map (DSL)
 
-*   [SMRT-AIST/interactive\_slam](https://github.com/SMRT-AIST/interactive_slam) - Interactive Map Correction for 3D Graph SLAM
+*   [koide3/interactive\_slam](https://github.com/koide3/interactive_slam) - Interactive Map Correction for 3D Graph SLAM
 
 *   [kaifishr/CppMultilayerPerceptron](https://github.com/kaifishr/CppMultilayerPerceptron) - A simple class for fully connected neural networks.
 
@@ -1830,7 +1830,7 @@
 
 *   [kkkkkaiai/gicp\_localizer](https://github.com/kkkkkaiai/gicp_localizer) - 3D LIDAR-based Localization using fast\_gicp and Point Cloud Map
 
-*   [SMRT-AIST/fast\_gicp](https://github.com/SMRT-AIST/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
+*   [koide3/fast\_gicp](https://github.com/koide3/fast_gicp) - A collection of GICP-based fast point cloud registration algorithms
 
 *   [Kitware/VeloView](https://github.com/Kitware/VeloView) - VeloView performs real-time visualization and easy processing of live captured 3D LiDAR data from Velodyne sensors (Alpha Prime™, Puck™, Ultra Puck™, Puck Hi-Res™, Alpha Puck™, Puck LITE™, HDL-32, HDL-64E). Runs on Windows, Linux and MacOS. This repository is a mirror of https://gitlab.kitware.com/LidarView/VeloView-Velodyne.
 
