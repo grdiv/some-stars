@@ -1008,7 +1008,7 @@
 
 ## C++
 
-*   [koide3/gtsam\_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for range-based SLAM
+*   [koide3/gtsam\_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for point cloud SLAM
 
 *   [YibinWu/LIO-EKF](https://github.com/YibinWu/LIO-EKF) - Maybe the simplest LiDAR-inertial odometry that one can have.
 
@@ -2296,7 +2296,7 @@
 
 *   [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 
-*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 幕境 - 使用自己感兴趣的电影、美剧或文档，生成词库（单词本）。在记忆单词时，可以用键盘打字，练习拼写并观看相关的视频片段，以便更好的理解和记忆单词。播放电影时，以弹幕的形式复习词库中的单词。
+*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 通过电影、美剧或文档生成词库，为单词提供具体语境。记忆单词时，可以通过键盘拼写单词、观看相关视频片段
 
 *   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
 
