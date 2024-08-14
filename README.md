@@ -68,7 +68,7 @@
 
 *   [OpenCalib/LiDAR2INS](https://github.com/OpenCalib/LiDAR2INS) -
 
-*   [JinXiangLai/BA-and-pose-graph-problem](https://github.com/JinXiangLai/BA-and-pose-graph-problem) -
+*   [JinXiangLai/BA-and-pose-graph-problem](https://github.com/JinXiangLai/BA-and-pose-graph-problem) - 手写实现BA、PGO及LM优化器，研究相关状态量的变化规律
 
 *   [rsasaki0109/lidar\_undistortion](https://github.com/rsasaki0109/lidar_undistortion) - A header-only program of 3d rotary lidar undistortion using 9-axis imu
 
