@@ -1466,7 +1466,7 @@
 
 *   [loocy3/water\_hazard\_detection](https://github.com/loocy3/water_hazard_detection) - water\_hazard\_detection
 
-*   [OpenDriveLab/PersFormer\_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) - \[ECCV2022 Oral] Perspective Transformer on 3D Lane Detection
+*   [OpenDriveLab/PersFormer\_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) - \[ECCV 2022 Oral] Perspective Transformer on 3D Lane Detection
 
 *   [fudan-zvg/Ego3RT](https://github.com/fudan-zvg/Ego3RT) - \[ECCV 2022] Learning Ego 3D Representation as Ray Tracing
 
