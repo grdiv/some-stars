@@ -34,6 +34,10 @@
 
 ## C++
 
+*   [brytsknguyen/slict](https://github.com/brytsknguyen/slict) -
+
+*   [i2Nav-WHU/KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
+
 *   [gitouni/Spatial-Temporal-LiDAR-camera-Calibration](https://github.com/gitouni/Spatial-Temporal-LiDAR-camera-Calibration) - Spatial-Temporal-LiDAR-camera-Calibration
 
 *   [JinXiangLai/acc-bias-resolvability-in-the-ESKF-framework](https://github.com/JinXiangLai/acc-bias-resolvability-in-the-ESKF-framework) - 手写实现基于IMU sensor的ESKF算法，研究在ESKF系统中，acc bias等状态量的可观性
@@ -326,7 +330,7 @@
 
 *   [ShujiaHuang/Cpp-Primer-Plus-6th](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th) -  《C++ Primer Plus 第6版（中文版）》原书代码、习题答案和个人笔记，仅供学习和交流。
 
-*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork
+*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流，作者微信: ChunelFeng
 
 *   [PRBonn/hsmcl](https://github.com/PRBonn/hsmcl) -
 
@@ -1021,8 +1025,6 @@
 *   [UZ-SLAMLab/ORB\_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
 *   [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
-
-*   [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook) -
 
 ## Dart
 
@@ -1996,7 +1998,7 @@
 
 *   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
-*   [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+*   [iffybug/reverse-interview-zh](https://github.com/iffybug/reverse-interview-zh) - 技术面试最后反问面试官的话
 
 *   [wuxiaolang/Visual\_SLAM\_Related\_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) - 视觉(语义) SLAM 相关研究跟踪
 
@@ -2127,8 +2129,6 @@
 *   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 
 *   [glouppe/info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning) - Lectures for INFO8010 Deep Learning, ULiège
-
-*   [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 
 ## JavaScript
 
@@ -2288,7 +2288,7 @@
 
 *   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 
-*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support! 一站式 RSS 订阅、BitTorrent 下载和媒体播放 Android 应用。采用 MVI 架构和 Material You 风格。⭐️点个 Star 以支持工作
+*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support!
 
 *   [Chesire/Nekome](https://github.com/Chesire/Nekome) - Nekome is an Android application to manage tracked Anime and Manga lists.
 
