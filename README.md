@@ -363,7 +363,7 @@
 
 *   [ShujiaHuang/Cpp-Primer-Plus-6th](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th) -  《C++ Primer Plus 第6版（中文版）》原书代码、习题答案和个人笔记，仅供学习和交流。
 
-*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流，作者微信: ChunelFeng
+*   [ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph) - 【A common used C++ DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
 
 *   [PRBonn/hsmcl](https://github.com/PRBonn/hsmcl) -
 
