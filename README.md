@@ -376,8 +376,6 @@
 
 *   [hkbl1988/mutisensorfusion](https://github.com/hkbl1988/mutisensorfusion) - 多传感器融合定位模块,可融合IMU/GNSS/ODOM/LIDAR等传感器数据完成高精度定位,输出位置、速度、姿态等导航结果
 
-*   [JinXiangLai/The-resolvability-of-accelerator-bias](https://github.com/JinXiangLai/The-resolvability-of-accelerator-bias) - 手写实现Vi-sfm初始化过程，研究在Vi-SFM系统中，acc bias的激励条件
-
 *   [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
 
 *   [MAZHARMIK/Interview\_DS\_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo) - Super Repository for Coding Interview Preperation
@@ -387,8 +385,6 @@
 *   [i2Nav-WHU/KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
 
 *   [gitouni/Spatial-Temporal-LiDAR-camera-Calibration](https://github.com/gitouni/Spatial-Temporal-LiDAR-camera-Calibration) - Spatial-Temporal-LiDAR-camera-Calibration
-
-*   [JinXiangLai/Acc-bias-resolvability-in-the-ESKF-framework](https://github.com/JinXiangLai/Acc-bias-resolvability-in-the-ESKF-framework) - 手写实现基于IMU sensor的ESKF算法，研究在ESKF系统中，acc bias等状态量的可观性
 
 *   [colmap/glomap](https://github.com/colmap/glomap) - GLOMAP - Global Structured-from-Motion Revisited
 
@@ -1361,6 +1357,8 @@
 *   [ndrwk/detection](https://github.com/ndrwk/detection) - Motion analysis and object tracking
 
 *   [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL) - 剖析 STL 是一种享受的过程！
+
+*   [karlkurzer/path\_planner](https://github.com/karlkurzer/path_planner) - Hybrid A\* Path Planner for the KTH Research Concept Vehicle
 
 ## Ruby
 
@@ -2449,6 +2447,8 @@
 *   [vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies) - A list of robotics companies using the Robot Operating System (ROS and ROS 2).
 
 *   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+
+*   [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 
 ## AutoIt
 
