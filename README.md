@@ -34,6 +34,14 @@
 
 ## C++
 
+*   [navining/gocpp](https://github.com/navining/gocpp) - C++ basics improvement, object-oriented programming and advanced programming techniques, along with classic interview questions and practical problem-solving examples.
+
+*   [Arcanain/eskf\_localization](https://github.com/Arcanain/eskf_localization) - Self-position estimation by eskf by measuring gnss and imu
+
+*   [mpkuse/cerebro](https://github.com/mpkuse/cerebro) - Intelligent place recognition module for vins-fusion
+
+*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Please leave your stars here
+
 *   [JinXiangLai/Octree-Map](https://github.com/JinXiangLai/Octree-Map) - 手写一个支持快速查询，支持任意动态扩展的八叉树地图
 
 *   [JinXiangLai/Basic-Mathematical-problems-of-SLAM](https://github.com/JinXiangLai/Basic-Mathematical-problems-of-SLAM) - 总结SLAM中基本的数学问题，并手写主要算法程序实现
@@ -1026,12 +1034,6 @@
 
 *   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
 
-*   [ndrwk/detection](https://github.com/ndrwk/detection) - Motion analysis and object tracking
-
-*   [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL) - 剖析 STL 是一种享受的过程！
-
-*   [karlkurzer/path\_planner](https://github.com/karlkurzer/path_planner) - Hybrid A\* Path Planner for the KTH Research Concept Vehicle
-
 ## miscellaneous
 
 *   [wheelos/whl-LIO-SAM](https://github.com/wheelos/whl-LIO-SAM) -
@@ -1429,8 +1431,6 @@
 *   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
 *   [tikroeger/OF\_DIS](https://github.com/tikroeger/OF_DIS) - Fast Optical Flow using Dense Inverse Search (DIS)
-
-*   [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 
 ## Python
 
