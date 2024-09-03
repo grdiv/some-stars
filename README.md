@@ -1,6 +1,7 @@
 ## Table of Contents
 
 *   [C++](#c)
+*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Ruby](#ruby)
 *   [HTML](#html)
@@ -9,7 +10,6 @@
 *   [Dart](#dart)
 *   [TeX](#tex)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [CMake](#cmake)
 *   [Vue](#vue)
@@ -33,6 +33,10 @@
 *   [AngelScript](#angelscript)
 
 ## C++
+
+*   [liangheming/iG-LIO\_SAM\_LC](https://github.com/liangheming/iG-LIO_SAM_LC) - iG-LIO with Loop Closure(PGO) and Online Re-Localize
+
+*   [ZikangYuan/dynamic\_lio](https://github.com/ZikangYuan/dynamic_lio) - A LiDAR-inertial odometry for dynamic environments.
 
 *   [navining/gocpp](https://github.com/navining/gocpp) - C++ basics improvement, object-oriented programming and advanced programming techniques, along with classic interview questions and practical problem-solving examples.
 
@@ -1034,6 +1038,46 @@
 
 *   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
 
+## JavaScript
+
+*   [0xffff-one/0xffff-wiki](https://github.com/0xffff-one/0xffff-wiki) - 📖 0xFFFF CS Wiki 独立站点（施工中...）
+
+*   [gotohiroki/ha-labo-2d](https://github.com/gotohiroki/ha-labo-2d) -
+
+*   [keesiemeijer/maze-generator](https://github.com/keesiemeijer/maze-generator) - Create mazes using the recursive backtracking algorithm.
+
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+
+*   [luchenqun/my-bookmark](https://github.com/luchenqun/my-bookmark) - 在线书签管理工具
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
+*   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
+
+*   [kevtan/lane-labeling](https://github.com/kevtan/lane-labeling) - A semi-automatic lane marking labeling tool to increase the speed and efficiency of training data annotation at PlusAI.
+
+*   [eatenupme/cnblogs-theme-blogure](https://github.com/eatenupme/cnblogs-theme-blogure) - blogure - 又一个博客园的主题
+
+*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+
+*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+*   [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labeling tool for bitmap images and point clouds
+
+*   [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
+
+*   [TooAngel/screeps](https://github.com/TooAngel/screeps) - TooAngel NPC / bot / source code for screeps
+
+*   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
+
+*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+
+*   [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
+
+*   [jobtalle/Koi](https://github.com/jobtalle/Koi) - Koi Farm, a koi breeding game
+
 ## miscellaneous
 
 *   [wheelos/whl-LIO-SAM](https://github.com/wheelos/whl-LIO-SAM) -
@@ -1362,8 +1406,6 @@
 
 *   [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
 
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
 ## Ruby
 
 *   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
@@ -1418,7 +1460,7 @@
 
 *   [Yangyuanxin/Linux\_APUE](https://github.com/Yangyuanxin/Linux_APUE) - 记录关于Linux应用编程的点点滴滴,编程相关例程及总结笔记
 
-*   [ailab-konkuk/image\_landmark\_spc\_matching\_localization](https://github.com/ailab-konkuk/image_landmark_spc_matching_localization) - semantic point cloud, localization, map matching, semantic point cloud map, image segmentation, image detection
+*   [ailab-hanyang/image\_landmark\_spc\_matching\_localization](https://github.com/ailab-hanyang/image_landmark_spc_matching_localization) - semantic point cloud, localization, map matching, semantic point cloud map, image segmentation, image detection
 
 *   [iandouglas96/cross\_view\_slam](https://github.com/iandouglas96/cross_view_slam) -
 
@@ -1429,8 +1471,6 @@
 *   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
 *   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
-
-*   [tikroeger/OF\_DIS](https://github.com/tikroeger/OF_DIS) - Fast Optical Flow using Dense Inverse Search (DIS)
 
 ## Python
 
@@ -2203,46 +2243,6 @@
 *   [yiakwy/SEMANTIC\_VISUAL\_SUPPORTED\_ODEMETRY](https://github.com/yiakwy/SEMANTIC_VISUAL_SUPPORTED_ODEMETRY) - semantic visual slam for monocular and stereo camera devices
 
 *   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
-
-*   [glouppe/info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning) - Lectures for INFO8010 Deep Learning, ULiège
-
-## JavaScript
-
-*   [gotohiroki/ha-labo-2d](https://github.com/gotohiroki/ha-labo-2d) -
-
-*   [keesiemeijer/maze-generator](https://github.com/keesiemeijer/maze-generator) - Create mazes using the recursive backtracking algorithm.
-
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
-
-*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
-
-*   [luchenqun/my-bookmark](https://github.com/luchenqun/my-bookmark) - 在线书签管理工具
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
-*   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
-
-*   [kevtan/lane-labeling](https://github.com/kevtan/lane-labeling) - A semi-automatic lane marking labeling tool to increase the speed and efficiency of training data annotation at PlusAI.
-
-*   [eatenupme/cnblogs-theme-blogure](https://github.com/eatenupme/cnblogs-theme-blogure) - blogure - 又一个博客园的主题
-
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-
-*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
-*   [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labeling tool for bitmap images and point clouds
-
-*   [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
-
-*   [TooAngel/screeps](https://github.com/TooAngel/screeps) - TooAngel NPC / bot / source code for screeps
-
-*   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
-
-*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-
-*   [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
-
-*   [jobtalle/Koi](https://github.com/jobtalle/Koi) - Koi Farm, a koi breeding game
 
 ## TypeScript
 
