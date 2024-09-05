@@ -1,5 +1,6 @@
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [C++](#c)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -26,11 +27,18 @@
 *   [Roff](#roff)
 *   [PostScript](#postscript)
 *   [Dockerfile](#dockerfile)
-*   [Lua](#lua)
 *   [Cuda](#cuda)
 *   [SCSS](#scss)
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
+
+## Lua
+
+*   [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+
+*   [hardhackerlabs/oh-my-nvim](https://github.com/hardhackerlabs/oh-my-nvim) - A theme-driven, out-of-the-box modern configuration of neovim (HardHackerNvim)💎
+
+*   [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 
 ## C++
 
@@ -2100,8 +2108,6 @@
 
 *   [huchunxu/ros\_exploring](https://github.com/huchunxu/ros_exploring) - 《ROS机器人开发实践》源码
 
-*   [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green\_book: The Beauty of Python Programming.
-
 ## Dart
 
 *   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。
@@ -2473,12 +2479,6 @@
 ## Dockerfile
 
 *   [HyeonJaeGil/DockerSLAM](https://github.com/HyeonJaeGil/DockerSLAM) - User-friendly Docker images for SLAM
-
-## Lua
-
-*   [hardhackerlabs/oh-my-nvim](https://github.com/hardhackerlabs/oh-my-nvim) - A theme-driven, out-of-the-box modern configuration of neovim (HardHackerNvim)💎
-
-*   [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 
 ## Cuda
 
