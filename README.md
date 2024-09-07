@@ -1,7 +1,7 @@
 ## Table of Contents
 
-*   [Lua](#lua)
 *   [C++](#c)
+*   [Lua](#lua)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Ruby](#ruby)
@@ -32,15 +32,9 @@
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
 
-## Lua
-
-*   [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
-
-*   [hardhackerlabs/oh-my-nvim](https://github.com/hardhackerlabs/oh-my-nvim) - A theme-driven, out-of-the-box modern configuration of neovim (HardHackerNvim)💎
-
-*   [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
-
 ## C++
+
+*   [JinXiangLai/Loop-closure-confirmation-with-edge](https://github.com/JinXiangLai/Loop-closure-confirmation-with-edge) -
 
 *   [liangheming/iG-LIO\_SAM\_LC](https://github.com/liangheming/iG-LIO_SAM_LC) - iG-LIO with Loop Closure(PGO) and Online Re-Localize
 
@@ -1046,6 +1040,16 @@
 
 *   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
 
+## Lua
+
+*   [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+
+*   [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+
+*   [hardhackerlabs/oh-my-nvim](https://github.com/hardhackerlabs/oh-my-nvim) - A theme-driven, out-of-the-box modern configuration of neovim (HardHackerNvim)💎
+
+*   [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
+
 ## JavaScript
 
 *   [0xffff-one/0xffff-wiki](https://github.com/0xffff-one/0xffff-wiki) - 📖 0xFFFF CS Wiki 独立站点（施工中...）
@@ -1409,10 +1413,6 @@
 *   [wuxiaolang/Visual\_SLAM\_Related\_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) - 视觉(语义) SLAM 相关研究跟踪
 
 *   [DroidAITech/ROS-Academy-for-Beginners-Book-Melodic](https://github.com/DroidAITech/ROS-Academy-for-Beginners-Book-Melodic) - 中国大学MOOC---《机器人操作系统入门》讲义，升级版本
-
-*   [wanghuayou1028/ICRA2021-SLAM-paper-list](https://github.com/wanghuayou1028/ICRA2021-SLAM-paper-list) -
-
-*   [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
 
 ## Ruby
 
