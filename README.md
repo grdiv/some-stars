@@ -1,5 +1,6 @@
 ## Table of Contents
 
+*   [CMake](#cmake)
 *   [C++](#c)
 *   [Lua](#lua)
 *   [JavaScript](#javascript)
@@ -12,7 +13,6 @@
 *   [TeX](#tex)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
-*   [CMake](#cmake)
 *   [Vue](#vue)
 *   [MATLAB](#matlab)
 *   [Java](#java)
@@ -32,7 +32,31 @@
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
 
+## CMake
+
+*   [rpavlik/cmake-modules](https://github.com/rpavlik/cmake-modules) - My collection of CMake modules
+
+*   [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
+
+*   [ARTI-Robots/mapping\_dataset\_styria](https://github.com/ARTI-Robots/mapping_dataset_styria) - Open mapping dataset of styria in Austria
+
+*   [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
+
+*   [ros-agriculture/tractor\_localization](https://github.com/ros-agriculture/tractor_localization) - Robot\_Localization with GPS and IMU
+
+*   [ZXW2600/inverse\_perspective\_map\_ros](https://github.com/ZXW2600/inverse_perspective_map_ros) -
+
+*   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
+
+*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
+
+*   [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) - 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
+
 ## C++
+
+*   [Janudis/Extended-Kalman-Filter-GPS\_IMU](https://github.com/Janudis/Extended-Kalman-Filter-GPS_IMU) - Sensor Fusion of GPS and IMU with Extended Kalman Filter for Localization in Autonomous Driving
+
+*   [PetWorm/LARVIO](https://github.com/PetWorm/LARVIO) - A lightweight, accurate and robust monocular visual inertial odometry based on Multi-State Constraint Kalman Filter.
 
 *   [JinXiangLai/Loop-closure-confirmation-with-edge](https://github.com/JinXiangLai/Loop-closure-confirmation-with-edge) -
 
@@ -1088,8 +1112,6 @@
 
 *   [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 
-*   [jobtalle/Koi](https://github.com/jobtalle/Koi) - Koi Farm, a koi breeding game
-
 ## miscellaneous
 
 *   [wheelos/whl-LIO-SAM](https://github.com/wheelos/whl-LIO-SAM) -
@@ -1161,8 +1183,6 @@
 *   [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 
 *   [wsunid/awesome-point-clouds-registration](https://github.com/wsunid/awesome-point-clouds-registration) - A list of papers about point clouds registration
-
-*   [MIXIAOXIN/LaneMapping](https://github.com/MIXIAOXIN/LaneMapping) - Large-scale lane mapping using MLS point clouds.
 
 *   [SleepEarlyLiveLong/WHUVID](https://github.com/SleepEarlyLiveLong/WHUVID) - Wuhan Urban Visual-inertial Dataset
 
@@ -1464,8 +1484,6 @@
 
 *   [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 
-*   [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
-
 *   [Yangyuanxin/Linux\_APUE](https://github.com/Yangyuanxin/Linux_APUE) - 记录关于Linux应用编程的点点滴滴,编程相关例程及总结笔记
 
 *   [ailab-hanyang/image\_landmark\_spc\_matching\_localization](https://github.com/ailab-hanyang/image_landmark_spc_matching_localization) - semantic point cloud, localization, map matching, semantic point cloud map, image segmentation, image detection
@@ -1651,6 +1669,8 @@
 *   [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 
 *   [3DOM-FBK/COLMAP\_SLAM](https://github.com/3DOM-FBK/COLMAP_SLAM) - Visual-SLAM based on COLMAP API
+
+*   [MIXIAOXIN/LaneMapping](https://github.com/MIXIAOXIN/LaneMapping) - Large-scale lane mapping using MLS point clouds.
 
 *   [TencentYoutuResearch/NeRF-Loc](https://github.com/TencentYoutuResearch/NeRF-Loc) - Code for ICRA2023 paper "NeRF-Loc: Visual Localization with Conditional Neural Radiance Field"
 
@@ -2132,8 +2152,6 @@
 
 *   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
 
-*   [SLAM-future/slam-future](https://github.com/SLAM-future/slam-future) -
-
 ## Jupyter Notebook
 
 *   [motokimura/kalman\_filter\_with\_kitti](https://github.com/motokimura/kalman_filter_with_kitti) - Applying extended Kalman filter to KITTI GPS/IMU data for vehicle localization
@@ -2279,24 +2297,6 @@
 *   [98sean98/imu-mapping-online](https://github.com/98sean98/imu-mapping-online) - Maps IMU data into plots of 2D, elevation, and 3D maps.
 
 *   [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。
-
-## CMake
-
-*   [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
-
-*   [ARTI-Robots/mapping\_dataset\_styria](https://github.com/ARTI-Robots/mapping_dataset_styria) - Open mapping dataset of styria in Austria
-
-*   [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
-
-*   [ros-agriculture/tractor\_localization](https://github.com/ros-agriculture/tractor_localization) - Robot\_Localization with GPS and IMU
-
-*   [ZXW2600/inverse\_perspective\_map\_ros](https://github.com/ZXW2600/inverse_perspective_map_ros) -
-
-*   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
-
-*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
-
-*   [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) - 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
 
 ## Vue
 
