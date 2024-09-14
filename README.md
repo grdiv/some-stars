@@ -1,8 +1,8 @@
 ## Table of Contents
 
+*   [C++](#c)
 *   [Python](#python)
 *   [CMake](#cmake)
-*   [C++](#c)
 *   [Lua](#lua)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -32,655 +32,9 @@
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
 
-## Python
-
-*   [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
-
-*   [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) -
-
-*   [USTCLH/OCC-VO](https://github.com/USTCLH/OCC-VO) -
-
-*   [HpWang-whu/RoReg](https://github.com/HpWang-whu/RoReg) - \[TPAMI 2023] RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations
-
-*   [lucidrains/rectified-flow-pytorch](https://github.com/lucidrains/rectified-flow-pytorch) - Implementation of rectified flow and some of its followup research / improvements in Pytorch
-
-*   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
-
-*   [songquanpeng/pytorch-deployment](https://github.com/songquanpeng/pytorch-deployment) - A template for rapid deployment of PyTorch models.
-
-*   [songquanpeng/pytorch-template](https://github.com/songquanpeng/pytorch-template) - To be the world's best PyTorch project template.
-
-*   [Vincentqyw/image-matching-webui](https://github.com/Vincentqyw/image-matching-webui) - 🤗 image matching toolbox webui
-
-*   [WHU-USI3DV/SGHR](https://github.com/WHU-USI3DV/SGHR) - \[CVPR 2023] Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting
-
-*   [umautobots/LONER](https://github.com/umautobots/LONER) - \[RA-L 2023 Best Paper] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
-
-*   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - A script toolkit for SLAM research, including but not limited to various plotting functions, ROS bag processing, and more.
-
-*   [X-LANCE/SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) - Speech, Language, Audio, Music Processing with Large Language Model
-
-*   [voldemortX/pytorch-auto-drive](https://github.com/voldemortX/pytorch-auto-drive) - PytorchAutoDrive: Segmentation models (ERFNet, ENet, DeepLab, FCN...) and Lane detection models (SCNN, RESA, LSTR, LaneATT, BézierLaneNet...) based on PyTorch with fast training, visualization, benchmarking & deployment help
-
-*   [tjiiv-cprg/EPro-PnP-v2](https://github.com/tjiiv-cprg/EPro-PnP-v2) - \[TPAMI 2024] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
-
-*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 我们从5000多个Telegram群组、频道和机器人中精心挑选了最优质的资源。本项目中的所有内容均来自互联网，仅用于学习和技术研究目的。
-
-*   [weiningwei/arxiv-daily](https://github.com/weiningwei/arxiv-daily) -
-
-*   [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
-
-*   [TongjiZhaohb/StereoCalibrator](https://github.com/TongjiZhaohb/StereoCalibrator) -
-
-*   [openxrlab/xrdslam](https://github.com/openxrlab/xrdslam) - Platform for Deep Learning based SLAM
-
-*   [MetaSLAM/GPRS\_Survey](https://github.com/MetaSLAM/GPRS_Survey) - Benchmark for lidar and visual place recognition
-
-*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
-
-*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
-
-*   [sinaenjuni/Sensor\_fusion\_of\_LiDAR\_and\_Camera\_from\_KITTI\_dataset](https://github.com/sinaenjuni/Sensor_fusion_of_LiDAR_and_Camera_from_KITTI_dataset) - Sensor fusion of LiDAR and Camera from KITTI dataset
-
-*   [AutoLidarPerception/kitti\_lidar\_camera](https://github.com/AutoLidarPerception/kitti_lidar_camera) - KiTTI LiDAR-Camera Fusion, implemented using kitti\_ros.
-
-*   [PRBonn/lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
-
-*   [AmrElsersy/PointPainting](https://github.com/AmrElsersy/PointPainting) - Real Time Semantic Segmentation for both LIDAR & Camera using BiseNetv2 & PointPainting Fusion in Pytorch
-
-*   [mjoshi07/Visual-Sensor-Fusion](https://github.com/mjoshi07/Visual-Sensor-Fusion) - LiDAR Fusion with Vision
-
-*   [XavierGrool/FGFusion](https://github.com/XavierGrool/FGFusion) -
-
-*   [Gardlin/PCR-CG](https://github.com/Gardlin/PCR-CG) - \[ECCV 2022]PCR-CG: Point Cloud Registration via Color and Geometry
-
-*   [a-turcu/3D-semantic-mapping](https://github.com/a-turcu/3D-semantic-mapping) - Robotic Vision Scene Understanding Challenge 2023
-
-*   [brandontrabucco/mass](https://github.com/brandontrabucco/mass) - A Simple Approach For Visual Room Rearrangement: 3D Mapping & Semantic Search (ICLR 2023)
-
-*   [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - \[CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
-
-*   [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
-
-*   [zgojcic/3D\_multiview\_reg](https://github.com/zgojcic/3D_multiview_reg) - \[CVPR2020] Learning multiview 3D point cloud registration
-
-*   [pqhieu/jsis3d](https://github.com/pqhieu/jsis3d) - \[CVPR'19] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds
-
-*   [yangfei1223/CRFConv](https://github.com/yangfei1223/CRFConv) - Continuous Conditional Random Field Convolution for Point Cloud Segmentation
-
-*   [moloydas/line-based-lidar-camera-calibration](https://github.com/moloydas/line-based-lidar-camera-calibration) -
-
-*   [mfxox/ILCC](https://github.com/mfxox/ILCC) - Intensity-based\_Lidar\_Camera\_Calibration
-
-*   [volkswagen/3dhd\_devkit](https://github.com/volkswagen/3dhd_devkit) - The DevKit of the 3DHD CityScenes dataset providing a deep learning pipeline for map element recognition and map deviation detection.
-
-*   [mcdermatt/VICET](https://github.com/mcdermatt/VICET) - Velocity corrected Iterative Compact Ellipsoidal Transform
-
-*   [zfcui33/CCA](https://github.com/zfcui33/CCA) - code
-
-*   [pra-dan/gtsam-inertial-odometry](https://github.com/pra-dan/gtsam-inertial-odometry) - Sensor Fusion of noisy gps signals with IMU preintegration
-
-*   [mbrossar/ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) - AI-IMU Dead-Reckoning
-
-*   [jpsml/6-DOF-Inertial-Odometry](https://github.com/jpsml/6-DOF-Inertial-Odometry) - IMU-Based 6-DOF Odometry
-
-*   [anpl-technion/QSR\_SLAM](https://github.com/anpl-technion/QSR_SLAM) -
-
-*   [scutzetao/DLfeature\_PlaceRecog\_icra2017](https://github.com/scutzetao/DLfeature_PlaceRecog_icra2017) - Dataset and official Caffe Implementation for learning a condition-robust feature representation for long-term visual localization
-
-*   [oravus/lostX](https://github.com/oravus/lostX) - (RSS 2018) LoST - Visual Place Recognition using Visual Semantics for Opposite Viewpoints across Day and Night
-
-*   [Jiang-HB/VBReg](https://github.com/Jiang-HB/VBReg) - Robust Outlier Rejection for 3D Registration with Variational Bayes (Accepted by CVPR-2023)
-
-*   [chrischoy/FCGF](https://github.com/chrischoy/FCGF) - Fully Convolutional Geometric Features: Fast and accurate 3D features for registration and correspondence.
-
-*   [MetaSLAM/ALITA](https://github.com/MetaSLAM/ALITA) - ALITA: A Large-scale Incremental Dataset for Long-term Autonomy
-
-*   [silviutroscot/CodeSLAM](https://github.com/silviutroscot/CodeSLAM) - Implementation of CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM paper (https://arxiv.org/pdf/1804.00874.pdf)
-
-*   [iitmcvg/CNN\_SLAM](https://github.com/iitmcvg/CNN_SLAM) - CNN SLAM implementation of https://arxiv.org/abs/1704.03489
-
-*   [Doo-do/FHLD](https://github.com/Doo-do/FHLD) - source codes for AAAI2023 lane detection method FHLD (Flexible 3D Lane Detection by Hierarchical Shape Matching)
-
-*   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
-
-*   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
-
-*   [jenicek/asmk](https://github.com/jenicek/asmk) - Python implementation of ASMK
-
-*   [qpsolvers/qpsolvers](https://github.com/qpsolvers/qpsolvers) - Quadratic programming solvers in Python with a unified API
-
-*   [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning) - 我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，跟大家做个交流，也激励着自己坚持学下去；所有内容都可以随意转载，可用于任何目的，不必征求我的意见；如果您觉得内容有价值，推荐用 Github-Desktop 下载并保持更新。
-
-*   [kxhit/vMAP](https://github.com/kxhit/vMAP) - \[CVPR 2023] vMAP: Vectorised Object Mapping for Neural Field SLAM
-
-*   [LiuHeBJTU/GLAM](https://github.com/LiuHeBJTU/GLAM) -
-
-*   [HKUST-Aerial-Robotics/LiDAR-Registration-Benchmark](https://github.com/HKUST-Aerial-Robotics/LiDAR-Registration-Benchmark) - LiDAR-based 3D global registration benchmark.
-
-*   [rayguan97/crossloc3d](https://github.com/rayguan97/crossloc3d) - CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition -- ICCV 2023
-
-*   [lasuomela/PlaceNav](https://github.com/lasuomela/PlaceNav) - Official implementation of the ICRA 2024 paper "PlaceNav: Topological Navigation through Place Recognition"
-
-*   [AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc) - AnyLoc: Universal Visual Place Recognition (RA-L 2023)
-
-*   [pnnl/HyperNetX](https://github.com/pnnl/HyperNetX) - Python package for hypergraph analysis and visualization.
-
-*   [nitish6174/hypergraph-similarity](https://github.com/nitish6174/hypergraph-similarity) - Finding near-duplicate hypergraphs using similarity calculation
-
-*   [jinyummiao/SimpleVO](https://github.com/jinyummiao/SimpleVO) - A Python toy demo about visual odometry(tracking and triangulation)
-
-*   [XLearning-SCU/2023-ICCV-COMMON](https://github.com/XLearning-SCU/2023-ICCV-COMMON) - This repo contains the code and data of "Graph Matching with Bi-level Noisy Correspondence".
-
-*   [dongdonghy/global-localization-object-detection](https://github.com/dongdonghy/global-localization-object-detection) - a global localization system with object detection in semantic map
-
-*   [PRBonn/SIMP](https://github.com/PRBonn/SIMP) -
-
-*   [marvin-eisenberger/gmsm-matching](https://github.com/marvin-eisenberger/gmsm-matching) -
-
-*   [rllab-snu/TopologicalSemanticGraphMemory](https://github.com/rllab-snu/TopologicalSemanticGraphMemory) - Topological Semantic Graph Memory for Image Goal Navigation  (CoRL 2022 oral)
-
-*   [faezahmed/diverse\_matching](https://github.com/faezahmed/diverse_matching) -
-
-*   [chrischoy/DeepGlobalRegistration](https://github.com/chrischoy/DeepGlobalRegistration) - \[CVPR 2020 Oral] A differentiable framework for 3D registration
-
-*   [pyg-team/pytorch\_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
-
-*   [ZhengZerong/DeepImplicitTemplates](https://github.com/ZhengZerong/DeepImplicitTemplates) - Implementation of "Deep Implicit Templates for 3D Shape Representation"
-
-*   [gameinskysky/PythonRobotics](https://github.com/gameinskysky/PythonRobotics) - Python sample codes for robotics algorithms.
-
-*   [MarcSchotman/skeletons-from-poincloud](https://github.com/MarcSchotman/skeletons-from-poincloud) -
-
-*   [mmkamani7/SkeletonMatching](https://github.com/mmkamani7/SkeletonMatching) - This repository implements skeleton matching algorithm.
-
-*   [tiangexiang/CurveNet](https://github.com/tiangexiang/CurveNet) - \[ICCV 2021] Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis
-
-*   [DylanWusee/pointconv\_pytorch](https://github.com/DylanWusee/pointconv_pytorch) - pytorch version of PointConv
-
-*   [orion-orion/NumericalAnalysis-Python](https://github.com/orion-orion/NumericalAnalysis-Python) - 🔨 用Python+Numpy+Pytorch实现《数值分析》(Timothy Sauer著) 的所有算法。
-
-*   [sinaahmadi/Bipartite\_b\_matching](https://github.com/sinaahmadi/Bipartite_b_matching) - Solving the Weighted Bipartite b-Matching (WBbM) problem
-
-*   [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
-
-*   [3DOM-FBK/COLMAP\_SLAM](https://github.com/3DOM-FBK/COLMAP_SLAM) - Visual-SLAM based on COLMAP API
-
-*   [MIXIAOXIN/LaneMapping](https://github.com/MIXIAOXIN/LaneMapping) - Large-scale lane mapping using MLS point clouds.
-
-*   [TencentYoutuResearch/NeRF-Loc](https://github.com/TencentYoutuResearch/NeRF-Loc) - Code for ICRA2023 paper "NeRF-Loc: Visual Localization with Conditional Neural Radiance Field"
-
-*   [zouzhenhong98/SensatUrban-BEV-Seg3D](https://github.com/zouzhenhong98/SensatUrban-BEV-Seg3D) - An efficient 3D semantic segmentation framework for Urban-scale point clouds like SensatUrban, Campus3D, etc.
-
-*   [fengyang95/tiny\_ml](https://github.com/fengyang95/tiny_ml) - numpy 实现的 周志华《机器学习》书中的算法及其他一些传统机器学习算法
-
-*   [er-muyue/BeMapNet](https://github.com/er-muyue/BeMapNet) -
-
-*   [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
-
-*   [weisongwen/UrbanLoco](https://github.com/weisongwen/UrbanLoco) - UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes
-
-*   [ybarancan/TopologicalLaneGraph](https://github.com/ybarancan/TopologicalLaneGraph) - Official implementation of "Topology Preserving Local Road Network Estimation from Single Onboard Camera Image" (CVPR 22)
-
-*   [songtaohe/LaneExtraction](https://github.com/songtaohe/LaneExtraction) -
-
-*   [TonyXuQAQ/CenterLineDet](https://github.com/TonyXuQAQ/CenterLineDet) - Offical repo of paper CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation
-
-*   [jingy1yu/ScalableMap](https://github.com/jingy1yu/ScalableMap) - The official repository for ScalableMap (CoRL 2023)
-
-*   [daohu527/mirror3d](https://github.com/daohu527/mirror3d) - Deep learning classification, detection and segmentation framework
-
-*   [Teoge/DMPR-PS](https://github.com/Teoge/DMPR-PS) - DMPR-PS: A Novel Approach for Parking-Slot Detection Using Directional Marking-Point Regression
-
-*   [MCG-NJU/SparseBEV](https://github.com/MCG-NJU/SparseBEV) - \[ICCV 2023] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos
-
-*   [hustgetlijun/SC\_DA](https://github.com/hustgetlijun/SC_DA) - Unsupervised domain adaptation is critical in various computer vision tasks, such as object detection, instance segmentation, which aims to alleviate performance degradation caused by domain-shift and promotes the rapid application of models such as detection model in practical tasks. Previous works use adversarial training to align global features and local features to eventually minimize the domain discrepancy. However, there is no semantic information for each pix-feature in the local features, which causes the different categories of pixel-features to align and increase the difficulty of alignment. So a Semantic Consistency Alignment(SCA) model is proposed to align the pixel-feature with the same categories and mitigate negative transfer in this paper. Firstly, a Semantic Prediction Model(SPM) is designed in SCA to predict the categories of each pixel-feature, which is trained by the source domain according to the receptive field. Then the penultimate layer of SPM as a Semantic Vector Map(SVM) is jointed with the local feature to send to the local domain discriminator. Meanwhile, the output of SPM as an attention map is used to adjust the weight of the local domain discriminator. Extensive experiments for unsupervised domain adaptation on commonly used datasets demonstrate the effectiveness of our proposed approach for robust object detection in various domain shift scenarios
-
-*   [barbararoessle/e2e\_multi\_view\_matching](https://github.com/barbararoessle/e2e_multi_view_matching) - End2End Multi-View Feature Matching with Differentiable Pose Optimization
-
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-
-*   [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - \[ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
-
-*   [yangxudong/Algorithm\_Interview\_Notes-Chinese](https://github.com/yangxudong/Algorithm_Interview_Notes-Chinese) - 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
-
-*   [yuantianyuan01/StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet) -
-
-*   [argoverse/av2-api](https://github.com/argoverse/av2-api) - Argoverse 2: Next generation datasets for self-driving perception and forecasting.
-
-*   [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
-
-*   [daohu527/pcdviz](https://github.com/daohu527/pcdviz) - point cloud viz
-
-*   [YZH-bot/RH-Map](https://github.com/YZH-bot/RH-Map) - RH-Map: Online dynamic objects removal \[RA-L 23]
-
-*   [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
-
-*   [MrinallU/Lidar-RGB-Fusion](https://github.com/MrinallU/Lidar-RGB-Fusion) - Maps lidar point cloud data to an RGB image using camera extrinsic parameters
-
-*   [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book\_4\_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
-
-*   [PRBonn/dynamic-point-removal](https://github.com/PRBonn/dynamic-point-removal) - Static Map Generation from 3D LiDAR Point Clouds Exploiting Ground Segmentation
-
-*   [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - \[ECCV 2024] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
-
-*   [Tramac/awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch) - Semantic Segmentation on PyTorch (include FCN, PSPNet, Deeplabv3, Deeplabv3+, DANet, DenseASPP, BiSeNet, EncNet, DUNet, ICNet, ENet, OCNet, CCNet, PSANet, CGNet, ESPNet, LEDNet, DFANet)
-
-*   [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见  https://ai-jupyter.com
-
-*   [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f\*ck Python? 😱
-
-*   [efc-robot/gmm\_map\_python](https://github.com/efc-robot/gmm_map_python) -
-
-*   [tanjiangyuan/Classification\_nuScence](https://github.com/tanjiangyuan/Classification_nuScence) - 使用nuScence的雷达数据尝试实现物体的识别分类聚类
-
-*   [One-2-3-45/One-2-3-45](https://github.com/One-2-3-45/One-2-3-45) - \[NeurIPS 2023] Official code of "One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization"
-
-*   [fandesfyf/JamTools](https://github.com/fandesfyf/JamTools) - JamTools是一个跨平台的小工具集类软件，支持Windows7/8/10/11、Macos、ubuntu系统(其他系统可以直接从源码编译打包)。包含了(滚动/区域)截屏、录屏、文字识别、多种语言互译、多媒体格式转换、鼠标键盘动作录制播放、局域网文件传输、聊天机器人等功能，完全开源!
-
-*   [kxhit/SG\_PR](https://github.com/kxhit/SG_PR) - Implementation of IROS20 paper - "Semantic Graph Based Place Recognition for 3D Point Clouds"
-
-*   [xiaohanshe/qidian-script](https://github.com/xiaohanshe/qidian-script) - 起点中文网（www.qidian.com）小说爬虫，代码简单，放心食用。
-
-*   [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion WebUI
-
-*   [songw-zju/LiDAR2Map](https://github.com/songw-zju/LiDAR2Map) - The official implementation of "LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation" (CVPR 2023)
-
-*   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-
-*   [rabbityl/lepard](https://github.com/rabbityl/lepard) - \[CVPR 2022, Oral] Learning Partial point cloud matching in Rigid and Deformable scenes
-
-*   [heethesh/lidar\_camera\_calibration](https://github.com/heethesh/lidar_camera_calibration) - Light-weight camera LiDAR calibration package for ROS using OpenCV and PCL (PnP + LM optimization)
-
-*   [ctsaitsao/pole-detection](https://github.com/ctsaitsao/pole-detection) - Detecting street poles in HD map point cloud data.
-
-*   [ZiYang-xie/MV-Map](https://github.com/ZiYang-xie/MV-Map) - Official implementation of MV-Map: Offboard HD-Map Generation with Multi-view Consistency
-
-*   [bharadwajakshay/targetless\_calibration](https://github.com/bharadwajakshay/targetless_calibration) -
-
-*   [42195CA/alignment\_kang](https://github.com/42195CA/alignment_kang) - implementation of alignment algorithm of Kang's paper Automatic targetless camera–LIDAR calibration by aligning edge with Gaussian mixture model DOI: 10.1002/rob.21893
-
-*   [gitouni/Targetless-LiDAR-camera-calibration](https://github.com/gitouni/Targetless-LiDAR-camera-calibration) - Official Implementation of the paper "Targetless Extrinsic Calibration of Camera and Low-resolution 3D LiDAR"
-
-*   [JunyuanDeng/NeRF-LOAM](https://github.com/JunyuanDeng/NeRF-LOAM) - \[ICCV2023] NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping
-
-*   [haeyeoni/lidar\_slam\_evaluator](https://github.com/haeyeoni/lidar_slam_evaluator) - LiDAR SLAM comparison and evaluation framework
-
-*   [jixingwu/SS-LCD](https://github.com/jixingwu/SS-LCD) -
-
-*   [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-
-*   [mihaidusmanu/local-feature-refinement](https://github.com/mihaidusmanu/local-feature-refinement) - Multi-View Optimization of Local Feature Geometry
-
-*   [aneasystone/github-trending](https://github.com/aneasystone/github-trending) - 使用 Github Actions 跟踪 Github 趋势项目。
-
-*   [doubleZ0108/GeoMVSNet](https://github.com/doubleZ0108/GeoMVSNet) - \[CVPR 23'] GeoMVSNet: Learning Multi-View Stereo with Geometry Perception
-
-*   [leofansq/Lane\_Follower](https://github.com/leofansq/Lane_Follower) - Lane follower: Lane-detector (OpenCV) + Object-detector (YOLO5) + CAN-bus
-
-*   [nubot-nudt/ElC-OIS](https://github.com/nubot-nudt/ElC-OIS) - \[IROS23] Ellipsoidal Clustering for Open-World Instance Segmentation on LiDAR Data
-
-*   [Tuxacker/semantic\_calibration](https://github.com/Tuxacker/semantic_calibration) -
-
-*   [IIPCVLAB/LCCNet](https://github.com/IIPCVLAB/LCCNet) - Official PyTorch implementation of the paper “LCCNet: Lidar and Camera Self-Calibration usingCost Volume Network”.
-
-*   [bobo0810/bobotools](https://github.com/bobo0810/bobotools) - 工具库
-
-*   [lasuomela/visual\_robot\_localization](https://github.com/lasuomela/visual_robot_localization) - Hloc ROS2 bindings for the WACV 2023 paper "Benchmarking Visual Localization for Autonomous Navigation"
-
-*   [naver/kapture](https://github.com/naver/kapture) - kapture is a file format as well as a set of tools for manipulating datasets, and in particular Visual Localization and Structure from Motion data.
-
-*   [PRBonn/lidar-visualizer](https://github.com/PRBonn/lidar-visualizer) - A LiDAR visualization tool for all your datasets
-
-*   [PRBonn/TARL](https://github.com/PRBonn/TARL) - \[CVPR'23] TARL: Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving
-
-*   [carlosmccosta/robot\_localization\_tools](https://github.com/carlosmccosta/robot_localization_tools) - ROS node that publishes the localization error between a pose and the ground truth provided by gazebo simulator
-
-*   [uzh-rpg/rpg\_trajectory\_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) - Toolbox for quantitative trajectory evaluation of VO/VIO
-
-*   [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
-
-*   [Lab-of-AI-and-Robotics/NFC\_relocalization](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization) -
-
-*   [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: PTv3 (CVPR'24 Oral), PPT (CVPR'24), OA-CNNs (CVPR'24), MSC (CVPR'23)
-
-*   [mileyan/pseudo-LiDAR\_e2e](https://github.com/mileyan/pseudo-LiDAR_e2e) - pseudo-LiDAR\_e2e
-
-*   [ziqi-jin/finetune-anything](https://github.com/ziqi-jin/finetune-anything) - Fine-tune SAM (Segment Anything Model) for computer vision tasks such as semantic segmentation, matting, detection ...  in specific scenarios
-
-*   [mlab-upenn/center-line-fitting](https://github.com/mlab-upenn/center-line-fitting) - Takes track images output by SLAM and finds points along the center-line
-
-*   [creative-math/SLAM-line-segment-extraction](https://github.com/creative-math/SLAM-line-segment-extraction) - Based on the research article "A line segment extraction algorithm using laser data based on seeded region growing" from the international journal of advanced robotic systems
-
-*   [url-kaist/Struct-MDC](https://github.com/url-kaist/Struct-MDC) - Official page of Struct-MDC (RA-L'22 with IROS'22); Depth completion from Visual-SLAM using point & line features
-
-*   [ekorudiawan/IEPF-Line-Extraction](https://github.com/ekorudiawan/IEPF-Line-Extraction) - IEPF (Iterative End Point Fit) Line Extraction Algorithm for SLAM (Simultaneous Localization and Mapping)
-
-*   [mandanasmi/lane-slam](https://github.com/mandanasmi/lane-slam) - SLAM using line
-
-*   [baegwangbin/IronDepth](https://github.com/baegwangbin/IronDepth) - \[BMVC 2022] IronDepth: Iterative Refinement of Single-View Depth using Surface Normal and its Uncertainty
-
-*   [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) - Papers and Datasets  about Point Cloud.
-
-*   [lb5160482/Road-Semantic-Segmentation](https://github.com/lb5160482/Road-Semantic-Segmentation) - Semantic segmentation on image(or video) to segment road, car, bike and rider out of image using FCN
-
-*   [angeladai/3DMV](https://github.com/angeladai/3DMV) - \[ECCV'18] 3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation
-
-*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
-
-*   [cvg/Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization) - Visual localization made easy with hloc
-
-*   [naver/oasis](https://github.com/naver/oasis) - Code for the paper "On the Road to Online Adaptation for Semantic Image Segmentation", CVPR 2022
-
-*   [meidachen/STPLS3D](https://github.com/meidachen/STPLS3D) - 🔥 Synthetic and real-world 2d/3d dataset for semantic and instance segmentation (BMVC 2022 Oral)
-
-*   [Amsterdam-Internships/Pole-Part-Segmentation](https://github.com/Amsterdam-Internships/Pole-Part-Segmentation) - This repository contains the implementation of Kernel Point Convolution (KPConv) to decompose the pole-like objects to their constituent part (part segmentation of the pole-like objects).
-
-*   [zijundeng/pytorch-semantic-segmentation](https://github.com/zijundeng/pytorch-semantic-segmentation) - PyTorch for Semantic Segmentation
-
-*   [tianweiy/CenterPoint](https://github.com/tianweiy/CenterPoint) -
-
-*   [AubreyC/trajectory-extractor](https://github.com/AubreyC/trajectory-extractor) - Python implementation of a simple vehicle trajectories extractor from traffic cameras
-
-*   [haomo-ai/SuperFusion](https://github.com/haomo-ai/SuperFusion) - \[ICRA 2024] SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation
-
-*   [pablopalafox/semantic-depth](https://github.com/pablopalafox/semantic-depth) - Fusing Semantic Segmentation and Monocular Depth Estimation for Enabling Autonomous Driving in Roads without Lane Lines
-
-*   [SunLoveSheep/Sem-LSD](https://github.com/SunLoveSheep/Sem-LSD) -
-
-*   [AnuragSahu/Stereo-Dense-Reconstruction](https://github.com/AnuragSahu/Stereo-Dense-Reconstruction) - This repo contains the code for Stereo Dense Reconstruction, Given the Stereo image pairs find the deapth of map of images and from that generate the point cloud of scene.
-
-*   [PeterFWS/ORB\_SLAM\_COLOMAP](https://github.com/PeterFWS/ORB_SLAM_COLOMAP) - Finished: ORB\_SLAM2 with monocular reconstruction support using COLMAP
-
-*   [shachoi/HANet](https://github.com/shachoi/HANet) - Official PyTorch implementation of HANet (CVPR 2020)
-
-*   [Kolkir/slam-playground](https://github.com/Kolkir/slam-playground) - Educational 2D SLAM implementation based on ICP and Pose Graph
-
-*   [sakshamjindal/Monocular-MiniSLAM](https://github.com/sakshamjindal/Monocular-MiniSLAM) - Real-Time Monocular Visual SLAM with Pose-graph optimization
-
-*   [PaulKemppi/gtsam\_fusion](https://github.com/PaulKemppi/gtsam_fusion) - Estimates pose, velocity, and accelerometer / gyroscope biases by fusing GPS position and/or 6DOF pose with IMU data. The fusion is done using GTSAM's sparse nonlinear incremental optimization (ISAM2). The ROS (rospy) node is implemented using GTSAM's python3 inteface.
-
-*   [zhyever/Monocular-Depth-Estimation-Toolbox](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox) - Monocular Depth Estimation Toolbox based on MMSegmentation.
-
-*   [CAOR-MINES-ParisTech/lwoi](https://github.com/CAOR-MINES-ParisTech/lwoi) - Python code of the paper "Learning Wheel Odometry and IMU Errors for Localization"
-
-*   [POSTECH-IMLAB/LaneSegmentationNetwork](https://github.com/POSTECH-IMLAB/LaneSegmentationNetwork) - The deep semantic segmentation network for lane segmentation.
-
-*   [qubvel-org/segmentation\_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) - Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.
-
-*   [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
-
-*   [xiaoyufenfei/Efficient-Segmentation-Networks](https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks) - Lightweight models for real-time semantic segmentationon PyTorch (include SQNet, LinkNet, SegNet, UNet, ENet, ERFNet, EDANet, ESPNet, ESPNetv2, LEDNet, ESNet, FSSNet, CGNet, DABNet, Fast-SCNN, ContextNet, FPENet, etc.)
-
-*   [Crane-YU/rethink\_rotation](https://github.com/Crane-YU/rethink_rotation) - \[AAAI 2023] Rethinking Rotation Invariance with Point Cloud Registration (official pytorch implementation) https://rotation3d.github.io/
-
-*   [cyd3r/notify-free-gpu](https://github.com/cyd3r/notify-free-gpu) - A telegram bot that sends you a message when the GPU is in use
-
-*   [ldkong1205/RoboDepth](https://github.com/ldkong1205/RoboDepth) - \[NeurIPS 2023] RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions
-
-*   [RolandGao/RegSeg](https://github.com/RolandGao/RegSeg) - The official implementation of "Rethink Dilated Convolution for Real-time Semantic Segmentation"
-
-*   [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
-
-*   [hunkim/PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
-
-*   [SeongHyunBae/Around-view-lane-roadmarker-segmentation](https://github.com/SeongHyunBae/Around-view-lane-roadmarker-segmentation) -
-
-*   [laugh12321/ApolloScape4mmseg](https://github.com/laugh12321/ApolloScape4mmseg) -
-
-*   [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（MIR2022）
-
-*   [tayebiarasteh/lane-detection](https://github.com/tayebiarasteh/lane-detection) - Weakly-supervised road-lane markings detection for autonomous driving, mitigating the lack of training data
-
-*   [faizanalibugti/Lane-Marking-Segmentation](https://github.com/faizanalibugti/Lane-Marking-Segmentation) - Semantic Segmentation of lane markings of the road
-
-*   [pengwangucla/DeLS-3D](https://github.com/pengwangucla/DeLS-3D) - The code for DeLS-3D of CVPR 2018
-
-*   [niknik24/SemanticSegmentation](https://github.com/niknik24/SemanticSegmentation) - Semantic segmentation project with Ternausnet and Mapillary Vistas Dataset
-
-*   [neozhaoliang/surround-view-system-introduction](https://github.com/neozhaoliang/surround-view-system-introduction) - A full Python implementation for real car surround view system
-
-*   [google/learned\_optimization](https://github.com/google/learned_optimization) -
-
-*   [boycetsang/mapyllary](https://github.com/boycetsang/mapyllary) - Unofficial API to request image and segmentation from Mapillary
-
-*   [karmanovalexey/Mapillary-Segmentation](https://github.com/karmanovalexey/Mapillary-Segmentation) -
-
-*   [biophase/open3d\_bnn](https://github.com/biophase/open3d_bnn) - open3d\_bnn
-
-*   [NVIDIA/semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation) - Nvidia Semantic Segmentation monorepo
-
-*   [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
-
-*   [loocy3/water\_hazard\_detection](https://github.com/loocy3/water_hazard_detection) - water\_hazard\_detection
-
-*   [OpenDriveLab/PersFormer\_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) - \[ECCV 2022 Oral] Perspective Transformer on 3D Lane Detection
-
-*   [fudan-zvg/Ego3RT](https://github.com/fudan-zvg/Ego3RT) - \[ECCV 2022] Learning Ego 3D Representation as Ray Tracing
-
-*   [FVCD2019/cctv\_svm](https://github.com/FVCD2019/cctv_svm) -
-
-*   [tjiiv-cprg/MonoRUn](https://github.com/tjiiv-cprg/MonoRUn) - \[CVPR'21] MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation
-
-*   [mapillary/seamseg](https://github.com/mapillary/seamseg) - Seamless Scene Segmentation
-
-*   [divamgupta/image-segmentation-keras](https://github.com/divamgupta/image-segmentation-keras) - Implementation of Segnet, FCN, UNet , PSPNet and other models in Keras.
-
-*   [Chenyang-Lu/mono-semantic-occupancy](https://github.com/Chenyang-Lu/mono-semantic-occupancy) - Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Encoder-Decoder Networks
-
-*   [Jiaolong/gcn-parking-slot](https://github.com/Jiaolong/gcn-parking-slot) - Attentional graph neural network for parking slot detection
-
-*   [Xilinx/Vitis-AI](https://github.com/Xilinx/Vitis-AI) - Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Alveo cards.
-
-*   [bradyz/cross\_view\_transformers](https://github.com/bradyz/cross_view_transformers) - Cross-view Transformers for real-time Map-view Semantic Segmentation (CVPR 2022 Oral)
-
-*   [xinge008/BridgeGAN](https://github.com/xinge008/BridgeGAN) - Code for our 3DV18 paper -- "Generative Adversarial Frontal View to Bird View Synthesis"
-
-*   [aharley/simple\_bev](https://github.com/aharley/simple_bev) - A Simple Baseline for BEV Perception
-
-*   [mvirgo/MLND-Capstone](https://github.com/mvirgo/MLND-Capstone) - Lane Detection with Deep Learning - My Capstone project for Udacity's ML Nanodegree
-
-*   [SAmmarAbbas/birds-eye-view](https://github.com/SAmmarAbbas/birds-eye-view) - Obtain bird's eye view of a scene from a single input image
-
-*   [darylclimb/cvml\_project](https://github.com/darylclimb/cvml_project) - Projects and application using computer vision and machine learning
-
-*   [leonshting/cam2bev-torch](https://github.com/leonshting/cam2bev-torch) - Solving Camera To Bird Eye View With PyTorch
-
-*   [almargolis/OpenCV\_InversePerspective](https://github.com/almargolis/OpenCV_InversePerspective) - Demo use of cv2.warpPerspective() to convert a robot driver view image to a bird's eye map view.
-
-*   [Sense-GVT/Fast-BEV](https://github.com/Sense-GVT/Fast-BEV) - Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline
-
-*   [ThatAquarel/BirdEyeView](https://github.com/ThatAquarel/BirdEyeView) - Changes the camera's perspective to a bird eye's perspective with ease.
-
-*   [ybarancan/BEV\_feat\_stitch](https://github.com/ybarancan/BEV_feat_stitch) - Official code for Understanding Bird’s-Eye View of Road Semantics using an Onboard Camera - RAL/ICRA 2022
-
-*   [tmadl/ROS-road-line-junction-extraction](https://github.com/tmadl/ROS-road-line-junction-extraction) - 3D road line extraction, bird's-eye view projection, and junction detection for ROS stereo images
-
-*   [ndrplz/surround\_vehicles\_awareness](https://github.com/ndrplz/surround_vehicles_awareness) - Learn to map surrounding vehicles onto a bird's eye view of the scene.
-
-*   [ika-rwth-aachen/Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
-
-*   [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
-
-*   [Cadene/pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch) - Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.
-
-*   [fregu856/deeplabv3](https://github.com/fregu856/deeplabv3) - PyTorch implementation of DeepLabV3, trained on the Cityscapes dataset.
-
-*   [gisbi-kim/PyICP-SLAM](https://github.com/gisbi-kim/PyICP-SLAM) - Full-python LiDAR SLAM using ICP and Scan Context
-
-*   [mikeroyal/LiDAR-Guide](https://github.com/mikeroyal/LiDAR-Guide) - LiDAR Guide
-
-*   [LeoQLi/KITTI\_odometry\_evaluation\_tool](https://github.com/LeoQLi/KITTI_odometry_evaluation_tool) - KITTI odometry evaluation tool
-
-*   [UMich-CURLY/3DMapping](https://github.com/UMich-CURLY/3DMapping) - Learning to map in 3D
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
-
-*   [tonypan2000/EECS568\_final](https://github.com/tonypan2000/EECS568_final) - InEKF Localization and Semantic Mapping on the KITTI Dataset
-
-*   [WFram/kaist\_tools](https://github.com/WFram/kaist_tools) -
-
-*   [TiagoCortinhal/SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) - Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving
-
-*   [PRBonn/range-mcl](https://github.com/PRBonn/range-mcl) - Range Image-based LiDAR Localization for Autonomous Vehicles Using Mesh Maps (chen2021icra)
-
-*   [LimHyungTae/ERASOR](https://github.com/LimHyungTae/ERASOR) - Official page of ERASOR (Egocentric Ratio of pSeudo Occupancy-based Dynamic Object Removal), which is accepted @ RA-L'21 with ICRA'21
-
-*   [PRBonn/LiDAR-MOS](https://github.com/PRBonn/LiDAR-MOS) - (LMNet) Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021)
-
-*   [ashleetiw/Lane-detection-pointclouds](https://github.com/ashleetiw/Lane-detection-pointclouds) -
-
-*   [lincolnkinley/PointCloud\_DynamicObjectFinder](https://github.com/lincolnkinley/PointCloud_DynamicObjectFinder) - ROS package to find dynamic obstacles in a point cloud
-
-*   [xinshuoweng/Xinshuo\_PyToolbox](https://github.com/xinshuoweng/Xinshuo_PyToolbox) - A Python toolbox that contains common help functions for stream I/O, image & video processing, and visualization. All my projects depend on this toolbox.
-
-*   [zhangchbin/RCIL](https://github.com/zhangchbin/RCIL) - \[CVPR2022] Representation Compensation Networks for Continual Semantic Segmentation
-
-*   [JunweiLiang/awesome\_lists](https://github.com/JunweiLiang/awesome_lists) - Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)
-
-*   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
-
-*   [hustvl/GKT](https://github.com/hustvl/GKT) - Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer
-
-*   [syywh/YQ5](https://github.com/syywh/YQ5) - Long-term visual localization datasets in campus environment
-
-*   [cong/yolov5\_deepsort\_tensorrt](https://github.com/cong/yolov5_deepsort_tensorrt) - This repo uses YOLOv5 and DeepSORT to implement object tracking algorithm. Also using TensorRTX to transform model to engine, and deploying all code on the NVIDIA Xavier with TensorRT further.
-
-*   [tom-roddick/mono-semantic-maps](https://github.com/tom-roddick/mono-semantic-maps) -
-
-*   [FiratSaritas/manhole-cover-labelling](https://github.com/FiratSaritas/manhole-cover-labelling) -
-
-*   [MartinEthier/comma10k-segnet](https://github.com/MartinEthier/comma10k-segnet) - Training a semantic segmentation network on the comma10k dataset. This network is to be used to filter out dynamic objects when using visual odometry for the comma calibration challenge.
-
-*   [NVlabs/SegFormer](https://github.com/NVlabs/SegFormer) - Official PyTorch implementation of SegFormer
-
-*   [HpWang-whu/YOHO](https://github.com/HpWang-whu/YOHO) - \[ACM MM 2022] You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors
-
-*   [xiaowei305/perception](https://github.com/xiaowei305/perception) - practice code for automotive perception
-
-*   [PRBonn/retriever](https://github.com/PRBonn/retriever) - Point Cloud-based Place Recognition in Compressed Map
-
-*   [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
-
-*   [cattaneod/CMRNet](https://github.com/cattaneod/CMRNet) - Code for "CMRNet: Camera to LiDAR-Map Registration" (ITSC 2019)
-
-*   [PRBonn/pole-localization](https://github.com/PRBonn/pole-localization) - Online Range Image-based Pole Extractor for Long-term LiDAR Localization in Urban Environments
-
-*   [nykabhishek/SLAM-UrbanNav-Dataset](https://github.com/nykabhishek/SLAM-UrbanNav-Dataset) - Sensor fusion, state estimation, localization and mapping using the UrbanNav dataset in ROS
-
-*   [ankitpt/Unet\_LaneMarking\_Segmentation](https://github.com/ankitpt/Unet_LaneMarking_Segmentation) -
-
-*   [chicagoedt/segment\_lane\_lines](https://github.com/chicagoedt/segment_lane_lines) - ROS package for semantic segmentation of lane lines, and homographic transformation of the segmented image for rebroadcasting as a point cloud.
-
-*   [Joyako/DeepLab-v3\_plus\_PyTorch](https://github.com/Joyako/DeepLab-v3_plus_PyTorch) - FCN, DeepLab V3+ for lane segmentation in PyTorch
-
-*   [germain-hug/S2DHM](https://github.com/germain-hug/S2DHM) - Sparse-to-Dense Hypercolumn Matching for Long-Term Visual Localization (3DV 2019)
-
-*   [jayin301/2021AutonomousACCar](https://github.com/jayin301/2021AutonomousACCar) -
-
-*   [qixuxiang/Baidu\_Lane\_Segmentation](https://github.com/qixuxiang/Baidu_Lane_Segmentation) - 4th place solution in Baidu Autonomous Driving Lane Segmentation
-
-*   [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
-
-*   [CoinCheung/BiSeNet](https://github.com/CoinCheung/BiSeNet) - Add bisenetv2.  My implementation of BiSeNet
-
-*   [MaybeShewill-CV/bisenetv2-tensorflow](https://github.com/MaybeShewill-CV/bisenetv2-tensorflow) - Unofficial tensorflow implementation of real-time scene image segmentation model "BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation"
-
-*   [iralabdisco/point\_clouds\_registration\_benchmark](https://github.com/iralabdisco/point_clouds_registration_benchmark) - A benchmark for point clouds registration algorithms
-
-*   [TingsongYu/PyTorch\_Tutorial](https://github.com/TingsongYu/PyTorch_Tutorial) - 《Pytorch模型训练实用教程》中配套代码
-
-*   [ooooverflow/BiSeNet](https://github.com/ooooverflow/BiSeNet) - BiSeNet based on pytorch
-
-*   [StatueFungus/autonomous\_driving](https://github.com/StatueFungus/autonomous_driving) - Ros package for basic autonomous lane tracking and object detection
-
-*   [qs956/Latex\_OCR\_Pytorch](https://github.com/qs956/Latex_OCR_Pytorch) - 基于Pytorch实现的End-to-End图像Latex公式识别 inspire by LinXueyuanStdio/LaTeX\_OCR\_PRO
-
-*   [ydhongHIT/DDRNet](https://github.com/ydhongHIT/DDRNet) - The official implementation of "Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes"
-
-*   [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
-
-*   [facebookresearch/MaskFormer](https://github.com/facebookresearch/MaskFormer) - Per-Pixel Classification is Not All You Need for Semantic Segmentation (NeurIPS 2021, spotlight)
-
-*   [MichaelFan01/STDC-Seg](https://github.com/MichaelFan01/STDC-Seg) - Source Code of our CVPR2021 paper "Rethinking BiSeNet For Real-time Semantic Segmentation"
-
-*   [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
-
-*   [leopoldsedev/3d-vision-semantic-localization](https://github.com/leopoldsedev/3d-vision-semantic-localization) - Visual localization pipeline based on semantic features
-
-*   [YeLyuUT/SSeg](https://github.com/YeLyuUT/SSeg) - semantic segmentation
-
-*   [jlyw1017/Semantic\_Deeplabv3\_Kitti](https://github.com/jlyw1017/Semantic_Deeplabv3_Kitti) - Deeplabv3  adaption for KITTI
-
-*   [JokerJohn/UpdatingHDmapByMonoCamera](https://github.com/JokerJohn/UpdatingHDmapByMonoCamera) - Updating HD map with RTK-GPS and monocular camera
-
-*   [alvinwan/pcp](https://github.com/alvinwan/pcp) - label KITTI point cloud (3d) drivable area using provided image annotations (2d)
-
-*   [jac99/MinkLocMultimodal](https://github.com/jac99/MinkLocMultimodal) - MinkLoc++: Lidar and Monocular Image Fusion for Place Recognition
-
-*   [Kitware/pyLiDAR-SLAM](https://github.com/Kitware/pyLiDAR-SLAM) -
-
-*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM contains a monocular Visual Odometry (VO) pipeline in Python. It supports many modern local features based on Deep Learning.
-
-*   [abenbihi/wasabi](https://github.com/abenbihi/wasabi) - Experimental code for the ICRA20 paper: Image-Based Place Recognition on Bucolic Environment Across Seasons From Semantic Edge Description
-
-*   [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) - 🎓Automatically Update CV Papers Daily using Github Actions (Update Every 12th hours)
-
-*   [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
-
-*   [sagachat/VLASE](https://github.com/sagachat/VLASE) - VLASE: Vehicle Localization by Aggregating Semantic Edges
-
-*   [ICEORY/PMF](https://github.com/ICEORY/PMF) - Perception-aware multi-sensor fusion for 3D LiDAR semantic segmentation (ICCV 2021)
-
-*   [Amsterdam-AI-Team/Urban\_PointCloud\_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques.
-
-*   [Tsinghua-MARS-Lab/HDMapNet](https://github.com/Tsinghua-MARS-Lab/HDMapNet) -
-
-*   [liwen-deepmotion/map\_based\_lidar\_camera\_calibration\_tool](https://github.com/liwen-deepmotion/map_based_lidar_camera_calibration_tool) - An HD vector map based LiDAR-Camera calibration tool.
-
-*   [acschaefer/polex](https://github.com/acschaefer/polex) - Long-Term Urban Vehicle Localization Using Pole Landmarks Extracted from 3-D Lidar Scans
-
-*   [DWCTOD/arXiv-CVPR2022-daily](https://github.com/DWCTOD/arXiv-CVPR2022-daily) - CVPR2022 update everyday!
-
-*   [rentruewang/learning-machine](https://github.com/rentruewang/learning-machine) - A handbook for ML built on answers.
-
-*   [timilsinamohan/SSR](https://github.com/timilsinamohan/SSR) - Semi-Supervised Regression
-
-*   [mvlearn/mvlearn](https://github.com/mvlearn/mvlearn) - Python package for multi-view machine learning
-
-*   [nealjean/coreg](https://github.com/nealjean/coreg) - Implementation of Co-training Regressors (COREG) semi-supervised regression algorithm from Zhou and Li, 2005.
-
-*   [qcymkxyc/Image-Process](https://github.com/qcymkxyc/Image-Process) - 冈萨雷斯《数字图像处理》Python实现(第三版)
-
-*   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-
-*   [Dod-o/Statistical-Learning-Method\_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
-
-*   [tianqiraf/DouZero\_For\_HappyDouDiZhu](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu) - 基于DouZero定制AI实战欢乐斗地主
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-## CMake
-
-*   [rpavlik/cmake-modules](https://github.com/rpavlik/cmake-modules) - My collection of CMake modules
-
-*   [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
-
-*   [ARTI-Robots/mapping\_dataset\_styria](https://github.com/ARTI-Robots/mapping_dataset_styria) - Open mapping dataset of styria in Austria
-
-*   [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
-
-*   [ros-agriculture/tractor\_localization](https://github.com/ros-agriculture/tractor_localization) - Robot\_Localization with GPS and IMU
-
-*   [ZXW2600/inverse\_perspective\_map\_ros](https://github.com/ZXW2600/inverse_perspective_map_ros) -
-
-*   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
-
-*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
-
-*   [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) - 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
-
 ## C++
+
+*   [DCSI2022/AFLI\_Calib](https://github.com/DCSI2022/AFLI_Calib) - AFLI-Calib: Robust LiDAR-IMU extrinsic self-calibration based on adaptive frame length LiDAR odometry
 
 *   [Janudis/Extended-Kalman-Filter-GPS\_IMU](https://github.com/Janudis/Extended-Kalman-Filter-GPS_IMU) - Sensor Fusion of GPS and IMU with Extended Kalman Filter for Localization in Autonomous Driving
 
@@ -1693,6 +1047,652 @@
 *   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 
 *   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
+
+## Python
+
+*   [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
+
+*   [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) -
+
+*   [USTCLH/OCC-VO](https://github.com/USTCLH/OCC-VO) -
+
+*   [HpWang-whu/RoReg](https://github.com/HpWang-whu/RoReg) - \[TPAMI 2023] RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations
+
+*   [lucidrains/rectified-flow-pytorch](https://github.com/lucidrains/rectified-flow-pytorch) - Implementation of rectified flow and some of its followup research / improvements in Pytorch
+
+*   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
+
+*   [songquanpeng/pytorch-deployment](https://github.com/songquanpeng/pytorch-deployment) - A template for rapid deployment of PyTorch models.
+
+*   [songquanpeng/pytorch-template](https://github.com/songquanpeng/pytorch-template) - To be the world's best PyTorch project template.
+
+*   [Vincentqyw/image-matching-webui](https://github.com/Vincentqyw/image-matching-webui) - 🤗 image matching toolbox webui
+
+*   [WHU-USI3DV/SGHR](https://github.com/WHU-USI3DV/SGHR) - \[CVPR 2023] Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting
+
+*   [umautobots/LONER](https://github.com/umautobots/LONER) - \[RA-L 2023 Best Paper] Official Code Release for LONER: LiDAR Only Neural Representations for Real-Time SLAM
+
+*   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - A script toolkit for SLAM research, including but not limited to various plotting functions, ROS bag processing, and more.
+
+*   [X-LANCE/SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) - Speech, Language, Audio, Music Processing with Large Language Model
+
+*   [voldemortX/pytorch-auto-drive](https://github.com/voldemortX/pytorch-auto-drive) - PytorchAutoDrive: Segmentation models (ERFNet, ENet, DeepLab, FCN...) and Lane detection models (SCNN, RESA, LSTR, LaneATT, BézierLaneNet...) based on PyTorch with fast training, visualization, benchmarking & deployment help
+
+*   [tjiiv-cprg/EPro-PnP-v2](https://github.com/tjiiv-cprg/EPro-PnP-v2) - \[TPAMI 2024] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
+
+*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 我们从5000多个Telegram群组、频道和机器人中精心挑选了最优质的资源。本项目中的所有内容均来自互联网，仅用于学习和技术研究目的。
+
+*   [weiningwei/arxiv-daily](https://github.com/weiningwei/arxiv-daily) -
+
+*   [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
+
+*   [TongjiZhaohb/StereoCalibrator](https://github.com/TongjiZhaohb/StereoCalibrator) -
+
+*   [openxrlab/xrdslam](https://github.com/openxrlab/xrdslam) - Platform for Deep Learning based SLAM
+
+*   [MetaSLAM/GPRS\_Survey](https://github.com/MetaSLAM/GPRS_Survey) - Benchmark for lidar and visual place recognition
+
+*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
+
+*   [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
+
+*   [sinaenjuni/Sensor\_fusion\_of\_LiDAR\_and\_Camera\_from\_KITTI\_dataset](https://github.com/sinaenjuni/Sensor_fusion_of_LiDAR_and_Camera_from_KITTI_dataset) - Sensor fusion of LiDAR and Camera from KITTI dataset
+
+*   [AutoLidarPerception/kitti\_lidar\_camera](https://github.com/AutoLidarPerception/kitti_lidar_camera) - KiTTI LiDAR-Camera Fusion, implemented using kitti\_ros.
+
+*   [PRBonn/lidar-bonnetal](https://github.com/PRBonn/lidar-bonnetal) - Semantic and Instance Segmentation of LiDAR point clouds for autonomous driving
+
+*   [AmrElsersy/PointPainting](https://github.com/AmrElsersy/PointPainting) - Real Time Semantic Segmentation for both LIDAR & Camera using BiseNetv2 & PointPainting Fusion in Pytorch
+
+*   [mjoshi07/Visual-Sensor-Fusion](https://github.com/mjoshi07/Visual-Sensor-Fusion) - LiDAR Fusion with Vision
+
+*   [XavierGrool/FGFusion](https://github.com/XavierGrool/FGFusion) -
+
+*   [Gardlin/PCR-CG](https://github.com/Gardlin/PCR-CG) - \[ECCV 2022]PCR-CG: Point Cloud Registration via Color and Geometry
+
+*   [a-turcu/3D-semantic-mapping](https://github.com/a-turcu/3D-semantic-mapping) - Robotic Vision Scene Understanding Challenge 2023
+
+*   [brandontrabucco/mass](https://github.com/brandontrabucco/mass) - A Simple Approach For Visual Room Rearrangement: 3D Mapping & Semantic Search (ICLR 2023)
+
+*   [qinzheng93/GeoTransformer](https://github.com/qinzheng93/GeoTransformer) - \[CVPR2022] Geometric Transformer for Fast and Robust Point Cloud Registration
+
+*   [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
+
+*   [zgojcic/3D\_multiview\_reg](https://github.com/zgojcic/3D_multiview_reg) - \[CVPR2020] Learning multiview 3D point cloud registration
+
+*   [pqhieu/jsis3d](https://github.com/pqhieu/jsis3d) - \[CVPR'19] JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds
+
+*   [yangfei1223/CRFConv](https://github.com/yangfei1223/CRFConv) - Continuous Conditional Random Field Convolution for Point Cloud Segmentation
+
+*   [moloydas/line-based-lidar-camera-calibration](https://github.com/moloydas/line-based-lidar-camera-calibration) -
+
+*   [mfxox/ILCC](https://github.com/mfxox/ILCC) - Intensity-based\_Lidar\_Camera\_Calibration
+
+*   [volkswagen/3dhd\_devkit](https://github.com/volkswagen/3dhd_devkit) - The DevKit of the 3DHD CityScenes dataset providing a deep learning pipeline for map element recognition and map deviation detection.
+
+*   [mcdermatt/VICET](https://github.com/mcdermatt/VICET) - Velocity corrected Iterative Compact Ellipsoidal Transform
+
+*   [zfcui33/CCA](https://github.com/zfcui33/CCA) - code
+
+*   [pra-dan/gtsam-inertial-odometry](https://github.com/pra-dan/gtsam-inertial-odometry) - Sensor Fusion of noisy gps signals with IMU preintegration
+
+*   [mbrossar/ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) - AI-IMU Dead-Reckoning
+
+*   [jpsml/6-DOF-Inertial-Odometry](https://github.com/jpsml/6-DOF-Inertial-Odometry) - IMU-Based 6-DOF Odometry
+
+*   [anpl-technion/QSR\_SLAM](https://github.com/anpl-technion/QSR_SLAM) -
+
+*   [scutzetao/DLfeature\_PlaceRecog\_icra2017](https://github.com/scutzetao/DLfeature_PlaceRecog_icra2017) - Dataset and official Caffe Implementation for learning a condition-robust feature representation for long-term visual localization
+
+*   [oravus/lostX](https://github.com/oravus/lostX) - (RSS 2018) LoST - Visual Place Recognition using Visual Semantics for Opposite Viewpoints across Day and Night
+
+*   [Jiang-HB/VBReg](https://github.com/Jiang-HB/VBReg) - Robust Outlier Rejection for 3D Registration with Variational Bayes (Accepted by CVPR-2023)
+
+*   [chrischoy/FCGF](https://github.com/chrischoy/FCGF) - Fully Convolutional Geometric Features: Fast and accurate 3D features for registration and correspondence.
+
+*   [MetaSLAM/ALITA](https://github.com/MetaSLAM/ALITA) - ALITA: A Large-scale Incremental Dataset for Long-term Autonomy
+
+*   [silviutroscot/CodeSLAM](https://github.com/silviutroscot/CodeSLAM) - Implementation of CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM paper (https://arxiv.org/pdf/1804.00874.pdf)
+
+*   [iitmcvg/CNN\_SLAM](https://github.com/iitmcvg/CNN_SLAM) - CNN SLAM implementation of https://arxiv.org/abs/1704.03489
+
+*   [Doo-do/FHLD](https://github.com/Doo-do/FHLD) - source codes for AAAI2023 lane detection method FHLD (Flexible 3D Lane Detection by Hierarchical Shape Matching)
+
+*   [cvg/nice-slam](https://github.com/cvg/nice-slam) - \[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM
+
+*   [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - \[CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
+
+*   [jenicek/asmk](https://github.com/jenicek/asmk) - Python implementation of ASMK
+
+*   [qpsolvers/qpsolvers](https://github.com/qpsolvers/qpsolvers) - Quadratic programming solvers in Python with a unified API
+
+*   [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning) - 我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，跟大家做个交流，也激励着自己坚持学下去；所有内容都可以随意转载，可用于任何目的，不必征求我的意见；如果您觉得内容有价值，推荐用 Github-Desktop 下载并保持更新。
+
+*   [kxhit/vMAP](https://github.com/kxhit/vMAP) - \[CVPR 2023] vMAP: Vectorised Object Mapping for Neural Field SLAM
+
+*   [LiuHeBJTU/GLAM](https://github.com/LiuHeBJTU/GLAM) -
+
+*   [HKUST-Aerial-Robotics/LiDAR-Registration-Benchmark](https://github.com/HKUST-Aerial-Robotics/LiDAR-Registration-Benchmark) - LiDAR-based 3D global registration benchmark.
+
+*   [rayguan97/crossloc3d](https://github.com/rayguan97/crossloc3d) - CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition -- ICCV 2023
+
+*   [lasuomela/PlaceNav](https://github.com/lasuomela/PlaceNav) - Official implementation of the ICRA 2024 paper "PlaceNav: Topological Navigation through Place Recognition"
+
+*   [AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc) - AnyLoc: Universal Visual Place Recognition (RA-L 2023)
+
+*   [pnnl/HyperNetX](https://github.com/pnnl/HyperNetX) - Python package for hypergraph analysis and visualization.
+
+*   [nitish6174/hypergraph-similarity](https://github.com/nitish6174/hypergraph-similarity) - Finding near-duplicate hypergraphs using similarity calculation
+
+*   [jinyummiao/SimpleVO](https://github.com/jinyummiao/SimpleVO) - A Python toy demo about visual odometry(tracking and triangulation)
+
+*   [XLearning-SCU/2023-ICCV-COMMON](https://github.com/XLearning-SCU/2023-ICCV-COMMON) - This repo contains the code and data of "Graph Matching with Bi-level Noisy Correspondence".
+
+*   [dongdonghy/global-localization-object-detection](https://github.com/dongdonghy/global-localization-object-detection) - a global localization system with object detection in semantic map
+
+*   [PRBonn/SIMP](https://github.com/PRBonn/SIMP) -
+
+*   [marvin-eisenberger/gmsm-matching](https://github.com/marvin-eisenberger/gmsm-matching) -
+
+*   [rllab-snu/TopologicalSemanticGraphMemory](https://github.com/rllab-snu/TopologicalSemanticGraphMemory) - Topological Semantic Graph Memory for Image Goal Navigation  (CoRL 2022 oral)
+
+*   [faezahmed/diverse\_matching](https://github.com/faezahmed/diverse_matching) -
+
+*   [chrischoy/DeepGlobalRegistration](https://github.com/chrischoy/DeepGlobalRegistration) - \[CVPR 2020 Oral] A differentiable framework for 3D registration
+
+*   [pyg-team/pytorch\_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
+
+*   [ZhengZerong/DeepImplicitTemplates](https://github.com/ZhengZerong/DeepImplicitTemplates) - Implementation of "Deep Implicit Templates for 3D Shape Representation"
+
+*   [gameinskysky/PythonRobotics](https://github.com/gameinskysky/PythonRobotics) - Python sample codes for robotics algorithms.
+
+*   [MarcSchotman/skeletons-from-poincloud](https://github.com/MarcSchotman/skeletons-from-poincloud) -
+
+*   [mmkamani7/SkeletonMatching](https://github.com/mmkamani7/SkeletonMatching) - This repository implements skeleton matching algorithm.
+
+*   [tiangexiang/CurveNet](https://github.com/tiangexiang/CurveNet) - \[ICCV 2021] Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis
+
+*   [DylanWusee/pointconv\_pytorch](https://github.com/DylanWusee/pointconv_pytorch) - pytorch version of PointConv
+
+*   [orion-orion/NumericalAnalysis-Python](https://github.com/orion-orion/NumericalAnalysis-Python) - 🔨 用Python+Numpy+Pytorch实现《数值分析》(Timothy Sauer著) 的所有算法。
+
+*   [sinaahmadi/Bipartite\_b\_matching](https://github.com/sinaahmadi/Bipartite_b_matching) - Solving the Weighted Bipartite b-Matching (WBbM) problem
+
+*   [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
+
+*   [3DOM-FBK/COLMAP\_SLAM](https://github.com/3DOM-FBK/COLMAP_SLAM) - Visual-SLAM based on COLMAP API
+
+*   [MIXIAOXIN/LaneMapping](https://github.com/MIXIAOXIN/LaneMapping) - Large-scale lane mapping using MLS point clouds.
+
+*   [TencentYoutuResearch/NeRF-Loc](https://github.com/TencentYoutuResearch/NeRF-Loc) - Code for ICRA2023 paper "NeRF-Loc: Visual Localization with Conditional Neural Radiance Field"
+
+*   [zouzhenhong98/SensatUrban-BEV-Seg3D](https://github.com/zouzhenhong98/SensatUrban-BEV-Seg3D) - An efficient 3D semantic segmentation framework for Urban-scale point clouds like SensatUrban, Campus3D, etc.
+
+*   [fengyang95/tiny\_ml](https://github.com/fengyang95/tiny_ml) - numpy 实现的 周志华《机器学习》书中的算法及其他一些传统机器学习算法
+
+*   [er-muyue/BeMapNet](https://github.com/er-muyue/BeMapNet) -
+
+*   [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
+
+*   [weisongwen/UrbanLoco](https://github.com/weisongwen/UrbanLoco) - UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes
+
+*   [ybarancan/TopologicalLaneGraph](https://github.com/ybarancan/TopologicalLaneGraph) - Official implementation of "Topology Preserving Local Road Network Estimation from Single Onboard Camera Image" (CVPR 22)
+
+*   [songtaohe/LaneExtraction](https://github.com/songtaohe/LaneExtraction) -
+
+*   [TonyXuQAQ/CenterLineDet](https://github.com/TonyXuQAQ/CenterLineDet) - Offical repo of paper CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation
+
+*   [jingy1yu/ScalableMap](https://github.com/jingy1yu/ScalableMap) - The official repository for ScalableMap (CoRL 2023)
+
+*   [daohu527/mirror3d](https://github.com/daohu527/mirror3d) - Deep learning classification, detection and segmentation framework
+
+*   [Teoge/DMPR-PS](https://github.com/Teoge/DMPR-PS) - DMPR-PS: A Novel Approach for Parking-Slot Detection Using Directional Marking-Point Regression
+
+*   [MCG-NJU/SparseBEV](https://github.com/MCG-NJU/SparseBEV) - \[ICCV 2023] SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos
+
+*   [hustgetlijun/SC\_DA](https://github.com/hustgetlijun/SC_DA) - Unsupervised domain adaptation is critical in various computer vision tasks, such as object detection, instance segmentation, which aims to alleviate performance degradation caused by domain-shift and promotes the rapid application of models such as detection model in practical tasks. Previous works use adversarial training to align global features and local features to eventually minimize the domain discrepancy. However, there is no semantic information for each pix-feature in the local features, which causes the different categories of pixel-features to align and increase the difficulty of alignment. So a Semantic Consistency Alignment(SCA) model is proposed to align the pixel-feature with the same categories and mitigate negative transfer in this paper. Firstly, a Semantic Prediction Model(SPM) is designed in SCA to predict the categories of each pixel-feature, which is trained by the source domain according to the receptive field. Then the penultimate layer of SPM as a Semantic Vector Map(SVM) is jointed with the local feature to send to the local domain discriminator. Meanwhile, the output of SPM as an attention map is used to adjust the weight of the local domain discriminator. Extensive experiments for unsupervised domain adaptation on commonly used datasets demonstrate the effectiveness of our proposed approach for robust object detection in various domain shift scenarios
+
+*   [barbararoessle/e2e\_multi\_view\_matching](https://github.com/barbararoessle/e2e_multi_view_matching) - End2End Multi-View Feature Matching with Differentiable Pose Optimization
+
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+
+*   [weiyithu/SurroundOcc](https://github.com/weiyithu/SurroundOcc) - \[ICCV 2023] SurroundOcc: Multi-camera 3D Occupancy Prediction for Autonomous Driving
+
+*   [yangxudong/Algorithm\_Interview\_Notes-Chinese](https://github.com/yangxudong/Algorithm_Interview_Notes-Chinese) - 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+
+*   [yuantianyuan01/StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet) -
+
+*   [argoverse/av2-api](https://github.com/argoverse/av2-api) - Argoverse 2: Next generation datasets for self-driving perception and forecasting.
+
+*   [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
+
+*   [daohu527/pcdviz](https://github.com/daohu527/pcdviz) - point cloud viz
+
+*   [YZH-bot/RH-Map](https://github.com/YZH-bot/RH-Map) - RH-Map: Online dynamic objects removal \[RA-L 23]
+
+*   [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
+
+*   [MrinallU/Lidar-RGB-Fusion](https://github.com/MrinallU/Lidar-RGB-Fusion) - Maps lidar point cloud data to an RGB image using camera extrinsic parameters
+
+*   [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book\_4\_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
+
+*   [PRBonn/dynamic-point-removal](https://github.com/PRBonn/dynamic-point-removal) - Static Map Generation from 3D LiDAR Point Clouds Exploiting Ground Segmentation
+
+*   [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - \[ECCV 2024] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
+
+*   [Tramac/awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch) - Semantic Segmentation on PyTorch (include FCN, PSPNet, Deeplabv3, Deeplabv3+, DANet, DenseASPP, BiSeNet, EncNet, DUNet, ICNet, ENet, OCNet, CCNet, PSANet, CGNet, ESPNet, LEDNet, DFANet)
+
+*   [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见  https://ai-jupyter.com
+
+*   [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f\*ck Python? 😱
+
+*   [efc-robot/gmm\_map\_python](https://github.com/efc-robot/gmm_map_python) -
+
+*   [tanjiangyuan/Classification\_nuScence](https://github.com/tanjiangyuan/Classification_nuScence) - 使用nuScence的雷达数据尝试实现物体的识别分类聚类
+
+*   [One-2-3-45/One-2-3-45](https://github.com/One-2-3-45/One-2-3-45) - \[NeurIPS 2023] Official code of "One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization"
+
+*   [fandesfyf/JamTools](https://github.com/fandesfyf/JamTools) - JamTools是一个跨平台的小工具集类软件，支持Windows7/8/10/11、Macos、ubuntu系统(其他系统可以直接从源码编译打包)。包含了(滚动/区域)截屏、录屏、文字识别、多种语言互译、多媒体格式转换、鼠标键盘动作录制播放、局域网文件传输、聊天机器人等功能，完全开源!
+
+*   [kxhit/SG\_PR](https://github.com/kxhit/SG_PR) - Implementation of IROS20 paper - "Semantic Graph Based Place Recognition for 3D Point Clouds"
+
+*   [xiaohanshe/qidian-script](https://github.com/xiaohanshe/qidian-script) - 起点中文网（www.qidian.com）小说爬虫，代码简单，放心食用。
+
+*   [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion WebUI
+
+*   [songw-zju/LiDAR2Map](https://github.com/songw-zju/LiDAR2Map) - The official implementation of "LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation" (CVPR 2023)
+
+*   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+
+*   [rabbityl/lepard](https://github.com/rabbityl/lepard) - \[CVPR 2022, Oral] Learning Partial point cloud matching in Rigid and Deformable scenes
+
+*   [heethesh/lidar\_camera\_calibration](https://github.com/heethesh/lidar_camera_calibration) - Light-weight camera LiDAR calibration package for ROS using OpenCV and PCL (PnP + LM optimization)
+
+*   [ctsaitsao/pole-detection](https://github.com/ctsaitsao/pole-detection) - Detecting street poles in HD map point cloud data.
+
+*   [ZiYang-xie/MV-Map](https://github.com/ZiYang-xie/MV-Map) - Official implementation of MV-Map: Offboard HD-Map Generation with Multi-view Consistency
+
+*   [bharadwajakshay/targetless\_calibration](https://github.com/bharadwajakshay/targetless_calibration) -
+
+*   [42195CA/alignment\_kang](https://github.com/42195CA/alignment_kang) - implementation of alignment algorithm of Kang's paper Automatic targetless camera–LIDAR calibration by aligning edge with Gaussian mixture model DOI: 10.1002/rob.21893
+
+*   [gitouni/Targetless-LiDAR-camera-calibration](https://github.com/gitouni/Targetless-LiDAR-camera-calibration) - Official Implementation of the paper "Targetless Extrinsic Calibration of Camera and Low-resolution 3D LiDAR"
+
+*   [JunyuanDeng/NeRF-LOAM](https://github.com/JunyuanDeng/NeRF-LOAM) - \[ICCV2023] NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping
+
+*   [haeyeoni/lidar\_slam\_evaluator](https://github.com/haeyeoni/lidar_slam_evaluator) - LiDAR SLAM comparison and evaluation framework
+
+*   [jixingwu/SS-LCD](https://github.com/jixingwu/SS-LCD) -
+
+*   [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+
+*   [mihaidusmanu/local-feature-refinement](https://github.com/mihaidusmanu/local-feature-refinement) - Multi-View Optimization of Local Feature Geometry
+
+*   [aneasystone/github-trending](https://github.com/aneasystone/github-trending) - 使用 Github Actions 跟踪 Github 趋势项目。
+
+*   [doubleZ0108/GeoMVSNet](https://github.com/doubleZ0108/GeoMVSNet) - \[CVPR 23'] GeoMVSNet: Learning Multi-View Stereo with Geometry Perception
+
+*   [leofansq/Lane\_Follower](https://github.com/leofansq/Lane_Follower) - Lane follower: Lane-detector (OpenCV) + Object-detector (YOLO5) + CAN-bus
+
+*   [nubot-nudt/ElC-OIS](https://github.com/nubot-nudt/ElC-OIS) - \[IROS23] Ellipsoidal Clustering for Open-World Instance Segmentation on LiDAR Data
+
+*   [Tuxacker/semantic\_calibration](https://github.com/Tuxacker/semantic_calibration) -
+
+*   [IIPCVLAB/LCCNet](https://github.com/IIPCVLAB/LCCNet) - Official PyTorch implementation of the paper “LCCNet: Lidar and Camera Self-Calibration usingCost Volume Network”.
+
+*   [bobo0810/bobotools](https://github.com/bobo0810/bobotools) - 工具库
+
+*   [lasuomela/visual\_robot\_localization](https://github.com/lasuomela/visual_robot_localization) - Hloc ROS2 bindings for the WACV 2023 paper "Benchmarking Visual Localization for Autonomous Navigation"
+
+*   [naver/kapture](https://github.com/naver/kapture) - kapture is a file format as well as a set of tools for manipulating datasets, and in particular Visual Localization and Structure from Motion data.
+
+*   [PRBonn/lidar-visualizer](https://github.com/PRBonn/lidar-visualizer) - A LiDAR visualization tool for all your datasets
+
+*   [PRBonn/TARL](https://github.com/PRBonn/TARL) - \[CVPR'23] TARL: Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving
+
+*   [carlosmccosta/robot\_localization\_tools](https://github.com/carlosmccosta/robot_localization_tools) - ROS node that publishes the localization error between a pose and the ground truth provided by gazebo simulator
+
+*   [uzh-rpg/rpg\_trajectory\_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) - Toolbox for quantitative trajectory evaluation of VO/VIO
+
+*   [abewley/sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
+
+*   [Lab-of-AI-and-Robotics/NFC\_relocalization](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization) -
+
+*   [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: PTv3 (CVPR'24 Oral), PPT (CVPR'24), OA-CNNs (CVPR'24), MSC (CVPR'23)
+
+*   [mileyan/pseudo-LiDAR\_e2e](https://github.com/mileyan/pseudo-LiDAR_e2e) - pseudo-LiDAR\_e2e
+
+*   [ziqi-jin/finetune-anything](https://github.com/ziqi-jin/finetune-anything) - Fine-tune SAM (Segment Anything Model) for computer vision tasks such as semantic segmentation, matting, detection ...  in specific scenarios
+
+*   [mlab-upenn/center-line-fitting](https://github.com/mlab-upenn/center-line-fitting) - Takes track images output by SLAM and finds points along the center-line
+
+*   [creative-math/SLAM-line-segment-extraction](https://github.com/creative-math/SLAM-line-segment-extraction) - Based on the research article "A line segment extraction algorithm using laser data based on seeded region growing" from the international journal of advanced robotic systems
+
+*   [url-kaist/Struct-MDC](https://github.com/url-kaist/Struct-MDC) - Official page of Struct-MDC (RA-L'22 with IROS'22); Depth completion from Visual-SLAM using point & line features
+
+*   [ekorudiawan/IEPF-Line-Extraction](https://github.com/ekorudiawan/IEPF-Line-Extraction) - IEPF (Iterative End Point Fit) Line Extraction Algorithm for SLAM (Simultaneous Localization and Mapping)
+
+*   [mandanasmi/lane-slam](https://github.com/mandanasmi/lane-slam) - SLAM using line
+
+*   [baegwangbin/IronDepth](https://github.com/baegwangbin/IronDepth) - \[BMVC 2022] IronDepth: Iterative Refinement of Single-View Depth using Surface Normal and its Uncertainty
+
+*   [zhulf0804/3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud) - Papers and Datasets  about Point Cloud.
+
+*   [lb5160482/Road-Semantic-Segmentation](https://github.com/lb5160482/Road-Semantic-Segmentation) - Semantic segmentation on image(or video) to segment road, car, bike and rider out of image using FCN
+
+*   [angeladai/3DMV](https://github.com/angeladai/3DMV) - \[ECCV'18] 3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation
+
+*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+
+*   [cvg/Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization) - Visual localization made easy with hloc
+
+*   [naver/oasis](https://github.com/naver/oasis) - Code for the paper "On the Road to Online Adaptation for Semantic Image Segmentation", CVPR 2022
+
+*   [meidachen/STPLS3D](https://github.com/meidachen/STPLS3D) - 🔥 Synthetic and real-world 2d/3d dataset for semantic and instance segmentation (BMVC 2022 Oral)
+
+*   [Amsterdam-Internships/Pole-Part-Segmentation](https://github.com/Amsterdam-Internships/Pole-Part-Segmentation) - This repository contains the implementation of Kernel Point Convolution (KPConv) to decompose the pole-like objects to their constituent part (part segmentation of the pole-like objects).
+
+*   [zijundeng/pytorch-semantic-segmentation](https://github.com/zijundeng/pytorch-semantic-segmentation) - PyTorch for Semantic Segmentation
+
+*   [tianweiy/CenterPoint](https://github.com/tianweiy/CenterPoint) -
+
+*   [AubreyC/trajectory-extractor](https://github.com/AubreyC/trajectory-extractor) - Python implementation of a simple vehicle trajectories extractor from traffic cameras
+
+*   [haomo-ai/SuperFusion](https://github.com/haomo-ai/SuperFusion) - \[ICRA 2024] SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation
+
+*   [pablopalafox/semantic-depth](https://github.com/pablopalafox/semantic-depth) - Fusing Semantic Segmentation and Monocular Depth Estimation for Enabling Autonomous Driving in Roads without Lane Lines
+
+*   [SunLoveSheep/Sem-LSD](https://github.com/SunLoveSheep/Sem-LSD) -
+
+*   [AnuragSahu/Stereo-Dense-Reconstruction](https://github.com/AnuragSahu/Stereo-Dense-Reconstruction) - This repo contains the code for Stereo Dense Reconstruction, Given the Stereo image pairs find the deapth of map of images and from that generate the point cloud of scene.
+
+*   [PeterFWS/ORB\_SLAM\_COLOMAP](https://github.com/PeterFWS/ORB_SLAM_COLOMAP) - Finished: ORB\_SLAM2 with monocular reconstruction support using COLMAP
+
+*   [shachoi/HANet](https://github.com/shachoi/HANet) - Official PyTorch implementation of HANet (CVPR 2020)
+
+*   [Kolkir/slam-playground](https://github.com/Kolkir/slam-playground) - Educational 2D SLAM implementation based on ICP and Pose Graph
+
+*   [sakshamjindal/Monocular-MiniSLAM](https://github.com/sakshamjindal/Monocular-MiniSLAM) - Real-Time Monocular Visual SLAM with Pose-graph optimization
+
+*   [PaulKemppi/gtsam\_fusion](https://github.com/PaulKemppi/gtsam_fusion) - Estimates pose, velocity, and accelerometer / gyroscope biases by fusing GPS position and/or 6DOF pose with IMU data. The fusion is done using GTSAM's sparse nonlinear incremental optimization (ISAM2). The ROS (rospy) node is implemented using GTSAM's python3 inteface.
+
+*   [zhyever/Monocular-Depth-Estimation-Toolbox](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox) - Monocular Depth Estimation Toolbox based on MMSegmentation.
+
+*   [CAOR-MINES-ParisTech/lwoi](https://github.com/CAOR-MINES-ParisTech/lwoi) - Python code of the paper "Learning Wheel Odometry and IMU Errors for Localization"
+
+*   [POSTECH-IMLAB/LaneSegmentationNetwork](https://github.com/POSTECH-IMLAB/LaneSegmentationNetwork) - The deep semantic segmentation network for lane segmentation.
+
+*   [qubvel-org/segmentation\_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) - Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.
+
+*   [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
+
+*   [xiaoyufenfei/Efficient-Segmentation-Networks](https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks) - Lightweight models for real-time semantic segmentationon PyTorch (include SQNet, LinkNet, SegNet, UNet, ENet, ERFNet, EDANet, ESPNet, ESPNetv2, LEDNet, ESNet, FSSNet, CGNet, DABNet, Fast-SCNN, ContextNet, FPENet, etc.)
+
+*   [Crane-YU/rethink\_rotation](https://github.com/Crane-YU/rethink_rotation) - \[AAAI 2023] Rethinking Rotation Invariance with Point Cloud Registration (official pytorch implementation) https://rotation3d.github.io/
+
+*   [cyd3r/notify-free-gpu](https://github.com/cyd3r/notify-free-gpu) - A telegram bot that sends you a message when the GPU is in use
+
+*   [ldkong1205/RoboDepth](https://github.com/ldkong1205/RoboDepth) - \[NeurIPS 2023] RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions
+
+*   [RolandGao/RegSeg](https://github.com/RolandGao/RegSeg) - The official implementation of "Rethink Dilated Convolution for Real-time Semantic Segmentation"
+
+*   [cs230-stanford/cs230-code-examples](https://github.com/cs230-stanford/cs230-code-examples) - Code examples in pyTorch and Tensorflow for CS230
+
+*   [hunkim/PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
+
+*   [SeongHyunBae/Around-view-lane-roadmarker-segmentation](https://github.com/SeongHyunBae/Around-view-lane-roadmarker-segmentation) -
+
+*   [laugh12321/ApolloScape4mmseg](https://github.com/laugh12321/ApolloScape4mmseg) -
+
+*   [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（MIR2022）
+
+*   [tayebiarasteh/lane-detection](https://github.com/tayebiarasteh/lane-detection) - Weakly-supervised road-lane markings detection for autonomous driving, mitigating the lack of training data
+
+*   [faizanalibugti/Lane-Marking-Segmentation](https://github.com/faizanalibugti/Lane-Marking-Segmentation) - Semantic Segmentation of lane markings of the road
+
+*   [pengwangucla/DeLS-3D](https://github.com/pengwangucla/DeLS-3D) - The code for DeLS-3D of CVPR 2018
+
+*   [niknik24/SemanticSegmentation](https://github.com/niknik24/SemanticSegmentation) - Semantic segmentation project with Ternausnet and Mapillary Vistas Dataset
+
+*   [neozhaoliang/surround-view-system-introduction](https://github.com/neozhaoliang/surround-view-system-introduction) - A full Python implementation for real car surround view system
+
+*   [google/learned\_optimization](https://github.com/google/learned_optimization) -
+
+*   [boycetsang/mapyllary](https://github.com/boycetsang/mapyllary) - Unofficial API to request image and segmentation from Mapillary
+
+*   [karmanovalexey/Mapillary-Segmentation](https://github.com/karmanovalexey/Mapillary-Segmentation) -
+
+*   [biophase/open3d\_bnn](https://github.com/biophase/open3d_bnn) - open3d\_bnn
+
+*   [NVIDIA/semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation) - Nvidia Semantic Segmentation monorepo
+
+*   [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
+
+*   [loocy3/water\_hazard\_detection](https://github.com/loocy3/water_hazard_detection) - water\_hazard\_detection
+
+*   [OpenDriveLab/PersFormer\_3DLane](https://github.com/OpenDriveLab/PersFormer_3DLane) - \[ECCV 2022 Oral] Perspective Transformer on 3D Lane Detection
+
+*   [fudan-zvg/Ego3RT](https://github.com/fudan-zvg/Ego3RT) - \[ECCV 2022] Learning Ego 3D Representation as Ray Tracing
+
+*   [FVCD2019/cctv\_svm](https://github.com/FVCD2019/cctv_svm) -
+
+*   [tjiiv-cprg/MonoRUn](https://github.com/tjiiv-cprg/MonoRUn) - \[CVPR'21] MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation
+
+*   [mapillary/seamseg](https://github.com/mapillary/seamseg) - Seamless Scene Segmentation
+
+*   [divamgupta/image-segmentation-keras](https://github.com/divamgupta/image-segmentation-keras) - Implementation of Segnet, FCN, UNet , PSPNet and other models in Keras.
+
+*   [Chenyang-Lu/mono-semantic-occupancy](https://github.com/Chenyang-Lu/mono-semantic-occupancy) - Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Encoder-Decoder Networks
+
+*   [Jiaolong/gcn-parking-slot](https://github.com/Jiaolong/gcn-parking-slot) - Attentional graph neural network for parking slot detection
+
+*   [Xilinx/Vitis-AI](https://github.com/Xilinx/Vitis-AI) - Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Alveo cards.
+
+*   [bradyz/cross\_view\_transformers](https://github.com/bradyz/cross_view_transformers) - Cross-view Transformers for real-time Map-view Semantic Segmentation (CVPR 2022 Oral)
+
+*   [xinge008/BridgeGAN](https://github.com/xinge008/BridgeGAN) - Code for our 3DV18 paper -- "Generative Adversarial Frontal View to Bird View Synthesis"
+
+*   [aharley/simple\_bev](https://github.com/aharley/simple_bev) - A Simple Baseline for BEV Perception
+
+*   [mvirgo/MLND-Capstone](https://github.com/mvirgo/MLND-Capstone) - Lane Detection with Deep Learning - My Capstone project for Udacity's ML Nanodegree
+
+*   [SAmmarAbbas/birds-eye-view](https://github.com/SAmmarAbbas/birds-eye-view) - Obtain bird's eye view of a scene from a single input image
+
+*   [darylclimb/cvml\_project](https://github.com/darylclimb/cvml_project) - Projects and application using computer vision and machine learning
+
+*   [leonshting/cam2bev-torch](https://github.com/leonshting/cam2bev-torch) - Solving Camera To Bird Eye View With PyTorch
+
+*   [almargolis/OpenCV\_InversePerspective](https://github.com/almargolis/OpenCV_InversePerspective) - Demo use of cv2.warpPerspective() to convert a robot driver view image to a bird's eye map view.
+
+*   [Sense-GVT/Fast-BEV](https://github.com/Sense-GVT/Fast-BEV) - Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline
+
+*   [ThatAquarel/BirdEyeView](https://github.com/ThatAquarel/BirdEyeView) - Changes the camera's perspective to a bird eye's perspective with ease.
+
+*   [ybarancan/BEV\_feat\_stitch](https://github.com/ybarancan/BEV_feat_stitch) - Official code for Understanding Bird’s-Eye View of Road Semantics using an Onboard Camera - RAL/ICRA 2022
+
+*   [tmadl/ROS-road-line-junction-extraction](https://github.com/tmadl/ROS-road-line-junction-extraction) - 3D road line extraction, bird's-eye view projection, and junction detection for ROS stereo images
+
+*   [ndrplz/surround\_vehicles\_awareness](https://github.com/ndrplz/surround_vehicles_awareness) - Learn to map surrounding vehicles onto a bird's eye view of the scene.
+
+*   [ika-rwth-aachen/Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
+
+*   [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
+*   [Cadene/pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch) - Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.
+
+*   [fregu856/deeplabv3](https://github.com/fregu856/deeplabv3) - PyTorch implementation of DeepLabV3, trained on the Cityscapes dataset.
+
+*   [gisbi-kim/PyICP-SLAM](https://github.com/gisbi-kim/PyICP-SLAM) - Full-python LiDAR SLAM using ICP and Scan Context
+
+*   [mikeroyal/LiDAR-Guide](https://github.com/mikeroyal/LiDAR-Guide) - LiDAR Guide
+
+*   [LeoQLi/KITTI\_odometry\_evaluation\_tool](https://github.com/LeoQLi/KITTI_odometry_evaluation_tool) - KITTI odometry evaluation tool
+
+*   [UMich-CURLY/3DMapping](https://github.com/UMich-CURLY/3DMapping) - Learning to map in 3D
+
+*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+
+*   [tonypan2000/EECS568\_final](https://github.com/tonypan2000/EECS568_final) - InEKF Localization and Semantic Mapping on the KITTI Dataset
+
+*   [WFram/kaist\_tools](https://github.com/WFram/kaist_tools) -
+
+*   [TiagoCortinhal/SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) - Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving
+
+*   [PRBonn/range-mcl](https://github.com/PRBonn/range-mcl) - Range Image-based LiDAR Localization for Autonomous Vehicles Using Mesh Maps (chen2021icra)
+
+*   [LimHyungTae/ERASOR](https://github.com/LimHyungTae/ERASOR) - Official page of ERASOR (Egocentric Ratio of pSeudo Occupancy-based Dynamic Object Removal), which is accepted @ RA-L'21 with ICRA'21
+
+*   [PRBonn/LiDAR-MOS](https://github.com/PRBonn/LiDAR-MOS) - (LMNet) Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data (RAL/IROS 2021)
+
+*   [ashleetiw/Lane-detection-pointclouds](https://github.com/ashleetiw/Lane-detection-pointclouds) -
+
+*   [lincolnkinley/PointCloud\_DynamicObjectFinder](https://github.com/lincolnkinley/PointCloud_DynamicObjectFinder) - ROS package to find dynamic obstacles in a point cloud
+
+*   [xinshuoweng/Xinshuo\_PyToolbox](https://github.com/xinshuoweng/Xinshuo_PyToolbox) - A Python toolbox that contains common help functions for stream I/O, image & video processing, and visualization. All my projects depend on this toolbox.
+
+*   [zhangchbin/RCIL](https://github.com/zhangchbin/RCIL) - \[CVPR2022] Representation Compensation Networks for Continual Semantic Segmentation
+
+*   [JunweiLiang/awesome\_lists](https://github.com/JunweiLiang/awesome_lists) - Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)
+
+*   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
+
+*   [hustvl/GKT](https://github.com/hustvl/GKT) - Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer
+
+*   [syywh/YQ5](https://github.com/syywh/YQ5) - Long-term visual localization datasets in campus environment
+
+*   [cong/yolov5\_deepsort\_tensorrt](https://github.com/cong/yolov5_deepsort_tensorrt) - This repo uses YOLOv5 and DeepSORT to implement object tracking algorithm. Also using TensorRTX to transform model to engine, and deploying all code on the NVIDIA Xavier with TensorRT further.
+
+*   [tom-roddick/mono-semantic-maps](https://github.com/tom-roddick/mono-semantic-maps) -
+
+*   [FiratSaritas/manhole-cover-labelling](https://github.com/FiratSaritas/manhole-cover-labelling) -
+
+*   [MartinEthier/comma10k-segnet](https://github.com/MartinEthier/comma10k-segnet) - Training a semantic segmentation network on the comma10k dataset. This network is to be used to filter out dynamic objects when using visual odometry for the comma calibration challenge.
+
+*   [NVlabs/SegFormer](https://github.com/NVlabs/SegFormer) - Official PyTorch implementation of SegFormer
+
+*   [HpWang-whu/YOHO](https://github.com/HpWang-whu/YOHO) - \[ACM MM 2022] You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors
+
+*   [xiaowei305/perception](https://github.com/xiaowei305/perception) - practice code for automotive perception
+
+*   [PRBonn/retriever](https://github.com/PRBonn/retriever) - Point Cloud-based Place Recognition in Compressed Map
+
+*   [lucastabelini/LaneATT](https://github.com/lucastabelini/LaneATT) - Code for the paper entitled "Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection" (CVPR 2021)
+
+*   [cattaneod/CMRNet](https://github.com/cattaneod/CMRNet) - Code for "CMRNet: Camera to LiDAR-Map Registration" (ITSC 2019)
+
+*   [PRBonn/pole-localization](https://github.com/PRBonn/pole-localization) - Online Range Image-based Pole Extractor for Long-term LiDAR Localization in Urban Environments
+
+*   [nykabhishek/SLAM-UrbanNav-Dataset](https://github.com/nykabhishek/SLAM-UrbanNav-Dataset) - Sensor fusion, state estimation, localization and mapping using the UrbanNav dataset in ROS
+
+*   [ankitpt/Unet\_LaneMarking\_Segmentation](https://github.com/ankitpt/Unet_LaneMarking_Segmentation) -
+
+*   [chicagoedt/segment\_lane\_lines](https://github.com/chicagoedt/segment_lane_lines) - ROS package for semantic segmentation of lane lines, and homographic transformation of the segmented image for rebroadcasting as a point cloud.
+
+*   [Joyako/DeepLab-v3\_plus\_PyTorch](https://github.com/Joyako/DeepLab-v3_plus_PyTorch) - FCN, DeepLab V3+ for lane segmentation in PyTorch
+
+*   [germain-hug/S2DHM](https://github.com/germain-hug/S2DHM) - Sparse-to-Dense Hypercolumn Matching for Long-Term Visual Localization (3DV 2019)
+
+*   [jayin301/2021AutonomousACCar](https://github.com/jayin301/2021AutonomousACCar) -
+
+*   [qixuxiang/Baidu\_Lane\_Segmentation](https://github.com/qixuxiang/Baidu_Lane_Segmentation) - 4th place solution in Baidu Autonomous Driving Lane Segmentation
+
+*   [MaybeShewill-CV/lanenet-lane-detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection) - Unofficial implemention of lanenet model for real time lane detection
+
+*   [CoinCheung/BiSeNet](https://github.com/CoinCheung/BiSeNet) - Add bisenetv2.  My implementation of BiSeNet
+
+*   [MaybeShewill-CV/bisenetv2-tensorflow](https://github.com/MaybeShewill-CV/bisenetv2-tensorflow) - Unofficial tensorflow implementation of real-time scene image segmentation model "BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation"
+
+*   [iralabdisco/point\_clouds\_registration\_benchmark](https://github.com/iralabdisco/point_clouds_registration_benchmark) - A benchmark for point clouds registration algorithms
+
+*   [TingsongYu/PyTorch\_Tutorial](https://github.com/TingsongYu/PyTorch_Tutorial) - 《Pytorch模型训练实用教程》中配套代码
+
+*   [ooooverflow/BiSeNet](https://github.com/ooooverflow/BiSeNet) - BiSeNet based on pytorch
+
+*   [StatueFungus/autonomous\_driving](https://github.com/StatueFungus/autonomous_driving) - Ros package for basic autonomous lane tracking and object detection
+
+*   [qs956/Latex\_OCR\_Pytorch](https://github.com/qs956/Latex_OCR_Pytorch) - 基于Pytorch实现的End-to-End图像Latex公式识别 inspire by LinXueyuanStdio/LaTeX\_OCR\_PRO
+
+*   [ydhongHIT/DDRNet](https://github.com/ydhongHIT/DDRNet) - The official implementation of "Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes"
+
+*   [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
+
+*   [facebookresearch/MaskFormer](https://github.com/facebookresearch/MaskFormer) - Per-Pixel Classification is Not All You Need for Semantic Segmentation (NeurIPS 2021, spotlight)
+
+*   [MichaelFan01/STDC-Seg](https://github.com/MichaelFan01/STDC-Seg) - Source Code of our CVPR2021 paper "Rethinking BiSeNet For Real-time Semantic Segmentation"
+
+*   [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
+
+*   [leopoldsedev/3d-vision-semantic-localization](https://github.com/leopoldsedev/3d-vision-semantic-localization) - Visual localization pipeline based on semantic features
+
+*   [YeLyuUT/SSeg](https://github.com/YeLyuUT/SSeg) - semantic segmentation
+
+*   [jlyw1017/Semantic\_Deeplabv3\_Kitti](https://github.com/jlyw1017/Semantic_Deeplabv3_Kitti) - Deeplabv3  adaption for KITTI
+
+*   [JokerJohn/UpdatingHDmapByMonoCamera](https://github.com/JokerJohn/UpdatingHDmapByMonoCamera) - Updating HD map with RTK-GPS and monocular camera
+
+*   [alvinwan/pcp](https://github.com/alvinwan/pcp) - label KITTI point cloud (3d) drivable area using provided image annotations (2d)
+
+*   [jac99/MinkLocMultimodal](https://github.com/jac99/MinkLocMultimodal) - MinkLoc++: Lidar and Monocular Image Fusion for Place Recognition
+
+*   [Kitware/pyLiDAR-SLAM](https://github.com/Kitware/pyLiDAR-SLAM) -
+
+*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM contains a monocular Visual Odometry (VO) pipeline in Python. It supports many modern local features based on Deep Learning.
+
+*   [abenbihi/wasabi](https://github.com/abenbihi/wasabi) - Experimental code for the ICRA20 paper: Image-Based Place Recognition on Bucolic Environment Across Seasons From Semantic Edge Description
+
+*   [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) - 🎓Automatically Update CV Papers Daily using Github Actions (Update Every 12th hours)
+
+*   [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
+
+*   [sagachat/VLASE](https://github.com/sagachat/VLASE) - VLASE: Vehicle Localization by Aggregating Semantic Edges
+
+*   [ICEORY/PMF](https://github.com/ICEORY/PMF) - Perception-aware multi-sensor fusion for 3D LiDAR semantic segmentation (ICCV 2021)
+
+*   [Amsterdam-AI-Team/Urban\_PointCloud\_Processing](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing) - Repository for automatic classification and labeling of Urban PointClouds using data fusion and region growing techniques.
+
+*   [Tsinghua-MARS-Lab/HDMapNet](https://github.com/Tsinghua-MARS-Lab/HDMapNet) -
+
+*   [liwen-deepmotion/map\_based\_lidar\_camera\_calibration\_tool](https://github.com/liwen-deepmotion/map_based_lidar_camera_calibration_tool) - An HD vector map based LiDAR-Camera calibration tool.
+
+*   [acschaefer/polex](https://github.com/acschaefer/polex) - Long-Term Urban Vehicle Localization Using Pole Landmarks Extracted from 3-D Lidar Scans
+
+*   [DWCTOD/arXiv-CVPR2022-daily](https://github.com/DWCTOD/arXiv-CVPR2022-daily) - CVPR2022 update everyday!
+
+*   [rentruewang/learning-machine](https://github.com/rentruewang/learning-machine) - A handbook for ML built on answers.
+
+*   [timilsinamohan/SSR](https://github.com/timilsinamohan/SSR) - Semi-Supervised Regression
+
+*   [mvlearn/mvlearn](https://github.com/mvlearn/mvlearn) - Python package for multi-view machine learning
+
+*   [nealjean/coreg](https://github.com/nealjean/coreg) - Implementation of Co-training Regressors (COREG) semi-supervised regression algorithm from Zhou and Li, 2005.
+
+*   [qcymkxyc/Image-Process](https://github.com/qcymkxyc/Image-Process) - 冈萨雷斯《数字图像处理》Python实现(第三版)
+
+*   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+
+*   [Dod-o/Statistical-Learning-Method\_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
+
+*   [tianqiraf/DouZero\_For\_HappyDouDiZhu](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu) - 基于DouZero定制AI实战欢乐斗地主
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+## CMake
+
+*   [rpavlik/cmake-modules](https://github.com/rpavlik/cmake-modules) - My collection of CMake modules
+
+*   [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
+
+*   [ARTI-Robots/mapping\_dataset\_styria](https://github.com/ARTI-Robots/mapping_dataset_styria) - Open mapping dataset of styria in Austria
+
+*   [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
+
+*   [ros-agriculture/tractor\_localization](https://github.com/ros-agriculture/tractor_localization) - Robot\_Localization with GPS and IMU
+
+*   [ZXW2600/inverse\_perspective\_map\_ros](https://github.com/ZXW2600/inverse_perspective_map_ros) -
+
+*   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
+
+*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
 
 ## Lua
 
