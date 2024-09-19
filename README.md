@@ -1960,7 +1960,7 @@
 
 *   [Kitware/pyLiDAR-SLAM](https://github.com/Kitware/pyLiDAR-SLAM) -
 
-*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM contains a monocular Visual Odometry (VO) pipeline in Python. It supports many modern local features based on Deep Learning.
+*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM contains a Visual Odometry (VO) pipeline in Python for monocular, stereo and RGBD cameras. It supports many modern local features based on Deep Learning.
 
 *   [abenbihi/wasabi](https://github.com/abenbihi/wasabi) - Experimental code for the ICRA20 paper: Image-Based Place Recognition on Bucolic Environment Across Seasons From Semantic Edge Description
 
@@ -2372,7 +2372,7 @@
 
 *   [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 
-*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 通过电影、美剧或文档生成词库（单词本）为单词提供具体语境。然后通过语境记忆单词。
+*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 使用电影、美剧或文档生成词库（单词本）为单词提供具体语境。然后通过语境记忆单词。
 
 *   [RyensX/MediaBox](https://github.com/RyensX/MediaBox) - 全能媒体容器，插件化网罗天下媒体，畅快浏览视频、漫画和任何你想要的媒体数据。A universal media container, aggregating media through plugins to browse videos, comics and any media data you want.
 
