@@ -1,5 +1,6 @@
 ## Table of Contents
 
+*   [TeX](#tex)
 *   [C++](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -10,7 +11,6 @@
 *   [HTML](#html)
 *   [C](#c-1)
 *   [Dart](#dart)
-*   [TeX](#tex)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
@@ -32,7 +32,23 @@
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
 
+## TeX
+
+*   [MeouSker77/Cpp17](https://github.com/MeouSker77/Cpp17) - 本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删
+
+*   [xiaoweiChen/Professional-cpp-6ed](https://github.com/xiaoweiChen/Professional-cpp-6ed) - 《Professional C++ - 6th Edition》的非专业个人翻译
+
+*   [WangWeixin442/thesis-WW](https://github.com/WangWeixin442/thesis-WW) -
+
+*   [alankarkotwal/stereo-vo](https://github.com/alankarkotwal/stereo-vo) - Visual Odometry using Stereo and Pointcloud Alignment
+
+*   [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
+
+*   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
+
 ## C++
+
+*   [JinXiangLai/Edge-VO](https://github.com/JinXiangLai/Edge-VO) -
 
 *   [amslabtech/odom\_gnss\_ekf](https://github.com/amslabtech/odom_gnss_ekf) - ROS package for combining wheel odomety , IMU, and GNSS by EKF
 
@@ -2002,8 +2018,6 @@
 
 *   [wuxiaolang/Visual\_SLAM\_Related\_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) - 视觉(语义) SLAM 相关研究跟踪
 
-*   [DroidAITech/ROS-Academy-for-Beginners-Book-Melodic](https://github.com/DroidAITech/ROS-Academy-for-Beginners-Book-Melodic) - 中国大学MOOC---《机器人操作系统入门》讲义，升级版本
-
 ## CMake
 
 *   [rpavlik/cmake-modules](https://github.com/rpavlik/cmake-modules) - My collection of CMake modules
@@ -2021,8 +2035,6 @@
 *   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
 
 *   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
-
-*   [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) - 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
 
 ## Lua
 
@@ -2143,18 +2155,6 @@
 *   [KNKPA/KNKPAnime](https://github.com/KNKPA/KNKPAnime) - KNKPAnime：支持多番剧源与弹幕的看番软件。
 
 *   [lucinhu/bili\_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
-
-## TeX
-
-*   [xiaoweiChen/Professional-cpp-6ed](https://github.com/xiaoweiChen/Professional-cpp-6ed) - 《Professional C++ - 6th Edition》的非专业个人翻译
-
-*   [WangWeixin442/thesis-WW](https://github.com/WangWeixin442/thesis-WW) -
-
-*   [alankarkotwal/stereo-vo](https://github.com/alankarkotwal/stereo-vo) - Visual Odometry using Stereo and Pointcloud Alignment
-
-*   [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
-
-*   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
 
 ## Jupyter Notebook
 
