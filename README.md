@@ -1,8 +1,8 @@
 ## Table of Contents
 
+*   [C++](#c)
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
-*   [C++](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [CMake](#cmake)
@@ -32,49 +32,11 @@
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
 
-## Kotlin
-
-*   [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
-
-*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-*   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
-
-*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support!
-
-*   [Chesire/Nekome](https://github.com/Chesire/Nekome) - Nekome is an Android application to manage tracked Anime and Manga lists.
-
-*   [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
-
-*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 使用电影、美剧或文档生成词库（单词本）为单词提供具体语境。然后通过语境记忆单词。
-
-*   [RyensX/MediaBox](https://github.com/RyensX/MediaBox) - 全能媒体容器，插件化网罗天下媒体，畅快浏览视频、漫画和任何你想要的媒体数据。A universal media container, aggregating media through plugins to browse videos, comics and any media data you want.
-
-*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-
-*   [thomaskioko/tv-maniac](https://github.com/thomaskioko/tv-maniac) - Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
-
-*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
-
-*   [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao 2.x
-
-*   [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-
-## TeX
-
-*   [MeouSker77/Cpp17](https://github.com/MeouSker77/Cpp17) - 本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删
-
-*   [xiaoweiChen/Professional-cpp-6ed](https://github.com/xiaoweiChen/Professional-cpp-6ed) - 《Professional C++ - 6th Edition》的非专业个人翻译
-
-*   [WangWeixin442/thesis-WW](https://github.com/WangWeixin442/thesis-WW) -
-
-*   [alankarkotwal/stereo-vo](https://github.com/alankarkotwal/stereo-vo) - Visual Odometry using Stereo and Pointcloud Alignment
-
-*   [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
-
-*   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
-
 ## C++
+
+*   [HuajianUP/Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) - \[CVPR 2024] Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras
+
+*   [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
 
 *   [JinXiangLai/Edge-VO](https://github.com/JinXiangLai/Edge-VO) -
 
@@ -1094,7 +1056,47 @@
 
 *   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 
-*   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
+## Kotlin
+
+*   [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
+
+*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+*   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
+
+*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support!
+
+*   [Chesire/Nekome](https://github.com/Chesire/Nekome) - Nekome is an Android application to manage tracked Anime and Manga lists.
+
+*   [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
+
+*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 使用电影、美剧或文档生成词库（单词本）为单词提供具体语境。然后通过语境记忆单词。
+
+*   [RyensX/MediaBox](https://github.com/RyensX/MediaBox) - 全能媒体容器，插件化网罗天下媒体，畅快浏览视频、漫画和任何你想要的媒体数据。A universal media container, aggregating media through plugins to browse videos, comics and any media data you want.
+
+*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+
+*   [thomaskioko/tv-maniac](https://github.com/thomaskioko/tv-maniac) - Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
+
+*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
+
+*   [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao 2.x
+
+*   [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+
+## TeX
+
+*   [MeouSker77/Cpp17](https://github.com/MeouSker77/Cpp17) - 本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删
+
+*   [xiaoweiChen/Professional-cpp-6ed](https://github.com/xiaoweiChen/Professional-cpp-6ed) - 《Professional C++ - 6th Edition》的非专业个人翻译
+
+*   [WangWeixin442/thesis-WW](https://github.com/WangWeixin442/thesis-WW) -
+
+*   [alankarkotwal/stereo-vo](https://github.com/alankarkotwal/stereo-vo) - Visual Odometry using Stereo and Pointcloud Alignment
+
+*   [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
+
+*   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
 
 ## Python
 
@@ -2043,8 +2045,6 @@
 *   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 *   [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
-
-*   [wuxiaolang/Visual\_SLAM\_Related\_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) - 视觉(语义) SLAM 相关研究跟踪
 
 ## CMake
 
