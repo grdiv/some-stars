@@ -1,6 +1,7 @@
 ## Table of Contents
 
 *   [C++](#c)
+*   [Matlab](#matlab)
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
 *   [Python](#python)
@@ -15,7 +16,7 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
-*   [MATLAB](#matlab)
+*   [MATLAB](#matlab-1)
 *   [Java](#java)
 *   [Rust](#rust)
 *   [Go](#go)
@@ -34,11 +35,11 @@
 
 ## C++
 
+*   [Nothand0212/super-vio](https://github.com/Nothand0212/super-vio) - a simple vio based on super-point, light-glue and g2o
+
 *   [HuajianUP/Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) - \[CVPR 2024] Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras
 
 *   [MIT-SPARK/Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
-
-*   [JinXiangLai/Edge-VO](https://github.com/JinXiangLai/Edge-VO) -
 
 *   [amslabtech/odom\_gnss\_ekf](https://github.com/amslabtech/odom_gnss_ekf) - ROS package for combining wheel odomety , IMU, and GNSS by EKF
 
@@ -1055,6 +1056,10 @@
 *   [laboshinl/loam\_velodyne](https://github.com/laboshinl/loam_velodyne) - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
 
 *   [raulmur/ORB\_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+
+## Matlab
+
+*   [avisingh599/vo-howard08](https://github.com/avisingh599/vo-howard08) - \[Reimplementation Howard 2008] A MATLAB implementation of Visual Odometry using Andrew Howard's 2008 paper.
 
 ## Kotlin
 
@@ -2371,8 +2376,6 @@
 *   [Ayatans/Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework) - Matlab Coding homework for Machine Learning
 
 *   [TUC-ProAut/VSA\_Toolbox](https://github.com/TUC-ProAut/VSA_Toolbox) -
-
-*   [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics) - 数学知识点滴积累  矩阵 数值优化 神经网络反向传播 图优化 概率论 随机过程 卡尔曼滤波 粒子滤波 数学函数拟合
 
 ## Java
 
