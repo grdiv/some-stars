@@ -14,6 +14,7 @@
 *   [C](#c-1)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [MATLAB](#matlab-1)
@@ -22,7 +23,6 @@
 *   [Go](#go)
 *   [Makefile](#makefile)
 *   [C#](#c-2)
-*   [Shell](#shell)
 *   [AutoIt](#autoit)
 *   [CSS](#css)
 *   [Roff](#roff)
@@ -116,8 +116,6 @@
 *   [rsasaki0109/lidar\_undistortion](https://github.com/rsasaki0109/lidar_undistortion) - A header-only program of 3d rotary lidar undistortion using 9-axis imu
 
 *   [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
-
-*   [HKUSTGZ-IADC/cobra](https://github.com/HKUSTGZ-IADC/cobra) -
 
 *   [JokerJohn/LIO\_SAM\_6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS) - LIO\_SAM for 6-axis IMU and  GNSS.
 
@@ -2305,6 +2303,26 @@
 
 *   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 
+## Shell
+
+*   [gogojjh/cobra](https://github.com/gogojjh/cobra) - Open-source code for Paper: Real-Time Metric-Semantic Mapping for Autonomous Navigation in Outdoor Environments
+
+*   [hashcowuwu/dotfiles](https://github.com/hashcowuwu/dotfiles) -
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [PauloPortugal/manjaro-playbook](https://github.com/PauloPortugal/manjaro-playbook) - Manjaro/Arch Linux Ansible provision playbook
+
+*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
+
+*   [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms.
+
+*   [lxtGH/awesome-cheatsheets](https://github.com/lxtGH/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+
+*   [vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies) - A list of robotics companies using the Robot Operating System (ROS and ROS 2).
+
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+
 ## TypeScript
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
@@ -2440,24 +2458,6 @@
 *   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
 *   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
-
-## Shell
-
-*   [hashcowuwu/dotfiles](https://github.com/hashcowuwu/dotfiles) -
-
-*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-*   [PauloPortugal/manjaro-playbook](https://github.com/PauloPortugal/manjaro-playbook) - Manjaro/Arch Linux Ansible provision playbook
-
-*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
-
-*   [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms.
-
-*   [lxtGH/awesome-cheatsheets](https://github.com/lxtGH/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-
-*   [vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies) - A list of robotics companies using the Robot Operating System (ROS and ROS 2).
-
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 
 ## AutoIt
 
