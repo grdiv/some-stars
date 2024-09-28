@@ -35,6 +35,10 @@
 
 ## C++
 
+*   [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
+
+*   [mpkuse/gmm\_pointcloud\_align](https://github.com/mpkuse/gmm_pointcloud_align) - Gaussian Mixture Model
+
 *   [piluohong/hc\_lio](https://github.com/piluohong/hc_lio) - Repository for 3D localization and mapping of multi-agricultural scenes via a hierarchically-coupled LiDAR-Inertial Odometry
 
 *   [ctu-mrs/mas\_factor](https://github.com/ctu-mrs/mas_factor) - The Motor Angular Speed GTSAM factor.
@@ -1050,8 +1054,6 @@
 *   [martinruenz/maskfusion](https://github.com/martinruenz/maskfusion) - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects
 
 *   [Zhuagenborn/Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) - 🧟 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.
-
-*   [shichaoy/pop\_up\_image](https://github.com/shichaoy/pop_up_image) - Real-time 3D Scene Layout from a Single Image Using Convolutional Neural Networks
 
 ## Jupyter Notebook
 
@@ -2224,8 +2226,6 @@
 *   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
 
 *   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-
-*   [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 
 ## Ruby
 
