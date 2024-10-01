@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
+
 *   [kuankuan-yue/VINS-FUSION-leanrning](https://github.com/kuankuan-yue/VINS-FUSION-leanrning) - VINS-FUSION中文注释版.目前网络上对于VINS-mono的代码已经有很多讲解和注释了，但是对于VINS-FUSION（以下简称VF）的注释还是很少的，刚好本人最近也正在学习VIO的相关知识，所以对VF按照程序执行顺序进行了十分详细的注释，同时为了和大家进行交流学习，所以把相关注释代码进行开源。因水平有限，错误肯定不少，还请各位大佬们指正。
 
 *   [smilefacehh/VINS-Fusion-DetailedNote](https://github.com/smilefacehh/VINS-Fusion-DetailedNote) - VINS-Fusion源码详细注释，单双目、IMU、GPS
@@ -1069,6 +1071,8 @@
 
 ## Python
 
+*   [ychen921/Stereo\_VIO](https://github.com/ychen921/Stereo_VIO) - Implement visual inertial odometry from scratch
+
 *   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM contains a Visual Odometry (VO) pipeline in Python for monocular, stereo and RGBD cameras. It supports many modern local features based on Deep Learning.
 
 *   [rlabbe/filterpy](https://github.com/rlabbe/filterpy) - Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothers, and more. Has companion book 'Kalman and Bayesian Filters in Python'.
@@ -1697,9 +1701,9 @@
 
 *   [qcymkxyc/Image-Process](https://github.com/qcymkxyc/Image-Process) - 冈萨雷斯《数字图像处理》Python实现(第三版)
 
-*   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-
 ## miscellaneous
+
+*   [mahmood-ul-hasan/slam-related-resources](https://github.com/mahmood-ul-hasan/slam-related-resources) - A collection of SLAM, odometry methods, and related resources frequently referenced in robotics and ROS research. This repository includes various algorithms, tools, and datasets for 2D/3D LiDAR, visual-inertial odometry, and feature-based SLAM implementations, with a focus on ROS and ROS2 compatibility.
 
 *   [ShiqinHuo/Numerical-Optimization-Books](https://github.com/ShiqinHuo/Numerical-Optimization-Books) - Collected study materials in Numerical Optimization ANU@MATH3514(HPC)
 
@@ -2011,8 +2015,6 @@
 
 *   [cpejlgc/li\_hang](https://github.com/cpejlgc/li_hang) - 李航统计学习方法 PPT
 
-*   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
-
 ## C
 
 *   [konrad-gajdus/miniMNIST-c](https://github.com/konrad-gajdus/miniMNIST-c) -
@@ -2050,8 +2052,6 @@
 *   [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 
 *   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-
-*   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
 ## Jupyter Notebook
 
