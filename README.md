@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [imageworks/pystring](https://github.com/imageworks/pystring) - C++ functions matching the interface and behavior of python string methods with std::string
+
 *   [wheelos/control](https://github.com/wheelos/control) -
 
 *   [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
@@ -1384,8 +1386,6 @@
 *   [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) - A curated list of SLAM resources
 
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-*   [cpejlgc/li\_hang](https://github.com/cpejlgc/li_hang) - 李航统计学习方法 PPT
 
 ## C
 
