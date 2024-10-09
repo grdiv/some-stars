@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [kthohr/optim](https://github.com/kthohr/optim) - OptimLib: a lightweight C++ library of numerical optimization methods for nonlinear functions
+
 *   [crvs/KDTree](https://github.com/crvs/KDTree) - Simple C++ KD-Tree implementation
 
 *   [BIT-TYJ/HORCL](https://github.com/BIT-TYJ/HORCL) - \[2023 IROS] HORCL : Robust Multi-robot Collaborative Localization in High Outlier ratio Scenes
@@ -1076,8 +1078,6 @@
 *   [gxytcrc/semantic-histogram-based-global-localization](https://github.com/gxytcrc/semantic-histogram-based-global-localization) - Semantic graph based global localization for multi-robot map fusion.
 
 *   [GSORF/Visual-GPS-SLAM](https://github.com/GSORF/Visual-GPS-SLAM) - This is a repo for my master thesis research about the Fusion of Visual SLAM and GPS. It contains the research paper, code and other interesting data.
-
-*   [martinruenz/maskfusion](https://github.com/martinruenz/maskfusion) - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects
 
 ## Python
 
