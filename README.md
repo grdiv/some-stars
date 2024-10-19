@@ -1,6 +1,7 @@
 ## Table of Contents
 
 *   [C++](#c)
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
@@ -12,7 +13,6 @@
 *   [TeX](#tex)
 *   [CMake](#cmake)
 *   [Lua](#lua)
-*   [JavaScript](#javascript)
 *   [Ruby](#ruby)
 *   [HTML](#html)
 *   [Shell](#shell)
@@ -35,6 +35,10 @@
 *   [Vim Script](#vim-script)
 
 ## C++
+
+*   [zhh2005757/FAST-LIO-Multi-Sensor-Fusion](https://github.com/zhh2005757/FAST-LIO-Multi-Sensor-Fusion) - Fusing GNSS and wheel measurements based on FAST-LIO and IKFOM
+
+*   [yutongwangBIT/VOOM](https://github.com/yutongwangBIT/VOOM) -
 
 *   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
 
@@ -1139,6 +1143,52 @@
 *   [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
 
 *   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+## JavaScript
+
+*   [SeanSun6814/rosbag-utils](https://github.com/SeanSun6814/rosbag-utils) -
+
+*   [0xffff-one/0xffff-wiki](https://github.com/0xffff-one/0xffff-wiki) - 📖 0xFFFF CS Wiki 独立站点（施工中...）
+
+*   [gotohiroki/ha-labo-2d](https://github.com/gotohiroki/ha-labo-2d) -
+
+*   [keesiemeijer/maze-generator](https://github.com/keesiemeijer/maze-generator) - Create mazes using the recursive backtracking algorithm.
+
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+
+*   [luchenqun/my-bookmark](https://github.com/luchenqun/my-bookmark) - 在线书签管理工具
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
+*   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
+
+*   [kevtan/lane-labeling](https://github.com/kevtan/lane-labeling) - A semi-automatic lane marking labeling tool to increase the speed and efficiency of training data annotation at PlusAI.
+
+*   [eatenupme/cnblogs-theme-blogure](https://github.com/eatenupme/cnblogs-theme-blogure) - blogure - 又一个博客园的主题
+
+*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+*   [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labeling tool for bitmap images and point clouds
+
+*   [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
+
+*   [TooAngel/screeps](https://github.com/TooAngel/screeps) - TooAngel NPC / bot / source code for screeps
+
+*   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
+
+*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
+
+*   [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
+
+*   [jobtalle/Koi](https://github.com/jobtalle/Koi) - Koi Farm, a koi breeding game
+
+*   [poloclub/cnn-explainer](https://github.com/poloclub/cnn-explainer) - Learning Convolutional Neural Networks with Interactive Visualization.
+
+*   [ipython-contrib/jupyter\_contrib\_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 
 ## Python
 
@@ -2352,8 +2402,6 @@
 
 *   [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 
-*   [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
-
 ## Matlab
 
 *   [avisingh599/vo-howard08](https://github.com/avisingh599/vo-howard08) - \[Reimplementation Howard 2008] A MATLAB implementation of Visual Odometry using Andrew Howard's 2008 paper.
@@ -2400,8 +2448,6 @@
 
 *   [SLAM-future/slam-future](https://github.com/SLAM-future/slam-future) -
 
-*   [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
-
 ## CMake
 
 *   [rpavlik/cmake-modules](https://github.com/rpavlik/cmake-modules) - My collection of CMake modules
@@ -2429,50 +2475,6 @@
 *   [hardhackerlabs/oh-my-nvim](https://github.com/hardhackerlabs/oh-my-nvim) - A theme-driven, out-of-the-box modern configuration of neovim (HardHackerNvim)💎
 
 *   [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
-
-## JavaScript
-
-*   [0xffff-one/0xffff-wiki](https://github.com/0xffff-one/0xffff-wiki) - 📖 0xFFFF CS Wiki 独立站点（施工中...）
-
-*   [gotohiroki/ha-labo-2d](https://github.com/gotohiroki/ha-labo-2d) -
-
-*   [keesiemeijer/maze-generator](https://github.com/keesiemeijer/maze-generator) - Create mazes using the recursive backtracking algorithm.
-
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
-
-*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
-
-*   [luchenqun/my-bookmark](https://github.com/luchenqun/my-bookmark) - 在线书签管理工具
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
-*   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
-
-*   [kevtan/lane-labeling](https://github.com/kevtan/lane-labeling) - A semi-automatic lane marking labeling tool to increase the speed and efficiency of training data annotation at PlusAI.
-
-*   [eatenupme/cnblogs-theme-blogure](https://github.com/eatenupme/cnblogs-theme-blogure) - blogure - 又一个博客园的主题
-
-*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
-*   [Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - Web labeling tool for bitmap images and point clouds
-
-*   [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
-
-*   [TooAngel/screeps](https://github.com/TooAngel/screeps) - TooAngel NPC / bot / source code for screeps
-
-*   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
-
-*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-
-*   [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
-
-*   [jobtalle/Koi](https://github.com/jobtalle/Koi) - Koi Farm, a koi breeding game
-
-*   [poloclub/cnn-explainer](https://github.com/poloclub/cnn-explainer) - Learning Convolutional Neural Networks with Interactive Visualization.
-
-*   [ipython-contrib/jupyter\_contrib\_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 
 ## Ruby
 
@@ -2607,8 +2609,6 @@
 *   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 *   [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
-
-*   [guolindev/booksource](https://github.com/guolindev/booksource) - 《第一行代码 第2版》全书源代码
 
 ## Rust
 
