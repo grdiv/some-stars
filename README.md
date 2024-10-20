@@ -1,5 +1,6 @@
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -16,7 +17,6 @@
 *   [Ruby](#ruby)
 *   [HTML](#html)
 *   [Shell](#shell)
-*   [TypeScript](#typescript)
 *   [MATLAB](#matlab-1)
 *   [Java](#java)
 *   [Rust](#rust)
@@ -34,7 +34,41 @@
 *   [AngelScript](#angelscript)
 *   [Vim Script](#vim-script)
 
+## TypeScript
+
+*   [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & thoughts with GitHub
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+
+*   [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
+
+*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+
+*   [RealKai42/qwerty-learner-vscode](https://github.com/RealKai42/qwerty-learner-vscode) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 VSCode 摸🐟版 / Words learning and English muscle memory training software designed for keyboard workers for VSCode
+
+*   [IronKinoko/agefans-enhance](https://github.com/IronKinoko/agefans-enhance) - 增强 agefans 等网站播放功能，实现自动换集、画中画、历史记录、断点续播、弹幕等功能
+
+*   [dearDreamWeb/long-road](https://github.com/dearDreamWeb/long-road) - 游戏名：《漫长之路》，是个迷宫探险闯关类游戏。
+
+*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
+
+*   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+
+*   [meetqy/rao-pics](https://github.com/meetqy/rao-pics) - :electron: 帮助你远程访问 Eagle 的素材库。
+
+*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
+
+*   [98sean98/imu-mapping-online](https://github.com/98sean98/imu-mapping-online) - Maps IMU data into plots of 2D, elevation, and 3D maps.
+
+*   [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。
+
 ## C++
+
+*   [GREAT-WHU/RoadLib](https://github.com/GREAT-WHU/RoadLib) - A lightweight library for instance-level visual road marking extraction, parameterization, mapping, etc.
 
 *   [zhh2005757/FAST-LIO-Multi-Sensor-Fusion](https://github.com/zhh2005757/FAST-LIO-Multi-Sensor-Fusion) - Fusing GNSS and wheel measurements based on FAST-LIO and IKFOM
 
@@ -2212,8 +2246,6 @@
 
 *   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-
 ## Vue
 
 *   [dynilath/modern-cpp-primer](https://github.com/dynilath/modern-cpp-primer) - An introductory tutorial to modern CPP
@@ -2506,8 +2538,6 @@
 
 *   [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 
-*   [weizy1981/deeplearning](https://github.com/weizy1981/deeplearning) -
-
 ## Shell
 
 *   [gogojjh/cobra](https://github.com/gogojjh/cobra) - Open-source code for Paper: Real-Time Metric-Semantic Mapping for Autonomous Navigation in Outdoor Environments
@@ -2527,36 +2557,6 @@
 *   [vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies) - A list of robotics companies using the Robot Operating System (ROS and ROS 2).
 
 *   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-
-## TypeScript
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-
-*   [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
-
-*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-
-*   [RealKai42/qwerty-learner-vscode](https://github.com/RealKai42/qwerty-learner-vscode) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 VSCode 摸🐟版 / Words learning and English muscle memory training software designed for keyboard workers for VSCode
-
-*   [IronKinoko/agefans-enhance](https://github.com/IronKinoko/agefans-enhance) - 增强 agefans 等网站播放功能，实现自动换集、画中画、历史记录、断点续播、弹幕等功能
-
-*   [dearDreamWeb/long-road](https://github.com/dearDreamWeb/long-road) - 游戏名：《漫长之路》，是个迷宫探险闯关类游戏。
-
-*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
-
-*   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
-
-*   [meetqy/rao-pics](https://github.com/meetqy/rao-pics) - :electron: 帮助你远程访问 Eagle 的素材库。
-
-*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
-
-*   [98sean98/imu-mapping-online](https://github.com/98sean98/imu-mapping-online) - Maps IMU data into plots of 2D, elevation, and 3D maps.
-
-*   [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。
 
 ## MATLAB
 
