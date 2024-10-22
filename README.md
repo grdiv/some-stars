@@ -170,6 +170,8 @@
 
 *   [luohongk/SuperPoint\_FBOW](https://github.com/luohongk/SuperPoint_FBOW) - 本项目是通过深度学习特征提取SuerPoint与fbow来训练一个基于深度学习的词袋。可以用自己的图片来训练，也可以改用其他的深度学习方法
 
+*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A robust real-time visual-inertial SLAM framework for challenging imaging conditions (integrated deep learning features)
+
 *   [eowjd0512/fisheye-calib-adapter](https://github.com/eowjd0512/fisheye-calib-adapter) - Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion
 
 *   [hkbl1988/mutisensorfusion](https://github.com/hkbl1988/mutisensorfusion) - 多传感器融合定位模块,可融合IMU/GNSS/ODOM/LIDAR等传感器数据完成高精度定位,输出位置、速度、姿态等导航结果
@@ -1916,8 +1918,6 @@
 
 *   [wheelos/whl-LIO-SAM](https://github.com/wheelos/whl-LIO-SAM) -
 
-*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A visual-inertial SLAM framework integrated deep learning features
-
 *   [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
 
 *   [sjtuyinjie/awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam) - A curated list of resources relevant to wheel-based SLAM
@@ -1934,7 +1934,7 @@
 
 *   [Es1erda/MFCalib](https://github.com/Es1erda/MFCalib) - Automatic Extrinsic Calibration for LiDAR and Camera in Targetless Environments Based on Multi-Feature Edge in One-shot
 
-*   [XuRobotics/slide-slam](https://github.com/XuRobotics/slide-slam) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation
+*   [XuRobotics/SLIDE\_SLAM](https://github.com/XuRobotics/SLIDE_SLAM) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation
 
 *   [dhchung/nv\_liom](https://github.com/dhchung/nv_liom) - LiDAR-Inertial Odometry and Mapping using Normal Vectors Towards Robust SLAM in Multifloor Environments
 
