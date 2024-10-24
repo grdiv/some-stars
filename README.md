@@ -74,7 +74,7 @@
 
 *   [yutongwangBIT/VOOM](https://github.com/yutongwangBIT/VOOM) -
 
-*   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
+*   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025 Submitted) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
 
 *   [nicolov/simple\_slam\_loop\_closure](https://github.com/nicolov/simple_slam_loop_closure) - Simple loop closure for Visual SLAM
 
@@ -166,10 +166,6 @@
 
 *   [Kin-Zhang/simple\_ndt\_slam](https://github.com/Kin-Zhang/simple_ndt_slam) - simple ndt slam, quick deploy on mobile robot, support mapping and localization (origin from autoware.ai); 简易slam包 快速部署使用
 
-*   [luohongk/VINS-FusionCommentByLuo](https://github.com/luohongk/VINS-FusionCommentByLuo) - 这个是仓库由罗宏昆同学注释的VINS-Fusion
-
-*   [luohongk/SuperPoint\_FBOW](https://github.com/luohongk/SuperPoint_FBOW) - 本项目是通过深度学习特征提取SuerPoint与fbow来训练一个基于深度学习的词袋。可以用自己的图片来训练，也可以改用其他的深度学习方法
-
 *   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - A robust real-time visual-inertial SLAM framework for challenging imaging conditions (integrated deep learning features)
 
 *   [eowjd0512/fisheye-calib-adapter](https://github.com/eowjd0512/fisheye-calib-adapter) - Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion
@@ -223,6 +219,8 @@
 *   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
 
 *   [AISLAB-sustech/Calibration\_of\_Multi\_Mic\_Arrays](https://github.com/AISLAB-sustech/Calibration_of_Multi_Mic_Arrays) - Multiple microphone arrays calibration
+
+*   [dhchung/nv\_liom](https://github.com/dhchung/nv_liom) - LiDAR-Inertial Odometry and Mapping using Normal Vectors Towards Robust SLAM in Multifloor Environments
 
 *   [STAR-Center/Reflection\_detection](https://github.com/STAR-Center/Reflection_detection) -
 
@@ -1936,8 +1934,6 @@
 
 *   [XuRobotics/SLIDE\_SLAM](https://github.com/XuRobotics/SLIDE_SLAM) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation
 
-*   [dhchung/nv\_liom](https://github.com/dhchung/nv_liom) - LiDAR-Inertial Odometry and Mapping using Normal Vectors Towards Robust SLAM in Multifloor Environments
-
 *   [yuancaimaiyi/semantic-gaussians](https://github.com/yuancaimaiyi/semantic-gaussians) - Official implemetation of the paper "Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting".
 
 *   [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
@@ -2246,6 +2242,8 @@
 
 *   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 
+*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+
 ## Vue
 
 *   [dynilath/modern-cpp-primer](https://github.com/dynilath/modern-cpp-primer) - An introductory tutorial to modern CPP
@@ -2537,6 +2535,8 @@
 *   [fengdu78/deeplearning\_ai\_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 
 *   [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
+
+*   [weizy1981/deeplearning](https://github.com/weizy1981/deeplearning) -
 
 ## Shell
 
