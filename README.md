@@ -1208,7 +1208,7 @@
 
 *   [weiningwei/arxiv-daily](https://github.com/weiningwei/arxiv-daily) -
 
-*   [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
+*   [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - \[NeurIPS 2024] Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 
 *   [TongjiZhaohb/StereoCalibrator](https://github.com/TongjiZhaohb/StereoCalibrator) -
 
