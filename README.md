@@ -36,6 +36,8 @@
 
 ## C++
 
+*   [gongjun136/BALM\_noted](https://github.com/gongjun136/BALM_noted) -
+
 *   [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
 
 *   [HKUST-Aerial-Robotics/RIO](https://github.com/HKUST-Aerial-Robotics/RIO) - Optimization Based and Point Uncertainty Aware Radar-inertial Odometry for 4D Radar System
@@ -2165,8 +2167,6 @@
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 *   [qxiaofan/awesome\_3d\_slam\_resources](https://github.com/qxiaofan/awesome_3d_slam_resources) - 记录3D视觉、VSLAM、计算机视觉的干货资料。
-
-*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 
 ## Jupyter Notebook
 
