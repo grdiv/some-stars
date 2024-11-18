@@ -36,6 +36,10 @@
 
 ## C++
 
+*   [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM) - A computationally efficient and convenient toolkit of iterated Kalman filter.
+
+*   [violetDelia/My\_Vector](https://github.com/violetDelia/My_Vector) -
+
 *   [gongjun136/BALM\_noted](https://github.com/gongjun136/BALM_noted) -
 
 *   [ashishkumar822/Jetson-SLAM](https://github.com/ashishkumar822/Jetson-SLAM) - A high Speed GPU accelerated SLAM for Low Powered Devices, IEEE- RAL-2023, ICRA 2024
@@ -144,7 +148,7 @@
 
 *   [mpkuse/cerebro](https://github.com/mpkuse/cerebro) - Intelligent place recognition module for vins-fusion
 
-*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025 submittion)
+*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025 submittion) + real-world application (MD-LVIO)
 
 *   [JinXiangLai/Octree-Map](https://github.com/JinXiangLai/Octree-Map) - 手写一个支持快速查询，支持任意动态扩展的八叉树地图
 
@@ -1156,8 +1160,6 @@
 
 *   [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 
-*   [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-
 ## Python
 
 *   [ChiWeiHsiao/DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) - PyTorch Implementation of DeepVO
@@ -1823,8 +1825,6 @@
 *   [Cartucho/mAP](https://github.com/Cartucho/mAP) - mean Average Precision - This code evaluates the performance of your neural net for object recognition.
 
 *   [geniki/neural-processes](https://github.com/geniki/neural-processes) - PyTorch implementation of Neural Processes
-
-*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
 ## Dockerfile
 
