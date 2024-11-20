@@ -98,7 +98,7 @@
 
 *   [imageworks/pystring](https://github.com/imageworks/pystring) - C++ functions matching the interface and behavior of python string methods with std::string
 
-*   [wheelos/control](https://github.com/wheelos/control) -
+*   [wheelos-pnc/control](https://github.com/wheelos-pnc/control) -
 
 *   [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
 
@@ -1108,7 +1108,7 @@
 
 *   [daohu527/OpenHDMap](https://github.com/daohu527/OpenHDMap) - An open HD map production process for autonomous car simulation
 
-*   [wheelos/OpenHDMap](https://github.com/wheelos/OpenHDMap) - An open HD map production process for autonomous car simulation
+*   [wheelos-localization/OpenHDMap](https://github.com/wheelos-localization/OpenHDMap) - An open HD map production process for autonomous car simulation
 
 *   [fzi-forschungszentrum-informatik/Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 
@@ -1174,7 +1174,7 @@
 
 *   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
 
-*   [wheelos/lidar-detection](https://github.com/wheelos/lidar-detection) -
+*   [wheelos-perception/lidar-detection](https://github.com/wheelos-perception/lidar-detection) -
 
 *   [mahmood-ul-hasan/slam-related-resources](https://github.com/mahmood-ul-hasan/slam-related-resources) - A collection of SLAM, odometry methods, and related resources frequently referenced in robotics and ROS research. This repository includes various algorithms, tools, and datasets for 2D/3D LiDAR, visual-inertial odometry, and feature-based SLAM implementations, with a focus on ROS and ROS2 compatibility.
 
@@ -1182,7 +1182,7 @@
 
 *   [MIXIAOXIN/LaneMapping](https://github.com/MIXIAOXIN/LaneMapping) -
 
-*   [wheelos/whl-LIO-SAM](https://github.com/wheelos/whl-LIO-SAM) -
+*   [wheelos-localization/whl-LIO-SAM](https://github.com/wheelos-localization/whl-LIO-SAM) -
 
 *   [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
 
