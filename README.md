@@ -666,7 +666,7 @@
 
 *   [abenbihi/wasabi](https://github.com/abenbihi/wasabi) - Experimental code for the ICRA20 paper: Image-Based Place Recognition on Bucolic Environment Across Seasons From Semantic Edge Description
 
-*   [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) - 🎓Automatically Update CV Papers Daily using Github Actions (Update Every 12th hours)
+*   [Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily) - 🎓Automatically Update CV Papers Daily using Github Actions (Update Every 2days)
 
 *   [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 
