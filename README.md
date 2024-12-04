@@ -35,6 +35,8 @@
 
 ## Python
 
+*   [ai4ce/MSG](https://github.com/ai4ce/MSG) - \[NeurIPS2024] Multiview Scene Graph (topologically representing a scene from unposed images by interconnected place and object nodes)
+
 *   [1837669410/ownflow](https://github.com/1837669410/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
 
 *   [ranahanocka/point2mesh](https://github.com/ranahanocka/point2mesh) - Reconstruct Watertight Meshes from Point Clouds \[SIGGRAPH 2020]
@@ -1549,7 +1551,7 @@
 
 *   [xiaoqiuslam/xiaoqiuslam](https://github.com/xiaoqiuslam/xiaoqiuslam) - 零基础从零开始学习SLAM
 
-*   [vyanev1/3D-point-cloud-mapping](https://github.com/vyanev1/3D-point-cloud-mapping) - Uses an artificially created calibration object to estimate the transformation matrix (translation & rotation) and construct a 3D Point Cloud map from a limited number of views captured from a Xbox Kinect V1 LiDAR camera
+*   [victor-yanev/3D-point-cloud-mapping](https://github.com/victor-yanev/3D-point-cloud-mapping) - Uses an artificially created calibration object to estimate the transformation matrix (translation & rotation) and construct a 3D Point Cloud map from a limited number of views captured from a Xbox Kinect V1 LiDAR camera
 
 *   [hku-mars/LiDAR\_IMU\_Init](https://github.com/hku-mars/LiDAR_IMU_Init) - \[IROS2022] Robust Real-time LiDAR-inertial Initialization Method.
 
@@ -2160,8 +2162,6 @@
 *   [electech6/ORB\_SLAM3\_detailed\_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) - Detailed comments for ORB-SLAM3
 
 *   [electech6/ORB\_SLAM2\_detailed\_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
-
-*   [raulmur/ORB\_SLAM](https://github.com/raulmur/ORB_SLAM) - A Versatile and Accurate Monocular SLAM
 
 ## TypeScript
 
