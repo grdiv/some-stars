@@ -35,6 +35,8 @@
 
 ## Python
 
+*   [wangyizhao/PRIOR-SLAM](https://github.com/wangyizhao/PRIOR-SLAM) - PRIOR-SLAM: Enabling Visual SLAM for Loop Closure under Large Viewpoint Variations
+
 *   [ai4ce/MSG](https://github.com/ai4ce/MSG) - \[NeurIPS2024] Multiview Scene Graph (topologically representing a scene from unposed images by interconnected place and object nodes)
 
 *   [1837669410/ownflow](https://github.com/1837669410/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
@@ -2160,8 +2162,6 @@
 *   [karlkurzer/path\_planner](https://github.com/karlkurzer/path_planner) - Hybrid A\* Path Planner for the KTH Research Concept Vehicle
 
 *   [electech6/ORB\_SLAM3\_detailed\_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) - Detailed comments for ORB-SLAM3
-
-*   [electech6/ORB\_SLAM2\_detailed\_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
 
 ## TypeScript
 
