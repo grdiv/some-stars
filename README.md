@@ -61,7 +61,7 @@
 
 *   [ychen921/Stereo\_VIO](https://github.com/ychen921/Stereo_VIO) - Implement visual inertial odometry from scratch
 
-*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a Visual SLAM pipeline in Python for monocular, stereo and RGBD cameras. It supports many modern local and global features based on Deep Learning.
+*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a visual SLAM pipeline in Python for monocular, stereo and RGBD cameras. It supports many modern local and global features based on Deep Learning, different loop-closing methods, and a volumetric reconstruction pipeline for RGBD cameras.
 
 *   [rlabbe/filterpy](https://github.com/rlabbe/filterpy) - Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothers, and more. Has companion book 'Kalman and Bayesian Filters in Python'.
 
