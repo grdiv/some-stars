@@ -1,5 +1,6 @@
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -19,7 +20,6 @@
 *   [CMake](#cmake)
 *   [Lua](#lua)
 *   [Ruby](#ruby)
-*   [Shell](#shell)
 *   [MATLAB](#matlab-1)
 *   [Java](#java)
 *   [Rust](#rust)
@@ -32,6 +32,28 @@
 *   [SCSS](#scss)
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
+
+## Shell
+
+*   [harry-cpp/code-nautilus](https://github.com/harry-cpp/code-nautilus) - VSCode extension for Nautilus
+
+*   [gogojjh/cobra](https://github.com/gogojjh/cobra) - Open-source code for Paper: Real-Time Metric-Semantic Mapping for Autonomous Navigation in Outdoor Environments
+
+*   [hashcowuwu/dotfiles](https://github.com/hashcowuwu/dotfiles) -
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [PauloPortugal/manjaro-playbook](https://github.com/PauloPortugal/manjaro-playbook) - Manjaro/Arch Linux Ansible provision playbook
+
+*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
+
+*   [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms.
+
+*   [lxtGH/awesome-cheatsheets](https://github.com/lxtGH/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+
+*   [vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies) - A list of robotics companies using the Robot Operating System (ROS and ROS 2).
+
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 
 ## C++
 
@@ -1154,8 +1176,6 @@
 *   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
 
 *   [ndrwk/detection](https://github.com/ndrwk/detection) - Motion analysis and object tracking
-
-*   [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL) - 剖析 STL 是一种享受的过程！
 
 ## miscellaneous
 
@@ -2564,26 +2584,6 @@
 ## Ruby
 
 *   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
-## Shell
-
-*   [gogojjh/cobra](https://github.com/gogojjh/cobra) - Open-source code for Paper: Real-Time Metric-Semantic Mapping for Autonomous Navigation in Outdoor Environments
-
-*   [hashcowuwu/dotfiles](https://github.com/hashcowuwu/dotfiles) -
-
-*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-*   [PauloPortugal/manjaro-playbook](https://github.com/PauloPortugal/manjaro-playbook) - Manjaro/Arch Linux Ansible provision playbook
-
-*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
-
-*   [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms.
-
-*   [lxtGH/awesome-cheatsheets](https://github.com/lxtGH/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-
-*   [vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies) - A list of robotics companies using the Robot Operating System (ROS and ROS 2).
-
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 
 ## MATLAB
 
