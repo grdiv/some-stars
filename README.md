@@ -1,7 +1,7 @@
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [C++](#c)
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -33,29 +33,15 @@
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
 
-## Shell
-
-*   [harry-cpp/code-nautilus](https://github.com/harry-cpp/code-nautilus) - VSCode extension for Nautilus
-
-*   [gogojjh/cobra](https://github.com/gogojjh/cobra) - Open-source code for Paper: Real-Time Metric-Semantic Mapping for Autonomous Navigation in Outdoor Environments
-
-*   [hashcowuwu/dotfiles](https://github.com/hashcowuwu/dotfiles) -
-
-*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-*   [PauloPortugal/manjaro-playbook](https://github.com/PauloPortugal/manjaro-playbook) - Manjaro/Arch Linux Ansible provision playbook
-
-*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
-
-*   [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms.
-
-*   [lxtGH/awesome-cheatsheets](https://github.com/lxtGH/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-
-*   [vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies) - A list of robotics companies using the Robot Operating System (ROS and ROS 2).
-
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-
 ## C++
+
+*   [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
+
+*   [boost-ext/sml](https://github.com/boost-ext/sml) - C++14 State Machine library
+
+*   [HowardHinnant/date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 \<chrono> header
+
+*   [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
 
 *   [plusk01/pointcloud-plane-segmentation](https://github.com/plusk01/pointcloud-plane-segmentation) -
 
@@ -1175,7 +1161,27 @@
 
 *   [Ewenwan/ORB\_SLAM2\_SSD\_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic) - 动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库
 
-*   [ndrwk/detection](https://github.com/ndrwk/detection) - Motion analysis and object tracking
+## Shell
+
+*   [harry-cpp/code-nautilus](https://github.com/harry-cpp/code-nautilus) - VSCode extension for Nautilus
+
+*   [gogojjh/cobra](https://github.com/gogojjh/cobra) - Open-source code for Paper: Real-Time Metric-Semantic Mapping for Autonomous Navigation in Outdoor Environments
+
+*   [hashcowuwu/dotfiles](https://github.com/hashcowuwu/dotfiles) -
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [PauloPortugal/manjaro-playbook](https://github.com/PauloPortugal/manjaro-playbook) - Manjaro/Arch Linux Ansible provision playbook
+
+*   [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
+
+*   [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms.
+
+*   [lxtGH/awesome-cheatsheets](https://github.com/lxtGH/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+
+*   [vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies) - A list of robotics companies using the Robot Operating System (ROS and ROS 2).
+
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 
 ## miscellaneous
 
@@ -2255,8 +2261,6 @@
 
 *   [michille78/program\_xyz](https://github.com/michille78/program_xyz) - program of 2015
 
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
 ## TeX
 
 *   [xiaoweiChen/Modern-CXX-Programming-Cookbook](https://github.com/xiaoweiChen/Modern-CXX-Programming-Cookbook) - 《Modern C++ Programming Cookbook - 3rd Edition》的非专业个人翻译
@@ -2397,8 +2401,6 @@
 
 *   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 
-*   [glouppe/info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning) - Lectures for INFO8010 Deep Learning, ULiège
-
 ## Dockerfile
 
 *   [eryajf/docker\_learn](https://github.com/eryajf/docker_learn) - 学习docker过程中所用到的一些东东
@@ -2456,8 +2458,6 @@
 *   [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 
 *   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
-
-*   [tikroeger/OF\_DIS](https://github.com/tikroeger/OF_DIS) - Fast Optical Flow using Dense Inverse Search (DIS)
 
 ## JavaScript
 
