@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [aau-cns/equivariant-preintegration](https://github.com/aau-cns/equivariant-preintegration) - A C++ header-only Eigen-based Library for equivariant Inertial Measurement Unit (IMU) preintegration
+
 *   [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
 
 *   [boost-ext/sml](https://github.com/boost-ext/sml) - C++14 State Machine library
@@ -1217,7 +1219,7 @@
 
 *   [sjtuyinjie/awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam) - A curated list of resources relevant to wheel-based SLAM
 
-*   [DoongLi/awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
+*   [DoongLi/awesome-NeRF-and-3DGS-SLAM](https://github.com/DoongLi/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 
 *   [Grandzxw/awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system) - Recent multi-robot projects and papers: Including SLAM, place recognition, Large Language Models navigation. (continually updated)
 
@@ -2190,8 +2192,6 @@
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 *   [huchunxu/ros\_exploring](https://github.com/huchunxu/ros_exploring) - 《ROS机器人开发实践》源码
-
-*   [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green\_book: The Beauty of Python Programming.
 
 ## TypeScript
 
