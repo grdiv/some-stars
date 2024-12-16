@@ -2235,7 +2235,7 @@
 
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
-*   [wanghaisheng/arxiv-paper-daily-page-template](https://github.com/wanghaisheng/arxiv-paper-daily-page-template) -
+*   [wanghaisheng/a-paper-daily-page-template](https://github.com/wanghaisheng/a-paper-daily-page-template) -
 
 ## HTML
 
