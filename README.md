@@ -1,6 +1,7 @@
 ## Table of Contents
 
-*   [C++](#c)
+*   [C](#c)
+*   [C++](#c-1)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -10,8 +11,7 @@
 *   [TeX](#tex)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dockerfile](#dockerfile)
-*   [C#](#c-1)
-*   [C](#c-2)
+*   [C#](#c-2)
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [Vue](#vue)
@@ -32,6 +32,50 @@
 *   [SCSS](#scss)
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
+
+## C
+
+*   [oldlinux-web/oldlinux-files](https://github.com/oldlinux-web/oldlinux-files) -
+
+*   [XikunLiu-huskit/GLIO](https://github.com/XikunLiu-huskit/GLIO) - GLIO: Tightly-Coupled GNSS/LiDAR/IMU Integration for Continuous and Drift-free State Estimation
+
+*   [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
+
+*   [konrad-gajdus/miniMNIST-c](https://github.com/konrad-gajdus/miniMNIST-c) -
+
+*   [MiKTeX/miktex](https://github.com/MiKTeX/miktex) - the MiKTeX source code
+
+*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
+
+*   [znsoooo/qr-desktop](https://github.com/znsoooo/qr-desktop) - QR Desktop
+
+*   [litbubo/Streaming\_media\_broadcasting\_system\_based\_on\_IPv4](https://github.com/litbubo/Streaming_media_broadcasting_system_based_on_IPv4) - 基于IPv4的流媒体广播系统Plus，在原版的基础上进行升级和bug修复等。采用C语言编写，使用高级Unix编程技术。The streaming media broadcasting system plus based on IPv4 is upgraded and bug repaired on the basis of the original version. It is written in C language and uses advanced unix programming technology.
+
+*   [Cheukyin/CodeSnippet](https://github.com/Cheukyin/CodeSnippet) - Funny and interesting codes developed in my spare time
+
+*   [gnilk/editor](https://github.com/gnilk/editor) - Text editor
+
+*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+
+*   [LiuFG/Camera-Lidar-Fusion-ROS](https://github.com/LiuFG/Camera-Lidar-Fusion-ROS) - fully applied in ROS. simply fuse the category and location information
+
+*   [dddExperiments/SFMToolkit](https://github.com/dddExperiments/SFMToolkit) - Structure from motion toolkit (BundlerFocalExtractor, BundlerMatcher, Bundler, CMVS, PMVS2)
+
+*   [mohamedadaly/caltech-lane-detection](https://github.com/mohamedadaly/caltech-lane-detection) - Caltech Lane Detection Software
+
+*   [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
+
+*   [Yangyuanxin/Linux\_APUE](https://github.com/Yangyuanxin/Linux_APUE) - 记录关于Linux应用编程的点点滴滴,编程相关例程及总结笔记
+
+*   [ailab-hanyang/image\_landmark\_spc\_matching\_localization](https://github.com/ailab-hanyang/image_landmark_spc_matching_localization) - semantic point cloud, localization, map matching, semantic point cloud map, image segmentation, image detection
+
+*   [iandouglas96/cross\_view\_slam](https://github.com/iandouglas96/cross_view_slam) -
+
+*   [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
+
+*   [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
+
+*   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
 ## C++
 
@@ -1525,8 +1569,6 @@
 
 *   [wanghuayou1028/ICRA2021-SLAM-paper-list](https://github.com/wanghuayou1028/ICRA2021-SLAM-paper-list) -
 
-*   [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
-
 ## Python
 
 *   [wangyizhao/PRIOR-SLAM](https://github.com/wangyizhao/PRIOR-SLAM) - PRIOR-SLAM: Enabling Visual SLAM for Loop Closure under Large Viewpoint Variations
@@ -2416,48 +2458,6 @@
 *   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 
 *   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
-
-## C
-
-*   [XikunLiu-huskit/GLIO](https://github.com/XikunLiu-huskit/GLIO) - GLIO: Tightly-Coupled GNSS/LiDAR/IMU Integration for Continuous and Drift-free State Estimation
-
-*   [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
-
-*   [konrad-gajdus/miniMNIST-c](https://github.com/konrad-gajdus/miniMNIST-c) -
-
-*   [MiKTeX/miktex](https://github.com/MiKTeX/miktex) - the MiKTeX source code
-
-*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
-
-*   [znsoooo/qr-desktop](https://github.com/znsoooo/qr-desktop) - QR Desktop
-
-*   [litbubo/Streaming\_media\_broadcasting\_system\_based\_on\_IPv4](https://github.com/litbubo/Streaming_media_broadcasting_system_based_on_IPv4) - 基于IPv4的流媒体广播系统Plus，在原版的基础上进行升级和bug修复等。采用C语言编写，使用高级Unix编程技术。The streaming media broadcasting system plus based on IPv4 is upgraded and bug repaired on the basis of the original version. It is written in C language and uses advanced unix programming technology.
-
-*   [Cheukyin/CodeSnippet](https://github.com/Cheukyin/CodeSnippet) - Funny and interesting codes developed in my spare time
-
-*   [gnilk/editor](https://github.com/gnilk/editor) - Text editor
-
-*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-
-*   [LiuFG/Camera-Lidar-Fusion-ROS](https://github.com/LiuFG/Camera-Lidar-Fusion-ROS) - fully applied in ROS. simply fuse the category and location information
-
-*   [dddExperiments/SFMToolkit](https://github.com/dddExperiments/SFMToolkit) - Structure from motion toolkit (BundlerFocalExtractor, BundlerMatcher, Bundler, CMVS, PMVS2)
-
-*   [mohamedadaly/caltech-lane-detection](https://github.com/mohamedadaly/caltech-lane-detection) - Caltech Lane Detection Software
-
-*   [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
-
-*   [Yangyuanxin/Linux\_APUE](https://github.com/Yangyuanxin/Linux_APUE) - 记录关于Linux应用编程的点点滴滴,编程相关例程及总结笔记
-
-*   [ailab-hanyang/image\_landmark\_spc\_matching\_localization](https://github.com/ailab-hanyang/image_landmark_spc_matching_localization) - semantic point cloud, localization, map matching, semantic point cloud map, image segmentation, image detection
-
-*   [iandouglas96/cross\_view\_slam](https://github.com/iandouglas96/cross_view_slam) -
-
-*   [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
-
-*   [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
-
-*   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
 ## JavaScript
 
