@@ -569,7 +569,7 @@
 
 *   [lian-yue0515/MM-LINS](https://github.com/lian-yue0515/MM-LINS) - a Multi-Map LiDAR-Inertial System for Over-Degraded Environments
 
-*   [XuRobotics/SLIDE\_SLAM](https://github.com/XuRobotics/SLIDE_SLAM) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation
+*   [KumarRobotics/SLIDE\_SLAM](https://github.com/KumarRobotics/SLIDE_SLAM) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation
 
 *   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
 
