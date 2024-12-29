@@ -39,7 +39,7 @@
 
 *   [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - \[ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 桌面助手：超级热键，AI 助手，通用输入法状态跟踪提示。
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 桌面助手：输入跟踪提示 + 超级热键 + 自定义 AI 助手，仅 800 KB
 
 *   [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 
