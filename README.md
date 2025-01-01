@@ -203,7 +203,7 @@
 
 *   [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
 
-*   [Vincentqyw/Recent-Stars-2024](https://github.com/Vincentqyw/Recent-Stars-2024) - 🔥SLAM, VIsual localization, keypoint detection, Image matching, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc. related papers and code
+*   [Vincentqyw/Recent-Stars-2025](https://github.com/Vincentqyw/Recent-Stars-2025) - 🔥SLAM, VIsual localization, keypoint detection, Image matching, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc. related papers and code
 
 *   [52CV/CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers) -
 
