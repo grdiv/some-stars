@@ -69,7 +69,7 @@
 
 *   [sjtuyinjie/awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam) - A curated list of resources relevant to wheel-based SLAM
 
-*   [DoongLi/awesome-NeRF-and-3DGS-SLAM](https://github.com/DoongLi/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
+*   [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites
 
 *   [Grandzxw/awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system) - Recent multi-robot projects and papers: Including SLAM, place recognition, Large Language Models navigation. (continually updated)
 
