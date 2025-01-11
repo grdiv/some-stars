@@ -441,7 +441,7 @@
 
 *   [pronenewbits/Arduino\_AHRS\_System](https://github.com/pronenewbits/Arduino_AHRS_System) - A compact realtime embedded Attitude and Heading Reference System (AHRS) using Recursive Least Squares (RLS) for magnetometer calibration and EKF/UKF for sensor fusion on Arduino platform
 
-*   [Unsigned-Long/iKalibr](https://github.com/Unsigned-Long/iKalibr) - iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems
+*   [Unsigned-Long/iKalibr](https://github.com/Unsigned-Long/iKalibr) - \[IEEE T-RO 2025] iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems
 
 *   [parallel101/stl1weekend](https://github.com/parallel101/stl1weekend) - Build your own STL in one weekend
 
@@ -1575,7 +1575,7 @@
 
 *   [ai4ce/MSG](https://github.com/ai4ce/MSG) - \[NeurIPS2024] Multiview Scene Graph (topologically representing a scene from unposed images by interconnected place and object nodes)
 
-*   [1837669410/ownflow](https://github.com/1837669410/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
+*   [LemonAttn/ownflow](https://github.com/LemonAttn/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
 
 *   [ranahanocka/point2mesh](https://github.com/ranahanocka/point2mesh) - Reconstruct Watertight Meshes from Point Clouds \[SIGGRAPH 2020]
 
