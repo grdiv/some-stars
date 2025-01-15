@@ -35,6 +35,10 @@
 
 ## C++
 
+*   [leilegelei1/GVIO](https://github.com/leilegelei1/GVIO) - Tightly Coupled GPS and VINS
+
+*   [Wallong/VINS-GPS-Wheel](https://github.com/Wallong/VINS-GPS-Wheel) -
+
 *   [hku-mars/btc\_descriptor](https://github.com/hku-mars/btc_descriptor) -
 
 *   [SlamCabbage/NDTMC](https://github.com/SlamCabbage/NDTMC) - \[IROS 2024] A 3D Global Descriptor For Loop Closure Detection. NDT-Map-Code.
@@ -641,7 +645,7 @@
 
 *   [kahowang/sensor-fusion-for-localization-and-mapping](https://github.com/kahowang/sensor-fusion-for-localization-and-mapping) - 深蓝学院 多传感器定位融合第四期 学习笔记
 
-*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
+*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 
 *   [cxxsucks/SearchEverywhere](https://github.com/cxxsucks/SearchEverywhere) - CLI/GUI file searcher combining find, locate and Everything, plus content searching. Works on Linux, Windows and macOS.This repo is for Qt-based GUI.
 
@@ -1175,7 +1179,7 @@
 
 *   [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - \[ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 桌面助手：输入跟踪提示 + 超级热键 + 自定义 AI 助手，仅 800 KB
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 800 KB，提供输入跟踪提示 + 超级热键，可将各种桌面应用快速接入 AI  大模型
 
 *   [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 
@@ -1504,8 +1508,6 @@
 *   [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
 
 *   [wuxiaolang/Visual\_SLAM\_Related\_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) - 视觉(语义) SLAM 相关研究跟踪
-
-*   [DroidAITech/ROS-Academy-for-Beginners-Book-Melodic](https://github.com/DroidAITech/ROS-Academy-for-Beginners-Book-Melodic) - 中国大学MOOC---《机器人操作系统入门》讲义，升级版本
 
 ## C
 
@@ -2570,8 +2572,6 @@
 *   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
 
 *   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
-
-*   [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) - 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
 
 ## Lua
 
