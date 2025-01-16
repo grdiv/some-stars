@@ -597,7 +597,7 @@
 
 *   [tier4/YabLoc](https://github.com/tier4/YabLoc) - Open source visual localization for self-driving vehicles
 
-*   [zhangxy0517/3D-Registration-with-Maximal-Cliques](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques) - Source code of CVPR 2023 paper
+*   [zhangxy0517/3D-Registration-with-Maximal-Cliques](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques) - \[CVPR 2023, BSP] 3D Registration with Maximal Cliques
 
 *   [rzou15/Object-detection-in-Point-Cloud-road-boundary](https://github.com/rzou15/Object-detection-in-Point-Cloud-road-boundary) - Object detection in Point Cloud is popular in HD Map and sensor-based autonomous driving. There  basically four types of object you can obtain in daily scenario: road surface - contains painted lane  marking and pavement area, support facility - contains road boundary (guardrail and curb), road  sign, light pole, etc., uncorrelated object - for example, sidewalk, building, etc., and moving object -  such like pedestrian, vehicle, bicycle, etc.  In this project, please search references, design and prototype your road  boundary (guardrail) detection algorithm.
 
@@ -1323,8 +1323,6 @@
 
 *   [JokerJohn/RoadMarkingExtraction](https://github.com/JokerJohn/RoadMarkingExtraction) - A C++ Program for automatically extraction of road markings from MLS or ALS point cloud
 
-*   [JokerJohn/G-LIO](https://github.com/JokerJohn/G-LIO) -
-
 *   [gwang-cv/Point-Set-Matching-Registration-Material](https://github.com/gwang-cv/Point-Set-Matching-Registration-Material) - A list of point set matching/registration resources collected by Gang Wang
 
 *   [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具、极光、魔法上网
@@ -1508,6 +1506,8 @@
 *   [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
 
 *   [wuxiaolang/Visual\_SLAM\_Related\_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) - 视觉(语义) SLAM 相关研究跟踪
+
+*   [DroidAITech/ROS-Academy-for-Beginners-Book-Melodic](https://github.com/DroidAITech/ROS-Academy-for-Beginners-Book-Melodic) - 中国大学MOOC---《机器人操作系统入门》讲义，升级版本
 
 ## C
 
