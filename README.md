@@ -2,12 +2,12 @@
 
 *   [C++](#c)
 *   [Python](#python)
-*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c-1)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
+*   [HTML](#html)
 *   [TeX](#tex)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dockerfile](#dockerfile)
@@ -34,6 +34,10 @@
 *   [AngelScript](#angelscript)
 
 ## C++
+
+*   [satanson/cpp\_etudes](https://github.com/satanson/cpp_etudes) - smart tools for source code study : cpptree.pl, calltree.pl, javatree.pl, java\_calltree.pl
+
+*   [chronolaw/cpp\_study](https://github.com/chronolaw/cpp_study) - follow me to study modern c++
 
 *   [aaronboda24/Loose-GNSS-IMU](https://github.com/aaronboda24/Loose-GNSS-IMU) - Loosely coupled integration of GNSS and IMU
 
@@ -1167,10 +1171,6 @@
 
 *   [shichaoy/pop\_up\_image](https://github.com/shichaoy/pop_up_image) - Real-time 3D Scene Layout from a Single Image Using Convolutional Neural Networks
 
-*   [yuxng/DA-RNN](https://github.com/yuxng/DA-RNN) - Semantic Mapping with Data Associated Recurrent Neural Networks
-
-*   [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain
-
 ## Python
 
 *   [AutonomousVehicleLaboratory/vision\_semantic\_segmentation](https://github.com/AutonomousVehicleLaboratory/vision_semantic_segmentation) - Semantic Segmentation and Mapping Node. Code base for Probabilistic Semantic Mapping for Urban Autonomous Driving Applications. https://ras.papercept.net/proceedings/IROS20/2186.pdf
@@ -1837,35 +1837,9 @@
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
-## HTML
+## miscellaneous
 
 *   [aab0/awesome-jobs](https://github.com/aab0/awesome-jobs) - 每天收集互联网大厂开发岗位。
-
-*   [Mq-b/PowerShellLearning](https://github.com/Mq-b/PowerShellLearning) - PowerShell 脚本编写教程与示例
-
-*   [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
-
-*   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
-
-*   [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
-
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-*   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-
-*   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-
-*   [joway/hugo-theme-yinyang](https://github.com/joway/hugo-theme-yinyang) - A black-white theme for Hugo.
-
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
-*   [HuberTRoy/myown](https://github.com/HuberTRoy/myown) - Blog 分享一些前端的知识，流行库的源码阅读，前端可做的性能优化，SVG动画小知识。
-
-*   [osrf/gazebo\_models](https://github.com/osrf/gazebo_models) - Gazebo database of SDF models. This is a predecessor to https://app.gazebosim.org
-
-*   [michille78/program\_xyz](https://github.com/michille78/program_xyz) - program of 2015
-
-## miscellaneous
 
 *   [WHU-USI3DV/OSMLoc](https://github.com/WHU-USI3DV/OSMLoc) - \[Arxiv'24] OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Seman- tic Guidances
 
@@ -1923,7 +1897,7 @@
 
 *   [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
 
-*   [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) -
+*   [uzh-rpg/event-based\_vision\_resources](https://github.com/uzh-rpg/event-based_vision_resources) - Event-based Vision Resources. Community effort to collect knowledge on event-based vision technology (papers, workshops, datasets, code, videos, etc)
 
 *   [52CV/ICCV-2023-Papers](https://github.com/52CV/ICCV-2023-Papers) -
 
@@ -2310,6 +2284,32 @@
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
 *   [wanghaisheng/old-turn-paper-daily-track-to-blog-template](https://github.com/wanghaisheng/old-turn-paper-daily-track-to-blog-template) -
+
+## HTML
+
+*   [Mq-b/PowerShellLearning](https://github.com/Mq-b/PowerShellLearning) - PowerShell 脚本编写教程与示例
+
+*   [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
+
+*   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
+
+*   [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
+
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+*   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+
+*   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+
+*   [joway/hugo-theme-yinyang](https://github.com/joway/hugo-theme-yinyang) - A black-white theme for Hugo.
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+
+*   [HuberTRoy/myown](https://github.com/HuberTRoy/myown) - Blog 分享一些前端的知识，流行库的源码阅读，前端可做的性能优化，SVG动画小知识。
+
+*   [osrf/gazebo\_models](https://github.com/osrf/gazebo_models) - Gazebo database of SDF models. This is a predecessor to https://app.gazebosim.org
+
+*   [michille78/program\_xyz](https://github.com/michille78/program_xyz) - program of 2015
 
 ## TeX
 
