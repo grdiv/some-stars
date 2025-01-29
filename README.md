@@ -113,7 +113,7 @@
 
 *   [yutongwangBIT/VOOM](https://github.com/yutongwangBIT/VOOM) -
 
-*   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025 Submitted) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
+*   [Yixin-F/LiLoc](https://github.com/Yixin-F/LiLoc) - (ICRA 2025) LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph
 
 *   [nicolov/simple\_slam\_loop\_closure](https://github.com/nicolov/simple_slam_loop_closure) - Simple loop closure for Visual SLAM
 
@@ -487,13 +487,13 @@
 
 *   [uestc-icsp/VoxelMapPlus\_Public](https://github.com/uestc-icsp/VoxelMapPlus_Public) - Voxelmap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry
 
-*   [downdemo/Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed) - C++11/14/17/20 templates and generic programming, the most complex and difficult technical details of C++, indispensable in building infrastructure libraries.
+*   [downdemo/Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed) - 🪄 Master Modern C++(11/14/17/20) Templates: TMP, SFINAE, Concepts, CRTP, Variadic Magic, and Compile-Time Sorcery
 
 *   [lokicui/loki](https://github.com/lokicui/loki) - Loki是由Andrei编写的一个与《Modern C++ Design》（C++设计新思维）一书配套发行的C++代码库。 它不仅把C++模板的功能发挥到了极致，而且把类似设计模式这样思想层面的东西通过库来提供。
 
 *   [tomwillow/tomsolver](https://github.com/tomwillow/tomsolver) - Simplest, Well-tested, Non-linear equations solver library by C++14.
 
-*   [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - C++11/14/17/20 multithreading, involving operating system principles and concurrent programming technology.
+*   [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - 📚 C++11/14/17/20 Concurrency Demystified: From Core Principles to Thread-Safe Code
 
 *   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
 
