@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [hku-mars/LAMM](https://github.com/hku-mars/LAMM) -
+
 *   [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 *   [satanson/cpp\_etudes](https://github.com/satanson/cpp_etudes) - smart tools for source code study : cpptree.pl, calltree.pl, javatree.pl, java\_calltree.pl
@@ -195,7 +197,7 @@
 
 *   [mpkuse/cerebro](https://github.com/mpkuse/cerebro) - Intelligent place recognition module for vins-fusion
 
-*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025 submittion) + real-world application (MD-LVIO)
+*   [Yixin-F/better\_fastlio2](https://github.com/Yixin-F/better_fastlio2) - Postgraduate Thesis: fast\_lio\_sam + dynamic removal (T-GRS 2024) + multi-session mapping (ICRA 2022 Kim) + object-level update + online relocalization (ICRA 2025) + real-world application (MD-LVIO)
 
 *   [JinXiangLai/Octree-Map](https://github.com/JinXiangLai/Octree-Map) - 手写一个支持快速查询，支持任意动态扩展的八叉树地图
 
@@ -493,7 +495,7 @@
 
 *   [tomwillow/tomsolver](https://github.com/tomwillow/tomsolver) - Simplest, Well-tested, Non-linear equations solver library by C++14.
 
-*   [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - 📚 C++11/14/17/20 Concurrency Demystified: From Core Principles to Thread-Safe Code
+*   [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed) - 📖 C++11/14/17/20 Concurrency Demystified: From Core Principles to Thread-Safe Code
 
 *   [zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion) - 误差状态卡尔曼ESKF滤波器融合GPS和IMU，实现更高精度的定位
 
@@ -1279,7 +1281,7 @@
 
 *   [songquanpeng/pytorch-template](https://github.com/songquanpeng/pytorch-template) - To be the world's best PyTorch project template.
 
-*   [Vincentqyw/image-matching-webui](https://github.com/Vincentqyw/image-matching-webui) - 🤗 image matching toolbox webui
+*   [Vincentqyw/image-matching-webui](https://github.com/Vincentqyw/image-matching-webui) - 🤗 image matching webui
 
 *   [WHU-USI3DV/SGHR](https://github.com/WHU-USI3DV/SGHR) - \[CVPR 2023] Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting
 
@@ -1897,7 +1899,7 @@
 
 *   [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - \[ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 820 KB，提供输入跟踪提示 + 超级热键，可将各种桌面应用快速接入 AI  大模型
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 818 KB，提供输入跟踪提示 + 超级热键，可将各种桌面应用快速接入 AI  大模型
 
 *   [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 
@@ -2220,8 +2222,6 @@
 *   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 *   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
 
 ## Shell
 
