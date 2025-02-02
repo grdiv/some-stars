@@ -1447,8 +1447,6 @@
 
 *   [MrinallU/Lidar-RGB-Fusion](https://github.com/MrinallU/Lidar-RGB-Fusion) - Maps lidar point cloud data to an RGB image using camera extrinsic parameters
 
-*   [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book\_4\_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
-
 *   [PRBonn/dynamic-point-removal](https://github.com/PRBonn/dynamic-point-removal) - Static Map Generation from 3D LiDAR Point Clouds Exploiting Ground Segmentation
 
 *   [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - \[ECCV 2024] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
@@ -2370,6 +2368,8 @@
 *   [autonomousvision/factor-fields](https://github.com/autonomousvision/factor-fields) - \[SIGGRAPH 2023] We provide a unified formula for neural fields (Factor Fields) and a novel dictionary factorization (Dictionary Fields)
 
 *   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book\_4\_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
 
 *   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 
