@@ -553,7 +553,7 @@
 
 *   [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 
-*   [ZikangYuan/semi\_elastic\_lio](https://github.com/ZikangYuan/semi_elastic_lio) - A LiDAR-inertial odometry utilizing semi-elastic LiDAR-inertial state estimation method
+*   [ZikangYuan/semi\_elastic\_lio](https://github.com/ZikangYuan/semi_elastic_lio) - \[ICRA 2025] A LiDAR-inertial odometry utilizing semi-elastic LiDAR-inertial state estimation method
 
 *   [dan11003/CFEAR\_Radarodometry\_code\_public](https://github.com/dan11003/CFEAR_Radarodometry_code_public) - Efficient and accurate spinning FMCW 2D radar odometry in C++ / ROS.
 
