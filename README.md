@@ -35,6 +35,16 @@
 
 ## C++
 
+*   [FAIRSpace-AdMaLL/ndt\_localizer](https://github.com/FAIRSpace-AdMaLL/ndt_localizer) - This robot lcoalisation package for lidar-map based localisation using multi-sensor state estimation.
+
+*   [jaeyoungjo99/ELiMaLoc](https://github.com/jaeyoungjo99/ELiMaLoc) - EKF-based LiDAR-Inertial Map matching Localization
+
+*   [USTC-AIS-Lab/SI-LIO](https://github.com/USTC-AIS-Lab/SI-LIO) -
+
+*   [Joanna-HE/LIGO.](https://github.com/Joanna-HE/LIGO.) -
+
+*   [YWL0720/FAST-LIO-COLOR-MAPPING](https://github.com/YWL0720/FAST-LIO-COLOR-MAPPING) - A modified version of FAST-LIO2 that can generate RGB point cloud maps
+
 *   [YixFeng/Block-Map-Based-Localization](https://github.com/YixFeng/Block-Map-Based-Localization) - \[ICRA'24] A localization system based on Block Maps (BMs) to reduce the computational load caused by maintaining large-scale maps
 
 *   [sfwa/ukf](https://github.com/sfwa/ukf) - Unscented Kalman Filter library for state and parameter estimation
@@ -1175,8 +1185,6 @@
 
 *   [martinruenz/maskfusion](https://github.com/martinruenz/maskfusion) - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects
 
-*   [Zhuagenborn/Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) - 🧟 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.
-
 ## Python
 
 *   [IRMVLab/EfficientLO-Net](https://github.com/IRMVLab/EfficientLO-Net) - EfficientLO-Net: Efficient 3D Deep LiDAR Odometry (PAMI 2023)
@@ -2223,8 +2231,6 @@
 
 *   [cpejlgc/li\_hang](https://github.com/cpejlgc/li_hang) - 李航统计学习方法 PPT
 
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
 ## Shell
 
 *   [harry-cpp/code-nautilus](https://github.com/harry-cpp/code-nautilus) - VSCode extension for Nautilus
@@ -2453,8 +2459,6 @@
 
 *   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
 ## Dockerfile
 
 *   [eryajf/docker\_learn](https://github.com/eryajf/docker_learn) - 学习docker过程中所用到的一些东东
@@ -2468,8 +2472,6 @@
 *   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
 *   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
-
-*   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
 
 ## JavaScript
 
@@ -2632,8 +2634,6 @@
 *   [cjlin1/libsvm](https://github.com/cjlin1/libsvm) - LIBSVM -- A Library for Support Vector Machines
 
 *   [wsj1024/FengYunWeather](https://github.com/wsj1024/FengYunWeather) - 风云天气是Android 平台开源天气 App，采用Kotlin、MVX、Room、OKHttp3、 协程等框架实现。
-
-*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
 ## Rust
 
