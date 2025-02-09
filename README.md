@@ -171,7 +171,7 @@
 
 *   [rpng/R-VIO2](https://github.com/rpng/R-VIO2) - Square-Root Robocentric Visual-Inertial Odometry with Online Spatiotemporal Calibration
 
-*   [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
+*   [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 
 *   [mpkuse/gmm\_pointcloud\_align](https://github.com/mpkuse/gmm_pointcloud_align) - Gaussian Mixture Model
 
