@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [YWL0720/FAST-LOCALIZATION](https://github.com/YWL0720/FAST-LOCALIZATION) - A LiDAR-Inertial localization package based on FAST-LIO2, operating with a known prior map.
+
 *   [FAIRSpace-AdMaLL/ndt\_localizer](https://github.com/FAIRSpace-AdMaLL/ndt_localizer) - This robot lcoalisation package for lidar-map based localisation using multi-sensor state estimation.
 
 *   [jaeyoungjo99/ELiMaLoc](https://github.com/jaeyoungjo99/ELiMaLoc) - EKF-based LiDAR-Inertial Map matching Localization
@@ -2632,8 +2634,6 @@
 *   [zhangliangming/HappyPlayer5](https://github.com/zhangliangming/HappyPlayer5) - 乐乐音乐主要是基于ijkplayer框架开发的Android音乐播放器，它支持多种音频格式(mp3音频,ape音频,flac音频,wav音频等)、lrc歌词和动感歌词(ksc歌词,krc歌词,hrc歌词、网易云API歌词等)、翻译和音译歌词和桌面歌词及制作动感歌词、翻译歌词和音译歌词，以及MV和字幕功能。界面高仿酷狗。
 
 *   [cjlin1/libsvm](https://github.com/cjlin1/libsvm) - LIBSVM -- A Library for Support Vector Machines
-
-*   [wsj1024/FengYunWeather](https://github.com/wsj1024/FengYunWeather) - 风云天气是Android 平台开源天气 App，采用Kotlin、MVX、Room、OKHttp3、 协程等框架实现。
 
 ## Rust
 
