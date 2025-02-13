@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [engcang/FAST-LIO-SAM-QN](https://github.com/engcang/FAST-LIO-SAM-QN) - A SLAM implementation combining FAST-LIO2 with pose graph optimization and loop closing based on Quatro and Nano-GICP
+
 *   [hku-mars/Voxel-SLAM](https://github.com/hku-mars/Voxel-SLAM) -
 
 *   [aralab-unr/IMM\_LIO](https://github.com/aralab-unr/IMM_LIO) -
@@ -666,8 +668,6 @@
 *   [robotics-upo/dll](https://github.com/robotics-upo/dll) - DLL: Direct Lidar Localization
 
 *   [vectr-ucla/direct\_lidar\_odometry](https://github.com/vectr-ucla/direct_lidar_odometry) - \[IEEE RA-L & ICRA'22] A lightweight and computationally-efficient frontend LiDAR odometry solution with consistent and accurate localization.
-
-*   [zhh2005757/kaist\_complex\_urban\_dataset\_tool](https://github.com/zhh2005757/kaist_complex_urban_dataset_tool) - Modified kasit\_tool for wheel odometer velocity calculation and velodyne timestamp recovery
 
 *   [url-kaist/AlterGround-LeGO-LOAM](https://github.com/url-kaist/AlterGround-LeGO-LOAM) - The page for PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry
 
