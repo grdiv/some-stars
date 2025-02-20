@@ -551,8 +551,6 @@
 
 *   [Guo-ziwei/fusion](https://github.com/Guo-ziwei/fusion) - fuse IMU data and Odometry
 
-*   [JokerJohn/opensource\_slam\_noted](https://github.com/JokerJohn/opensource_slam_noted) - open source slam system  notes
-
 *   [baaixw/VINS-Fusion-for-UrbanNavDataset-Evaluation](https://github.com/baaixw/VINS-Fusion-for-UrbanNavDataset-Evaluation) - this is very basic version for our dataset validation, only change the path, and align the frame of vio and Groundtruth
 
 *   [jypjypjypjyp/stereo\_ext\_opt](https://github.com/jypjypjypjyp/stereo_ext_opt) - Optimize the Rotation of the stereo camera's extrinsic
@@ -2460,6 +2458,8 @@
 *   [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 
 *   [yiakwy/SEMANTIC\_VISUAL\_SUPPORTED\_ODEMETRY](https://github.com/yiakwy/SEMANTIC_VISUAL_SUPPORTED_ODEMETRY) - semantic visual slam for monocular and stereo camera devices
+
+*   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 
 ## Dockerfile
 
