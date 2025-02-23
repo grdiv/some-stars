@@ -35,6 +35,12 @@
 
 ## C++
 
+*   [vectr-ucla/direct\_lidar\_inertial\_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - \[IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
+
+*   [TakuOkawara/full\_linear\_wheel\_odometry\_factor](https://github.com/TakuOkawara/full_linear_wheel_odometry_factor) - The full\_linear\_wheel\_odometry\_factor provides motion constraints and online calibration for skid-steering robots. This constraint can be incorporated into your SLAM framework. Here is an example video using this factor. https://youtu.be/Vss86xUhU80
+
+*   [PRBonn/kinematic-icp](https://github.com/PRBonn/kinematic-icp) - A LiDAR odometry pipeline for wheeled mobile robots
+
 *   [hyye/lio-mapping](https://github.com/hyye/lio-mapping) - Implementation of Tightly Coupled 3D Lidar Inertial Odometry and Mapping (LIO-mapping)
 
 *   [sdwyc/ROLO](https://github.com/sdwyc/ROLO) - This is a ROS package for lidar odometry implementation using rotation optimization method.
@@ -1525,8 +1531,6 @@
 
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
-*   [cpejlgc/li\_hang](https://github.com/cpejlgc/li_hang) - 李航统计学习方法 PPT
-
 ## Python
 
 *   [IRMVLab/EfficientLO-Net](https://github.com/IRMVLab/EfficientLO-Net) - EfficientLO-Net: Efficient 3D Deep LiDAR Odometry (PAMI 2023)
@@ -2456,10 +2460,6 @@
 *   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 
 *   [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
-
-*   [yiakwy/SEMANTIC\_VISUAL\_SUPPORTED\_ODEMETRY](https://github.com/yiakwy/SEMANTIC_VISUAL_SUPPORTED_ODEMETRY) - semantic visual slam for monocular and stereo camera devices
-
-*   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 
 ## Dockerfile
 
