@@ -107,6 +107,8 @@
 
 *   [ShiQiu0419/BAAF-Net](https://github.com/ShiQiu0419/BAAF-Net) - Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion (CVPR 2021)
 
+*   [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - \[ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System
+
 *   [MasteringOpenCV/code](https://github.com/MasteringOpenCV/code) - Code for the book "Mastering OpenCV with Practical Computer Vision Projects" by Packt Publishing 2012.
 
 *   [yaoyx689/Fast-Robust-ICP](https://github.com/yaoyx689/Fast-Robust-ICP) -
@@ -1210,8 +1212,6 @@
 *   [meiavy/books](https://github.com/meiavy/books) -
 
 *   [HAIRLAB/inlier-identification-via-l0](https://github.com/HAIRLAB/inlier-identification-via-l0) -
-
-*   [JokerJohn/MS-Mapping](https://github.com/JokerJohn/MS-Mapping) - \[ICRA@40] MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System
 
 *   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 818 KB，提供输入跟踪提示 + 超级热键，可将各种桌面应用快速接入 AI  大模型
 
