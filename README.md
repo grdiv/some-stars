@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [SJTU-ViSYS/Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion) - Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)
+
 *   [IF-A-CAT/LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO) - LIR-LIVO: A Lightweight,Robust Lidar/Vision/Inertial Odometry with Illumination-Resilient Deep Features
 
 *   [xingyuuchen/faster-lio-ppf](https://github.com/xingyuuchen/faster-lio-ppf) - \[IROS 2023] Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking
@@ -2192,8 +2194,6 @@
 *   [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) - A list of open-source, affordable, less-known, or visionary robotics projects.
 
 *   [guyuehome/ros\_21\_tutorials](https://github.com/guyuehome/ros_21_tutorials) - 《古月 · ROS入门21讲》课件&源码
-
-*   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 
 ## Kotlin
 
