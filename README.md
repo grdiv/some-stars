@@ -1231,8 +1231,6 @@
 
 *   [Taeyoung96/Awesome-LiDAR-IMU-calibration](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration) - :sunglasses: A current list of LiDAR-IMU calibration method
 
-*   [ZqlwMatt/PIR](https://github.com/ZqlwMatt/PIR) - \[3DV 2025] Official Implementation of paper "Photometric Inverse Rendering: Shading Modeling and Surface Reflectance Regularization"
-
 *   [eryajf/recommend-actions](https://github.com/eryajf/recommend-actions) - 优秀的GitHub Actions推荐
 
 *   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
@@ -1554,6 +1552,8 @@
 *   [LemonAttn/ownflow](https://github.com/LemonAttn/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
 
 *   [ranahanocka/point2mesh](https://github.com/ranahanocka/point2mesh) - Reconstruct Watertight Meshes from Point Clouds \[SIGGRAPH 2020]
+
+*   [ZqlwMatt/PIR](https://github.com/ZqlwMatt/PIR) - \[3DV 2025] Official Implementation of paper "PIR: Photometric Inverse Rendering with Shading Cues Modeling and Surface Reflectance Regularization"
 
 *   [ChiWeiHsiao/DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch) - PyTorch Implementation of DeepVO
 
