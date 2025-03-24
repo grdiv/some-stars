@@ -2722,7 +2722,7 @@
 
 ## Dart
 
-*   [realth000/tsdm\_client](https://github.com/realth000/tsdm_client) - 天使动漫论坛第三方跨平台客户端
+*   [realth000/tsdm\_client](https://github.com/realth000/tsdm_client) - 天使动漫论坛官方跨平台客户端
 
 *   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
