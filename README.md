@@ -236,7 +236,7 @@
 
 *   [liangheming/iG-LIO\_SAM\_LC](https://github.com/liangheming/iG-LIO_SAM_LC) - iG-LIO with Loop Closure(PGO) and Online Re-Localize
 
-*   [ZikangYuan/dynamic\_lio](https://github.com/ZikangYuan/dynamic_lio) - A LiDAR-inertial odometry for dynamic environments.
+*   [ZikangYuan/dynamic\_lio](https://github.com/ZikangYuan/dynamic_lio) - A LiDAR-inertial odometry for dynamic environments
 
 *   [navining/gocpp](https://github.com/navining/gocpp) - C++ basics improvement, object-oriented programming and advanced programming techniques, along with classic interview questions and practical problem-solving examples.
 
@@ -626,7 +626,7 @@
 
 *   [BingqiShen/EMV-LIO](https://github.com/BingqiShen/EMV-LIO) - EMV-LIO: An Efficient Multiple Vision aided LiDAR-Inertial Odometry
 
-*   [ZikangYuan/liw\_oam](https://github.com/ZikangYuan/liw_oam) - \[IROS 2023] A LiDAR-inertial-wheel odometry and mapping system based on BA framework.
+*   [ZikangYuan/liw\_oam](https://github.com/ZikangYuan/liw_oam) - \[IROS 2023] A LiDAR-inertial-wheel odometry and mapping system based on BA framework
 
 *   [xiaoqiuslam/xiaoqiuslam](https://github.com/xiaoqiuslam/xiaoqiuslam) - 零基础从零开始学习SLAM
 
