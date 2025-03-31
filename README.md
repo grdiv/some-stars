@@ -1190,7 +1190,7 @@
 
 *   [daohu527/OpenHDMap](https://github.com/daohu527/OpenHDMap) - An open HD map production process for autonomous car simulation
 
-*   [wheelos-localization/OpenHDMap](https://github.com/wheelos-localization/OpenHDMap) - An open HD map production process for autonomous car simulation
+*   [wheelos-euc/OpenHDMap](https://github.com/wheelos-euc/OpenHDMap) - An open HD map production process for autonomous car simulation
 
 *   [fzi-forschungszentrum-informatik/Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) - Map handling framework for automated driving
 
@@ -1214,7 +1214,7 @@
 
 *   [martinruenz/maskfusion](https://github.com/martinruenz/maskfusion) - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects
 
-*   [Zhuagenborn/Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) - 🧟 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.
+*   [Zhuagenborn/Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) - 🧟 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.（通过逆向工程、内联Hook和动态链接库注入实现的《植物大战僵尸》双人网络对战，两名玩家分别使用植物或僵尸进行防守和攻击。）
 
 *   [shichaoy/pop\_up\_image](https://github.com/shichaoy/pop_up_image) - Real-time 3D Scene Layout from a Single Image Using Convolutional Neural Networks
 
@@ -1986,7 +1986,7 @@
 
 *   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
 
-*   [wheelos-perception/lidar-detection](https://github.com/wheelos-perception/lidar-detection) -
+*   [wheelos-euc/lidar-detection](https://github.com/wheelos-euc/lidar-detection) -
 
 *   [mahmood-ul-hasan/slam-related-resources](https://github.com/mahmood-ul-hasan/slam-related-resources) - A collection of SLAM, odometry methods, and related resources frequently referenced in robotics and ROS research. This repository includes various algorithms, tools, and datasets for 2D/3D LiDAR, visual-inertial odometry, and feature-based SLAM implementations, with a focus on ROS and ROS2 compatibility.
 
@@ -1994,7 +1994,7 @@
 
 *   [MIXIAOXIN/LaneMapping](https://github.com/MIXIAOXIN/LaneMapping) -
 
-*   [wheelos-localization/whl-LIO-SAM](https://github.com/wheelos-localization/whl-LIO-SAM) -
+*   [wheelos-euc/whl-LIO-SAM](https://github.com/wheelos-euc/whl-LIO-SAM) -
 
 *   [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
 
