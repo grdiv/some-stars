@@ -1567,7 +1567,7 @@
 
 *   [Lab-of-AI-and-Robotics/NFC\_relocalization](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization) -
 
-*   [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: Sonata (CVPR'25), PTv3 (CVPR'24 Oral), PPT (CVPR'24), MSC (CVPR'23)
+*   [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral), PPT (CVPR'24), MSC (CVPR'23)
 
 *   [mileyan/pseudo-LiDAR\_e2e](https://github.com/mileyan/pseudo-LiDAR_e2e) - pseudo-LiDAR\_e2e
 
