@@ -35,6 +35,10 @@
 
 ## C++
 
+*   [YWL0720/I2EKF-LO](https://github.com/YWL0720/I2EKF-LO) - \[IROS 2024] I2EKF-LO: A Dual-Iteration Extended Kalman Filter based  LiDAR Odometry
+
+*   [lian-yue0515/D-LI-Init](https://github.com/lian-yue0515/D-LI-Init) - Dynamic Initialization for LiDAR-inertial SLAM
+
 *   [Robot-WH/FAST\_LWIO\_SAM](https://github.com/Robot-WH/FAST_LWIO_SAM) -
 
 *   [fetty31/fast\_LIMO](https://github.com/fetty31/fast_LIMO) - A tightly coupled and real time LiDAR-Inertial SLAM algorithm. Based upon LIMO-Velo and FAST\_LIO projects.
@@ -2371,8 +2375,6 @@
 
 *   [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
 
-*   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
-
 ## Jupyter Notebook
 
 *   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - Learning-based Event-Inertial Odometry
@@ -2538,8 +2540,6 @@
 *   [TooAngel/screeps](https://github.com/TooAngel/screeps) - TooAngel NPC / bot / source code for screeps
 
 *   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://www.amazon.com/dp/1633438538)
-
-*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
 
 ## Dart
 
