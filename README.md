@@ -1383,7 +1383,7 @@
 
 *   [qpsolvers/qpsolvers](https://github.com/qpsolvers/qpsolvers) - Quadratic programming solvers in Python with a unified API
 
-*   [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning) - 我的导航算法学习笔记，主要是写给初学者，已经有基础的同学应该多看论文和代码，看我的笔记学不到啥；内容涵盖导航定位开源程序的源码解读（包括 RTKLIB、GAMP、PSINS、KF-GINS 等）、开源项目梳理、书籍讲义、博客翻译、教程讲座推荐；所有内容都可以随意转载，原始文件都放在这里了，大家可以在我的基础上整理出自己的一些文档。
+*   [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning) - 我的导航算法学习笔记，内容涵盖导航定位开源程序的源码解读、开源项目梳理、书籍讲义、博客翻译、教程讲座推荐；所有内容都可以随意转载，原始文件都放在这里了，大家可以在我的基础上整理出自己的一些文档。（Tips：①主要是写给初学者，已经有基础的同学应该多看论文和代码，看我的笔记学不到啥；②仓库持续更新中，不建议 fork）
 
 *   [kxhit/vMAP](https://github.com/kxhit/vMAP) - \[CVPR 2023] vMAP: Vectorised Object Mapping for Neural Field SLAM
 
