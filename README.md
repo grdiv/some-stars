@@ -1223,7 +1223,7 @@
 
 *   [alejandrofontan/VSLAM-LAB](https://github.com/alejandrofontan/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
 
-*   [mit-acl/ROMAN](https://github.com/mit-acl/ROMAN) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views.
+*   [mit-acl/roman](https://github.com/mit-acl/roman) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views.
 
 *   [AutonomousVehicleLaboratory/vision\_semantic\_segmentation](https://github.com/AutonomousVehicleLaboratory/vision_semantic_segmentation) - Semantic Segmentation and Mapping Node. Code base for Probabilistic Semantic Mapping for Urban Autonomous Driving Applications. https://ras.papercept.net/proceedings/IROS20/2186.pdf
 
