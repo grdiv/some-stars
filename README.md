@@ -169,7 +169,7 @@
 
 *   [nicolov/simple\_slam\_loop\_closure](https://github.com/nicolov/simple_slam_loop_closure) - Simple loop closure for Visual SLAM
 
-*   [brucezhcw/VINS-Explorer](https://github.com/brucezhcw/VINS-Explorer) - A Robust and Versatile Monocular Visual-Inertial State Estimator
+*   [brucezhcw/VINS-Explorer](https://github.com/brucezhcw/VINS-Explorer) - A Super Tightly Coupled Visual-Inertial State Estimator
 
 *   [iisys-hof/map-matching-2](https://github.com/iisys-hof/map-matching-2) - High Performance Map Matching with Markov Decision Processes (MDPs) and Hidden Markov Models (HMMs).
 
@@ -1481,7 +1481,7 @@
 
 *   [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
 
-*   [daohu527/pcdviz](https://github.com/daohu527/pcdviz) - point cloud viz
+*   [wheelos-tools/whl\_pcdviz](https://github.com/wheelos-tools/whl_pcdviz) - point cloud viz
 
 *   [YZH-bot/RH-Map](https://github.com/YZH-bot/RH-Map) - RH-Map: Online dynamic objects removal \[RA-L 23]
 
