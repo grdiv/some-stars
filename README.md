@@ -1689,7 +1689,7 @@
 
 *   [FVCD2019/cctv\_svm](https://github.com/FVCD2019/cctv_svm) -
 
-*   [tjiiv-cprg/MonoRUn](https://github.com/tjiiv-cprg/MonoRUn) - \[CVPR'21] MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation
+*   [tjiiv-cprg/MonoRUn](https://github.com/tjiiv-cprg/MonoRUn) - \[CVPR 2021] MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation
 
 *   [mapillary/seamseg](https://github.com/mapillary/seamseg) - Seamless Scene Segmentation
 
@@ -2217,7 +2217,7 @@
 
 *   [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 
-*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) -   使用电影、美剧或文档生成词库（单词本），为单词营造具体语境，进而通过此语境进行单词记忆。
+*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
 
 *   [RyensX/MediaBox](https://github.com/RyensX/MediaBox) - 全能媒体容器，插件化网罗天下媒体，畅快浏览视频、漫画和任何你想要的媒体数据。A universal media container, aggregating media through plugins to browse videos, comics and any media data you want.
 
