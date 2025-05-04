@@ -1481,7 +1481,7 @@
 
 *   [HKUST-Aerial-Robotics/MonoLaneMapping](https://github.com/HKUST-Aerial-Robotics/MonoLaneMapping) - Online Monocular Lane Mapping Using Catmull-Rom Spline (IROS 2023)
 
-*   [wheelos-tools/whl\_pcdviz](https://github.com/wheelos-tools/whl_pcdviz) - point cloud viz
+*   [wheelos-tools/whl-pcdviz](https://github.com/wheelos-tools/whl-pcdviz) - point cloud viz
 
 *   [YZH-bot/RH-Map](https://github.com/YZH-bot/RH-Map) - RH-Map: Online dynamic objects removal \[RA-L 23]
 
