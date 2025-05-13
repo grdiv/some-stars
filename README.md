@@ -593,7 +593,7 @@
 
 *   [JunweiLiang/awesome\_lists](https://github.com/JunweiLiang/awesome_lists) - Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)
 
-*   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
+*   [hustvl/MapTR](https://github.com/hustvl/MapTR) - \[ICLR'23 Spotlight & ECCV'24 & IJCV'24] MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction
 
 *   [hustvl/GKT](https://github.com/hustvl/GKT) - Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer
 
