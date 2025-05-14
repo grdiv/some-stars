@@ -45,7 +45,7 @@
 
 *   [IRMVLab/EfficientLO-Net](https://github.com/IRMVLab/EfficientLO-Net) - EfficientLO-Net: Efficient 3D Deep LiDAR Odometry (PAMI 2023)
 
-*   [alejandrofontan/VSLAM-LAB](https://github.com/alejandrofontan/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
+*   [VSLAM-LAB/VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
 
 *   [mit-acl/roman](https://github.com/mit-acl/roman) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views.
 
