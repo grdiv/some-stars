@@ -36,6 +36,8 @@
 
 ## C++
 
+*   [ompl/ompl](https://github.com/ompl/ompl) - The Open Motion Planning Library (OMPL)
+
 *   [JokerJohn/PALoc](https://github.com/JokerJohn/PALoc) - \[TMECH'2024] Official codes of ”PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation“
 
 *   [Hero941215/fast\_lio-sam\_loop-gps](https://github.com/Hero941215/fast_lio-sam_loop-gps) - fast-lio with loop factor and gps factor for back end optimization.
@@ -1267,8 +1269,6 @@
 *   [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
 
 *   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-*   [AgoraIO/Basic-Video-Call](https://github.com/AgoraIO/Basic-Video-Call) - Sample app to join/leave a channel, mute/unmute, enable/disable the video, and switch between front/rear cameras.
 
 ## Python
 
