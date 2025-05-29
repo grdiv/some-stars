@@ -718,6 +718,8 @@
 
 *   [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green\_book: The Beauty of Python Programming.
 
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
 *   [Pose-Group/DCPose](https://github.com/Pose-Group/DCPose) - This is an official implementation of our CVPR 2021 paper "Deep Dual Consecutive Network for Human Pose Estimation" (https://openaccess.thecvf.com/content/CVPR2021/papers/Liu\_Deep\_Dual\_Consecutive\_Network\_for\_Human\_Pose\_Estimation\_CVPR\_2021\_paper.pdf)
 
 *   [Cartucho/mAP](https://github.com/Cartucho/mAP) - mean Average Precision - This code evaluates the performance of your neural net for object recognition.
@@ -2495,8 +2497,6 @@
 *   [osrf/gazebo\_models](https://github.com/osrf/gazebo_models) - Gazebo database of SDF models. This is a predecessor to https://app.gazebosim.org
 
 *   [michille78/program\_xyz](https://github.com/michille78/program_xyz) - program of 2015
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 *   [fengdu78/deeplearning\_ai\_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 
