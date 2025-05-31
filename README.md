@@ -2554,7 +2554,7 @@
 
 *   [HuichuanLI/play-with-graph-algorithme](https://github.com/HuichuanLI/play-with-graph-algorithme) - python实现的初级图论算法库:环检测问题,桥和割点,最小生成树,最短路径,欧拉路径,哈密尔顿路径,拓扑排序，最大流问题，匹配问题(匈牙利算法)
 
-*   [chenzomi12/AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
+*   [chenzomi12/aisystem](https://github.com/chenzomi12/aisystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 
 *   [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook) - LaTeX论文写作教程 (清华大学出版社)
 
