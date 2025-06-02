@@ -1740,7 +1740,7 @@
 
 *   [kungfrank/pw\_ndt\_automotive\_radar\_scan\_matching](https://github.com/kungfrank/pw_ndt_automotive_radar_scan_matching) -
 
-*   [SYSU-STAR/H2-Mapping](https://github.com/SYSU-STAR/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (2023 RAL Best Paper Award)
+*   [Robotics-STAR-Lab/H2-Mapping](https://github.com/Robotics-STAR-Lab/H2-Mapping) - H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation (2023 RAL Best Paper Award)
 
 *   [ethz-asl/robust\_point\_cloud\_registration](https://github.com/ethz-asl/robust_point_cloud_registration) - Robust Point Cloud Registration Using Iterative Probabilistic Data Associations ("Robust ICP")
 
