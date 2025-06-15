@@ -266,7 +266,7 @@
 
 *   [Kin-Zhang/simple\_ndt\_slam](https://github.com/Kin-Zhang/simple_ndt_slam) - simple ndt slam, quick deploy on mobile robot, support mapping and localization (origin from autoware.ai); 简易slam包 快速部署使用
 
-*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - \[IEEE Sensors Journal (JSEN) ] SuperVINS: A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions (integrated deep learning features)
+*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - 📖\[IEEE Sensors Journal (JSEN) ] SuperVINS: A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions (integrated deep learning features)
 
 *   [eowjd0512/fisheye-calib-adapter](https://github.com/eowjd0512/fisheye-calib-adapter) - Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion
 
