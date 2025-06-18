@@ -250,7 +250,7 @@
 
 *   [liangheming/iG-LIO\_SAM\_LC](https://github.com/liangheming/iG-LIO_SAM_LC) - iG-LIO with Loop Closure(PGO) and Online Re-Localize
 
-*   [ZikangYuan/dynamic\_lio](https://github.com/ZikangYuan/dynamic_lio) - A LiDAR-inertial odometry for dynamic environments
+*   [ZikangYuan/dynamic\_lio](https://github.com/ZikangYuan/dynamic_lio) - \[IROS 2025] A LiDAR-inertial odometry for dynamic environments
 
 *   [navining/gocpp](https://github.com/navining/gocpp) - C++ basics improvement, object-oriented programming and advanced programming techniques, along with classic interview questions and practical problem-solving examples.
 
