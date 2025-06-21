@@ -470,7 +470,7 @@
 
 *   [rwth-irt/gnssFGO](https://github.com/rwth-irt/gnssFGO) - This is the official repo of the project gnssFGO.
 
-*   [ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) - GPS points will be predefined in ROS based robots to navigate to the destination avoiding obstacles.
+*   [ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) - GPS points will be predefined for robots to navigate to the destination avoiding obstacles. Part of University Mars Rover Challenge - 2019.
 
 *   [AIRLab-POLIMI/C-SLAM](https://github.com/AIRLab-POLIMI/C-SLAM) - C-SLAM
 
