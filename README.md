@@ -36,6 +36,8 @@
 
 ## C++
 
+*   [GreycLab/CImg](https://github.com/GreycLab/CImg) - The CImg Library is a small and open-source C++ toolkit for image processing
+
 *   [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 
 *   [ompl/ompl](https://github.com/ompl/ompl) - The Open Motion Planning Library (OMPL)
@@ -2323,8 +2325,6 @@
 *   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 
 *   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
-
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 
 ## Kotlin
 
