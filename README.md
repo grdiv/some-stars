@@ -36,6 +36,8 @@
 
 ## C++
 
+*   [autodiff/autodiff](https://github.com/autodiff/autodiff) - automatic differentiation made easier for C++
+
 *   [GreycLab/CImg](https://github.com/GreycLab/CImg) - The CImg Library is a small and open-source C++ toolkit for image processing
 
 *   [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
@@ -2503,8 +2505,6 @@
 *   [fengdu78/deeplearning\_ai\_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 
 *   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-
-*   [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 
 ## TeX
 
