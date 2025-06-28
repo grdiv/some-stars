@@ -25,7 +25,6 @@
 *   [Rust](#rust)
 *   [Go](#go)
 *   [Makefile](#makefile)
-*   [AutoIt](#autoit)
 *   [Roff](#roff)
 *   [PostScript](#postscript)
 *   [Cuda](#cuda)
@@ -2506,6 +2505,8 @@
 
 *   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
+*   [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
+
 ## TeX
 
 *   [xiaoweiChen/Modern-CXX-Programming-Cookbook](https://github.com/xiaoweiChen/Modern-CXX-Programming-Cookbook) - 《Modern C++ Programming Cookbook - 3rd Edition》的非专业个人翻译
@@ -2867,10 +2868,6 @@
 *   [alirezakazemipour/Geo-Localization](https://github.com/alirezakazemipour/Geo-Localization) - Localization without using GPS based on a previously provided map
 
 *   [yepeichu123/slam\_module](https://github.com/yepeichu123/slam_module) -
-
-## AutoIt
-
-*   [cw2k/Adobe-GenP](https://github.com/cw2k/Adobe-GenP) - Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0
 
 ## Roff
 
