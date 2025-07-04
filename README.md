@@ -723,8 +723,6 @@
 
 *   [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 
-*   [cxxsucks/SearchEverywhere](https://github.com/cxxsucks/SearchEverywhere) - CLI/GUI file searcher combining find, locate and Everything, plus content searching. Works on Linux, Windows and macOS.This repo is for Qt-based GUI.
-
 *   [botaojia/simplex](https://github.com/botaojia/simplex) - DownHill simplex algorithm implementation and demos
 
 *   [ethz-asl/minkindr](https://github.com/ethz-asl/minkindr) - A minimal library for transformations, following the kindr interface. Uses active quaternions of rotation in Hamilton notation.
@@ -2326,6 +2324,8 @@
 *   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 
 *   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
+
+*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 
 ## Kotlin
 
