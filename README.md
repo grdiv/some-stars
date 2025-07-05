@@ -1,10 +1,10 @@
 ## Table of Contents
 
 *   [C++](#c)
+*   [C](#c-1)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
-*   [C](#c-1)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
@@ -34,6 +34,12 @@
 *   [Vim Script](#vim-script)
 
 ## C++
+
+*   [GDUT-Kyle/lins-gps-iris](https://github.com/GDUT-Kyle/lins-gps-iris) -
+
+*   [hz658832/gnssFGO](https://github.com/hz658832/gnssFGO) - This is the official repo of the project gnssFGO.
+
+*   [fabioscap/test\_imu](https://github.com/fabioscap/test_imu) - master thesis
 
 *   [autodiff/autodiff](https://github.com/autodiff/autodiff) - automatic differentiation made easier for C++
 
@@ -1273,6 +1279,60 @@
 
 *   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
+## C
+
+*   [xioTechnologies/Fusion](https://github.com/xioTechnologies/Fusion) -
+
+*   [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
+
+*   [oldlinux-web/oldlinux-files](https://github.com/oldlinux-web/oldlinux-files) -
+
+*   [XikunLiu-huskit/GLIO](https://github.com/XikunLiu-huskit/GLIO) - GLIO: Tightly-Coupled GNSS/LiDAR/IMU Integration for Continuous and Drift-free State Estimation
+
+*   [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
+
+*   [konrad-gajdus/miniMNIST-c](https://github.com/konrad-gajdus/miniMNIST-c) -
+
+*   [MiKTeX/miktex](https://github.com/MiKTeX/miktex) - the MiKTeX source code
+
+*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
+
+*   [znsoooo/qr-desktop](https://github.com/znsoooo/qr-desktop) - QR Desktop
+
+*   [litbubo/Streaming\_media\_broadcasting\_system\_based\_on\_IPv4](https://github.com/litbubo/Streaming_media_broadcasting_system_based_on_IPv4) - 基于IPv4的流媒体广播系统Plus，在原版的基础上进行升级和bug修复等。采用C语言编写，使用高级Unix编程技术。The streaming media broadcasting system plus based on IPv4 is upgraded and bug repaired on the basis of the original version. It is written in C language and uses advanced unix programming technology.
+
+*   [Cheukyin/CodeSnippet](https://github.com/Cheukyin/CodeSnippet) - Funny and interesting codes developed in my spare time
+
+*   [gnilk/editor](https://github.com/gnilk/editor) - Text editor
+
+*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+
+*   [LiuFG/Camera-Lidar-Fusion-ROS](https://github.com/LiuFG/Camera-Lidar-Fusion-ROS) - fully applied in ROS. simply fuse the category and location information
+
+*   [dddExperiments/SFMToolkit](https://github.com/dddExperiments/SFMToolkit) - Structure from motion toolkit (BundlerFocalExtractor, BundlerMatcher, Bundler, CMVS, PMVS2)
+
+*   [mohamedadaly/caltech-lane-detection](https://github.com/mohamedadaly/caltech-lane-detection) - Caltech Lane Detection Software
+
+*   [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
+
+*   [Yangyuanxin/Linux\_APUE](https://github.com/Yangyuanxin/Linux_APUE) - 记录关于Linux应用编程的点点滴滴,编程相关例程及总结笔记
+
+*   [ailab-hanyang/image\_landmark\_spc\_matching\_localization](https://github.com/ailab-hanyang/image_landmark_spc_matching_localization) - semantic point cloud, localization, map matching, semantic point cloud map, image segmentation, image detection
+
+*   [iandouglas96/cross\_view\_slam](https://github.com/iandouglas96/cross_view_slam) -
+
+*   [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
+
+*   [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
+
+*   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+
+*   [tikroeger/OF\_DIS](https://github.com/tikroeger/OF_DIS) - Fast Optical Flow using Dense Inverse Search (DIS)
+
+*   [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
+
+*   [yh1094632455/Cgames](https://github.com/yh1094632455/Cgames) - c语言经典200多个有趣的程序和游戏
+
 ## Python
 
 *   [HKUST-Aerial-Robotics/SG-Reg](https://github.com/HKUST-Aerial-Robotics/SG-Reg) - \[T-RO 2025] SG-Reg: Generalizable and Efficient Scene Graph Registration
@@ -2325,8 +2385,6 @@
 
 *   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-
 ## Kotlin
 
 *   [lanlinju/Animius](https://github.com/lanlinju/Animius) - 一个简洁的播放动漫的App，支持弹幕，多数据源等，使用Jetpack Compose进行开发
@@ -2354,58 +2412,6 @@
 *   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
 
 *   [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao 2.x
-
-## C
-
-*   [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
-
-*   [oldlinux-web/oldlinux-files](https://github.com/oldlinux-web/oldlinux-files) -
-
-*   [XikunLiu-huskit/GLIO](https://github.com/XikunLiu-huskit/GLIO) - GLIO: Tightly-Coupled GNSS/LiDAR/IMU Integration for Continuous and Drift-free State Estimation
-
-*   [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
-
-*   [konrad-gajdus/miniMNIST-c](https://github.com/konrad-gajdus/miniMNIST-c) -
-
-*   [MiKTeX/miktex](https://github.com/MiKTeX/miktex) - the MiKTeX source code
-
-*   [kevin2431/Traj-LO](https://github.com/kevin2431/Traj-LO) - \[RA-L 2024] In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory
-
-*   [znsoooo/qr-desktop](https://github.com/znsoooo/qr-desktop) - QR Desktop
-
-*   [litbubo/Streaming\_media\_broadcasting\_system\_based\_on\_IPv4](https://github.com/litbubo/Streaming_media_broadcasting_system_based_on_IPv4) - 基于IPv4的流媒体广播系统Plus，在原版的基础上进行升级和bug修复等。采用C语言编写，使用高级Unix编程技术。The streaming media broadcasting system plus based on IPv4 is upgraded and bug repaired on the basis of the original version. It is written in C language and uses advanced unix programming technology.
-
-*   [Cheukyin/CodeSnippet](https://github.com/Cheukyin/CodeSnippet) - Funny and interesting codes developed in my spare time
-
-*   [gnilk/editor](https://github.com/gnilk/editor) - Text editor
-
-*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-
-*   [LiuFG/Camera-Lidar-Fusion-ROS](https://github.com/LiuFG/Camera-Lidar-Fusion-ROS) - fully applied in ROS. simply fuse the category and location information
-
-*   [dddExperiments/SFMToolkit](https://github.com/dddExperiments/SFMToolkit) - Structure from motion toolkit (BundlerFocalExtractor, BundlerMatcher, Bundler, CMVS, PMVS2)
-
-*   [mohamedadaly/caltech-lane-detection](https://github.com/mohamedadaly/caltech-lane-detection) - Caltech Lane Detection Software
-
-*   [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
-
-*   [Yangyuanxin/Linux\_APUE](https://github.com/Yangyuanxin/Linux_APUE) - 记录关于Linux应用编程的点点滴滴,编程相关例程及总结笔记
-
-*   [ailab-hanyang/image\_landmark\_spc\_matching\_localization](https://github.com/ailab-hanyang/image_landmark_spc_matching_localization) - semantic point cloud, localization, map matching, semantic point cloud map, image segmentation, image detection
-
-*   [iandouglas96/cross\_view\_slam](https://github.com/iandouglas96/cross_view_slam) -
-
-*   [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
-
-*   [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
-
-*   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
-
-*   [tikroeger/OF\_DIS](https://github.com/tikroeger/OF_DIS) - Fast Optical Flow using Dense Inverse Search (DIS)
-
-*   [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
-
-*   [yh1094632455/Cgames](https://github.com/yh1094632455/Cgames) - c语言经典200多个有趣的程序和游戏
 
 ## Shell
 
@@ -2465,8 +2471,6 @@
 
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
 ## CSS
 
 *   [MwumLi/book-refactoring2](https://github.com/MwumLi/book-refactoring2) - 《重构 改善既有代码的设计第二版》中文版
@@ -2504,8 +2508,6 @@
 *   [fengdu78/deeplearning\_ai\_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 
 *   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-
-*   [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 
 ## TeX
 
@@ -2660,8 +2662,6 @@
 *   [PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt
 
 *   [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
-
-*   [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 
 ## Dockerfile
 
