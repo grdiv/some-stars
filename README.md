@@ -61,8 +61,6 @@
 
 *   [ai4ce/MSG](https://github.com/ai4ce/MSG) - \[NeurIPS2024] Multiview Scene Graph (topologically representing a scene from unposed images by interconnected place and object nodes)
 
-*   [LemonAttn/ownflow](https://github.com/LemonAttn/ownflow) - 利用numpy实现一个小型实验性的深度学习框架
-
 *   [ranahanocka/point2mesh](https://github.com/ranahanocka/point2mesh) - Reconstruct Watertight Meshes from Point Clouds \[SIGGRAPH 2020]
 
 *   [ZqlwMatt/PIR](https://github.com/ZqlwMatt/PIR) - \[3DV 2025] Official Implementation of paper "PIR: Photometric Inverse Rendering with Shading Cues Modeling and Surface Reflectance Regularization"
@@ -730,6 +728,8 @@
 *   [zhpmatrix/VisDrone2018](https://github.com/zhpmatrix/VisDrone2018) - ECCV2018(Challenge-Object Detection in Images)
 
 *   [you359/Keras-FasterRCNN](https://github.com/you359/Keras-FasterRCNN) - keras implementation of Faster R-CNN
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
 ## C++
 
@@ -1697,7 +1697,7 @@
 
 *   [LitoNeo/SmartCar-pcd-map-Tools](https://github.com/LitoNeo/SmartCar-pcd-map-Tools) - Tools for self-driving car
 
-*   [cggos/slamkit](https://github.com/cggos/slamkit) - SLAM Kit
+*   [cggos/slambox](https://github.com/cggos/slambox) - SLAM Box
 
 *   [shenfalong/SegModel](https://github.com/shenfalong/SegModel) - A light-weight deep learning library based on Caffe
 
