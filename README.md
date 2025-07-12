@@ -771,6 +771,8 @@
 
 *   [xingyuuchen/faster-lio-ppf](https://github.com/xingyuuchen/faster-lio-ppf) - \[IROS 2023] Fast LiDAR-Inertial Odometry via Incremental Plane Pre-Fitting and Skeleton Tracking
 
+*   [HxCa1/BEV-LIO-LC](https://github.com/HxCa1/BEV-LIO-LC) - BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure
+
 *   [vectr-ucla/direct\_lidar\_inertial\_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - \[IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
 
 *   [TakuOkawara/full\_linear\_wheel\_odometry\_factor](https://github.com/TakuOkawara/full_linear_wheel_odometry_factor) - The full\_linear\_wheel\_odometry\_factor provides motion constraints and online calibration for skid-steering robots. This constraint can be incorporated into your SLAM framework. Here is an example video using this factor. https://youtu.be/Vss86xUhU80
@@ -1984,8 +1986,6 @@
 *   [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 
 *   [xuqingyuan2000/LP-ICP](https://github.com/xuqingyuan2000/LP-ICP) -
-
-*   [HxCa1/BEV-LIO-LC](https://github.com/HxCa1/BEV-LIO-LC) - BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure
 
 *   [IMRL/FreeIni](https://github.com/IMRL/FreeIni) - This is the code repository for the IEEE-RAL'24 paper "Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for FMCW LiDAR-Inertial Systems, IEEE Robotics and Automation Letters (RA-L),"
 
