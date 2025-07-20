@@ -1285,6 +1285,8 @@
 
 *   [upwon/OpticalFlow](https://github.com/upwon/OpticalFlow) - 利用光流法进行运动目标检测
 
+*   [oreillymedia/Learning-OpenCV-3\_examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples) -
+
 ## miscellaneous
 
 *   [ethz-asl/kindr](https://github.com/ethz-asl/kindr) - Kinematics and Dynamics for Robotics
@@ -1588,8 +1590,6 @@
 *   [autonomousdrivingkr/Awesome-Autonomous-Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving) -
 
 *   [TixiaoShan/Stevens-VLP16-Dataset](https://github.com/TixiaoShan/Stevens-VLP16-Dataset) - This dataset is captured using a Velodyne VLP-16, which is mounted on an UGV - Clearpath Jackal, on Stevens Institute of Technology campus
-
-*   [PeterJaq/Awesome-Autonomous-Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving) -
 
 *   [changhao-chen/deep-learning-localization-mapping](https://github.com/changhao-chen/deep-learning-localization-mapping) - A collection of deep learning based localization models
 
