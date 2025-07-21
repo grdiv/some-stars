@@ -2535,7 +2535,7 @@
 
 ## Jupyter Notebook
 
-*   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - Learning-based Event-Inertial Odometry
+*   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - (ICCVW2025) Learning-based Event-Inertial Odometry
 
 *   [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 
