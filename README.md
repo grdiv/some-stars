@@ -2089,8 +2089,6 @@
 
 *   [SeongHyunBae/Around-view-lane-roadmarker-segmentation](https://github.com/SeongHyunBae/Around-view-lane-roadmarker-segmentation) -
 
-*   [laugh12321/ApolloScape4mmseg](https://github.com/laugh12321/ApolloScape4mmseg) -
-
 *   [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（MIR2022）
 
 *   [tayebiarasteh/lane-detection](https://github.com/tayebiarasteh/lane-detection) - Weakly-supervised road-lane markings detection for autonomous driving, mitigating the lack of training data
@@ -2411,7 +2409,7 @@
 
 *   [RyensX/MediaBox](https://github.com/RyensX/MediaBox) - 全能媒体容器，插件化网罗天下媒体，畅快浏览视频、漫画和任何你想要的媒体数据。A universal media container, aggregating media through plugins to browse videos, comics and any media data you want.
 
-*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+*   [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 
 *   [thomaskioko/tv-maniac](https://github.com/thomaskioko/tv-maniac) - Tv-Maniac is a personalized entertainment tracking and recommendation Multiplatform app (Android & iOS) for tracking TV Shows using TMDB API.
 
@@ -2664,6 +2662,8 @@
 *   [EmilienDupont/neural-processes](https://github.com/EmilienDupont/neural-processes) - Pytorch implementation of Neural Processes for functions and images :fireworks:
 
 *   [enggen/Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera) - Deep Learning Specialization by Andrew Ng, deeplearning.ai.
+
+*   [PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt
 
 ## Dockerfile
 
