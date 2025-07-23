@@ -687,7 +687,7 @@
 
 *   [hovren/minimal\_ceres\_sophus](https://github.com/hovren/minimal_ceres_sophus) - Minimal example showing problem with Ceres and Sophus
 
-*   [JokerJohn/Cloud\_Map\_Evaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation) - \[RAL' 2025] MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework.
+*   [JokerJohn/Cloud\_Map\_Evaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation) - \[RAL' 25 & IROS‘ 25] MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework.
 
 *   [MIT-SPARK/Hydra](https://github.com/MIT-SPARK/Hydra) -
 
