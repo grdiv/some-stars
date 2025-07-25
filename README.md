@@ -665,7 +665,7 @@
 
 *   [koide3/gtsam\_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for point cloud SLAM
 
-*   [YibinWu/LIO-EKF](https://github.com/YibinWu/LIO-EKF) - Maybe the simplest LiDAR-inertial odometry that one can have.
+*   [YibinWu/LIO-EKF](https://github.com/YibinWu/LIO-EKF) - \[ICRA2024] Maybe the simplest LiDAR-inertial odometry that one can have.
 
 *   [NEU-REAL/LIVW-Localization](https://github.com/NEU-REAL/LIVW-Localization) - LIVW-Localization: A Multi-modal Information Fused Vehicle Localization Method for Complex, Large-Scale and GNSS-Denied Environments.
 
