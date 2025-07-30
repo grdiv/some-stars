@@ -397,7 +397,7 @@
 
 *   [Lab-of-AI-and-Robotics/NFC\_relocalization](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization) -
 
-*   [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: a codebase for point cloud perception research. Latest works: Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral), PPT (CVPR'24), MSC (CVPR'23)
+*   [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 
 *   [mileyan/pseudo-LiDAR\_e2e](https://github.com/mileyan/pseudo-LiDAR_e2e) - pseudo-LiDAR\_e2e
 
@@ -2475,8 +2475,6 @@
 
 *   [upupming/new-grad-positions](https://github.com/upupming/new-grad-positions) - 本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。
 
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
 ## CSS
 
 *   [MwumLi/book-refactoring2](https://github.com/MwumLi/book-refactoring2) - 《重构 改善既有代码的设计第二版》中文版
@@ -2700,6 +2698,8 @@
 *   [luchenqun/my-bookmark](https://github.com/luchenqun/my-bookmark) - 在线书签管理工具
 
 *   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
 *   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
 
