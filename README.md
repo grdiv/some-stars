@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [3dv-casia/MGSfM](https://github.com/3dv-casia/MGSfM) - \[ICCV 2025] MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion
+
 *   [lingzolabs/tracer](https://github.com/lingzolabs/tracer) - Tracer is a header-only lightweight performance tracing library for recording and analyzing C++ program execution. It helps developers identify performance bottlenecks, analyze function execution times, and outputs results in Chrome Tracing compatible format for easy visualization.
 
 *   [koide3/small\_gicp](https://github.com/koide3/small_gicp) - Efficient and parallel algorithms for point cloud registration \[C++, Python]
@@ -1327,7 +1329,7 @@
 
 *   [VSLAM-LAB/VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
 
-*   [mit-acl/roman](https://github.com/mit-acl/roman) - ROMAN is a view-invariant global localization method that maps open-set objects and uses the geometry, shape, and semantics of objects to find the transformation between a current pose and previously created object map. This enables loop closure between robots even when a scene is observed from opposite views.
+*   [mit-acl/roman](https://github.com/mit-acl/roman) - \[RSS 2025] ROMAN: a view-invariant global localization method that matches objects from different robot views for reliable pose estimation even when a scene is observed from opposite views
 
 *   [AutonomousVehicleLaboratory/vision\_semantic\_segmentation](https://github.com/AutonomousVehicleLaboratory/vision_semantic_segmentation) - Semantic Segmentation and Mapping Node. Code base for Probabilistic Semantic Mapping for Urban Autonomous Driving Applications. https://ras.papercept.net/proceedings/IROS20/2186.pdf
 
@@ -2000,8 +2002,6 @@
 *   [geniki/neural-processes](https://github.com/geniki/neural-processes) - PyTorch implementation of Neural Processes
 
 *   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-
-*   [zhpmatrix/VisDrone2018](https://github.com/zhpmatrix/VisDrone2018) - ECCV2018(Challenge-Object Detection in Images)
 
 ## miscellaneous
 
