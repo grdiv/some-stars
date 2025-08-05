@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [RobustFieldAutonomyLab/DiSCo-SLAM](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) -
+
 *   [3dv-casia/MGSfM](https://github.com/3dv-casia/MGSfM) - \[ICCV 2025] MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion
 
 *   [lingzolabs/tracer](https://github.com/lingzolabs/tracer) - Tracer is a header-only lightweight performance tracing library for recording and analyzing C++ program execution. It helps developers identify performance bottlenecks, analyze function execution times, and outputs results in Chrome Tracing compatible format for easy visualization.
@@ -2528,8 +2530,6 @@
 *   [michille78/program\_xyz](https://github.com/michille78/program_xyz) - program of 2015
 
 *   [fengdu78/deeplearning\_ai\_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
-
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
 ## Jupyter Notebook
 
