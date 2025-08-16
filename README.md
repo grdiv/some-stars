@@ -1175,7 +1175,7 @@
 
 *   [TouchDeeper/VIW-Fusion](https://github.com/TouchDeeper/VIW-Fusion) - Visual-inertial-wheel fusion odometry, better performance in scenes with drastic changes in light
 
-*   [i2Nav-WHU/Wheel-INS](https://github.com/i2Nav-WHU/Wheel-INS) - A wheel-mounted MEMS IMU-based dead reckoning system.
+*   [i2Nav-WHU/Wheel-INS](https://github.com/i2Nav-WHU/Wheel-INS) - \[IEEE TVT 2021] A wheel-mounted MEMS IMU-based dead reckoning system.
 
 *   [thesidjway/oxford-robotcar-to-rosbag](https://github.com/thesidjway/oxford-robotcar-to-rosbag) - Script to convert the Robot Car Camera + GPS data to a rosbag
 
