@@ -239,7 +239,7 @@
 
 *   [kuankuan-yue/VINS-FUSION-leanrning](https://github.com/kuankuan-yue/VINS-FUSION-leanrning) - VINS-FUSION中文注释版.目前网络上对于VINS-mono的代码已经有很多讲解和注释了，但是对于VINS-FUSION（以下简称VF）的注释还是很少的，刚好本人最近也正在学习VIO的相关知识，所以对VF按照程序执行顺序进行了十分详细的注释，同时为了和大家进行交流学习，所以把相关注释代码进行开源。因水平有限，错误肯定不少，还请各位大佬们指正。
 
-*   [smilefacehh/VINS-Fusion-DetailedNote](https://github.com/smilefacehh/VINS-Fusion-DetailedNote) - VINS-Fusion源码详细注释，单双目、IMU、GPS
+*   [lausen001/VINS-Fusion-DetailedNote](https://github.com/lausen001/VINS-Fusion-DetailedNote) - VINS-Fusion源码详细注释，单双目、IMU、GPS
 
 *   [KennyWGH/VINS-Fusion-Understood](https://github.com/KennyWGH/VINS-Fusion-Understood) - 完全可理解的VINS-Fusion：1.代码风格重构、2.全量靠谱注释、3.代码即文档、4.忠实于原代码；5.ROS解耦、6.状态量可视化、7.日志系统。
 
@@ -1157,7 +1157,7 @@
 
 *   [HuangCongQing/pcl-learning](https://github.com/HuangCongQing/pcl-learning) - 🔥PCL（Point Cloud Library）点云库学习记录
 
-*   [smilefacehh/LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
+*   [lausen001/LIO-SAM-DetailedNote](https://github.com/lausen001/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
 
 *   [PoseLib/PoseLib](https://github.com/PoseLib/PoseLib) - Minimal solvers for calibrated camera pose estimation
 
