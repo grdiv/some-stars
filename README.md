@@ -35,6 +35,10 @@
 
 ## C++
 
+*   [artivis/kalmanif](https://github.com/artivis/kalmanif) - A small collection of Kalman Filters on Lie groups
+
+*   [cvg/pyceres](https://github.com/cvg/pyceres) - Factor graphs with Ceres in Python
+
 *   [RobustFieldAutonomyLab/DiSCo-SLAM](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) -
 
 *   [3dv-casia/MGSfM](https://github.com/3dv-casia/MGSfM) - \[ICCV 2025] MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion
@@ -2005,8 +2009,6 @@
 
 *   [geniki/neural-processes](https://github.com/geniki/neural-processes) - PyTorch implementation of Neural Processes
 
-*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-
 ## miscellaneous
 
 *   [ericzzj1989/Awesome-Image-Matching](https://github.com/ericzzj1989/Awesome-Image-Matching) - Bibliographic list for papers of image matching
@@ -2358,8 +2360,6 @@
 *   [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
 
 *   [qxiaofan/awesome\_3d\_slam\_resources](https://github.com/qxiaofan/awesome_3d_slam_resources) - 记录3D视觉、VSLAM、计算机视觉的干货资料。
-
-*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 
 ## C
 
