@@ -1343,6 +1343,8 @@
 
 *   [kuangliu/kitti-utils](https://github.com/kuangliu/kitti-utils) - KITTI coordinate transition & visualization tool
 
+*   [WHU-USI3DV/OSMLoc](https://github.com/WHU-USI3DV/OSMLoc) - \[Arxiv'24] OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Seman- tic Guidances
+
 *   [wangyizhao/PRIOR-SLAM](https://github.com/wangyizhao/PRIOR-SLAM) - PRIOR-SLAM: Enabling Visual SLAM for Loop Closure under Large Viewpoint Variations
 
 *   [ai4ce/MSG](https://github.com/ai4ce/MSG) - \[NeurIPS2024] Multiview Scene Graph (topologically representing a scene from unposed images by interconnected place and object nodes)
@@ -2024,8 +2026,6 @@
 *   [IMRL/FreeIni](https://github.com/IMRL/FreeIni) - This is the code repository for the IEEE-RAL'24 paper "Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for FMCW LiDAR-Inertial Systems, IEEE Robotics and Automation Letters (RA-L),"
 
 *   [aab0/awesome-jobs](https://github.com/aab0/awesome-jobs) - 每天收集互联网大厂开发岗位。
-
-*   [WHU-USI3DV/OSMLoc](https://github.com/WHU-USI3DV/OSMLoc) - \[Arxiv'24] OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Seman- tic Guidances
 
 *   [meiavy/books](https://github.com/meiavy/books) -
 
