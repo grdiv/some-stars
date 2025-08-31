@@ -351,6 +351,8 @@
 
 *   [lian-yue0515/MM-LINS](https://github.com/lian-yue0515/MM-LINS) - a Multi-Map LiDAR-Inertial System for Over-Degraded Environments
 
+*   [Es1erda/MFCalib](https://github.com/Es1erda/MFCalib) - Automatic Extrinsic Calibration for LiDAR and Camera in Targetless Environments Based on Multi-Feature Edge in One-shot
+
 *   [KumarRobotics/SLIDE\_SLAM](https://github.com/KumarRobotics/SLIDE_SLAM) - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation
 
 *   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
@@ -2068,8 +2070,6 @@
 *   [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX
 
 *   [52CV/ECCV-2024-Papers](https://github.com/52CV/ECCV-2024-Papers) -
-
-*   [Es1erda/MFCalib](https://github.com/Es1erda/MFCalib) - Automatic Extrinsic Calibration for LiDAR and Camera in Targetless Environments Based on Multi-Feature Edge in One-shot
 
 *   [yuancaimaiyi/semantic-gaussians](https://github.com/yuancaimaiyi/semantic-gaussians) - Official implemetation of the paper "Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting".
 
