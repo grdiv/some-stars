@@ -2525,8 +2525,6 @@
 
 *   [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
 *   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 
 *   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -2564,6 +2562,8 @@
 *   [afiliot/Balanced-Graph-Matching](https://github.com/afiliot/Balanced-Graph-Matching) - Compressed Sensing project - ENSAE ParisTech
 
 *   [laugh12321/RoadLaneFitting](https://github.com/laugh12321/RoadLaneFitting) - Lane Line Fitting Based on Perspective Transformation | 基于透视变换的车道线拟合
+
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 *   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
 
