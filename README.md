@@ -45,8 +45,6 @@
 
 *   [Franky-X/TON-VIO](https://github.com/Franky-X/TON-VIO) -
 
-*   [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
-
 *   [xuqingyuan2000/LP-ICP](https://github.com/xuqingyuan2000/LP-ICP) -
 
 *   [IMRL/FreeIni](https://github.com/IMRL/FreeIni) - This is the code repository for the IEEE-RAL'24 paper "Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for FMCW LiDAR-Inertial Systems, IEEE Robotics and Automation Letters (RA-L),"
@@ -2352,6 +2350,8 @@
 ## TeX
 
 *   [xiaoweiChen/Cpp-Memory-Management](https://github.com/xiaoweiChen/Cpp-Memory-Management) - 《C++ Memory Management》的非专业个人翻译
+
+*   [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 
 *   [xiaoweiChen/Modern-CXX-Programming-Cookbook](https://github.com/xiaoweiChen/Modern-CXX-Programming-Cookbook) - 《Modern C++ Programming Cookbook - 3rd Edition》的非专业个人翻译
 
