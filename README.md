@@ -561,7 +561,7 @@
 
 *   [arttnba3/jsovon](https://github.com/arttnba3/jsovon) - Another lightweight C++ JSON library, provided simply as a C++ module.
 
-*   [fastfloat/fast\_float](https://github.com/fastfloat/fast_float) - Fast and exact implementation of the C++ from\_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, Chromium, Redis and WebKit/Safari
+*   [fastfloat/fast\_float](https://github.com/fastfloat/fast_float) - Fast and exact implementation of the C++ from\_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12, MySQL, Chromium, Redis and WebKit/Safari
 
 *   [GREAT-WHU/RoadLib](https://github.com/GREAT-WHU/RoadLib) - A lightweight library for instance-level visual road marking extraction, parameterization, mapping, etc.
 
