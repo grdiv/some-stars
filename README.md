@@ -415,7 +415,7 @@
 
 *   [SlamCabbage/NDTMC-LIO-SAM](https://github.com/SlamCabbage/NDTMC-LIO-SAM) - \[IROS2024] A SLAM method combined with NDTMC and LIO-SAM.
 
-*   [Happy-ZZX/PL-VIWO](https://github.com/Happy-ZZX/PL-VIWO) - (IROS2025) Lightweight and Robust Point-Line Monocular Visual Inertial Wheel Odometry
+*   [Happy-ZZX/PL-VIWO](https://github.com/Happy-ZZX/PL-VIWO) - Lightweight and Robust Point-Line Monocular Visual Inertial Wheel Odometry (IROS2025)
 
 *   [GDUT-Kyle/lins-gps-iris](https://github.com/GDUT-Kyle/lins-gps-iris) -
 
