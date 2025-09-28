@@ -34,6 +34,8 @@
 
 ## C++
 
+*   [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
+
 *   [sriram-0311/MC-SLAM](https://github.com/sriram-0311/MC-SLAM) - A robust, generic multi-camera visual-inertial SLAM system in C++ with a GTSAM back-end for real-time localization and mapping in challenging environments.
 
 *   [RichExplor/VIL\_Fusion](https://github.com/RichExplor/VIL_Fusion) - visual-inertial-lidar fusion
@@ -359,8 +361,6 @@
 *   [JinXiangLai/BA-and-pose-graph-problem](https://github.com/JinXiangLai/BA-and-pose-graph-problem) - 手写实现BA、PGO及LM优化器，研究相关状态量的变化规律
 
 *   [rsasaki0109/lidar\_undistortion](https://github.com/rsasaki0109/lidar_undistortion) - A header-only program of 3d rotary lidar undistortion using 9-axis imu
-
-*   [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
 
 *   [JokerJohn/LIO\_SAM\_6AXIS](https://github.com/JokerJohn/LIO_SAM_6AXIS) - LIO\_SAM for 6-axis IMU and  GNSS.
 
@@ -1368,8 +1368,6 @@
 
 *   [ychen921/Stereo\_VIO](https://github.com/ychen921/Stereo_VIO) - Implement visual inertial odometry from scratch
 
-*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a Python-based Visual SLAM pipeline that supports monocular, stereo, and RGB-D cameras. It offers a wide range of modern local and global features, multiple loop-closing strategies, a volumetric reconstruction pipeline, integration of depth prediction models, and semantic segmentation for enhanced scene understanding.
-
 *   [rlabbe/filterpy](https://github.com/rlabbe/filterpy) - Python Kalman filtering and optimal estimation library. Implements Kalman filter, particle filter, Extended Kalman filter, Unscented Kalman filter, g-h (alpha-beta), least squares, H Infinity, smoothers, and more. Has companion book 'Kalman and Bayesian Filters in Python'.
 
 *   [pykalman/pykalman](https://github.com/pykalman/pykalman) - Kalman Filter, Smoother, and EM Algorithm for Python
@@ -2351,6 +2349,8 @@
 *   [wanghuayou1028/ICRA2021-SLAM-paper-list](https://github.com/wanghuayou1028/ICRA2021-SLAM-paper-list) -
 
 *   [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
+
+*   [qxiaofan/awesome\_3d\_slam\_resources](https://github.com/qxiaofan/awesome_3d_slam_resources) - 记录3D视觉、VSLAM、计算机视觉的干货资料。
 
 ## TeX
 
