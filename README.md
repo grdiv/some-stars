@@ -34,6 +34,12 @@
 
 ## C++
 
+*   [leggedrobotics/holistic\_fusion](https://github.com/leggedrobotics/holistic_fusion) - Official repository for holistic fusion.
+
+*   [JokerJohn/DCReg](https://github.com/JokerJohn/DCReg) - DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration
+
+*   [leggedrobotics/graph\_msf](https://github.com/leggedrobotics/graph_msf) - A graph-based multi-sensor fusion framework. It can be used to fuse various relative or absolute measurments with IMU readings in real-time.
+
 *   [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
 
 *   [sriram-0311/MC-SLAM](https://github.com/sriram-0311/MC-SLAM) - A robust, generic multi-camera visual-inertial SLAM system in C++ with a GTSAM back-end for real-time localization and mapping in challenging environments.
@@ -524,8 +530,6 @@
 
 *   [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus) - 课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB
 
-*   [rwth-irt/gnssFGO](https://github.com/rwth-irt/gnssFGO) - This is the official repo of the project gnssFGO.
-
 *   [ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros](https://github.com/ArghyaChatterjee/gps-waypoint-based-autonomous-navigation-in-ros) - GPS points will be predefined for robots to navigate to the destination avoiding obstacles. Part of University Mars Rover Challenge - 2019.
 
 *   [AIRLab-POLIMI/C-SLAM](https://github.com/AIRLab-POLIMI/C-SLAM) - C-SLAM
@@ -811,8 +815,6 @@
 *   [chengwei0427/Lidar\_IMU\_Localization](https://github.com/chengwei0427/Lidar_IMU_Localization) - Lidar-IMU Localization System with Prior Map Constraint and Lio Constraint
 
 *   [i2Nav-WHU/OB\_GINS](https://github.com/i2Nav-WHU/OB_GINS) - An Optimization-Based GNSS/INS Integrated Navigation System
-
-*   [leggedrobotics/graph\_msf](https://github.com/leggedrobotics/graph_msf) - A graph-based multi-sensor fusion framework. It can be used to fuse various relative or absolute measurments with IMU readings in real-time.
 
 *   [rising-turtle/graph\_slam](https://github.com/rising-turtle/graph_slam) - Graph SLAM: VO, IMU Preintegration, Plane
 
@@ -1311,6 +1313,8 @@
 *   [UZ-SLAMLab/ORB\_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
 ## Python
+
+*   [silvery107/gtsam-pose-slam-practice](https://github.com/silvery107/gtsam-pose-slam-practice) - Pratice and example to solve the pose graph SLAM problem using GTSAM
 
 *   [hedemil/GraphSLAM](https://github.com/hedemil/GraphSLAM) -
 
@@ -1998,8 +2002,6 @@
 
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
-*   [Pose-Group/DCPose](https://github.com/Pose-Group/DCPose) - This is an official implementation of our CVPR 2021 paper "Deep Dual Consecutive Network for Human Pose Estimation" (https://openaccess.thecvf.com/content/CVPR2021/papers/Liu\_Deep\_Dual\_Consecutive\_Network\_for\_Human\_Pose\_Estimation\_CVPR\_2021\_paper.pdf)
-
 ## miscellaneous
 
 *   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
@@ -2349,8 +2351,6 @@
 *   [wanghuayou1028/ICRA2021-SLAM-paper-list](https://github.com/wanghuayou1028/ICRA2021-SLAM-paper-list) -
 
 *   [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
-
-*   [qxiaofan/awesome\_3d\_slam\_resources](https://github.com/qxiaofan/awesome_3d_slam_resources) - 记录3D视觉、VSLAM、计算机视觉的干货资料。
 
 ## TeX
 
