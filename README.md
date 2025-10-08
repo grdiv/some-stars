@@ -34,6 +34,8 @@
 
 ## C++
 
+*   [chichengcn/gici-open](https://github.com/chichengcn/gici-open) - GNSS/INS/Camera Integrated Navigation Library
+
 *   [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
 
 *   [leggedrobotics/holistic\_fusion](https://github.com/leggedrobotics/holistic_fusion) - Official repository for holistic fusion.
@@ -1311,8 +1313,6 @@
 *   [electech6/ORB\_SLAM2\_detailed\_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
 
 *   [raulmur/ORB\_SLAM](https://github.com/raulmur/ORB_SLAM) - A Versatile and Accurate Monocular SLAM
-
-*   [UZ-SLAMLab/ORB\_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 
 ## Python
 
