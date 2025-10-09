@@ -248,7 +248,7 @@
 
 *   [brucezhcw/VINS-Explorer](https://github.com/brucezhcw/VINS-Explorer) - A Super Tightly Coupled Visual-Inertial State Estimator
 
-*   [iisys-hof/map-matching-2](https://github.com/iisys-hof/map-matching-2) - High Performance Map Matching with Markov Decision Processes (MDPs) and Hidden Markov Models (HMMs).
+*   [addy90/map-matching-2](https://github.com/addy90/map-matching-2) - High Performance Map Matching with Markov Decision Processes (MDPs) and Hidden Markov Models (HMMs).
 
 *   [LiShuaixin/aloam\_gtsam](https://github.com/LiShuaixin/aloam_gtsam) - Advanced-LOAM modified by gtsam
 
