@@ -2444,8 +2444,6 @@
 
 *   [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 
-*   [zhangliangming/HappyPlayer5](https://github.com/zhangliangming/HappyPlayer5) - 乐乐音乐主要是基于ijkplayer框架开发的Android音乐播放器，它支持多种音频格式(mp3音频,ape音频,flac音频,wav音频等)、lrc歌词和动感歌词(ksc歌词,krc歌词,hrc歌词、网易云API歌词等)、翻译和音译歌词和桌面歌词及制作动感歌词、翻译歌词和音译歌词，以及MV和字幕功能。界面高仿酷狗。
-
 *   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
 
 *   [RyensX/MediaBox](https://github.com/RyensX/MediaBox) - 全能媒体容器，插件化网罗天下媒体，畅快浏览视频、漫画和任何你想要的媒体数据。A universal media container, aggregating media through plugins to browse videos, comics and any media data you want.
@@ -2533,6 +2531,8 @@
 *   [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 
 *   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+
+*   [zhangliangming/HappyPlayer5](https://github.com/zhangliangming/HappyPlayer5) - 乐乐音乐主要是基于ijkplayer框架开发的Android音乐播放器，它支持多种音频格式(mp3音频,ape音频,flac音频,wav音频等)、lrc歌词和动感歌词(ksc歌词,krc歌词,hrc歌词、网易云API歌词等)、翻译和音译歌词和桌面歌词及制作动感歌词、翻译歌词和音译歌词，以及MV和字幕功能。界面高仿酷狗。
 
 *   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
