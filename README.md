@@ -34,6 +34,8 @@
 
 ## miscellaneous
 
+*   [KwanWaiPang/Awesome-Learning-based-VO-VIO](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) - Paper Survey for Learning-based Odometry
+
 *   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
 
 *   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
@@ -1661,8 +1663,6 @@
 *   [karlkurzer/path\_planner](https://github.com/karlkurzer/path_planner) - Hybrid A\* Path Planner for the KTH Research Concept Vehicle
 
 *   [electech6/ORB\_SLAM3\_detailed\_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) - Detailed comments for ORB-SLAM3
-
-*   [electech6/ORB\_SLAM2\_detailed\_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments) - Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing
 
 ## Python
 
