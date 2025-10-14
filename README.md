@@ -34,6 +34,8 @@
 
 ## miscellaneous
 
+*   [grdiv/VizSLAM-Trajectory](https://github.com/grdiv/VizSLAM-Trajectory) - slam trajectory
+
 *   [KwanWaiPang/Awesome-Learning-based-VO-VIO](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) - Paper Survey for Learning-based Odometry
 
 *   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
@@ -1662,8 +1664,6 @@
 
 *   [karlkurzer/path\_planner](https://github.com/karlkurzer/path_planner) - Hybrid A\* Path Planner for the KTH Research Concept Vehicle
 
-*   [electech6/ORB\_SLAM3\_detailed\_comments](https://github.com/electech6/ORB_SLAM3_detailed_comments) - Detailed comments for ORB-SLAM3
-
 ## Python
 
 *   [silvery107/gtsam-pose-slam-practice](https://github.com/silvery107/gtsam-pose-slam-practice) - Pratice and example to solve the pose graph SLAM problem using GTSAM
@@ -2700,7 +2700,7 @@
 
 *   [keesiemeijer/maze-generator](https://github.com/keesiemeijer/maze-generator) - Create mazes using the recursive backtracking algorithm.
 
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/10183653901041.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
 
 *   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 
