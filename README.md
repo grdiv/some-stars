@@ -1758,7 +1758,7 @@
 
 *   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - A script toolkit for SLAM research, including but not limited to various plotting functions, ROS bag processing, and more.
 
-*   [X-LANCE/SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) - Speech, Language, Audio, Music Processing with Large Language Model
+*   [X-LANCE/SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) - A Framework for Speech, Language, Audio, Music Processing with Large Language Model
 
 *   [voldemortX/pytorch-auto-drive](https://github.com/voldemortX/pytorch-auto-drive) - PytorchAutoDrive: Segmentation models (ERFNet, ENet, DeepLab, FCN...) and Lane detection models (SCNN, RESA, LSTR, LaneATT, BézierLaneNet...) based on PyTorch with fast training, visualization, benchmarking & deployment help
 
