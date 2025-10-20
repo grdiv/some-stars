@@ -1,7 +1,8 @@
 ## Table of Contents
 
-*   [Jupyter Notebook](#jupyter-notebook)
+*   [Makefile](#makefile)
 *   [Python](#python)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [TeX](#tex)
@@ -24,7 +25,6 @@
 *   [Java](#java)
 *   [Rust](#rust)
 *   [Go](#go)
-*   [Makefile](#makefile)
 *   [Roff](#roff)
 *   [PostScript](#postscript)
 *   [Cuda](#cuda)
@@ -32,133 +32,37 @@
 *   [Markdown](#markdown)
 *   [AngelScript](#angelscript)
 
-## Jupyter Notebook
+## Makefile
 
-*   [ArashJavan/DeepLIO](https://github.com/ArashJavan/DeepLIO) - Deep Lidar Inertial Odometry
+*   [UMich-CURLY/slip\_detection\_DOB](https://github.com/UMich-CURLY/slip_detection_DOB) -
 
-*   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - (ICCVW2025) Learning-based Event-Inertial Odometry
+*   [jpl917/GeometricSLAM](https://github.com/jpl917/GeometricSLAM) - geometric based rgbd slam for low texture environment
 
-*   [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
+*   [VasiaBalaska/Semantic-Clustering-and-Localization](https://github.com/VasiaBalaska/Semantic-Clustering-and-Localization) -
 
-*   [borglab/gtsfm](https://github.com/borglab/gtsfm) - End-to-end SFM framework based on GTSAM
+*   [melights/PointCloud-CRF](https://github.com/melights/PointCloud-CRF) - Conditional Random Fields label refine on pointcloud
 
-*   [motokimura/kalman\_filter\_with\_kitti](https://github.com/motokimura/kalman_filter_with_kitti) - Applying extended Kalman filter to KITTI GPS/IMU data for vehicle localization
+*   [kinggreat24/pgo\_tutorial](https://github.com/kinggreat24/pgo_tutorial) - ceres, g2o, gtsam pose graph optimization tutorial
 
-*   [UditSinghParihar/mvg\_estimation](https://github.com/UditSinghParihar/mvg_estimation) - Implementation of Zhang method, homography decompostion, N-View Triangulation and Bundle adjustment from scratch
+*   [xjsong99/EnhancedLiDAR](https://github.com/xjsong99/EnhancedLiDAR) - Enhance LiDAR pointcloud based on stereo image.
 
-*   [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+*   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
 
-*   [Harsharma2308/camTracking\_GTSAM](https://github.com/Harsharma2308/camTracking_GTSAM) - Tracking only using cameras with a lidar map
+*   [leekaka/V\_SLAM](https://github.com/leekaka/V_SLAM) - 机器人视觉、移动机器人、跟踪、无人驾驶等
 
-*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
+*   [XungangYin/PointCloud](https://github.com/XungangYin/PointCloud) - 点云处理算法
 
-*   [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
+*   [melvinyesudas/PointCloud](https://github.com/melvinyesudas/PointCloud) - Point Cloud Data Processing.
 
-*   [afiliot/Balanced-Graph-Matching](https://github.com/afiliot/Balanced-Graph-Matching) - Compressed Sensing project - ENSAE ParisTech
+*   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
-*   [laugh12321/RoadLaneFitting](https://github.com/laugh12321/RoadLaneFitting) - Lane Line Fitting Based on Perspective Transformation | 基于透视变换的车道线拟合
+*   [alirezakazemipour/Geo-Localization](https://github.com/alirezakazemipour/Geo-Localization) - Localization without using GPS based on a previously provided map
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-
-*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
-
-*   [HuichuanLI/play-with-graph-algorithme](https://github.com/HuichuanLI/play-with-graph-algorithme) - python实现的初级图论算法库:环检测问题,桥和割点,最小生成树,最短路径,欧拉路径,哈密尔顿路径,拓扑排序，最大流问题，匹配问题(匈牙利算法)
-
-*   [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
-
-*   [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook) - LaTeX论文写作教程 (清华大学出版社)
-
-*   [autonomousvision/factor-fields](https://github.com/autonomousvision/factor-fields) - \[SIGGRAPH 2023] We provide a unified formula for neural fields (Factor Fields) and a novel dictionary factorization (Dictionary Fields)
-
-*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book\_4\_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
-
-*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
-
-*   [HOKOTATE-pzw/maysics](https://github.com/HOKOTATE-pzw/maysics) - This project is used for scientific calculating and fast modeling.
-
-*   [DefangChen/SemCKD](https://github.com/DefangChen/SemCKD) - \[AAAI-2021, TKDE-2023] Official implementation for "Cross-Layer Distillation with Semantic Calibration".
-
-*   [kymikim0401/Ego-Lane-fitting-Pointclouds](https://github.com/kymikim0401/Ego-Lane-fitting-Pointclouds) - This is the short, personal project. The goal of this project is to detect the ego lane markings and conduct polynomial fitting with small LiDAR point cloud. Due to lack of data, implementing Deep learning techniques is inappropriate; therefore, I wrote the source codes that cover from point cloud pre-processing to lane extraction algorithms using DBSCAN clustering & RANSAC algorithms.
-
-*   [cggos/mekd](https://github.com/cggos/mekd) - Maths, Estimation, Kinematics and Dynamics
-
-*   [unmannedlab/RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) - RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics
-
-*   [stschubert/VPR\_Tutorial](https://github.com/stschubert/VPR_Tutorial) -
-
-*   [JunHyeok96/Road-Segmentation](https://github.com/JunHyeok96/Road-Segmentation) - :rice\_scene: 인도 보행 구역 segmentation 모델
-
-*   [alexmelekhin/HPointLoc](https://github.com/alexmelekhin/HPointLoc) - HPointLoc: open dataset and framework for indoor visual localization based on synthetic RGB-D images
-
-*   [UsamaI000/CamVid-Segmentation-Pytorch](https://github.com/UsamaI000/CamVid-Segmentation-Pytorch) - This is the DL repository for Semantic Segmentation using U-Net model in pytorch library.
-
-*   [scaleapi/pandaset-devkit](https://github.com/scaleapi/pandaset-devkit) -
-
-*   [niudd/kaggle-cloud](https://github.com/niudd/kaggle-cloud) -
-
-*   [PrabhuSM16/VPGNet-Pytorch](https://github.com/PrabhuSM16/VPGNet-Pytorch) - A Pytorch implementation of VPGNet
-
-*   [SeokjuLee/VPGNet](https://github.com/SeokjuLee/VPGNet) - VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition (ICCV 2017)
-
-*   [Lukas-Justen/Lane-Marking-Detection](https://github.com/Lukas-Justen/Lane-Marking-Detection) - This is the final project for the Geospatial Vision and Visualization class at Northwestern University. The goal of the project is detecting the lane marking for a small LIDAR point cloud. Therefore, we cannot use a Deep Learning algorithm that learns to identify the lane markings by looking at a vast amount of data. Instead we will need to build a system that is able to identify the marking just by looking at the intensity value within the point cloud.
-
-*   [anupjsebastian/Self\_Driving\_Car\_Semantic\_Segmentation](https://github.com/anupjsebastian/Self_Driving_Car_Semantic_Segmentation) - Semantic Segmentation for Self-Driving Cars using the Mapillary Dataset
-
-*   [Michelle-NYX/DreamNet](https://github.com/Michelle-NYX/DreamNet) - CS230 Project: In this project, we investigate and evaluate the performance of the state-of-the-art model for instance segmentation, Mask R-CNN, on the newly-released Mapillary dataset, whose images focus specifically on driving scenes. We transfer the learning results from the pre-trained weights, fine tune the final layers for Mapillary Datasets. The result shows a significant improvement in precision measurements from the baseline, and achieves at a surpassing performance than benchmarks.
-
-*   [patrick-llgc/Learning-Deep-Learning](https://github.com/patrick-llgc/Learning-Deep-Learning) - Paper reading notes on Deep Learning and Machine Learning
-
-*   [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
-
-*   [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
-
-*   [MankaranSingh/Auto-Birds-Eye](https://github.com/MankaranSingh/Auto-Birds-Eye) - Bird's eye/Top Down view generation and mapping with deep learning.
-
-*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-
-*   [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
-
-*   [andreaconti/lidar-confidence](https://github.com/andreaconti/lidar-confidence) - Effective unsupervised framework aimed at explicitly addressing confidence estimation of LiDAR sparse depth maps
-
-*   [advaitsave/Multiclass-Semantic-Segmentation-CamVid](https://github.com/advaitsave/Multiclass-Semantic-Segmentation-CamVid) - Tensorflow 2 implementation of complete pipeline for multiclass image semantic segmentation using UNet, SegNet and FCN32 architectures on Cambridge-driving Labeled Video Database (CamVid) dataset.
-
-*   [HadXu/ML-From-Scratch](https://github.com/HadXu/ML-From-Scratch) - 机器学习算法 基于西瓜书以及《统计学习方法》，当然包括DL。
-
-*   [anch3or/Notes-on-Statistical-Learning-Methods](https://github.com/anch3or/Notes-on-Statistical-Learning-Methods) - 李航《统计学习方法》中机器学习模型的LaTeX公式笔记
-
-*   [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
-
-*   [parachutel/deeplabv3plus\_on\_Mapillary\_Vistas](https://github.com/parachutel/deeplabv3plus_on_Mapillary_Vistas) - Semantic Segmentation on the Mapillary Vistas Dataset
-
-*   [srihari-humbarwadi/Keras-Unet](https://github.com/srihari-humbarwadi/Keras-Unet) - Keras Unet model trained on Mapillary Vistas
-
-*   [victorycar/UNetModels](https://github.com/victorycar/UNetModels) - Testing how U-Net Image segmentation can be used for lane and derivable area detection.
-
-*   [mjDelta/CV-in-ADAS-pytorch](https://github.com/mjDelta/CV-in-ADAS-pytorch) - This repo includes Unet, Spatial CNN (S-CNN) and VPNet for  lane segmentation, and YOLO, Faster-RCNN, Stereo-RCNN for vehicle detection.
-
-*   [haopo2005/Semantic\_Segmentation\_Study](https://github.com/haopo2005/Semantic_Segmentation_Study) - My Semantic\_Segmentation\_Study Based on cityspace
-
-*   [akshaykulkarni07/pl-sem-seg](https://github.com/akshaykulkarni07/pl-sem-seg) - PyTorch Lightning based training of Semantic Segmentation models
-
-*   [4nonymou5/satelite\_road\_geometry](https://github.com/4nonymou5/satelite_road_geometry) - Generating semantic maps of road geometry through satellite view
-
-*   [lian999111/carla-semantic-localization](https://github.com/lian999111/carla-semantic-localization) - This repository stores the codes of my master's thesis "Semantic Landmark-based Localization in HD-Maps using Object-level Detections." The publication to ITSC 2021 based on this work is in progress.
-
-*   [Liang-ZX/VectorNet](https://github.com/Liang-ZX/VectorNet) - Pytorch implementation of CVPR2020 paper “VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation”
-
-*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
-
-*   [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
-
-*   [yiakwy/SEMANTIC\_VISUAL\_SUPPORTED\_ODEMETRY](https://github.com/yiakwy/SEMANTIC_VISUAL_SUPPORTED_ODEMETRY) - semantic visual slam for monocular and stereo camera devices
-
-*   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+*   [yepeichu123/slam\_module](https://github.com/yepeichu123/slam_module) -
 
 ## Python
+
+*   [princeton-vl/DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM) -
 
 *   [mapillary/OpenSfM](https://github.com/mapillary/OpenSfM) - Open source Structure-from-Motion pipeline
 
@@ -848,7 +752,131 @@
 
 *   [huchunxu/ros\_exploring](https://github.com/huchunxu/ros_exploring) - 《ROS机器人开发实践》源码
 
-*   [ethan-funny/explore-python](https://github.com/ethan-funny/explore-python) - :green\_book: The Beauty of Python Programming.
+## Jupyter Notebook
+
+*   [ArashJavan/DeepLIO](https://github.com/ArashJavan/DeepLIO) - Deep Lidar Inertial Odometry
+
+*   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - (ICCVW2025) Learning-based Event-Inertial Odometry
+
+*   [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
+
+*   [borglab/gtsfm](https://github.com/borglab/gtsfm) - End-to-end SFM framework based on GTSAM
+
+*   [motokimura/kalman\_filter\_with\_kitti](https://github.com/motokimura/kalman_filter_with_kitti) - Applying extended Kalman filter to KITTI GPS/IMU data for vehicle localization
+
+*   [UditSinghParihar/mvg\_estimation](https://github.com/UditSinghParihar/mvg_estimation) - Implementation of Zhang method, homography decompostion, N-View Triangulation and Bundle adjustment from scratch
+
+*   [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+
+*   [Harsharma2308/camTracking\_GTSAM](https://github.com/Harsharma2308/camTracking_GTSAM) - Tracking only using cameras with a lidar map
+
+*   [yubaoliu/RDS-SLAM](https://github.com/yubaoliu/RDS-SLAM) - DS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods
+
+*   [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
+
+*   [afiliot/Balanced-Graph-Matching](https://github.com/afiliot/Balanced-Graph-Matching) - Compressed Sensing project - ENSAE ParisTech
+
+*   [laugh12321/RoadLaneFitting](https://github.com/laugh12321/RoadLaneFitting) - Lane Line Fitting Based on Perspective Transformation | 基于透视变换的车道线拟合
+
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+*   [ut-amrl/ObVi-SLAM](https://github.com/ut-amrl/ObVi-SLAM) - Long-Term Object Visual SLAM
+
+*   [HuichuanLI/play-with-graph-algorithme](https://github.com/HuichuanLI/play-with-graph-algorithme) - python实现的初级图论算法库:环检测问题,桥和割点,最小生成树,最短路径,欧拉路径,哈密尔顿路径,拓扑排序，最大流问题，匹配问题(匈牙利算法)
+
+*   [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
+
+*   [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook) - LaTeX论文写作教程 (清华大学出版社)
+
+*   [autonomousvision/factor-fields](https://github.com/autonomousvision/factor-fields) - \[SIGGRAPH 2023] We provide a unified formula for neural fields (Factor Fields) and a novel dictionary factorization (Dictionary Fields)
+
+*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book\_4\_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
+
+*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
+
+*   [HOKOTATE-pzw/maysics](https://github.com/HOKOTATE-pzw/maysics) - This project is used for scientific calculating and fast modeling.
+
+*   [DefangChen/SemCKD](https://github.com/DefangChen/SemCKD) - \[AAAI-2021, TKDE-2023] Official implementation for "Cross-Layer Distillation with Semantic Calibration".
+
+*   [kymikim0401/Ego-Lane-fitting-Pointclouds](https://github.com/kymikim0401/Ego-Lane-fitting-Pointclouds) - This is the short, personal project. The goal of this project is to detect the ego lane markings and conduct polynomial fitting with small LiDAR point cloud. Due to lack of data, implementing Deep learning techniques is inappropriate; therefore, I wrote the source codes that cover from point cloud pre-processing to lane extraction algorithms using DBSCAN clustering & RANSAC algorithms.
+
+*   [cggos/mekd](https://github.com/cggos/mekd) - Maths, Estimation, Kinematics and Dynamics
+
+*   [unmannedlab/RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) - RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics
+
+*   [stschubert/VPR\_Tutorial](https://github.com/stschubert/VPR_Tutorial) -
+
+*   [JunHyeok96/Road-Segmentation](https://github.com/JunHyeok96/Road-Segmentation) - :rice\_scene: 인도 보행 구역 segmentation 모델
+
+*   [alexmelekhin/HPointLoc](https://github.com/alexmelekhin/HPointLoc) - HPointLoc: open dataset and framework for indoor visual localization based on synthetic RGB-D images
+
+*   [UsamaI000/CamVid-Segmentation-Pytorch](https://github.com/UsamaI000/CamVid-Segmentation-Pytorch) - This is the DL repository for Semantic Segmentation using U-Net model in pytorch library.
+
+*   [scaleapi/pandaset-devkit](https://github.com/scaleapi/pandaset-devkit) -
+
+*   [niudd/kaggle-cloud](https://github.com/niudd/kaggle-cloud) -
+
+*   [PrabhuSM16/VPGNet-Pytorch](https://github.com/PrabhuSM16/VPGNet-Pytorch) - A Pytorch implementation of VPGNet
+
+*   [SeokjuLee/VPGNet](https://github.com/SeokjuLee/VPGNet) - VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition (ICCV 2017)
+
+*   [Lukas-Justen/Lane-Marking-Detection](https://github.com/Lukas-Justen/Lane-Marking-Detection) - This is the final project for the Geospatial Vision and Visualization class at Northwestern University. The goal of the project is detecting the lane marking for a small LIDAR point cloud. Therefore, we cannot use a Deep Learning algorithm that learns to identify the lane markings by looking at a vast amount of data. Instead we will need to build a system that is able to identify the marking just by looking at the intensity value within the point cloud.
+
+*   [anupjsebastian/Self\_Driving\_Car\_Semantic\_Segmentation](https://github.com/anupjsebastian/Self_Driving_Car_Semantic_Segmentation) - Semantic Segmentation for Self-Driving Cars using the Mapillary Dataset
+
+*   [Michelle-NYX/DreamNet](https://github.com/Michelle-NYX/DreamNet) - CS230 Project: In this project, we investigate and evaluate the performance of the state-of-the-art model for instance segmentation, Mask R-CNN, on the newly-released Mapillary dataset, whose images focus specifically on driving scenes. We transfer the learning results from the pre-trained weights, fine tune the final layers for Mapillary Datasets. The result shows a significant improvement in precision measurements from the baseline, and achieves at a surpassing performance than benchmarks.
+
+*   [patrick-llgc/Learning-Deep-Learning](https://github.com/patrick-llgc/Learning-Deep-Learning) - Paper reading notes on Deep Learning and Machine Learning
+
+*   [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
+
+*   [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
+
+*   [MankaranSingh/Auto-Birds-Eye](https://github.com/MankaranSingh/Auto-Birds-Eye) - Bird's eye/Top Down view generation and mapping with deep learning.
+
+*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+
+*   [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
+
+*   [andreaconti/lidar-confidence](https://github.com/andreaconti/lidar-confidence) - Effective unsupervised framework aimed at explicitly addressing confidence estimation of LiDAR sparse depth maps
+
+*   [advaitsave/Multiclass-Semantic-Segmentation-CamVid](https://github.com/advaitsave/Multiclass-Semantic-Segmentation-CamVid) - Tensorflow 2 implementation of complete pipeline for multiclass image semantic segmentation using UNet, SegNet and FCN32 architectures on Cambridge-driving Labeled Video Database (CamVid) dataset.
+
+*   [HadXu/ML-From-Scratch](https://github.com/HadXu/ML-From-Scratch) - 机器学习算法 基于西瓜书以及《统计学习方法》，当然包括DL。
+
+*   [anch3or/Notes-on-Statistical-Learning-Methods](https://github.com/anch3or/Notes-on-Statistical-Learning-Methods) - 李航《统计学习方法》中机器学习模型的LaTeX公式笔记
+
+*   [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
+
+*   [parachutel/deeplabv3plus\_on\_Mapillary\_Vistas](https://github.com/parachutel/deeplabv3plus_on_Mapillary_Vistas) - Semantic Segmentation on the Mapillary Vistas Dataset
+
+*   [srihari-humbarwadi/Keras-Unet](https://github.com/srihari-humbarwadi/Keras-Unet) - Keras Unet model trained on Mapillary Vistas
+
+*   [victorycar/UNetModels](https://github.com/victorycar/UNetModels) - Testing how U-Net Image segmentation can be used for lane and derivable area detection.
+
+*   [mjDelta/CV-in-ADAS-pytorch](https://github.com/mjDelta/CV-in-ADAS-pytorch) - This repo includes Unet, Spatial CNN (S-CNN) and VPNet for  lane segmentation, and YOLO, Faster-RCNN, Stereo-RCNN for vehicle detection.
+
+*   [haopo2005/Semantic\_Segmentation\_Study](https://github.com/haopo2005/Semantic_Segmentation_Study) - My Semantic\_Segmentation\_Study Based on cityspace
+
+*   [akshaykulkarni07/pl-sem-seg](https://github.com/akshaykulkarni07/pl-sem-seg) - PyTorch Lightning based training of Semantic Segmentation models
+
+*   [4nonymou5/satelite\_road\_geometry](https://github.com/4nonymou5/satelite_road_geometry) - Generating semantic maps of road geometry through satellite view
+
+*   [lian999111/carla-semantic-localization](https://github.com/lian999111/carla-semantic-localization) - This repository stores the codes of my master's thesis "Semantic Landmark-based Localization in HD-Maps using Object-level Detections." The publication to ITSC 2021 based on this work is in progress.
+
+*   [Liang-ZX/VectorNet](https://github.com/Liang-ZX/VectorNet) - Pytorch implementation of CVPR2020 paper “VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation”
+
+*   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+
+*   [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
+
+*   [yiakwy/SEMANTIC\_VISUAL\_SUPPORTED\_ODEMETRY](https://github.com/yiakwy/SEMANTIC_VISUAL_SUPPORTED_ODEMETRY) - semantic visual slam for monocular and stereo camera devices
+
+*   [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 ## C++
 
@@ -2484,8 +2512,6 @@
 
 *   [wanghuayou1028/ICRA2021-SLAM-paper-list](https://github.com/wanghuayou1028/ICRA2021-SLAM-paper-list) -
 
-*   [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
-
 ## TeX
 
 *   [xiaoweiChen/Cpp-Memory-Management](https://github.com/xiaoweiChen/Cpp-Memory-Management) - 《C++ Memory Management》的非专业个人翻译
@@ -2845,32 +2871,6 @@
 *   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
 
 *   [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-
-## Makefile
-
-*   [jpl917/GeometricSLAM](https://github.com/jpl917/GeometricSLAM) - geometric based rgbd slam for low texture environment
-
-*   [VasiaBalaska/Semantic-Clustering-and-Localization](https://github.com/VasiaBalaska/Semantic-Clustering-and-Localization) -
-
-*   [melights/PointCloud-CRF](https://github.com/melights/PointCloud-CRF) - Conditional Random Fields label refine on pointcloud
-
-*   [kinggreat24/pgo\_tutorial](https://github.com/kinggreat24/pgo_tutorial) - ceres, g2o, gtsam pose graph optimization tutorial
-
-*   [xjsong99/EnhancedLiDAR](https://github.com/xjsong99/EnhancedLiDAR) - Enhance LiDAR pointcloud based on stereo image.
-
-*   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
-
-*   [leekaka/V\_SLAM](https://github.com/leekaka/V_SLAM) - 机器人视觉、移动机器人、跟踪、无人驾驶等
-
-*   [XungangYin/PointCloud](https://github.com/XungangYin/PointCloud) - 点云处理算法
-
-*   [melvinyesudas/PointCloud](https://github.com/melvinyesudas/PointCloud) - Point Cloud Data Processing.
-
-*   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
-
-*   [alirezakazemipour/Geo-Localization](https://github.com/alirezakazemipour/Geo-Localization) - Localization without using GPS based on a previously provided map
-
-*   [yepeichu123/slam\_module](https://github.com/yepeichu123/slam_module) -
 
 ## Roff
 
