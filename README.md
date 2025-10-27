@@ -34,6 +34,8 @@
 
 ## C++
 
+*   [TIERS/tiers-lidars-dataset-enhanced](https://github.com/TIERS/tiers-lidars-dataset-enhanced) -
+
 *   [zijiechenrobotics/ig\_lio](https://github.com/zijiechenrobotics/ig_lio) - iG-LIO: An Incremental GICP-based Tightly-coupled LiDAR-inertial Odometry
 
 *   [WANGYINGYU/Occupancy-SLAM](https://github.com/WANGYINGYU/Occupancy-SLAM) -
@@ -2803,8 +2805,6 @@
 *   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
 
 *   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
-
-*   [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) - 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
 
 ## Lua
 
