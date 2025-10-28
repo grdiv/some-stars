@@ -1734,7 +1734,7 @@
 
 *   [tianweiy/CenterPoint](https://github.com/tianweiy/CenterPoint) -
 
-*   [AubreyC/trajectory-extractor](https://github.com/AubreyC/trajectory-extractor) - Python implementation of a simple vehicle trajectories extractor from traffic cameras
+*   [AubreyC/trajectory-extractor](https://github.com/AubreyC/trajectory-extractor) - Python implementation of a simple vehicle trajectories extractor from traffic cameras.
 
 *   [haomo-ai/SuperFusion](https://github.com/haomo-ai/SuperFusion) - \[ICRA 2024] SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation
 
