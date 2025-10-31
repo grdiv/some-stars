@@ -134,7 +134,7 @@
 
 *   [fetty31/fast\_LIMO](https://github.com/fetty31/fast_LIMO) - A tightly coupled and real time LiDAR-Inertial SLAM algorithm. Based upon LIMO-Velo and FAST\_LIO projects.
 
-*   [GREAT-WHU/GREAT-MSF](https://github.com/GREAT-WHU/GREAT-MSF) - GREAT-MSF Beta: Advanced GNSS/INS fusion system supporting PPP/RTK, multi-GNSS, custom IMU, fast initialization, and visualization. Future releases will integrate LiDAR, cameras, HD maps, UWB, wheel odometry, and motion constraints.
+*   [GREAT-WHU/GREAT-MSF](https://github.com/GREAT-WHU/GREAT-MSF) - GREAT-MSF 1.0: Advanced GNSS/INS fusion system supporting PPP/RTK, multi-GNSS, wheel odometry, motion constraints, custom IMU, fast initialization, and visualization. Future releases will integrate LiDAR, cameras, HD maps and UWB.
 
 *   [SJTU-ViSYS/Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion) - Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases (ICRA2024)
 
