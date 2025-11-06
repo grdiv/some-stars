@@ -102,7 +102,7 @@
 
 *   [koide3/small\_gicp](https://github.com/koide3/small_gicp) - Efficient and parallel algorithms for point cloud registration \[C++, Python]
 
-*   [superxslam/SuperOdom](https://github.com/superxslam/SuperOdom) - A highly robust and accurate LiDAR-inertial odometry  package
+*   [superxslam/SuperOdom](https://github.com/superxslam/SuperOdom) - A highly robust and accurate LiDAR-only,  LiDAR-inertial odometry
 
 *   [piluohong/LICO-mid360](https://github.com/piluohong/LICO-mid360) - Lidar-Inertial-Camera fusion Odometry
 
