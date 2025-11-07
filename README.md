@@ -1336,6 +1336,8 @@
 
 *   [hedemil/GraphSLAM](https://github.com/hedemil/GraphSLAM) -
 
+*   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
+
 *   [rsasaki0109/RANSAC-plus](https://github.com/rsasaki0109/RANSAC-plus) - (unofficial)(2025)RANSAC Revisited: An Improved Algorithm for Robust Subspace Recovery under Adversarial and Noisy Corruptions
 
 *   [ffrivera0/reloc3r](https://github.com/ffrivera0/reloc3r) - \[CVPR 2025] Relative camera pose estimation and visual localization with Reloc3r
@@ -2183,8 +2185,6 @@
 *   [KwanWaiPang/Awesome-Learning-based-VO-VIO](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) - Paper Survey for Learning-based Odometry
 
 *   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
-
-*   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
 
 *   [LoveFaFa2333/Awesome-Online-HDMap](https://github.com/LoveFaFa2333/Awesome-Online-HDMap) - methods of online vector map for autonomous driving.
 
