@@ -34,6 +34,8 @@
 
 ## C++
 
+*   [GREAT-WHU/MI-Odom](https://github.com/GREAT-WHU/MI-Odom) -
+
 *   [feixyz10/oh\_my\_loam](https://github.com/feixyz10/oh_my_loam) - ROS-free implementation of LOAM
 
 *   [93won/lidar\_odometry](https://github.com/93won/lidar_odometry) - Probabilistic Kernel Optimization for Robust State Estimation
@@ -1315,8 +1317,6 @@
 *   [Zhuagenborn/Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) - 🧟 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.（通过逆向工程、内联Hook和动态链接库注入实现的《植物大战僵尸》双人网络对战，两名玩家分别使用植物或僵尸进行防守和攻击。）
 
 *   [shichaoy/pop\_up\_image](https://github.com/shichaoy/pop_up_image) - Real-time 3D Scene Layout from a Single Image Using Convolutional Neural Networks
-
-*   [yuxng/DA-RNN](https://github.com/yuxng/DA-RNN) - Semantic Mapping with Data Associated Recurrent Neural Networks
 
 ## Python
 
