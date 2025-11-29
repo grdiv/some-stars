@@ -1696,7 +1696,7 @@
 
 *   [hedemil/GraphSLAM](https://github.com/hedemil/GraphSLAM) -
 
-*   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
+*   [zhangganlin/vista-slam](https://github.com/zhangganlin/vista-slam) - \[3DV 2026] ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
 
 *   [rsasaki0109/RANSAC-plus](https://github.com/rsasaki0109/RANSAC-plus) - (unofficial)(2025)RANSAC Revisited: An Improved Algorithm for Robust Subspace Recovery under Adversarial and Noisy Corruptions
 
