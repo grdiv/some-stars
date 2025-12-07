@@ -2136,7 +2136,7 @@
 
 *   [cyd3r/notify-free-gpu](https://github.com/cyd3r/notify-free-gpu) - A telegram bot that sends you a message when the GPU is in use
 
-*   [ldkong1205/RoboDepth](https://github.com/ldkong1205/RoboDepth) - \[NeurIPS 2023] RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions
+*   [worldbench/RoboDepth](https://github.com/worldbench/RoboDepth) - \[NeurIPS 2023] RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions
 
 *   [RolandGao/RegSeg](https://github.com/RolandGao/RegSeg) - The official implementation of "Rethink Dilated Convolution for Real-time Semantic Segmentation"
 
