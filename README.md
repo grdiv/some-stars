@@ -2612,7 +2612,7 @@
 
 *   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 
-*   [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
+*   [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-on podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 
 *   [Chesire/Nekome](https://github.com/Chesire/Nekome) - Nekome is an Android application to manage tracked Anime and Manga lists.
 
