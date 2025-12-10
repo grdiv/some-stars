@@ -772,7 +772,7 @@
 
 *   [JokerJohn/Cloud\_Map\_Evaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation) - \[RAL' 25 & IROS‘ 25] MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework.
 
-*   [MIT-SPARK/Hydra](https://github.com/MIT-SPARK/Hydra) -
+*   [MIT-SPARK/Hydra](https://github.com/MIT-SPARK/Hydra) - A system for building 3D Scene Graphs from sensor data in real-time
 
 *   [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 
@@ -1397,8 +1397,6 @@
 *   [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything) - General AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask, AnyX
 
 *   [52CV/ECCV-2024-Papers](https://github.com/52CV/ECCV-2024-Papers) -
-
-*   [jackvale/rectg](https://github.com/jackvale/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 
 *   [yuancaimaiyi/semantic-gaussians](https://github.com/yuancaimaiyi/semantic-gaussians) - Official implemetation of the paper "Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting".
 
@@ -2739,6 +2737,8 @@
 *   [0xffff-one/0xffff-wiki](https://github.com/0xffff-one/0xffff-wiki) - 📖 0xFFFF CS Wiki 独立站点（施工中...）
 
 *   [gotohiroki/ha-labo-2d](https://github.com/gotohiroki/ha-labo-2d) -
+
+*   [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
 
 *   [keesiemeijer/maze-generator](https://github.com/keesiemeijer/maze-generator) - Create mazes using the recursive backtracking algorithm.
 
