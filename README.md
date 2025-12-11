@@ -52,7 +52,7 @@
 
 *   [feixyz10/oh\_my\_loam](https://github.com/feixyz10/oh_my_loam) - ROS-free implementation of LOAM
 
-*   [93won/lidar\_odometry](https://github.com/93won/lidar_odometry) - Probabilistic Kernel Optimization for Robust State Estimation
+*   [93won/lidar\_odometry](https://github.com/93won/lidar_odometry) - Fast LiDAR SLAM
 
 *   [ydsf16/TinyGrapeKit](https://github.com/ydsf16/TinyGrapeKit) - A bunch of state estimation algorithms
 
