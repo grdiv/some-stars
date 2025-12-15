@@ -724,6 +724,8 @@
 
 *   [ZJU-Robotics-Lab/GEM](https://github.com/ZJU-Robotics-Lab/GEM) - GEM: Online Globally consistent dense elevation mapping for unstructured terrain.
 
+*   [gonglei007/cpp-bugs-killer](https://github.com/gonglei007/cpp-bugs-killer) - 程序员们一起来找茬，通过分析代码bug来熟悉C++语言的特性。
+
 *   [Huguet57/LIMO-Velo](https://github.com/Huguet57/LIMO-Velo) - A real-time, direct and tightly-coupled LiDAR-Inertial SLAM for high velocities with spinning LiDARs
 
 *   [leavesnight/VIEO\_SLAM](https://github.com/leavesnight/VIEO_SLAM) - Simultaneous localizing and mapping through multiple visual, inertial measurement unit, encoders and maybe other odometers.
@@ -2377,8 +2379,6 @@
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
-*   [gonglei007/cpp-bugs-killer](https://github.com/gonglei007/cpp-bugs-killer) - 程序员们一起来找茬，通过分析代码bug来熟悉C++语言的特性。
 
 ## Makefile
 
