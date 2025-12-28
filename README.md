@@ -34,6 +34,8 @@
 
 ## miscellaneous
 
+*   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
+
 *   [yunsuk-jeung/lightweight\_vio](https://github.com/yunsuk-jeung/lightweight_vio) - Statistical Uncertainty Learning for Robust Visual-Inertial State Estimation
 
 *   [Gatsby23/vins-wheels](https://github.com/Gatsby23/vins-wheels) - VIO system incorporating wheel encoders
@@ -2373,8 +2375,6 @@
 *   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 
 *   [Dod-o/Statistical-Learning-Method\_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
-
-*   [tianqiraf/DouZero\_For\_HappyDouDiZhu](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu) - 基于DouZero定制AI实战欢乐斗地主
 
 ## Roff
 
