@@ -34,6 +34,8 @@
 
 ## C++
 
+*   [Liansheng-Wang/faster\_lio\_localization](https://github.com/Liansheng-Wang/faster_lio_localization) - Livox-Mid-360 Used in UAV based faster-lio. Add localization mode in built maps.
+
 *   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RAL-2025】A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
 
 *   [93won/360\_visual\_inertial\_odometry](https://github.com/93won/360_visual_inertial_odometry) - Visual-Inertial Odometry using 360 Camera
@@ -2373,8 +2375,6 @@
 *   [qcymkxyc/Image-Process](https://github.com/qcymkxyc/Image-Process) - 冈萨雷斯《数字图像处理》Python实现(第三版)
 
 *   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-
-*   [Dod-o/Statistical-Learning-Method\_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
 
 ## Roff
 
