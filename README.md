@@ -194,7 +194,7 @@
 
 *   [jaeyoungjo99/ELiMaLoc](https://github.com/jaeyoungjo99/ELiMaLoc) - EKF-based LiDAR-Inertial Map matching Localization
 
-*   [USTC-AIS-Lab/SI-LIO](https://github.com/USTC-AIS-Lab/SI-LIO) -
+*   [USTC-AIR-Lab/SI-LIO](https://github.com/USTC-AIR-Lab/SI-LIO) -
 
 *   [Joanna-HE/LIGO.](https://github.com/Joanna-HE/LIGO.) -
 
