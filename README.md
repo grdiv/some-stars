@@ -2412,7 +2412,7 @@
 
 *   [ArashJavan/DeepLIO](https://github.com/ArashJavan/DeepLIO) - Deep Lidar Inertial Odometry
 
-*   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - (ICCVW2025) Learning-based Event-Inertial Odometry
+*   [arclab-hku/DEIO](https://github.com/arclab-hku/DEIO) - (ICCV2025) Learning-based Event-Inertial Odometry
 
 *   [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 
