@@ -34,6 +34,8 @@
 
 ## C++
 
+*   [facebookresearch/projectaria\_tools](https://github.com/facebookresearch/projectaria_tools) - projectaria\_tools is an C++/Python open-source toolkit to interact with Project Aria data.
+
 *   [Liansheng-Wang/faster\_lio\_localization](https://github.com/Liansheng-Wang/faster_lio_localization) - Livox-Mid-360 Used in UAV based faster-lio. Add localization mode in built maps.
 
 *   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RAL-2026】 A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
@@ -2373,8 +2375,6 @@
 *   [nealjean/coreg](https://github.com/nealjean/coreg) - Implementation of Co-training Regressors (COREG) semi-supervised regression algorithm from Zhou and Li, 2005.
 
 *   [qcymkxyc/Image-Process](https://github.com/qcymkxyc/Image-Process) - 冈萨雷斯《数字图像处理》Python实现(第三版)
-
-*   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 
 ## Roff
 
