@@ -860,7 +860,7 @@
 
 *   [Liansheng-Wang/faster\_lio\_localization](https://github.com/Liansheng-Wang/faster_lio_localization) - Livox-Mid-360 Used in UAV based faster-lio. Add localization mode in built maps.
 
-*   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RAL-2026】 A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
+*   [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RA-L 2026】 A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
 
 *   [93won/360\_visual\_inertial\_odometry](https://github.com/93won/360_visual_inertial_odometry) - Visual-Inertial Odometry using 360 Camera
 
