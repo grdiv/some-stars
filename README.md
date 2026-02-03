@@ -722,6 +722,8 @@
 
 *   [tonypan2000/EECS568\_final](https://github.com/tonypan2000/EECS568_final) - InEKF Localization and Semantic Mapping on the KITTI Dataset
 
+*   [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
+
 *   [WFram/kaist\_tools](https://github.com/WFram/kaist_tools) -
 
 *   [TiagoCortinhal/SalsaNext](https://github.com/TiagoCortinhal/SalsaNext) - Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving
@@ -2433,8 +2435,6 @@
 *   [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 
 *   [Kyungpyo-Kim/Awesome-Autonomous-Driving-Company-Research](https://github.com/Kyungpyo-Kim/Awesome-Autonomous-Driving-Company-Research) - Awesome Autonomous Driving Company Research
-
-*   [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) - :sunglasses: A curated list of robotics libraries and software
 
 *   [kxhit/awesome-point-cloud-place-recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition) - A list of papers about point cloud based place recognition, also known as loop closure detection in SLAM (processing)
 
