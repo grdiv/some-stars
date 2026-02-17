@@ -1782,7 +1782,7 @@
 
 *   [PeterFWS/ORB\_SLAM\_COLOMAP](https://github.com/PeterFWS/ORB_SLAM_COLOMAP) - Finished: ORB\_SLAM2 with monocular reconstruction support using COLMAP
 
-*   [shachoi/HANet](https://github.com/shachoi/HANet) - Official PyTorch implementation of HANet (CVPR 2020)
+*   [sunghac/HANet](https://github.com/sunghac/HANet) - Official PyTorch implementation of HANet (CVPR 2020)
 
 *   [Kolkir/slam-playground](https://github.com/Kolkir/slam-playground) - Educational 2D SLAM implementation based on ICP and Pose Graph
 
@@ -2658,7 +2658,7 @@
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
 *   [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
 
