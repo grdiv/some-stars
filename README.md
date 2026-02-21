@@ -1462,6 +1462,8 @@
 
 *   [tjiiv-cprg/EPro-PnP-v2](https://github.com/tjiiv-cprg/EPro-PnP-v2) - \[TPAMI 2024] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 
+*   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
+
 *   [weiningwei/arxiv-daily](https://github.com/weiningwei/arxiv-daily) -
 
 *   [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - \[NeurIPS 2024] Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
@@ -2737,8 +2739,6 @@
 *   [0xffff-one/0xffff-wiki](https://github.com/0xffff-one/0xffff-wiki) - 📖 0xFFFF CS Wiki 独立站点（施工中...）
 
 *   [gotohiroki/ha-labo-2d](https://github.com/gotohiroki/ha-labo-2d) -
-
-*   [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
 
 *   [keesiemeijer/maze-generator](https://github.com/keesiemeijer/maze-generator) - Create mazes using the recursive backtracking algorithm.
 
