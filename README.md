@@ -2142,7 +2142,7 @@
 
 *   [Yaepiii/SLAM\_Paper](https://github.com/Yaepiii/SLAM_Paper) - SLAM Paper that I have read and commented
 
-*   [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+*   [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 
 *   [KangchengLiu/deep-learning-localization-mapping](https://github.com/KangchengLiu/deep-learning-localization-mapping) - A collection of deep learning based localization models
 
