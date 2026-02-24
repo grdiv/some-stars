@@ -2306,7 +2306,7 @@
 
 *   [hehefan/Awesome-Dynamic-Point-Cloud-Analysis](https://github.com/hehefan/Awesome-Dynamic-Point-Cloud-Analysis) -
 
-*   [zju3dv/DeFlowSLAM](https://github.com/zju3dv/DeFlowSLAM) - code for "DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM"
+*   [zju3dv/D3FlowSLAM](https://github.com/zju3dv/D3FlowSLAM) - code for "DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM"
 
 *   [Taeyoung96/ICRA-2022-SLAM-paper-list](https://github.com/Taeyoung96/ICRA-2022-SLAM-paper-list) - Unofficial ICRA 2022 SLAM paper list
 
