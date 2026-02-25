@@ -34,6 +34,18 @@
 
 ## C++
 
+*   [facontidavide/LeGO-LOAM-BOR](https://github.com/facontidavide/LeGO-LOAM-BOR) - LeGO-LOAM-BOR: optimized Lidar Odometry and Mapping
+
+*   [lichengyang-robot/wheel\_imu\_ekf](https://github.com/lichengyang-robot/wheel_imu_ekf) -
+
+*   [CPerezRuiz335/LIMOncello](https://github.com/CPerezRuiz335/LIMOncello) - Iterated Error-State Kalman Filter on the SGal(3) Manifold for Fast LiDAR-Inertial Odometry.
+
+*   [SanghyunPark01/FAST\_LIO\_LOCALIZATION\_gravity\_align](https://github.com/SanghyunPark01/FAST_LIO_LOCALIZATION_gravity_align) - Map-based Localization using FAST-LIO2 with gravity align
+
+*   [HViktorTsoi/FAST\_LIO\_LOCALIZATION](https://github.com/HViktorTsoi/FAST_LIO_LOCALIZATION) - A simple localization framework that can re-localize in built maps based on FAST-LIO.
+
+*   [Gaochao-hit/LIO-SAM\_based\_relocalization](https://github.com/Gaochao-hit/LIO-SAM_based_relocalization) - A simple system that can relocalize a robot on a built map is developed in this system. The system is based on LIO-SAM.
+
 *   [chengwei0427/II-NVM](https://github.com/chengwei0427/II-NVM) - \[RA-L'25 & IROS'25] II-NVM: Enhancing Map Accuracy and Consistency with Normal Vector-Assisted Mapping
 
 *   [hanzheteng/icp\_visualization](https://github.com/hanzheteng/icp_visualization) - Visualize each iteration of ICP-like algorithms in RViz, including residuals, normals, correspondences.
@@ -852,8 +864,6 @@
 
 *   [bigbigpark/imu\_gps\_fusion](https://github.com/bigbigpark/imu_gps_fusion) - IMU + GPS fusion scratch using ROS
 
-*   [Mitchell-Lee-93/kitti-lego-loam](https://github.com/Mitchell-Lee-93/kitti-lego-loam) - Easy description to run and evaluate Lego-LOAM with KITTI-data
-
 *   [ethz-asl/lidar\_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor
 
 *   [ethz-asl/geodetic\_utils](https://github.com/ethz-asl/geodetic_utils) - Simple library for converting coordinates to/from several geodetic frames (lat/lon, ECEF, ENU, NED, etc.)
@@ -1194,8 +1204,6 @@
 
 *   [hku-mars/BALM](https://github.com/hku-mars/BALM) - An efficient and consistent bundle adjustment for lidar mapping
 
-*   [Gaochao-hit/LIO-SAM\_based\_relocalization](https://github.com/Gaochao-hit/LIO-SAM_based_relocalization) - A simple system that can relocalize a robot on a built map is developed in this system. The system is based on LIO-SAM.
-
 *   [PeterFWS/Structure-PLP-SLAM](https://github.com/PeterFWS/Structure-PLP-SLAM) - \[ICRA'23] The official Implementation of "Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras"
 
 *   [jedeschaud/ct\_icp](https://github.com/jedeschaud/ct_icp) - CT-ICP: Continuous-Time LiDAR Odometry
@@ -1338,11 +1346,9 @@
 
 *   [gxytcrc/semantic-histogram-based-global-localization](https://github.com/gxytcrc/semantic-histogram-based-global-localization) - Semantic graph based global localization for multi-robot map fusion.
 
-*   [GSORF/Visual-GPS-SLAM](https://github.com/GSORF/Visual-GPS-SLAM) - This is a repo for my master thesis research about the Fusion of Visual SLAM and GPS. It contains the research paper, code and other interesting data.
-
-*   [martinruenz/maskfusion](https://github.com/martinruenz/maskfusion) - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects
-
 ## Python
+
+*   [aevainc/Doppler-ICP](https://github.com/aevainc/Doppler-ICP) - Official code release for Doppler ICP
 
 *   [PengYu-Team/GEODE\_dataset](https://github.com/PengYu-Team/GEODE_dataset) - Extending the Robustness of LiDAR SLAM to Geometrically Degenerate Scenarios
 
@@ -2380,10 +2386,6 @@
 
 *   [guyuehome/ros\_21\_tutorials](https://github.com/guyuehome/ros_21_tutorials) - 《古月 · ROS入门21讲》课件&源码
 
-*   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
-
-*   [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) - A curated list of SLAM resources
-
 ## Jupyter Notebook
 
 *   [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
@@ -2857,8 +2859,6 @@
 *   [janinethoma/image\_navigation\_matlab](https://github.com/janinethoma/image_navigation_matlab) - Matlab demo for our CVPR'19 publication: Mapping, Localization and Path Planning for Image-based Navigation using Visual Features and Map
 
 *   [Ayatans/Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework) - Matlab Coding homework for Machine Learning
-
-*   [TUC-ProAut/VSA\_Toolbox](https://github.com/TUC-ProAut/VSA_Toolbox) -
 
 ## Java
 
