@@ -34,6 +34,16 @@
 
 ## C++
 
+*   [Livox-SDK/livox\_horizon\_loam](https://github.com/Livox-SDK/livox_horizon_loam) - Livox horizon porting for loam
+
+*   [JzHuai0108/cascaded\_pgo](https://github.com/JzHuai0108/cascaded_pgo) - Rotation only PGO + translation only PGO + 6DOF PGO by ceres
+
+*   [klammecr/superslam](https://github.com/klammecr/superslam) - SLAM with deep learning feature and descriptors (SuperPoint)
+
+*   [gaochq/IMU\_Attitude\_Estimator](https://github.com/gaochq/IMU_Attitude_Estimator) - Estimate AHRS attitude with EKF, ESKF and Mahony filter.
+
+*   [tu-darmstadt-ros-pkg/odom\_fusion](https://github.com/tu-darmstadt-ros-pkg/odom_fusion) - ROS package for accurate odometry estimation by fusing track/wheel odometry and IMU readings leveraging GTSAM
+
 *   [facontidavide/LeGO-LOAM-BOR](https://github.com/facontidavide/LeGO-LOAM-BOR) - LeGO-LOAM-BOR: optimized Lidar Odometry and Mapping
 
 *   [lichengyang-robot/wheel\_imu\_ekf](https://github.com/lichengyang-robot/wheel_imu_ekf) -
@@ -1344,8 +1354,6 @@
 
 *   [hku-mars/loam\_livox](https://github.com/hku-mars/loam_livox) - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR
 
-*   [gxytcrc/semantic-histogram-based-global-localization](https://github.com/gxytcrc/semantic-histogram-based-global-localization) - Semantic graph based global localization for multi-robot map fusion.
-
 ## Python
 
 *   [aevainc/Doppler-ICP](https://github.com/aevainc/Doppler-ICP) - Official code release for Doppler ICP
@@ -1622,7 +1630,7 @@
 
 *   [songtaohe/LaneExtraction](https://github.com/songtaohe/LaneExtraction) -
 
-*   [TonyXuQAQ/CenterLineDet](https://github.com/TonyXuQAQ/CenterLineDet) - Offical repo of paper CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation
+*   [TonyXuQAQ/CenterLineDet](https://github.com/TonyXuQAQ/CenterLineDet) - \[ICRA 2023] CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation
 
 *   [jingy1yu/ScalableMap](https://github.com/jingy1yu/ScalableMap) - The official repository for ScalableMap (CoRL 2023)
 
@@ -2098,7 +2106,7 @@
 
 *   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
 
-*   [wheelos-euc/lidar-detection](https://github.com/wheelos-euc/lidar-detection) -
+*   [wheelos-euc/whl-centerpoint](https://github.com/wheelos-euc/whl-centerpoint) -
 
 *   [mahmood-ul-hasan/slam-related-resources](https://github.com/mahmood-ul-hasan/slam-related-resources) - A collection of SLAM, odometry methods, and related resources frequently referenced in robotics and ROS research. This repository includes various algorithms, tools, and datasets for 2D/3D LiDAR, visual-inertial odometry, and feature-based SLAM implementations, with a focus on ROS and ROS2 compatibility.
 
@@ -2158,7 +2166,7 @@
 
 *   [pengsida/learning\_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 
-*   [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
+*   [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2026
 
 *   [jinyummiao/map-in-mono-reloc](https://github.com/jinyummiao/map-in-mono-reloc) - a paper list of visual re-localization algorithms
 
@@ -2384,8 +2392,6 @@
 
 *   [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) - A list of open-source, affordable, less-known, or visionary robotics projects.
 
-*   [guyuehome/ros\_21\_tutorials](https://github.com/guyuehome/ros_21_tutorials) - 《古月 · ROS入门21讲》课件&源码
-
 ## Jupyter Notebook
 
 *   [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
@@ -2557,8 +2563,6 @@
 *   [alankarkotwal/stereo-vo](https://github.com/alankarkotwal/stereo-vo) - Visual Odometry using Stereo and Pointcloud Alignment
 
 *   [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) - 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
-
-*   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
 
 ## C
 
@@ -2768,8 +2772,6 @@
 
 *   [egonSchiele/grokking\_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://www.amazon.com/dp/1633438538)
 
-*   [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-
 ## Dart
 
 *   [realth000/tsdm\_client](https://github.com/realth000/tsdm_client) - 天使动漫论坛官方跨平台客户端
@@ -2815,8 +2817,6 @@
 *   [ZXW2600/inverse\_perspective\_map\_ros](https://github.com/ZXW2600/inverse_perspective_map_ros) -
 
 *   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
-
-*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
 
 ## Lua
 
