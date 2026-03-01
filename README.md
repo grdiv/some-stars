@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [cuitaixiang/LOAM\_NOTED](https://github.com/cuitaixiang/LOAM_NOTED) - loam code noted in Chinese（loam中文注解版）
+
 *   [hku-mars/r2live](https://github.com/hku-mars/r2live) - R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping package
 
 *   [hku-mars/MARSIM](https://github.com/hku-mars/MARSIM) - MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs
@@ -1410,8 +1412,6 @@
 *   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
 *   [AgoraIO/Basic-Video-Call](https://github.com/AgoraIO/Basic-Video-Call) - Sample app to join/leave a channel, mute/unmute, enable/disable the video, and switch between front/rear cameras.
-
-*   [tencentyun/TRTCSDK](https://github.com/tencentyun/TRTCSDK) - 腾讯云TRTC音视频服务，国内下载镜像：
 
 ## Python
 
