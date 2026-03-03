@@ -1,6 +1,8 @@
 ## Table of Contents
 
+*   [Go](#go)
 *   [C++](#c)
+*   [CMake](#cmake)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -19,13 +21,11 @@
 *   [Dart](#dart)
 *   [Vue](#vue)
 *   [Matlab](#matlab)
-*   [CMake](#cmake)
 *   [Lua](#lua)
 *   [Ruby](#ruby)
 *   [MATLAB](#matlab-1)
 *   [Java](#java)
 *   [Rust](#rust)
-*   [Go](#go)
 *   [PostScript](#postscript)
 *   [Cuda](#cuda)
 *   [SCSS](#scss)
@@ -33,7 +33,17 @@
 *   [AngelScript](#angelscript)
 *   [Vim Script](#vim-script)
 
+## Go
+
+*   [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
+
+*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
+
+*   [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+
 ## C++
+
+*   [henryzhuhr/CMake-Templates](https://github.com/henryzhuhr/CMake-Templates) - Some CMake templates for building C/C++ projects quickly
 
 *   [cuitaixiang/LOAM\_NOTED](https://github.com/cuitaixiang/LOAM_NOTED) - loam code noted in Chinese（loam中文注解版）
 
@@ -1411,7 +1421,27 @@
 
 *   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
-*   [AgoraIO/Basic-Video-Call](https://github.com/AgoraIO/Basic-Video-Call) - Sample app to join/leave a channel, mute/unmute, enable/disable the video, and switch between front/rear cameras.
+## CMake
+
+*   [mortinger91/cpp-cmake-template](https://github.com/mortinger91/cpp-cmake-template) - Template for a C++ CMake project, using Github Actions and CTest.
+
+*   [rpavlik/cmake-modules](https://github.com/rpavlik/cmake-modules) - My collection of CMake modules
+
+*   [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
+
+*   [ARTI-Robots/mapping\_dataset\_styria](https://github.com/ARTI-Robots/mapping_dataset_styria) - Open mapping dataset of styria in Austria
+
+*   [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
+
+*   [ros-agriculture/tractor\_localization](https://github.com/ros-agriculture/tractor_localization) - Robot\_Localization with GPS and IMU
+
+*   [ZXW2600/inverse\_perspective\_map\_ros](https://github.com/ZXW2600/inverse_perspective_map_ros) -
+
+*   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
+
+*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
+
+*   [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) - 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
 
 ## Python
 
@@ -2651,8 +2681,6 @@
 
 *   [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 
-*   [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
-
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
@@ -2983,26 +3011,6 @@
 
 *   [avisingh599/vo-howard08](https://github.com/avisingh599/vo-howard08) - \[Reimplementation Howard 2008] A MATLAB implementation of Visual Odometry using Andrew Howard's 2008 paper.
 
-## CMake
-
-*   [rpavlik/cmake-modules](https://github.com/rpavlik/cmake-modules) - My collection of CMake modules
-
-*   [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
-
-*   [ARTI-Robots/mapping\_dataset\_styria](https://github.com/ARTI-Robots/mapping_dataset_styria) - Open mapping dataset of styria in Austria
-
-*   [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
-
-*   [ros-agriculture/tractor\_localization](https://github.com/ros-agriculture/tractor_localization) - Robot\_Localization with GPS and IMU
-
-*   [ZXW2600/inverse\_perspective\_map\_ros](https://github.com/ZXW2600/inverse_perspective_map_ros) -
-
-*   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
-
-*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
-
-*   [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) - 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
-
 ## Lua
 
 *   [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
@@ -3061,17 +3069,9 @@
 
 *   [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 
-*   [guolindev/booksource](https://github.com/guolindev/booksource) - 《第一行代码 第2版》全书源代码
-
 ## Rust
 
 *   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
-
-## Go
-
-*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
-
-*   [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
 ## PostScript
 
