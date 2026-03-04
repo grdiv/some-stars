@@ -1,7 +1,7 @@
 ## Table of Contents
 
-*   [Go](#go)
 *   [C++](#c)
+*   [Go](#go)
 *   [CMake](#cmake)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -33,15 +33,9 @@
 *   [AngelScript](#angelscript)
 *   [Vim Script](#vim-script)
 
-## Go
-
-*   [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
-
-*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
-
-*   [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-
 ## C++
+
+*   [zhongshp/DCL-SLAM](https://github.com/zhongshp/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
 
 *   [henryzhuhr/CMake-Templates](https://github.com/henryzhuhr/CMake-Templates) - Some CMake templates for building C/C++ projects quickly
 
@@ -1421,6 +1415,14 @@
 
 *   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
+## Go
+
+*   [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
+
+*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
+
+*   [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+
 ## CMake
 
 *   [mortinger91/cpp-cmake-template](https://github.com/mortinger91/cpp-cmake-template) - Template for a C++ CMake project, using Github Actions and CTest.
@@ -2734,8 +2736,6 @@
 *   [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote) - Elegant LaTeX Template for Notes
 
 *   [SLAM-future/slam-future](https://github.com/SLAM-future/slam-future) -
-
-*   [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
 ## C
 
