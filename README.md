@@ -35,6 +35,8 @@
 
 ## C++
 
+*   [zhang123-1999/combined\_INS](https://github.com/zhang123-1999/combined_INS) - INS/GNSS/ODO/NHC组合导航
+
 *   [zhongshp/DCL-SLAM](https://github.com/zhongshp/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
 
 *   [henryzhuhr/CMake-Templates](https://github.com/henryzhuhr/CMake-Templates) - Some CMake templates for building C/C++ projects quickly
@@ -1469,6 +1471,8 @@
 
 *   [sparolab/SOLiD](https://github.com/sparolab/SOLiD) - SOTA LiDAR Global Descriptor in LiDAR Place Recognition (accepted in RA-L'24 w/ ICRA'25)
 
+*   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
+
 *   [silvery107/gtsam-pose-slam-practice](https://github.com/silvery107/gtsam-pose-slam-practice) - Pratice and example to solve the pose graph SLAM problem using GTSAM
 
 *   [hedemil/GraphSLAM](https://github.com/hedemil/GraphSLAM) -
@@ -1837,7 +1841,7 @@
 
 *   [Lab-of-AI-and-Robotics/NFC\_relocalization](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization) -
 
-*   [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
+*   [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Utonia, Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 
 *   [mileyan/pseudo-LiDAR\_e2e](https://github.com/mileyan/pseudo-LiDAR_e2e) - pseudo-LiDAR\_e2e
 
@@ -2188,8 +2192,6 @@
 *   [grdiv/VizSLAM-Trajectory](https://github.com/grdiv/VizSLAM-Trajectory) - slam trajectory
 
 *   [KwanWaiPang/Awesome-Learning-based-VO-VIO](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) - Paper Survey for Learning-based Odometry
-
-*   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
 
 *   [LoveFaFa2333/Awesome-Online-HDMap](https://github.com/LoveFaFa2333/Awesome-Online-HDMap) - methods of online vector map for autonomous driving.
 
@@ -2916,8 +2918,6 @@
 *   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
 *   [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
-
-*   [weizy1981/deeplearning](https://github.com/weizy1981/deeplearning) -
 
 ## Dockerfile
 
