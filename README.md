@@ -799,7 +799,7 @@
 
 *   [gitouni/Spatial-Temporal-LiDAR-camera-Calibration](https://github.com/gitouni/Spatial-Temporal-LiDAR-camera-Calibration) - Spatial-Temporal-LiDAR-camera-Calibration
 
-*   [colmap/glomap](https://github.com/colmap/glomap) - GLOMAP - Global Structured-from-Motion Revisited
+*   [colmap/glomap](https://github.com/colmap/glomap) - \[DEPRECATED] GLOMAP - Global Structured-from-Motion Revisited
 
 *   [koide3/gtsam\_points](https://github.com/koide3/gtsam_points) - A collection of GTSAM factors and optimizers for point cloud SLAM
 
