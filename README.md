@@ -475,7 +475,7 @@
 
 *   [WANGYINGYU/Occupancy-SLAM](https://github.com/WANGYINGYU/Occupancy-SLAM) -
 
-*   [HorizonRobotics/GeoFlowSlam](https://github.com/HorizonRobotics/GeoFlowSlam) - A Robust Tightly-Coupled RGBD-Inertial and Legged Odometry Fusion SLAM for Dynamic Legged Robotics
+*   [HorizonRobotics/GeoFlowSlam](https://github.com/HorizonRobotics/GeoFlowSlam) - \[IROS 2025] A Robust Tightly-Coupled RGBD-Inertial and Legged Odometry Fusion SLAM for Dynamic Legged Robotics
 
 *   [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
 
