@@ -2,9 +2,9 @@
 
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
+*   [Python](#python)
 *   [Go](#go)
 *   [CMake](#cmake)
-*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Roff](#roff)
 *   [Makefile](#makefile)
@@ -37,8 +37,6 @@
 ## C++
 
 *   [i2Nav-WHU/GIOW-release](https://github.com/i2Nav-WHU/GIOW-release) - GNSS/INS/ODO/Wheel Angle Integrated Navigation Algorithm for an All-Wheel Steering Robot
-
-*   [zhang123-1999/combined\_INS](https://github.com/zhang123-1999/combined_INS) - INS/GNSS/ODO/NHC组合导航
 
 *   [zhongshp/DCL-SLAM](https://github.com/zhongshp/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
 
@@ -129,8 +127,6 @@
 *   [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
 
 *   [leggedrobotics/holistic\_fusion](https://github.com/leggedrobotics/holistic_fusion) - Official repository for holistic fusion.
-
-*   [JokerJohn/DCReg](https://github.com/JokerJohn/DCReg) - DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration
 
 *   [leggedrobotics/graph\_msf](https://github.com/leggedrobotics/graph_msf) - A graph-based multi-sensor fusion framework. It can be used to fuse various relative or absolute measurments with IMU readings in real-time.
 
@@ -1782,37 +1778,9 @@
 
 *   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 
-## Go
-
-*   [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
-
-*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
-
-*   [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-
-## CMake
-
-*   [mortinger91/cpp-cmake-template](https://github.com/mortinger91/cpp-cmake-template) - Template for a C++ CMake project, using Github Actions and CTest.
-
-*   [rpavlik/cmake-modules](https://github.com/rpavlik/cmake-modules) - My collection of CMake modules
-
-*   [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
-
-*   [ARTI-Robots/mapping\_dataset\_styria](https://github.com/ARTI-Robots/mapping_dataset_styria) - Open mapping dataset of styria in Austria
-
-*   [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
-
-*   [ros-agriculture/tractor\_localization](https://github.com/ros-agriculture/tractor_localization) - Robot\_Localization with GPS and IMU
-
-*   [ZXW2600/inverse\_perspective\_map\_ros](https://github.com/ZXW2600/inverse_perspective_map_ros) -
-
-*   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
-
-*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
-
-*   [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) - 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
-
 ## Python
+
+*   [zhang123-1999/combined\_INS](https://github.com/zhang123-1999/combined_INS) - INS/GNSS/ODO/NHC组合导航
 
 *   [aevainc/Doppler-ICP](https://github.com/aevainc/Doppler-ICP) - Official code release for Doppler ICP
 
@@ -1837,6 +1805,8 @@
 *   [sparolab/SOLiD](https://github.com/sparolab/SOLiD) - SOTA LiDAR Global Descriptor in LiDAR Place Recognition (accepted in RA-L'24 w/ ICRA'25)
 
 *   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
+
+*   [JokerJohn/DCReg](https://github.com/JokerJohn/DCReg) - DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration
 
 *   [silvery107/gtsam-pose-slam-practice](https://github.com/silvery107/gtsam-pose-slam-practice) - Pratice and example to solve the pose graph SLAM problem using GTSAM
 
@@ -2543,6 +2513,36 @@
 *   [you359/Keras-FasterRCNN](https://github.com/you359/Keras-FasterRCNN) - keras implementation of Faster R-CNN
 
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+## Go
+
+*   [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
+
+*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
+
+*   [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+
+## CMake
+
+*   [mortinger91/cpp-cmake-template](https://github.com/mortinger91/cpp-cmake-template) - Template for a C++ CMake project, using Github Actions and CTest.
+
+*   [rpavlik/cmake-modules](https://github.com/rpavlik/cmake-modules) - My collection of CMake modules
+
+*   [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
+
+*   [ARTI-Robots/mapping\_dataset\_styria](https://github.com/ARTI-Robots/mapping_dataset_styria) - Open mapping dataset of styria in Austria
+
+*   [kracejic/cleanCppProject](https://github.com/kracejic/cleanCppProject) - Clean C++ project for you to use. Features: Modern CMake, CPack, Doxygen, PlantUML, Catch Unit testing, static analysis
+
+*   [ros-agriculture/tractor\_localization](https://github.com/ros-agriculture/tractor_localization) - Robot\_Localization with GPS and IMU
+
+*   [ZXW2600/inverse\_perspective\_map\_ros](https://github.com/ZXW2600/inverse_perspective_map_ros) -
+
+*   [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
+
+*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
+
+*   [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS) - 🔥ROS(c++)机器人操作系统 学习（写于2020年夏）
 
 ## Jupyter Notebook
 
