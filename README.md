@@ -7,6 +7,7 @@
 *   [CMake](#cmake)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Roff](#roff)
+*   [MATLAB](#matlab)
 *   [Makefile](#makefile)
 *   [TeX](#tex)
 *   [C](#c-1)
@@ -21,10 +22,9 @@
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [Vue](#vue)
-*   [Matlab](#matlab)
+*   [Matlab](#matlab-1)
 *   [Lua](#lua)
 *   [Ruby](#ruby)
-*   [MATLAB](#matlab-1)
 *   [Java](#java)
 *   [Rust](#rust)
 *   [PostScript](#postscript)
@@ -109,8 +109,6 @@
 *   [TIERS/tiers-lidars-dataset-enhanced](https://github.com/TIERS/tiers-lidars-dataset-enhanced) -
 
 *   [zijiechenrobotics/ig\_lio](https://github.com/zijiechenrobotics/ig_lio) - iG-LIO: An Incremental GICP-based Tightly-coupled LiDAR-inertial Odometry
-
-*   [WANGYINGYU/Occupancy-SLAM](https://github.com/WANGYINGYU/Occupancy-SLAM) -
 
 *   [HorizonRobotics/GeoFlowSlam](https://github.com/HorizonRobotics/GeoFlowSlam) - \[IROS 2025] A Robust Tightly-Coupled RGBD-Inertial and Legged Odometry Fusion SLAM for Dynamic Legged Robotics
 
@@ -2690,6 +2688,42 @@
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
+## MATLAB
+
+*   [WANGYINGYU/Occupancy-SLAM](https://github.com/WANGYINGYU/Occupancy-SLAM) -
+
+*   [LiZhengXiao99/INS\_Course\_Matlab](https://github.com/LiZhengXiao99/INS_Course_Matlab) - 安徽理工大学惯性导航课程设计，实现导航级 IMU 的标定、对准、递推；额外写了 PSINS 的对准和递推的主函数，跟严老师的结果做对比。
+
+*   [snehalbhayani/SemiGeneralizedHomography](https://github.com/snehalbhayani/SemiGeneralizedHomography) -
+
+*   [gisbi-kim/scancontext\_tro](https://github.com/gisbi-kim/scancontext_tro) - scancontext++ (TRO 2022) codes
+
+*   [wangfudong/ZAC\_GM](https://github.com/wangfudong/ZAC_GM) - Implementation for the CVPR2020 paper "Zero-Assignment Constraint for Graph Matching with Outliers"
+
+*   [charoncode/ShapeGraph\_H2match](https://github.com/charoncode/ShapeGraph_H2match) -
+
+*   [zhuyachen/GOSMatch](https://github.com/zhuyachen/GOSMatch) -
+
+*   [i2Nav-WHU/Wheel-SLAM](https://github.com/i2Nav-WHU/Wheel-SLAM) - Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU
+
+*   [UMich-BipedLab/extrinsic\_lidar\_camera\_calibration](https://github.com/UMich-BipedLab/extrinsic_lidar_camera_calibration) - This is a package for extrinsic calibration between a 3D LiDAR and a camera, described in paper: Improvements to Target-Based 3D LiDAR to Camera Calibration. This package is used for Cassie Blue's 3D LiDAR semantic mapping and automation.
+
+*   [FBernuy/TSLM](https://github.com/FBernuy/TSLM) - Topological Semantic Mapping and Localization
+
+*   [xuchi7/RPnL](https://github.com/xuchi7/RPnL) - Pose Estimation from Line Correspondences: A Complete Analysis and A Series of Solutions
+
+*   [weisongwen/researchTools](https://github.com/weisongwen/researchTools) - useful blogs for research
+
+*   [BAILOOL/PlaceRecognition-LoopDetection](https://github.com/BAILOOL/PlaceRecognition-LoopDetection) - Light-weight place recognition and loop detection using road markings
+
+*   [janinethoma/image\_navigation\_matlab](https://github.com/janinethoma/image_navigation_matlab) - Matlab demo for our CVPR'19 publication: Mapping, Localization and Path Planning for Image-based Navigation using Visual Features and Map
+
+*   [Ayatans/Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework) - Matlab Coding homework for Machine Learning
+
+*   [TUC-ProAut/VSA\_Toolbox](https://github.com/TUC-ProAut/VSA_Toolbox) -
+
+*   [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics) - 数学知识点滴积累  矩阵 数值优化 神经网络反向传播 图优化 概率论 随机过程 卡尔曼滤波 粒子滤波 数学函数拟合
+
 ## Makefile
 
 *   [UMich-CURLY/slip\_detection\_DOB](https://github.com/UMich-CURLY/slip_detection_DOB) -
@@ -3025,40 +3059,6 @@
 ## Ruby
 
 *   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-
-## MATLAB
-
-*   [LiZhengXiao99/INS\_Course\_Matlab](https://github.com/LiZhengXiao99/INS_Course_Matlab) - 安徽理工大学惯性导航课程设计，实现导航级 IMU 的标定、对准、递推；额外写了 PSINS 的对准和递推的主函数，跟严老师的结果做对比。
-
-*   [snehalbhayani/SemiGeneralizedHomography](https://github.com/snehalbhayani/SemiGeneralizedHomography) -
-
-*   [gisbi-kim/scancontext\_tro](https://github.com/gisbi-kim/scancontext_tro) - scancontext++ (TRO 2022) codes
-
-*   [wangfudong/ZAC\_GM](https://github.com/wangfudong/ZAC_GM) - Implementation for the CVPR2020 paper "Zero-Assignment Constraint for Graph Matching with Outliers"
-
-*   [charoncode/ShapeGraph\_H2match](https://github.com/charoncode/ShapeGraph_H2match) -
-
-*   [zhuyachen/GOSMatch](https://github.com/zhuyachen/GOSMatch) -
-
-*   [i2Nav-WHU/Wheel-SLAM](https://github.com/i2Nav-WHU/Wheel-SLAM) - Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU
-
-*   [UMich-BipedLab/extrinsic\_lidar\_camera\_calibration](https://github.com/UMich-BipedLab/extrinsic_lidar_camera_calibration) - This is a package for extrinsic calibration between a 3D LiDAR and a camera, described in paper: Improvements to Target-Based 3D LiDAR to Camera Calibration. This package is used for Cassie Blue's 3D LiDAR semantic mapping and automation.
-
-*   [FBernuy/TSLM](https://github.com/FBernuy/TSLM) - Topological Semantic Mapping and Localization
-
-*   [xuchi7/RPnL](https://github.com/xuchi7/RPnL) - Pose Estimation from Line Correspondences: A Complete Analysis and A Series of Solutions
-
-*   [weisongwen/researchTools](https://github.com/weisongwen/researchTools) - useful blogs for research
-
-*   [BAILOOL/PlaceRecognition-LoopDetection](https://github.com/BAILOOL/PlaceRecognition-LoopDetection) - Light-weight place recognition and loop detection using road markings
-
-*   [janinethoma/image\_navigation\_matlab](https://github.com/janinethoma/image_navigation_matlab) - Matlab demo for our CVPR'19 publication: Mapping, Localization and Path Planning for Image-based Navigation using Visual Features and Map
-
-*   [Ayatans/Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework) - Matlab Coding homework for Machine Learning
-
-*   [TUC-ProAut/VSA\_Toolbox](https://github.com/TUC-ProAut/VSA_Toolbox) -
-
-*   [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics) - 数学知识点滴积累  矩阵 数值优化 神经网络反向传播 图优化 概率论 随机过程 卡尔曼滤波 粒子滤波 数学函数拟合
 
 ## Java
 
