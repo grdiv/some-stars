@@ -510,6 +510,8 @@
 
 *   [HpWang-whu/RoReg](https://github.com/HpWang-whu/RoReg) - \[TPAMI 2023] RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations
 
+*   [lucidrains/rectified-flow-pytorch](https://github.com/lucidrains/rectified-flow-pytorch) - Implementation of rectified flow and some of its followup research / improvements in Pytorch
+
 *   [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
 
 *   [songquanpeng/pytorch-deployment](https://github.com/songquanpeng/pytorch-deployment) - A template for rapid deployment of PyTorch models.
@@ -2514,8 +2516,6 @@
 
 *   [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
 
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
 ## Go
 
 *   [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
@@ -2820,7 +2820,7 @@
 
 *   [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 
-*   [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
+*   [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 
 *   [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
