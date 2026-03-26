@@ -1752,8 +1752,6 @@
 
 *   [ut-amrl/pom\_localization](https://github.com/ut-amrl/pom_localization) -
 
-*   [hku-mars/joint-lidar-camera-calib](https://github.com/hku-mars/joint-lidar-camera-calib) - Joint intrinsic and extrinsic LiDAR-camera calibration.
-
 *   [ruixiang440/Dual\_Iterative\_Refinement\_Method](https://github.com/ruixiang440/Dual_Iterative_Refinement_Method) - This is the code for A Dual Iterative Refinement Method for Non-rigid Shape Matching, https://arxiv.org/abs/2007.13049
 
 *   [stella-cv/stella\_vslam](https://github.com/stella-cv/stella_vslam) - This is a unofficial fork of OpenVSLAM (https://github.com/xdspacelab/openvslam)
@@ -2515,6 +2513,8 @@
 *   [oreillymedia/Learning-OpenCV-3\_examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples) -
 
 *   [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
+
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
 ## Go
 
