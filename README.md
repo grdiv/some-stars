@@ -2598,8 +2598,6 @@
 
 *   [kymikim0401/Ego-Lane-fitting-Pointclouds](https://github.com/kymikim0401/Ego-Lane-fitting-Pointclouds) - This is the short, personal project. The goal of this project is to detect the ego lane markings and conduct polynomial fitting with small LiDAR point cloud. Due to lack of data, implementing Deep learning techniques is inappropriate; therefore, I wrote the source codes that cover from point cloud pre-processing to lane extraction algorithms using DBSCAN clustering & RANSAC algorithms.
 
-*   [cggos/mekd](https://github.com/cggos/mekd) - Maths, Estimation, Kinematics and Dynamics
-
 *   [unmannedlab/RELLIS-3D](https://github.com/unmannedlab/RELLIS-3D) - RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics
 
 *   [stschubert/VPR\_Tutorial](https://github.com/stschubert/VPR_Tutorial) -
@@ -2685,6 +2683,8 @@
 *   [PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt
 
 *   [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
+
+*   [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 
 ## Roff
 
