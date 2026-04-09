@@ -408,8 +408,6 @@
 
 *   [rsasaki0109/tree-trunk-mapper](https://github.com/rsasaki0109/tree-trunk-mapper) - Detect and map individual tree trunks from LiDAR point clouds
 
-*   [zhang123-1999/combined\_INS](https://github.com/zhang123-1999/combined_INS) - INS/GNSS/ODO/NHC组合导航
-
 *   [aevainc/Doppler-ICP](https://github.com/aevainc/Doppler-ICP) - Official code release for Doppler ICP
 
 *   [PengYu-Team/GEODE\_dataset](https://github.com/PengYu-Team/GEODE_dataset) - Extending the Robustness of LiDAR SLAM to Geometrically Degenerate Scenarios
@@ -1149,6 +1147,8 @@
 *   [tier4/lioamm\_localizer](https://github.com/tier4/lioamm_localizer) - LiDAR Inertial Odometry and Map Matching Localization
 
 *   [i2Nav-WHU/GIOW-release](https://github.com/i2Nav-WHU/GIOW-release) - GNSS/INS/ODO/Wheel Angle Integrated Navigation Algorithm for an All-Wheel Steering Robot
+
+*   [zhang123-1999/combined\_INS](https://github.com/zhang123-1999/combined_INS) - INS/GNSS/ODO/NHC组合导航
 
 *   [zhongshp/DCL-SLAM](https://github.com/zhongshp/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
 
