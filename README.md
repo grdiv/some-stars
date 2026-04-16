@@ -1222,8 +1222,6 @@
 
 *   [geographiclib/geographiclib](https://github.com/geographiclib/geographiclib) - Main repository for GeographicLib
 
-*   [hyxhope/map\_evaluation\_tools](https://github.com/hyxhope/map_evaluation_tools) - This tool computes the *Mean Map Entropy* and the *Mean Plane Variance* of a point cloud.
-
 *   [hku-mars/BALM](https://github.com/hku-mars/BALM) - An efficient and consistent bundle adjustment for lidar mapping
 
 *   [PeterFWS/Structure-PLP-SLAM](https://github.com/PeterFWS/Structure-PLP-SLAM) - \[ICRA'23] The official Implementation of "Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras"
@@ -1411,6 +1409,8 @@
 *   [upwon/OpticalFlow](https://github.com/upwon/OpticalFlow) - 利用光流法进行运动目标检测
 
 *   [oreillymedia/Learning-OpenCV-3\_examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples) -
+
+*   [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
 
 ## Python
 
@@ -2192,7 +2192,7 @@
 
 *   [HAIRLAB/inlier-identification-via-l0](https://github.com/HAIRLAB/inlier-identification-via-l0) -
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 智能桌面助手：仅 895 KB，提供输入跟踪提示 + 超级热键 + AI 助手，可将各种桌面应用快速接入 AI  大模型
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - IᵐTⁱᵖ  智能桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 900 KB
 
 *   [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 
@@ -2940,7 +2940,7 @@
 
 *   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 
-*   [zhangliangming/HappyPlayer5](https://github.com/zhangliangming/HappyPlayer5) - 乐乐音乐主要是基于ijkplayer框架开发的Android音乐播放器，它支持多种音频格式(mp3音频,ape音频,flac音频,wav音频等)、lrc歌词和动感歌词(ksc歌词,krc歌词,hrc歌词、网易云API歌词等)、翻译和音译歌词和桌面歌词及制作动感歌词、翻译歌词和音译歌词，以及MV和字幕功能。界面高仿酷狗。
+*   [zhangliangming/HappyPlayer5](https://github.com/zhangliangming/HappyPlayer5) - 乐乐音乐主要是基于Compose-Desktop、鸿蒙、Flutter和Kotlin多种语言开发的音乐播放器，它支持多种音频格式、支持lrc歌词和动感歌词(ksc歌词,krc歌词,hrc歌词、网易云API歌词等)、翻译和音译歌词和桌面歌词及制作动感歌词、翻译歌词和音译歌词，以及MV和字幕功能。
 
 *   [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
