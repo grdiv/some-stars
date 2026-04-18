@@ -27,6 +27,7 @@
 *   [Ruby](#ruby)
 *   [Java](#java)
 *   [Rust](#rust)
+*   [PowerShell](#powershell)
 *   [PostScript](#postscript)
 *   [Cuda](#cuda)
 *   [SCSS](#scss)
@@ -2296,8 +2297,6 @@
 
 *   [mfkiwl/slam\_and\_leetcode](https://github.com/mfkiwl/slam_and_leetcode) - 一个SLAM算法方向学生的痛苦之旅，包括leetcode刷题、c++面经和SLAM相关知识点。欢迎协作！
 
-*   [liuqian62/notebook](https://github.com/liuqian62/notebook) - 记笔记，包括c++学习，slam学习，面经八股文
-
 *   [DWCTOD/interview](https://github.com/DWCTOD/interview) - 2021秋招 计算机视觉算法岗面经整理——包含实习和校招等 内推整理
 
 *   [nebula-beta/SLAM-Jobs](https://github.com/nebula-beta/SLAM-Jobs) - 这个一份SLAM/SFM求职指南，旨在帮助视觉SLAM/SFM的小伙伴们能够找到更好的工作。
@@ -3077,6 +3076,10 @@
 ## Rust
 
 *   [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
+
+## PowerShell
+
+*   [liuqian62/notebook](https://github.com/liuqian62/notebook) - 记笔记，包括c++学习，slam学习，面经八股文
 
 ## PostScript
 
