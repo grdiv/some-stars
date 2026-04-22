@@ -133,6 +133,8 @@
 
 *   [leggedrobotics/holistic\_fusion](https://github.com/leggedrobotics/holistic_fusion) - Official repository for holistic fusion.
 
+*   [JokerJohn/DCReg](https://github.com/JokerJohn/DCReg) - DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration
+
 *   [leggedrobotics/graph\_msf](https://github.com/leggedrobotics/graph_msf) - A graph-based multi-sensor fusion framework. It can be used to fuse various relative or absolute measurments with IMU readings in real-time.
 
 *   [luigifreda/slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
@@ -1446,8 +1448,6 @@
 *   [sparolab/SOLiD](https://github.com/sparolab/SOLiD) - SOTA LiDAR Global Descriptor in LiDAR Place Recognition (accepted in RA-L'24 w/ ICRA'25)
 
 *   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
-
-*   [JokerJohn/DCReg](https://github.com/JokerJohn/DCReg) - DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration
 
 *   [silvery107/gtsam-pose-slam-practice](https://github.com/silvery107/gtsam-pose-slam-practice) - Pratice and example to solve the pose graph SLAM problem using GTSAM
 
