@@ -37,6 +37,10 @@
 
 ## C++
 
+*   [Horizon1026/VIO\_Initializor](https://github.com/Horizon1026/VIO_Initializor) - Several initializor of visual-inertial odometry.
+
+*   [eduardo-llanos/DRT-VIO-INIT](https://github.com/eduardo-llanos/DRT-VIO-INIT) -
+
 *   [rsasaki0109/simple\_visual\_slam](https://github.com/rsasaki0109/simple_visual_slam) - Readable Visual SLAM in 6k lines of C++17. Mono/RGB-D/Stereo/DL-Depth, loop closing, ROS2 node. BSD-2-Clause.
 
 *   [tier4/lioamm\_localizer](https://github.com/tier4/lioamm_localizer) - LiDAR Inertial Odometry and Map Matching Localization
@@ -1413,8 +1417,6 @@
 
 *   [oreillymedia/Learning-OpenCV-3\_examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples) -
 
-*   [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
-
 ## Python
 
 *   [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
@@ -2684,8 +2686,6 @@
 *   [enggen/Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera) - Deep Learning Specialization by Andrew Ng, deeplearning.ai.
 
 *   [PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt
-
-*   [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
 
 ## Roff
 
