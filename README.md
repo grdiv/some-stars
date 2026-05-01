@@ -671,8 +671,6 @@
 
 *   [hku-mars/D-Map](https://github.com/hku-mars/D-Map) - D-Map provides an efficient occupancy mapping approach for high-resolution LiDAR sensors.
 
-*   [rsasaki0109/lidar\_localization\_ros2](https://github.com/rsasaki0109/lidar_localization_ros2) - 3D LIDAR Localization using NDT/GICP and pointcloud map in ROS 2 (Not SLAM)
-
 *   [Pamphlett/Outram](https://github.com/Pamphlett/Outram) - \[ICRA 2024] Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning
 
 *   [jmaye/curb-detection](https://github.com/jmaye/curb-detection) - A C++ based library for curb detection
@@ -1678,6 +1676,8 @@
 *   [tiangexiang/CurveNet](https://github.com/tiangexiang/CurveNet) - \[ICCV 2021] Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis
 
 *   [DylanWusee/pointconv\_pytorch](https://github.com/DylanWusee/pointconv_pytorch) - pytorch version of PointConv
+
+*   [rsasaki0109/lidar\_localization\_ros2](https://github.com/rsasaki0109/lidar_localization_ros2) - 3D LIDAR Localization using NDT/GICP and pointcloud map in ROS 2 (Not SLAM)
 
 *   [orion-orion/NumericalAnalysis-Python](https://github.com/orion-orion/NumericalAnalysis-Python) - 🔨 用Python+Numpy+Pytorch实现《数值分析》(Timothy Sauer著) 的所有算法。
 
