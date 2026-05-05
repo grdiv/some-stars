@@ -441,7 +441,7 @@
 
 *   [i2Nav-WHU/KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
 
-*   [gitouni/Spatial-Temporal-LiDAR-camera-Calibration](https://github.com/gitouni/Spatial-Temporal-LiDAR-camera-Calibration) - Spatial-Temporal-LiDAR-camera-Calibration
+*   [gitouni/Spatial-Temporal-LiDAR-camera-Calibration](https://github.com/gitouni/Spatial-Temporal-LiDAR-camera-Calibration) - Official Implementation of the paper "Targetless Lidar-camera Calibration via Cross-modality Structure Consistency"
 
 *   [colmap/glomap](https://github.com/colmap/glomap) - \[DEPRECATED] GLOMAP - Global Structured-from-Motion Revisited
 
