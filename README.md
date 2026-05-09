@@ -1821,7 +1821,7 @@
 
 *   [Lab-of-AI-and-Robotics/NFC\_relocalization](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization) -
 
-*   [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Utonia, Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
+*   [Pointcept/Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research. Latest works: Utonia (ICML'26), Concerto (NeurIPS'25), Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 
 *   [mileyan/pseudo-LiDAR\_e2e](https://github.com/mileyan/pseudo-LiDAR_e2e) - pseudo-LiDAR\_e2e
 
