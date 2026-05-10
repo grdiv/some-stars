@@ -2195,7 +2195,7 @@
 
 *   [HAIRLAB/inlier-identification-via-l0](https://github.com/HAIRLAB/inlier-identification-via-l0) -
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - IᵐTⁱᵖ  智能桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 900 KB
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - IᵐTⁱᵖ  智能桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 906 KB
 
 *   [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 
