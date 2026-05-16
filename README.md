@@ -2123,8 +2123,6 @@
 
 *   [DWCTOD/arXiv-CVPR2022-daily](https://github.com/DWCTOD/arXiv-CVPR2022-daily) - CVPR2022 update everyday!
 
-*   [rentruewang/learning-machine](https://github.com/rentruewang/learning-machine) - A handbook for ML built on answers.
-
 *   [timilsinamohan/SSR](https://github.com/timilsinamohan/SSR) - Semi-Supervised Regression
 
 *   [mvlearn/mvlearn](https://github.com/mvlearn/mvlearn) - Python package for multi-view machine learning
@@ -2668,6 +2666,8 @@
 *   [Liang-ZX/VectorNet](https://github.com/Liang-ZX/VectorNet) - Pytorch implementation of CVPR2020 paper “VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation”
 
 *   [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+
+*   [rentruewang/learning-machine](https://github.com/rentruewang/learning-machine) - A handbook for ML built on answers.
 
 *   [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 
