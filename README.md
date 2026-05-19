@@ -1359,7 +1359,7 @@
 
 *   [PatrykMazurek/SLAM-OR](https://github.com/PatrykMazurek/SLAM-OR) -
 
-*   [VIS4ROB-lab/multi\_robot\_coordination](https://github.com/VIS4ROB-lab/multi_robot_coordination) - "Multi-robot Coordination with Agent-Server Architecture for Autonomous Navigation in Partially Unknown Environments", IROS 2020
+*   [v4rl-ucy/multi\_robot\_coordination](https://github.com/v4rl-ucy/multi_robot_coordination) - "Multi-robot Coordination with Agent-Server Architecture for Autonomous Navigation in Partially Unknown Environments", IROS 2020
 
 *   [PJLab-ADG/Livox-Mapping](https://github.com/PJLab-ADG/Livox-Mapping) - An all-in-one and ready-to-use LiDAR-inertial odometry system for Livox LiDAR
 
@@ -2215,7 +2215,7 @@
 
 *   [MIXIAOXIN/LaneMapping](https://github.com/MIXIAOXIN/LaneMapping) -
 
-*   [wheelos-euc/whl-LIO-SAM](https://github.com/wheelos-euc/whl-LIO-SAM) -
+*   [wheelos-euc/whl-FAST-LIO2](https://github.com/wheelos-euc/whl-FAST-LIO2) -
 
 *   [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
 
