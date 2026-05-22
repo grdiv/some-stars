@@ -423,6 +423,8 @@
 
 *   [JinXiangLai/Octree-Map](https://github.com/JinXiangLai/Octree-Map) - 手写一个支持快速查询，支持任意动态扩展的八叉树地图
 
+*   [wheelos-euc/whl-FAST-LIO2](https://github.com/wheelos-euc/whl-FAST-LIO2) -
+
 *   [JinXiangLai/Basic-Mathematical-problems-of-SLAM](https://github.com/JinXiangLai/Basic-Mathematical-problems-of-SLAM) - 总结SLAM中基本的数学问题，并手写主要算法程序实现
 
 *   [Kin-Zhang/simple\_ndt\_slam](https://github.com/Kin-Zhang/simple_ndt_slam) - simple ndt slam, quick deploy on mobile robot, support mapping and localization (origin from autoware.ai); 简易slam包 快速部署使用
@@ -2214,8 +2216,6 @@
 *   [ShiqinHuo/Numerical-Optimization-Books](https://github.com/ShiqinHuo/Numerical-Optimization-Books) - Collected study materials in Numerical Optimization ANU@MATH3514(HPC)
 
 *   [MIXIAOXIN/LaneMapping](https://github.com/MIXIAOXIN/LaneMapping) -
-
-*   [wheelos-euc/whl-FAST-LIO2](https://github.com/wheelos-euc/whl-FAST-LIO2) -
 
 *   [sjtuyinjie/awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM) - A curated list of resources relevant to LiDAR-Visual-Fusion-SLAM
 
