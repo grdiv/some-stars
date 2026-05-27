@@ -759,7 +759,7 @@
 
 *   [HyHuang1995/gmmloc](https://github.com/HyHuang1995/gmmloc) - Implementation for IROS2020: "GMMLoc: Structure Consistent Visual Localization with Gaussian Mixture Model"
 
-*   [felixchenfy/Monocular-Visual-Odometry](https://github.com/felixchenfy/Monocular-Visual-Odometry) - A simple monocular visual odometry (part of vSLAM) by ORB keypoints with initialization, tracking, local map and bundle adjustment. (WARNING: Hi, I'm sorry that this project is tuned for course demo, not for real world applications !!!)
+*   [felixchenfy/Monocular-Visual-Odometry](https://github.com/felixchenfy/Monocular-Visual-Odometry) - Educational/research monocular visual odometry implementation with ORB features, initialization, tracking, local mapping, and bundle adjustment in C++.
 
 *   [ShiPC-AI/LiDAR-Localization-100FPS](https://github.com/ShiPC-AI/LiDAR-Localization-100FPS) - \[JAG 2023] LiDAR localization at 100FPS: A map-aided and template descriptor-based global method
 
