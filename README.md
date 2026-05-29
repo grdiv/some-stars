@@ -137,7 +137,7 @@
 
 *   [leggedrobotics/holistic\_fusion](https://github.com/leggedrobotics/holistic_fusion) - Official repository for holistic fusion.
 
-*   [JokerJohn/DCReg](https://github.com/JokerJohn/DCReg) - \[IJRR'2026] DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registrati
+*   [JokerJohn/DCReg](https://github.com/JokerJohn/DCReg) - \[IJRR'2026] DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registeration
 
 *   [leggedrobotics/graph\_msf](https://github.com/leggedrobotics/graph_msf) - A graph-based multi-sensor fusion framework. It can be used to fuse various relative or absolute measurments with IMU readings in real-time.
 
