@@ -1521,8 +1521,6 @@
 
 *   [ybarancan/STSU](https://github.com/ybarancan/STSU) - Official code for "Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images" (ICCV 2021)
 
-*   [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
-
 *   [qintonguav/ParkingE2E](https://github.com/qintonguav/ParkingE2E) -
 
 *   [USTCLH/OCC-VO](https://github.com/USTCLH/OCC-VO) - \[ICRA'24] OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving
@@ -2686,6 +2684,8 @@
 *   [enggen/Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera) - Deep Learning Specialization by Andrew Ng, deeplearning.ai.
 
 *   [PacktPublishing/Deep-Learning-with-Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras) - Code repository for Deep Learning with Keras published by Packt
+
+*   [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
 
 ## Roff
 
