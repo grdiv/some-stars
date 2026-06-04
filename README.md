@@ -51,7 +51,7 @@
 
 *   [i2Nav-WHU/GIOW-release](https://github.com/i2Nav-WHU/GIOW-release) - GNSS/INS/ODO/Wheel Angle Integrated Navigation Algorithm for an All-Wheel Steering Robot
 
-*   [zhang123-1999/combined\_INS](https://github.com/zhang123-1999/combined_INS) - INS/GNSS/ODO/NHC组合导航
+*   [zhang123-1999/ins-gnss-odo-nhc-fusion](https://github.com/zhang123-1999/ins-gnss-odo-nhc-fusion) - INS/GNSS/ODO/NHC integrated navigation framework comparing InEKF and ESKF under GNSS outage and large initial errors.
 
 *   [zhongshp/DCL-SLAM](https://github.com/zhongshp/DCL-SLAM) - A ROS package of DCL-SLAM: Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm.
 
@@ -1381,7 +1381,7 @@
 
 *   [martinruenz/maskfusion](https://github.com/martinruenz/maskfusion) - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects
 
-*   [Zhuagenborn/Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) - 🧟 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.（通过逆向工程、内联Hook和动态链接库注入实现的《植物大战僵尸》双人网络对战，两名玩家分别使用植物或僵尸进行防守和攻击。）
+*   [Zhuagenborn/Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) - 🧟 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively（通过逆向工程、内联Hook和动态链接库注入实现的《植物大战僵尸》双人网络对战，两名玩家分别使用植物或僵尸进行防守和攻击）
 
 *   [shichaoy/pop\_up\_image](https://github.com/shichaoy/pop_up_image) - Real-time 3D Scene Layout from a Single Image Using Convolutional Neural Networks
 
