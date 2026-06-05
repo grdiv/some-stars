@@ -1551,7 +1551,7 @@
 
 *   [tjiiv-cprg/EPro-PnP-v2](https://github.com/tjiiv-cprg/EPro-PnP-v2) - \[TPAMI 2024] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 
-*   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
+*   [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 中文频道、群组与机器人精选索引，结合自动化抓取与人工整理，支持在线搜索与分类浏览。
 
 *   [weiningwei/arxiv-daily](https://github.com/weiningwei/arxiv-daily) -
 
