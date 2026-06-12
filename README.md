@@ -2237,7 +2237,7 @@
 
 *   [yuancaimaiyi/semantic-gaussians](https://github.com/yuancaimaiyi/semantic-gaussians) - Official implemetation of the paper "Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting".
 
-*   [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
+*   [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 
 *   [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
 
