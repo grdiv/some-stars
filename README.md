@@ -1285,7 +1285,7 @@
 
 *   [guyupan/image\_laser\_lidar\_fusion](https://github.com/guyupan/image_laser_lidar_fusion) - image data and laser lidar data fusion
 
-*   [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
+*   [zirnc/notepanda](https://github.com/zirnc/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
 
 *   [mayerui/sudoku](https://github.com/mayerui/sudoku) - C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
 
@@ -1557,7 +1557,7 @@
 
 *   [RobustFieldAutonomyLab/waypoint\_navigation](https://github.com/RobustFieldAutonomyLab/waypoint_navigation) -
 
-*   [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) -
+*   [hku-mars/Point-LIO](https://github.com/hku-mars/Point-LIO) - High-Bandwidth LiDAR Inertial Odometry
 
 *   [halajun/VDO\_SLAM](https://github.com/halajun/VDO_SLAM) - VDO-SLAM: A Visual Dynamic Object-aware SLAM System
 
@@ -2753,7 +2753,7 @@
 
 *   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
-*   [alirezakazemipour/Geo-Localization](https://github.com/alirezakazemipour/Geo-Localization) - Localization without using GPS based on a previously provided map
+*   [akazemipour/Geo-Localization](https://github.com/akazemipour/Geo-Localization) - Localization without using GPS based on a previously provided map
 
 *   [yepeichu123/slam\_module](https://github.com/yepeichu123/slam_module) -
 
