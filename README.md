@@ -83,7 +83,7 @@
 
 *   [sparolab/SOLiD](https://github.com/sparolab/SOLiD) - SOTA LiDAR Global Descriptor in LiDAR Place Recognition (accepted in RA-L'24 w/ ICRA'25)
 
-*   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - SLAM-Former: Putting SLAM into One Transformer
+*   [Tsinghua-MARS-Lab/SLAM-Former](https://github.com/Tsinghua-MARS-Lab/SLAM-Former) - \[ECCV 2026] SLAM-Former: Putting SLAM into One Transformer
 
 *   [silvery107/gtsam-pose-slam-practice](https://github.com/silvery107/gtsam-pose-slam-practice) - Pratice and example to solve the pose graph SLAM problem using GTSAM
 
